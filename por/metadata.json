@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "AquiferPortugueseBibleReferenceText",
-"date_created": "2026-03-03",
+"date_created": "2026-03-10",
 "language": "por",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-03T06:07:02.795338"
+"dateCreated": "2026-03-10T15:26:18.396964"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "AquiferPortugueseBibleReferenceText": {
-"timestamp": "2026-03-03T06:07:02.795338"
+"timestamp": "2026-03-10T15:26:18.396964"
 }
 }
 },
@@ -10216,212 +10216,212 @@
 ]
 }
 },
-"usx/01GENAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 336518,
+"usfm/01GENAPBRT.SFM": {
+"mimeType": "text/plain",
+"size": 199881,
 "scope": {
 "GEN": []
 }
 },
-"usx/02EXOAPBRT.usx": {
+"usx/01GENAPBRT.usx": {
 "mimeType": "application/xml",
-"size": 271475,
-"scope": {
-"EXO": []
-}
-},
-"usx/03LEVAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 192813,
-"scope": {
-"LEV": []
-}
-},
-"usx/04NUMAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 287678,
-"scope": {
-"NUM": []
-}
-},
-"usx/05DEUAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 221604,
-"scope": {
-"DEU": []
-}
-},
-"usx/40MATAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 226202,
-"scope": {
-"MAT": []
-}
-},
-"usx/41MRKAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 138507,
-"scope": {
-"MRK": []
-}
-},
-"usx/42LUKAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 237333,
-"scope": {
-"LUK": []
-}
-},
-"usx/43JHNAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 182778,
-"scope": {
-"JHN": []
-}
-},
-"usx/45ROMAPBRT.usx": {
-"mimeType": "application/xml",
-"size": 91251,
-"scope": {
-"ROM": []
-}
-},
-"usfm/01GENAPBRT.SFM": {
-"mimeType": "text/plain",
-"size": 208672,
+"size": 304323,
 "scope": {
 "GEN": []
 }
 },
 "usfm/02EXOAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 170379,
+"size": 163686,
+"scope": {
+"EXO": []
+}
+},
+"usx/02EXOAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 247805,
 "scope": {
 "EXO": []
 }
 },
 "usfm/03LEVAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 121354,
+"size": 116568,
+"scope": {
+"LEV": []
+}
+},
+"usx/03LEVAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 175703,
 "scope": {
 "LEV": []
 }
 },
 "usfm/04NUMAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 180906,
+"size": 173311,
+"scope": {
+"NUM": []
+}
+},
+"usx/04NUMAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 259991,
 "scope": {
 "NUM": []
 }
 },
 "usfm/05DEUAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 141728,
+"size": 136170,
+"scope": {
+"DEU": []
+}
+},
+"usx/05DEUAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 201809,
 "scope": {
 "DEU": []
 }
 },
 "usfm/40MATAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 137640,
+"size": 131670,
+"scope": {
+"MAT": []
+}
+},
+"usx/40MATAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 203504,
 "scope": {
 "MAT": []
 }
 },
 "usfm/41MRKAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 83117,
+"size": 79187,
+"scope": {
+"MRK": []
+}
+},
+"usx/41MRKAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 123925,
 "scope": {
 "MRK": []
 }
 },
 "usfm/42LUKAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 142719,
+"size": 136158,
+"scope": {
+"LUK": []
+}
+},
+"usx/42LUKAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 213034,
 "scope": {
 "LUK": []
 }
 },
 "usfm/43JHNAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 110463,
+"size": 105596,
+"scope": {
+"JHN": []
+}
+},
+"usx/43JHNAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 164020,
 "scope": {
 "JHN": []
 }
 },
 "usfm/45ROMAPBRT.SFM": {
 "mimeType": "text/plain",
-"size": 55563,
+"size": 53044,
+"scope": {
+"ROM": []
+}
+},
+"usx/45ROMAPBRT.usx": {
+"mimeType": "application/xml",
+"size": 82279,
 "scope": {
 "ROM": []
 }
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 257390,
+"size": 260456,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 206572,
+"size": 208998,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 149583,
+"size": 151301,
 "scope": {
 "LEV": []
 }
 },
 "md/04.content.md": {
 "mimeType": "text/markdown",
-"size": 221778,
+"size": 224354,
 "scope": {
 "NUM": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 176930,
+"size": 178848,
 "scope": {
 "DEU": []
 }
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 169602,
+"size": 171738,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 103260,
+"size": 104606,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 175866,
+"size": 178164,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 135679,
+"size": 137435,
 "scope": {
 "JHN": []
 }
 },
 "md/45.content.md": {
 "mimeType": "text/markdown",
-"size": 68831,
+"size": 69691,
 "scope": {
 "ROM": []
 }

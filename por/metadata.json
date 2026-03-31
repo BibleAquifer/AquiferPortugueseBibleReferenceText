@@ -10435,7 +10435,7 @@
 },
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 634927,
+"size": 565930,
 "scope": {
 "GEN": []
 }
@@ -10449,7 +10449,7 @@
 },
 "pdf/02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 523726,
+"size": 457655,
 "scope": {
 "EXO": []
 }
@@ -10463,7 +10463,7 @@
 },
 "pdf/03.content.pdf": {
 "mimeType": "application/pdf",
-"size": 405860,
+"size": 325678,
 "scope": {
 "LEV": []
 }
@@ -10477,7 +10477,7 @@
 },
 "pdf/04.content.pdf": {
 "mimeType": "application/pdf",
-"size": 539620,
+"size": 471298,
 "scope": {
 "NUM": []
 }
@@ -10491,7 +10491,7 @@
 },
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 455907,
+"size": 385459,
 "scope": {
 "DEU": []
 }
@@ -10505,7 +10505,7 @@
 },
 "pdf/40.content.pdf": {
 "mimeType": "application/pdf",
-"size": 470152,
+"size": 386262,
 "scope": {
 "MAT": []
 }
@@ -10519,7 +10519,7 @@
 },
 "pdf/41.content.pdf": {
 "mimeType": "application/pdf",
-"size": 339885,
+"size": 245786,
 "scope": {
 "MRK": []
 }
@@ -10533,7 +10533,7 @@
 },
 "pdf/42.content.pdf": {
 "mimeType": "application/pdf",
-"size": 484807,
+"size": 402367,
 "scope": {
 "LUK": []
 }
@@ -10547,7 +10547,7 @@
 },
 "pdf/43.content.pdf": {
 "mimeType": "application/pdf",
-"size": 402193,
+"size": 313457,
 "scope": {
 "JHN": []
 }
@@ -10561,7 +10561,7 @@
 },
 "pdf/45.content.pdf": {
 "mimeType": "application/pdf",
-"size": 261995,
+"size": 172583,
 "scope": {
 "ROM": []
 }

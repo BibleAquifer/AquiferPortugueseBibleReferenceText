@@ -1,69 +1,113 @@
 <usx version="3.1">
-  <book code="NAM" style="id">EN</book>
-  <para style="h">Nahum
+  <book code="NAM" style="id">nam PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Naum
 </para>
-  <para style="toc1">Nahum
+  <para style="toc1">Naum
 </para>
-  <para style="toc2">Nahum
+  <para style="toc2">Naum
 </para>
-  <para style="toc3">NAM
+  <para style="toc3">Na
 </para>
-  <para style="mt1">Nahum
+  <para style="mt1">Naum
 </para>
   <chapter number="1" style="c" sid="NAM 1"/>
-  <para style="p"><verse number="1" style="v" sid="NAM 1:1"/>Esta é a visão que o SENHOR concedeu a Naum, de Elcós, a respeito do juízo que está para cair sobre Nínive.  
-<verse eid="NAM 1:1"/><verse number="2" style="v" sid="NAM 1:2"/>O SENHOR é Deus zeloso por aqueles a quem ele ama; por isso, ele se vinga dos que os ferem e se levanta com ira contra os inimigos do seu povo.  
-<verse eid="NAM 1:2"/><verse number="3" style="v" sid="NAM 1:3"/>O SENHOR é paciente e grande em poder; contudo, ele não deixará o culpado sem punição; ele avança no vendaval e na tempestade, e as nuvens são como pó sob seus pés.  
-<verse eid="NAM 1:3"/><verse number="4" style="v" sid="NAM 1:4"/>Ao seu comando, o mar se recolhe e os rios secam; Basã e Carmelo perdem o verde, e o Líbano murcha por completo.  
-<verse eid="NAM 1:4"/><verse number="5" style="v" sid="NAM 1:5"/>Diante dele, os montes tremem e as colinas se desfazem; a terra se abala, e com ela os que nela habitam.  
-<verse eid="NAM 1:5"/><verse number="6" style="v" sid="NAM 1:6"/>Quem suportará a sua indignação? Quem permanecerá de pé quando a sua ira se acende? A sua fúria se derrama como fogo, e as rochas se quebram diante dele.  
-<verse eid="NAM 1:6"/><verse number="7" style="v" sid="NAM 1:7"/>O SENHOR é bom; no dia da aflição, ele é refúgio seguro; ele reconhece os que nele confiam.  
-<verse eid="NAM 1:7"/><verse number="8" style="v" sid="NAM 1:8"/>Porém, com inundação violenta ele varre os seus adversários; ele os empurra para a escuridão; assim acontecerá com Nínive.  
-<verse eid="NAM 1:8"/><verse number="9" style="v" sid="NAM 1:9"/>Que planos vocês levantam contra o SENHOR? Com um único golpe ele porá fim a isso; não será necessário repetir o golpe.  
-<verse eid="NAM 1:9"/><verse number="10" style="v" sid="NAM 1:10"/>Como espinheiros amontoados, seus inimigos serão lançados ao fogo; como palha seca, serão consumidos.  
-<verse eid="NAM 1:10"/><verse number="11" style="v" sid="NAM 1:11"/>Foi de ti, ó Nínive, que saiu a ousadia de tramar o mal contra o SENHOR e de formar conselho perverso?  
-<verse eid="NAM 1:11"/><verse number="12" style="v" sid="NAM 1:12"/>Assim diz o SENHOR: “Ainda que reúnam um exército de milhões de soldados, serão cortados e cairão, e desaparecerão; mas tu, Judá, és o meu povo; eu já te corrigi o suficiente.  
-<verse eid="NAM 1:12"/><verse number="13" style="v" sid="NAM 1:13"/>Agora quebrarei o teu jugo e romperei as tuas correntes, e te tirarei da servidão".
-<verse eid="NAM 1:13"/><verse number="14" style="v" sid="NAM 1:14"/>E ao rei da Assíria ele declara: “Eu já determinei o fim da tua casa real; teus filhos não se assentarão no trono, e o teu nome será apagado; destruirei teus deuses de pedra e de metal e os teus santuários; eu mesmo abrirei a tua sepultura, porque és desprezível".  
-<verse eid="NAM 1:14"/><verse number="15" style="v" sid="NAM 1:15"/>Vejam! Mensageiros descem correndo pelos montes e anunciam boas notícias: “Os invasores foram totalmente derrotados; estamos livres, estamos livres!”. Ó Judá, proclamem um dia de gratidão ao SENHOR e cumpram os votos que fizeram; o perverso não marchará mais contra vocês; foi destruído para sempre e não será visto novamente.
+  <para style="p"><verse number="1" style="v" sid="NAM 1:1"/>Esta é a visão que o SENHOR concedeu a Naum, de Elcós, a respeito do juízo que está para cair sobre Nínive:
+<verse eid="NAM 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="NAM 1:2"/>O SENHOR é Deus zeloso e vingador; ele se vinga dos seus adversários e manifesta sua ira contra os seus inimigos.
+<verse eid="NAM 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="NAM 1:3"/>O SENHOR é paciente e grande em poder; contudo, ele não deixará o culpado sem punição; ele avança no vendaval e na tempestade, e as nuvens são como pó sob seus pés.
+<verse eid="NAM 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="NAM 1:4"/>Ao seu comando, o mar seca e os rios desaparecem; Basã e Carmelo murcham, e o verde do Líbano se desvanece.
+<verse eid="NAM 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="NAM 1:5"/>Diante dele, os montes tremem e as colinas se desfazem; a terra se abala e os que nela habitam são destruídos.
+<verse eid="NAM 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="NAM 1:6"/>Quem suporta a sua indignação? Quem permanece em pé quando a sua ira se acende? A sua fúria se derrama como fogo, e as rochas se quebram diante dele.
+<verse eid="NAM 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="NAM 1:7"/>O SENHOR é bom; no dia da aflição, ele é refúgio seguro; ele protege os que nele confiam.
+<verse eid="NAM 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="NAM 1:8"/>Porém, com uma inundação violenta ele faz perecer os seus adversários; ele os empurra para a escuridão; assim acontecerá com Nínive.
+<verse eid="NAM 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="NAM 1:9"/>Que planos vocês fazem contra o SENHOR? Com um único golpe ele os deterá; não será necessário repetir o golpe.
+<verse eid="NAM 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="NAM 1:10"/>Como espinheiros amontoados, seus inimigos serão lançados ao fogo; como palha seca, serão consumidos.
+<verse eid="NAM 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="NAM 1:11"/>Foi de você, ó Nínive, que saiu aquele que planeja o mal contra o SENHOR?
+<verse eid="NAM 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="NAM 1:12"/>Assim diz o SENHOR: “Ainda que sejam fortes e numerosos, serão cortados e destruídos; mas você, Judá, embora eu o tenha afligido, não o afligirei mais.
+<verse eid="NAM 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="NAM 1:13"/>Agora quebrarei o seu jugo e romperei as suas correntes, e o tirarei da servidão”.
+<verse eid="NAM 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="NAM 1:14"/>E ao rei da Assíria ele declara: “Eu já determinei o fim da sua casa real; seus filhos não se sentarão no seu trono, e o seu nome será apagado; destruirei seus deuses de pedra e metal e os seus santuários; eu mesmo abrirei a sua sepultura, porque você é desprezível”.
+<verse eid="NAM 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="NAM 1:15"/>Vejam, sobre os montes vêm aqueles que anunciam boas notícias e proclamam a paz! Ó Judá, comemorem suas festas e cumpram os votos que fizeram; o perverso não voltará a invadir o seu território, pois foi completamente destruído.
 <verse eid="NAM 1:15"/><verse eid="NAM 1:15"/></para>
   <chapter eid="NAM 1"/>
   <chapter number="2" style="c" sid="NAM 2"/>
-  <para style="p"><verse number="1" style="v" sid="NAM 2:1"/>Nínive, chegou o seu momento; você está cercada por forças inimigas. Soem o alerta; soldados, tomem posição; alinhem as tropas, reforcem as armas e vigiem atentos ao instante do ataque.  
-<verse eid="NAM 2:1"/><verse number="2" style="v" sid="NAM 2:2"/>O SENHOR restaurará a honra e a força de Israel, ainda que a terra tenha sido devastada e os saqueadores tenham arruinado as videiras.  
-<verse eid="NAM 2:2"/><verse number="3" style="v" sid="NAM 2:3"/>Os escudos vermelhos dos invasores reluzem ao sol; o assalto começou. Seus trajes são vermelhos, e os carros de guerra avançam juntos, puxados por cavalos ardentes.  
-<verse eid="NAM 2:3"/><verse number="4" style="v" sid="NAM 2:4"/>Dentro de você, Nínive, os próprios carros correm sem controle pelas ruas e praças, velozes como relâmpagos, brilhando como tochas.
-<verse eid="NAM 2:4"/><verse number="5" style="v" sid="NAM 2:5"/>O rei chama em alta voz os seus comandantes; na pressa, eles tropeçam e correm para os muros a fim de organizar a defesa.
-<verse eid="NAM 2:5"/><verse number="6" style="v" sid="NAM 2:6"/>Mas já é tarde; as comportas do rio se abrem, o inimigo entra na cidade, e o palácio é tomado pelo pânico.  
-<verse eid="NAM 2:6"/><verse number="7" style="v" sid="NAM 2:7"/>A rainha de Nínive é exposta e levada cativa; suas servas a seguem, chorando, gemendo como pombas e batendo no peito.  
-<verse eid="NAM 2:7"/><verse number="8" style="v" sid="NAM 2:8"/>Nínive é como um reservatório rompido; seus soldados fogem sem resistir, e ela não consegue detê-los. “Voltem, fiquem aqui!”, clama, mas eles continuam a escapar.  
-<verse eid="NAM 2:8"/><verse number="9" style="v" sid="NAM 2:9"/>Tomem a prata, tomem o ouro; os tesouros não têm fim. A riqueza de Nínive é imensa, cheia de objetos valiosos.  
-<verse eid="NAM 2:9"/><verse number="10" style="v" sid="NAM 2:10"/>Nínive está arruinada, vazia e desolada; os corações se desfazem de medo, os joelhos tremem, e os rostos empalidecem de terror.
-<verse eid="NAM 2:10"/><verse number="11" style="v" sid="NAM 2:11"/>Onde está agora a toca dos leões, o lugar onde os filhotes eram alimentados, por onde andavam o leão, a leoa e os pequenos sem temor?  
-<verse eid="NAM 2:11"/><verse number="12" style="v" sid="NAM 2:12"/>Ó Nínive, outrora leão poderoso, você despedaçava presas para os filhotes e para as leoas; enchia cavernas de despojos e covas de vítimas.  
-<verse eid="NAM 2:12"/><verse number="13" style="v" sid="NAM 2:13"/>Agora, porém, o SENHOR dos Exércitos se levanta contra você; Ele destruirá seus carros de guerra, a espada consumirá seus filhotes, e suas presas desaparecerão da terra; nunca mais se ouvirá a voz de seus mensageiros.
+  <para style="p"><verse number="1" style="v" sid="NAM 2:1"/>O destruidor avança contra você, Nínive. Guarde a fortaleza; vigie as estradas; prepare-se para a batalha; reúna toda a sua força.
+<verse eid="NAM 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="NAM 2:2"/>O SENHOR restaurará a honra e a força de Israel, ainda que a terra tenha sido devastada e os saqueadores tenham arruinado as videiras.
+<verse eid="NAM 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="NAM 2:3"/>Os escudos vermelhos dos invasores reluzem ao sol; o ataque começou. Seus trajes são vermelhos, e os carros de guerra avançam juntos, enquanto as lanças se agitam.
+<verse eid="NAM 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="NAM 2:4"/>Em Nínive, os carros correm sem controle pelas ruas e praças, velozes como relâmpagos, brilhando como tochas.
+<verse eid="NAM 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="NAM 2:5"/>O rei chama em alta voz os seus comandantes; na pressa, eles tropeçam e correm para os muros a fim de organizar a defesa.
+<verse eid="NAM 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="NAM 2:6"/>Mas já é tarde; as comportas do rio foram abertas, e o palácio perde toda a firmeza.
+<verse eid="NAM 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="NAM 2:7"/>A rainha<note style="f" caller="+"> <char style="fk" closed="false">rainha: </char><char style="ft" closed="false">uma provável referência à cidade de Nínive.</char></note> é exposta e levada como prisioneira; suas servas a seguem, chorando, gemendo como pombas e batendo no peito.
+<verse eid="NAM 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="NAM 2:8"/>Nínive é como um açude rompido; seus soldados fogem sem resistir, e ela não consegue detê-los. “Voltem, fiquem aqui!”, clama, mas ninguém volta.
+<verse eid="NAM 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="NAM 2:9"/>Tomem a prata, tomem o ouro; os tesouros não têm fim. A riqueza de Nínive é imensa, cheia de objetos valiosos.
+<verse eid="NAM 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="NAM 2:10"/>Nínive está arruinada, vazia e desolada; os corações se desfazem de medo, os joelhos tremem, e o povo fica pálido de terror.
+<verse eid="NAM 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="NAM 2:11"/>Onde está agora a toca dos leões, o lugar onde os filhotes eram alimentados, por onde andavam o leão, a leoa e os filhotes sem temor?
+<verse eid="NAM 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="NAM 2:12"/>Como um leão, Nínive despedaçava suas presas para alimentar os filhotes e as leoas; enchia seus esconderijos de caça e suas tocas de despojos.
+<verse eid="NAM 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="NAM 2:13"/>Agora, porém, o SENHOR dos Exércitos se levanta contra você. Ele destruirá seus carros de guerra, a espada consumirá seus filhotes, e suas presas desaparecerão da terra; nunca mais se ouvirá a voz de seus embaixadores.
 <verse eid="NAM 2:13"/><verse eid="NAM 2:13"/></para>
   <chapter eid="NAM 2"/>
   <chapter number="3" style="c" sid="NAM 3"/>
-  <para style="p"><verse number="1" style="v" sid="NAM 3:1"/>Ai de Nínive, cidade de sangue, cheia de mentira, cheia de roubo, que não deixa de fazer vítimas!  
-<verse eid="NAM 3:1"/><verse number="2" style="v" sid="NAM 3:2"/>Ouçam: o estalo dos chicotes; ouçam: o ruído dos carros que avançam; o estrondo das rodas, o galope dos cavalos, o sacudir dos carros de guerra.  
-<verse eid="NAM 3:2"/><verse number="3" style="v" sid="NAM 3:3"/>Vejam: espadas que brilham, lanças que reluzem, braços erguidos da cavalaria; há mortos por toda parte, há corpos no chão, há montes de cadáveres; os vivos tropeçam nos mortos, caem e se levantam, e tornam a cair.  
-<verse eid="NAM 3:3"/><verse number="4" style="v" sid="NAM 3:4"/>Isso acontece por causa do desejo sem fim da prostituta sedutora, senhora de encantamentos que matam; ela enganava as nações com sua beleza e depois as ensinava a servir deuses falsos, enfeitiçando povos em toda parte.  
-<verse eid="NAM 3:4"/><verse number="5" style="v" sid="NAM 3:5"/>“Eu me levanto contra você”, diz o SENHOR dos Exércitos; “farei as nações verem a sua nudez e mostrarei aos reinos a sua vergonha.  
-<verse eid="NAM 3:5"/><verse number="6" style="v" sid="NAM 3:6"/>Lançarei sobre você imundície, farei de você objeto de desprezo e a exibirei diante do mundo.
-<verse eid="NAM 3:6"/><verse number="7" style="v" sid="NAM 3:7"/>Todos os que a virem recuarão com horror e dirão: 'Nínive está arrasada!'; e ninguém lamentará por você, ninguém buscará consolar você".  
-<verse eid="NAM 3:7"/><verse number="8" style="v" sid="NAM 3:8"/>Você é, por acaso, melhor do que Tebas, que estava junto ao Nilo, cercada pelas águas, como se o rio fosse seu muro?  
-<verse eid="NAM 3:8"/><verse number="9" style="v" sid="NAM 3:9"/>A Etiópia e o Egito eram a sua força, e essa ajuda não tinha fim; Fute e a Líbia também estavam ao seu lado.  
-<verse eid="NAM 3:9"/><verse number="10" style="v" sid="NAM 3:10"/>Mesmo assim, Tebas foi levada; seus moradores foram para o cativeiro; seus filhos foram despedaçados nas esquinas das ruas; lançaram sortes sobre os seus nobres, e todos os seus líderes foram presos com correntes.  
-<verse eid="NAM 3:10"/><verse number="11" style="v" sid="NAM 3:11"/>Assim também você, Nínive, cambaleará como embriagada; você se esconderá do inimigo e tremerá de medo.  
-<verse eid="NAM 3:11"/><verse number="12" style="v" sid="NAM 3:12"/>Todas as suas fortalezas cairão; serão como figos maduros, os primeiros da estação: basta sacudir, e eles caem na boca de quem espera.  
-<verse eid="NAM 3:12"/><verse number="13" style="v" sid="NAM 3:13"/>Seus soldados ficarão fracos e sem defesa, como mulheres; os portões da sua terra se abrirão por completo aos inimigos, e o fogo consumirá as suas trancas.  
-<verse eid="NAM 3:13"/><verse number="14" style="v" sid="NAM 3:14"/>Preparem-se para o cerco; ajuntem água; reforcem as fortalezas; façam tijolos para reparar os muros; cavem, amassem o barro e encham as formas.  
-<verse eid="NAM 3:14"/><verse number="15" style="v" sid="NAM 3:15"/>Porém, no meio dos preparativos, o fogo os devorará; a espada os matará; o inimigo os consumirá como gafanhotos que comem tudo diante de si; ainda que vocês se multipliquem como gafanhotos devastadores e peregrinos, não haverá como resistir.  
-<verse eid="NAM 3:15"/><verse number="16" style="v" sid="NAM 3:16"/>Seus comerciantes, numerosos como as estrelas do céu, encheram a cidade de riquezas sem conta; mas o inimigo virá como gafanhotos devastadores, devorará tudo e depois voará para longe.  
-<verse eid="NAM 3:16"/><verse number="17" style="v" sid="NAM 3:17"/>Seus príncipes e seus chefes se juntam como gafanhotos nas cercas de plantas no tempo do frio; mas, quando o sol se levanta e aquece a terra, eles voam e somem, e ninguém sabe para onde foram.  
-<verse eid="NAM 3:17"/><verse number="18" style="v" sid="NAM 3:18"/>Ó rei da Assíria, seus príncipes dormem no pó, e seus nobres também caíram; seu povo está espalhado pelos montes, e não há quem o reúna.  
-<verse eid="NAM 3:18"/><verse number="19" style="v" sid="NAM 3:19"/>Não existe cura para a sua ferida; ela é profunda demais; todos os que ouvirem o que aconteceu baterão palmas pela sua queda, pois quem não sofreu com a sua crueldade?
+  <para style="p"><verse number="1" style="v" sid="NAM 3:1"/>Ai de Nínive, cidade de sangue, cheia de mentira e roubo, que não deixa de fazer vítimas!
+<verse eid="NAM 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="NAM 3:2"/>Ouçam: o estalo dos chicotes; ouçam: o ruído dos carros que avançam, o estrondo das rodas, o galope dos cavalos, o sacudir dos carros de guerra.
+<verse eid="NAM 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="NAM 3:3"/>Vejam: espadas brilhantes, lanças reluzentes, nos braços erguidos dos soldados da cavalaria; há mortos por toda parte, há corpos no chão, há montes de cadáveres; os vivos tropeçam nos mortos, caem e se levantam, e tornam a cair.
+<verse eid="NAM 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="NAM 3:4"/>Tudo isso acontece por causa do desejo desenfreado da prostituta sedutora, senhora de encantamentos que matam; ela enganava as nações com suas seduções e levava povos inteiros para o engano.
+<verse eid="NAM 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="NAM 3:5"/>“Eu me levantei contra você”, diz o SENHOR dos Exércitos; “farei as nações verem a sua nudez e mostrarei aos reinos a sua vergonha.
+<verse eid="NAM 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="NAM 3:6"/>Lançarei sobre você imundície, farei de você objeto de desprezo e a exibirei diante do mundo.
+<verse eid="NAM 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="NAM 3:7"/>Todos os que a virem recuarão com horror e dirão: ‘Nínive foi destruída! Quem sentirá pena dela?’. Onde encontrarei alguém para consolá-la?”.
+<verse eid="NAM 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="NAM 3:8"/>Você é, por acaso, melhor do que Tebas, que estava junto ao Nilo, cercada pelas águas, como se o rio fosse seu muro?
+<verse eid="NAM 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="NAM 3:9"/>A Etiópia e o Egito eram a sua força, e essa ajuda não tinha fim; Fute e a Líbia também estavam ao seu lado.
+<verse eid="NAM 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="NAM 3:10"/>Mesmo assim, Tebas foi levada; seus moradores foram para o cativeiro; seus filhos foram despedaçados nas esquinas das ruas; lançaram sortes sobre os seus nobres, e todos os seus líderes foram presos com correntes.
+<verse eid="NAM 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="NAM 3:11"/>Você também, Nínive, ficará embriagada; procurará um abrigo para se esconder do inimigo.
+<verse eid="NAM 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="NAM 3:12"/>Todas as suas fortalezas cairão; serão como os primeiros figos maduros: basta sacudir a árvore, e eles caem na boca de quem a sacode.
+<verse eid="NAM 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="NAM 3:13"/>Seus soldados ficarão fracos e sem defesa, como mulheres; os portões da sua terra se abrirão totalmente para os inimigos, e o fogo consumirá as suas trancas.
+<verse eid="NAM 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="NAM 3:14"/>Preparem-se para o cerco; ajuntem água; reforcem as fortalezas; façam tijolos para consertar os muros; cavem buracos, amassem o barro e coloquem a massa nas formas.
+<verse eid="NAM 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="NAM 3:15"/>Porém, no meio dos preparativos, o fogo os devorará; a espada os matará; o inimigo os consumirá como gafanhotos que comem tudo o que veem pela frente; ainda que vocês se multipliquem como gafanhotos devastadores e peregrinos, não haverá como resistir.
+<verse eid="NAM 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="NAM 3:16"/>Seus comerciantes se tornaram mais numerosos que as estrelas do céu; mas, como gafanhotos, devoram tudo e depois desaparecem voando.
+<verse eid="NAM 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="NAM 3:17"/>Seus príncipes e seus generais se juntam como gafanhotos nas cercas de plantas no tempo do frio; mas, quando o sol se levanta e aquece a terra, eles voam e somem, e ninguém sabe para onde foram.
+<verse eid="NAM 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="NAM 3:18"/>Ó rei da Assíria, seus príncipes estão mortos no pó, e seus nobres também morreram; seu povo está espalhado pelos montes, e não há quem o reúna.
+<verse eid="NAM 3:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="NAM 3:19"/>Não existe cura para a sua ferida; ela é profunda demais; todos os que ouvirem o que aconteceu baterão palmas pela sua queda, pois quem não sofreu com a sua crueldade?
 <verse eid="NAM 3:19"/></para>
   <chapter eid="NAM 3"/>
 </usx>

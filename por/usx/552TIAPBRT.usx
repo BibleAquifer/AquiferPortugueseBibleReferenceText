@@ -1,108 +1,187 @@
 <usx version="3.1">
-  <book code="2TI" style="id">EN</book>
-  <para style="h">2 Timothy
+  <book code="2TI" style="id">2ti PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">2 Timóteo
 </para>
-  <para style="toc1">2 Timothy
+  <para style="toc1">2 Timóteo
 </para>
-  <para style="toc2">2 Timothy
+  <para style="toc2">2 Timóteo
 </para>
-  <para style="toc3">2TI
+  <para style="toc3">2 Tm
 </para>
-  <para style="mt1">2 Timothy
+  <para style="mt1">2 Timóteo
 </para>
   <chapter number="1" style="c" sid="2TI 1"/>
   <para style="p"><verse number="1" style="v" sid="2TI 1:1"/>Paulo, apóstolo de Cristo Jesus pela vontade de Deus, chamado para anunciar a vida que Deus prometeu em Cristo Jesus.
-<verse eid="2TI 1:1"/><verse number="2" style="v" sid="2TI 1:2"/>A Timóteo, meu querido filho na fé. Que Deus, o Pai, e Cristo Jesus, nosso Senhor, concedam a você graça, misericórdia e paz.  
-<verse eid="2TI 1:2"/><verse number="3" style="v" sid="2TI 1:3"/>Dou graças a Deus por você, oro por você todos os dias e, nas noites longas, apresento seu nome diante do Deus de meus antepassados, a quem sirvo com consciência limpa. 
-<verse eid="2TI 1:3"/><verse number="4" style="v" sid="2TI 1:4"/>Desejo muito vê-lo outra vez; isso me traria grande alegria, pois lembro suas lágrimas no momento da nossa separação.  
-<verse eid="2TI 1:4"/><verse number="5" style="v" sid="2TI 1:5"/>Lembro da sua fé verdadeira, a mesma que primeiro habitou em sua avó Loide e depois em sua mãe Eunice, e estou certo de que também vive em você.
-<verse eid="2TI 1:5"/><verse number="6" style="v" sid="2TI 1:6"/>Por isso, quero que você se lembre de manter aceso o dom que Deus lhe deu quando impus minhas mãos sobre sua cabeça. 
-<verse eid="2TI 1:6"/><verse number="7" style="v" sid="2TI 1:7"/>Pois o Espírito que Deus nos concedeu não produz medo, mas força, amor e equilíbrio.  
-<verse eid="2TI 1:7"/><verse number="8" style="v" sid="2TI 1:8"/>Portanto, não se envergonhe de falar do nosso Senhor, nem de mim, que estou preso por causa dele. Esteja pronto para sofrer comigo por causa do evangelho, confiando no poder de Deus. 
-<verse eid="2TI 1:8"/><verse number="9" style="v" sid="2TI 1:9"/>Ele nos salvou e nos chamou para sua obra santa, não por mérito nosso, mas porque esse era seu plano e sua graça desde antes do começo do mundo, em Cristo Jesus.
-<verse eid="2TI 1:9"/><verse number="10" style="v" sid="2TI 1:10"/>Agora esse plano ficou claro com a vinda de nosso Salvador, Cristo Jesus, que venceu o poder da morte e revelou a vida eterna por meio do evangelho.
-<verse eid="2TI 1:10"/><verse number="11" style="v" sid="2TI 1:11"/>E Deus me escolheu para ser pregador, apóstolo e mestre dessa mensagem.  
-<verse eid="2TI 1:11"/><verse number="12" style="v" sid="2TI 1:12"/>Por isso passo por este sofrimento e não me envergonho, pois sei em quem coloquei minha fé. Tenho plena certeza de que ele pode guardar o meu depósito até o dia de sua volta. 
-<verse eid="2TI 1:12"/><verse number="13" style="v" sid="2TI 1:13"/>Conserve o padrão da sã doutrina que recebeu de mim, com fé firme e com o amor que vem de Cristo Jesus.
-<verse eid="2TI 1:13"/><verse number="14" style="v" sid="2TI 1:14"/>Por meio do poder do Espírito Santo que vive em nós, guarde a verdade preciosa que foi entregue a você. 
-<verse eid="2TI 1:14"/><verse number="15" style="v" sid="2TI 1:15"/>Você sabe que todos os irmãos vindos da Ásia me deixaram, inclusive Fígelo e Hermógenes.  
-<verse eid="2TI 1:15"/><verse number="16" style="v" sid="2TI 1:16"/>Que o Senhor conceda bênção a Onesíforo e à sua família, pois ele me visitou muitas vezes e me trouxe ânimo; suas visitas foram como ar fresco, e ele nunca se envergonhou de eu estar preso.  
-<verse eid="2TI 1:16"/><verse number="17" style="v" sid="2TI 1:17"/>Quando chegou a Roma, procurou por mim em muitos lugares até me encontrar.  
-<verse eid="2TI 1:17"/><verse number="18" style="v" sid="2TI 1:18"/>Que o Senhor tenha misericórdia dele naquele dia. E você sabe muito bem quanto ele me ajudou em Éfeso. 
+<verse eid="2TI 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TI 1:2"/>A Timóteo, meu querido filho na fé. Que Deus, o Pai, e Cristo Jesus, nosso Senhor, concedam a você graça, misericórdia e paz.
+<verse eid="2TI 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TI 1:3"/>Dou graças a Deus por você, oro por você todos os dias e, nas noites longas, apresento seu nome diante do Deus de meus antepassados, a quem sirvo com consciência limpa.
+<verse eid="2TI 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TI 1:4"/>Desejo muito vê-lo outra vez; isso me traria grande alegria, pois lembro suas lágrimas no momento da nossa separação.
+<verse eid="2TI 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TI 1:5"/>Lembro da sua fé verdadeira, a mesma que primeiro habitou em sua avó Loide e depois em sua mãe Eunice, e estou certo de que também vive em você.
+<verse eid="2TI 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TI 1:6"/>Por isso, quero que você se lembre de manter aceso o dom que Deus lhe deu quando impus minhas mãos sobre sua cabeça.
+<verse eid="2TI 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TI 1:7"/>Pois o Espírito que Deus nos concedeu não produz medo, mas força, amor e equilíbrio.
+<verse eid="2TI 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TI 1:8"/>Portanto, não se envergonhe de falar do nosso Senhor, nem de mim, que estou preso por causa dele. Esteja pronto para sofrer comigo por causa do evangelho, confiando no poder de Deus.
+<verse eid="2TI 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TI 1:9"/>Ele nos salvou e nos chamou para sua obra santa, não por mérito nosso, mas porque esse era seu plano e sua graça desde antes do começo do mundo, em Cristo Jesus.
+<verse eid="2TI 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TI 1:10"/>Agora esse plano ficou claro com a vinda de nosso Salvador, Cristo Jesus, que venceu o poder da morte e revelou a vida eterna por meio do evangelho.
+<verse eid="2TI 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TI 1:11"/>E Deus me escolheu para ser pregador, apóstolo e mestre dessa mensagem.
+<verse eid="2TI 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TI 1:12"/>Por isso passo por este sofrimento e não me envergonho, pois sei em quem coloquei minha fé. Tenho plena certeza de que ele pode guardar o meu depósito até o dia de sua volta.
+<verse eid="2TI 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TI 1:13"/>Conserve o padrão da sã doutrina que recebeu de mim, com fé firme e com o amor que vem de Cristo Jesus.
+<verse eid="2TI 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TI 1:14"/>Por meio do poder do Espírito Santo que vive em nós, guarde a verdade preciosa que foi entregue a você.
+<verse eid="2TI 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TI 1:15"/>Você sabe que todos os irmãos vindos da Ásia me deixaram, inclusive Fígelo e Hermógenes.
+<verse eid="2TI 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TI 1:16"/>Que o Senhor conceda bênção a Onesíforo e à sua família, pois ele me visitou muitas vezes e me trouxe ânimo; suas visitas foram como ar fresco, e ele nunca se envergonhou de eu estar preso.
+<verse eid="2TI 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TI 1:17"/>Quando chegou a Roma, procurou por mim em muitos lugares até me encontrar.
+<verse eid="2TI 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="2TI 1:18"/>Que o Senhor tenha misericórdia dele naquele dia. E você sabe muito bem quanto ele me ajudou em Éfeso.
 <verse eid="2TI 1:18"/><verse eid="2TI 1:18"/></para>
   <chapter eid="2TI 1"/>
   <chapter number="2" style="c" sid="2TI 2"/>
-  <para style="p"><verse number="1" style="v" sid="2TI 2:1"/>E você, meu filho, fortaleça-se na graça que há em Cristo Jesus. 
-<verse eid="2TI 2:1"/><verse number="2" style="v" sid="2TI 2:2"/>O que você ouviu de mim, diante de muitas testemunhas, confie a pessoas fiéis, que sejam capazes de ensinar essas verdades a outros. 
-<verse eid="2TI 2:2"/><verse number="3" style="v" sid="2TI 2:3"/>Participe comigo dos sofrimentos, como um bom soldado de Cristo Jesus.  
-<verse eid="2TI 2:3"/><verse number="4" style="v" sid="2TI 2:4"/>Nenhum soldado se envolve nos negócios desta vida, para poder agradar àquele que o alistou. 
-<verse eid="2TI 2:4"/><verse number="5" style="v" sid="2TI 2:5"/>Do mesmo modo, o atleta só recebe a coroa se competir de acordo com as regras.  
-<verse eid="2TI 2:5"/><verse number="6" style="v" sid="2TI 2:6"/>O lavrador que trabalha com esforço é o primeiro a receber a parte da colheita.  
-<verse eid="2TI 2:6"/><verse number="7" style="v" sid="2TI 2:7"/>Reflita sobre o que digo, e o Senhor lhe dará entendimento em tudo.  
-<verse eid="2TI 2:7"/><verse number="8" style="v" sid="2TI 2:8"/>Lembre-se de Jesus Cristo, ressuscitado dentre os mortos, descendente de Davi, conforme o evangelho que eu anuncio.  
-<verse eid="2TI 2:8"/><verse number="9" style="v" sid="2TI 2:9"/>Por causa desse evangelho sofro e estou preso como um criminoso, mas a palavra de Deus não está presa. 
-<verse eid="2TI 2:9"/><verse number="10" style="v" sid="2TI 2:10"/>Suporto tudo por causa dos escolhidos de Deus, para que também alcancem a salvação que está em Cristo Jesus, com glória eterna. 
-<verse eid="2TI 2:10"/><verse number="11" style="v" sid="2TI 2:11"/>Fiel é esta palavra: “Se morrermos com Cristo, também com ele viveremos;
-<verse eid="2TI 2:11"/><verse number="12" style="v" sid="2TI 2:12"/>se perseverarmos, também com ele reinaremos; se o negarmos, ele também nos negará;
-<verse eid="2TI 2:12"/><verse number="13" style="v" sid="2TI 2:13"/>se formos infiéis, ele permanece fiel, pois não pode negar a si mesmo”. 
-<verse eid="2TI 2:13"/><verse number="14" style="v" sid="2TI 2:14"/>Lembre essas verdades ao povo e ordene, diante do Senhor, que não discutam sobre coisas sem importância, pois tais debates são inúteis, causam confusão e prejudicam os ouvintes.  
-<verse eid="2TI 2:14"/><verse number="15" style="v" sid="2TI 2:15"/>Esforce-se para se apresentar a Deus como obreiro aprovado, que não tem do que se envergonhar e que maneja corretamente a palavra da verdade.  
-<verse eid="2TI 2:15"/><verse number="16" style="v" sid="2TI 2:16"/>Evite conversas tolas e vazias, pois elas levam cada vez mais à maldade e afastam de Deus. 
-<verse eid="2TI 2:16"/><verse number="17" style="v" sid="2TI 2:17"/>A palavra desses falsos mestres se espalha como gangrena; entre eles estão Himeneu e Fileto.  
-<verse eid="2TI 2:17"/><verse number="18" style="v" sid="2TI 2:18"/>Eles se desviaram da verdade, dizendo que a ressurreição já aconteceu, e assim desviam a fé de alguns. 
-<verse eid="2TI 2:18"/><verse number="19" style="v" sid="2TI 2:19"/>Contudo, o firme fundamento de Deus permanece como uma rocha, com este selo: “O Senhor conhece os que lhe pertencem” e “todo aquele que confessa o nome do Senhor, afaste-se da injustiça”. 
-<verse eid="2TI 2:19"/><verse number="20" style="v" sid="2TI 2:20"/>Numa casa muito grande há utensílios não só de ouro e de prata, mas também de madeira e de barro; alguns são para uso honroso, e outros para uso desonroso.
-<verse eid="2TI 2:20"/><verse number="21" style="v" sid="2TI 2:21"/>Assim, quem se purifica do mal será como utensílio de honra, separado, útil para o Senhor e preparado para toda boa obra.  
-<verse eid="2TI 2:21"/><verse number="22" style="v" sid="2TI 2:22"/>Fuja das paixões da juventude e siga a justiça, a fé, o amor e a paz, junto com os que invocam o Senhor com um coração puro.
-<verse eid="2TI 2:22"/><verse number="23" style="v" sid="2TI 2:23"/>Digo mais uma vez: não se envolva em discussões tolas e sem sentido, pois elas só produzem brigas.  
-<verse eid="2TI 2:23"/><verse number="24" style="v" sid="2TI 2:24"/>O servo do Senhor não deve viver em contendas, mas deve ser amável com todos, apto para ensinar e paciente. 
-<verse eid="2TI 2:24"/><verse number="25" style="v" sid="2TI 2:25"/>Corrija com mansidão os que se opõem, na esperança de que Deus lhes conceda arrependimento, para conhecerem a verdade.
-<verse eid="2TI 2:25"/><verse number="26" style="v" sid="2TI 2:26"/>Então voltarão a si e escaparão da armadilha do diabo, que os tinha prendido para fazerem a vontade dele.
+  <para style="p"><verse number="1" style="v" sid="2TI 2:1"/>E você, meu filho, fortaleça-se na graça que há em Cristo Jesus.
+<verse eid="2TI 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TI 2:2"/>O que você ouviu de mim, diante de muitas testemunhas, confie a pessoas fiéis, que sejam capazes de ensinar essas verdades a outros.
+<verse eid="2TI 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TI 2:3"/>Participe comigo dos sofrimentos, como um bom soldado de Cristo Jesus.
+<verse eid="2TI 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TI 2:4"/>Nenhum soldado se envolve nos negócios desta vida, para poder agradar àquele que o alistou.
+<verse eid="2TI 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TI 2:5"/>Do mesmo modo, o atleta só recebe a coroa se competir de acordo com as regras.
+<verse eid="2TI 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TI 2:6"/>O lavrador que trabalha com esforço é o primeiro a receber a parte da colheita.
+<verse eid="2TI 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TI 2:7"/>Reflita sobre o que digo, e o Senhor lhe dará entendimento em tudo.
+<verse eid="2TI 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TI 2:8"/>Lembre-se de Jesus Cristo, ressuscitado dentre os mortos, descendente de Davi, conforme o evangelho que eu anuncio.
+<verse eid="2TI 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TI 2:9"/>Por causa desse evangelho sofro e estou preso como um criminoso, mas a palavra de Deus não está presa.
+<verse eid="2TI 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TI 2:10"/>Suporto tudo por causa dos escolhidos de Deus, para que também alcancem a salvação que está em Cristo Jesus, com glória eterna.
+<verse eid="2TI 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TI 2:11"/>Fiel é esta palavra: “Se morrermos com Cristo, também com ele viveremos;
+<verse eid="2TI 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TI 2:12"/>se perseverarmos, também com ele reinaremos; se o negarmos, ele também nos negará;
+<verse eid="2TI 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TI 2:13"/>se formos infiéis, ele permanece fiel, pois não pode negar a si mesmo”.
+<verse eid="2TI 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TI 2:14"/>Lembre essas verdades ao povo e ordene, diante do Senhor, que não discutam sobre coisas sem importância, pois tais debates são inúteis, causam confusão e prejudicam os ouvintes.
+<verse eid="2TI 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TI 2:15"/>Esforce-se para se apresentar a Deus como obreiro aprovado, que não tem do que se envergonhar e que maneja corretamente a palavra da verdade.
+<verse eid="2TI 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TI 2:16"/>Evite conversas tolas e vazias, pois elas levam cada vez mais à maldade e afastam de Deus.
+<verse eid="2TI 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TI 2:17"/>A palavra desses falsos mestres se espalha como gangrena; entre eles estão Himeneu e Fileto.
+<verse eid="2TI 2:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="2TI 2:18"/>Eles se desviaram da verdade, dizendo que a ressurreição já aconteceu, e assim desviam a fé de alguns.
+<verse eid="2TI 2:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="2TI 2:19"/>Contudo, o firme fundamento de Deus permanece como uma rocha, com este selo: “O Senhor conhece os que lhe pertencem” e “todo aquele que confessa o nome do Senhor, afaste-se da injustiça”.
+<verse eid="2TI 2:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="2TI 2:20"/>Numa casa muito grande há utensílios não só de ouro e de prata, mas também de madeira e de barro; alguns são para uso honroso, e outros para uso desonroso.
+<verse eid="2TI 2:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="2TI 2:21"/>Assim, quem se purifica do mal será como utensílio de honra, separado, útil para o Senhor e preparado para toda boa obra.
+<verse eid="2TI 2:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="2TI 2:22"/>Fuja das paixões da juventude e siga a justiça, a fé, o amor e a paz, junto com os que invocam o Senhor com um coração puro.
+<verse eid="2TI 2:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="2TI 2:23"/>Digo mais uma vez: não se envolva em discussões tolas e sem sentido, pois elas só produzem brigas.
+<verse eid="2TI 2:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="2TI 2:24"/>O servo do Senhor não deve viver em contendas, mas deve ser amável com todos, apto para ensinar e paciente.
+<verse eid="2TI 2:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="2TI 2:25"/>Corrija com mansidão os que se opõem, na esperança de que Deus lhes conceda arrependimento, para conhecerem a verdade.
+<verse eid="2TI 2:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="2TI 2:26"/>Então voltarão a si e escaparão da armadilha do diabo, que os tinha prendido para fazerem a vontade dele.
 <verse eid="2TI 2:26"/><verse eid="2TI 2:26"/></para>
   <chapter eid="2TI 2"/>
   <chapter number="3" style="c" sid="2TI 3"/>
   <para style="p"><verse number="1" style="v" sid="2TI 3:1"/>Também é importante que você saiba disto, Timóteo: nos últimos dias virão tempos muito difíceis.
-<verse eid="2TI 3:1"/><verse number="2" style="v" sid="2TI 3:2"/>Porque as pessoas amarão apenas a si mesmas e ao dinheiro; serão cheias de orgulho, zombarão de Deus, desobedecerão aos pais, serão ingratas e totalmente más.
-<verse eid="2TI 3:2"/><verse number="3" style="v" sid="2TI 3:3"/>Elas não terão amor pela família, serão irreconciliáveis, falarão mentiras sobre os outros, não terão domínio próprio, serão cruéis e zombarão daqueles que procuram fazer o bem.
-<verse eid="2TI 3:3"/><verse number="4" style="v" sid="2TI 3:4"/>Elas trairão os amigos, serão atrevidas, cheias de orgulho, e preferirão buscar o prazer em vez de amar a Deus. 
-<verse eid="2TI 3:4"/><verse number="5" style="v" sid="2TI 3:5"/>Terão aparência de piedade, mas negarão o poder dela. Afaste-se de pessoas assim. 
-<verse eid="2TI 3:5"/><verse number="6" style="v" sid="2TI 3:6"/>Pois são desse tipo os que entram às escondidas nas casas e conquistam a confiança de mulheres sem instrução, carregadas de pecados, que são levadas por muitos desejos.  
-<verse eid="2TI 3:6"/><verse number="7" style="v" sid="2TI 3:7"/>Essas mulheres estão sempre seguindo novos mestres, mas nunca chegam a conhecer a verdade.  
-<verse eid="2TI 3:7"/><verse number="8" style="v" sid="2TI 3:8"/>E os mestres delas se levantam contra a verdade, como Janes e Jambres se opuseram a Moisés. Eles têm a mente corrompida, são depravados e reprovados na fé. 
-<verse eid="2TI 3:8"/><verse number="9" style="v" sid="2TI 3:9"/>Porém eles não irão longe. Chegará o dia em que a tolice deles será evidente para todos, como aconteceu com Janes e Jambres. 
-<verse eid="2TI 3:9"/><verse number="10" style="v" sid="2TI 3:10"/>Mas você conhece a minha vida e sabe que não sou desse tipo de pessoa. Você sabe o que creio, como vivo e o que procuro; conhece a minha fé em Cristo, os sofrimentos que enfrento, o amor que tenho por você e a minha perseverança. 
-<verse eid="2TI 3:10"/><verse number="11" style="v" sid="2TI 3:11"/>Você sabe quantas aflições eu sofri por causa da pregação do evangelho, e tudo o que fizeram contra mim em Antioquia, Icônio e Listra, mas o Senhor me livrou de todas essas coisas. 
-<verse eid="2TI 3:11"/><verse number="12" style="v" sid="2TI 3:12"/>Sim, todos os que desejam viver de modo piedoso em Cristo Jesus serão perseguidos.  
-<verse eid="2TI 3:12"/><verse number="13" style="v" sid="2TI 3:13"/>E os homens maus e os falsos mestres irão de mal a pior, enganando muitos e sendo eles mesmos enganados.
-<verse eid="2TI 3:13"/><verse number="14" style="v" sid="2TI 3:14"/>Mas você deve permanecer firme nas verdades que aprendeu; você sabe que elas são verdadeiras, porque confia nas pessoas de quem as recebeu.  
-<verse eid="2TI 3:14"/><verse number="15" style="v" sid="2TI 3:15"/>Você sabe que, desde que era bem pequeno, lhe ensinaram as Sagradas Escrituras, e é por meio delas que você se torna sábio para receber a salvação de Deus, que vem pela fé em Cristo Jesus.
-<verse eid="2TI 3:15"/><verse number="16" style="v" sid="2TI 3:16"/>Toda a Escritura é inspirada por Deus e é útil para ensinar o que é verdadeiro, para mostrar o que está errado em nossa vida, para nos corrigir e para nos orientar a fazer o que é certo.  
-<verse eid="2TI 3:16"/><verse number="17" style="v" sid="2TI 3:17"/>Assim, por meio da Escritura, Deus torna o seu servo apto e completamente preparado para toda boa obra.
+<verse eid="2TI 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TI 3:2"/>Porque as pessoas amarão apenas a si mesmas e ao dinheiro; serão cheias de orgulho, zombarão de Deus, desobedecerão aos pais, serão ingratas e totalmente más.
+<verse eid="2TI 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TI 3:3"/>Elas não terão amor pela família, serão irreconciliáveis, falarão mentiras sobre os outros, não terão domínio próprio, serão cruéis e zombarão daqueles que procuram fazer o bem.
+<verse eid="2TI 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TI 3:4"/>Elas trairão os amigos, serão atrevidas, cheias de orgulho, e preferirão buscar o prazer em vez de amar a Deus.
+<verse eid="2TI 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TI 3:5"/>Terão aparência de piedade, mas negarão o poder dela. Afaste-se de pessoas assim.
+<verse eid="2TI 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TI 3:6"/>Pois são desse tipo os que entram às escondidas nas casas e conquistam a confiança de mulheres sem instrução, carregadas de pecados, que são levadas por muitos desejos.
+<verse eid="2TI 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TI 3:7"/>Essas mulheres estão sempre seguindo novos mestres, mas nunca chegam a conhecer a verdade.
+<verse eid="2TI 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TI 3:8"/>E os mestres delas se levantam contra a verdade, como Janes e Jambres se opuseram a Moisés. Eles têm a mente corrompida, são depravados e reprovados na fé.
+<verse eid="2TI 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TI 3:9"/>Porém eles não irão longe. Chegará o dia em que a tolice deles será evidente para todos, como aconteceu com Janes e Jambres.
+<verse eid="2TI 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TI 3:10"/>Mas você conhece a minha vida e sabe que não sou desse tipo de pessoa. Você sabe o que creio, como vivo e o que procuro; conhece a minha fé em Cristo, os sofrimentos que enfrento, o amor que tenho por você e a minha perseverança.
+<verse eid="2TI 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TI 3:11"/>Você sabe quantas aflições eu sofri por causa da pregação do evangelho, e tudo o que fizeram contra mim em Antioquia, Icônio e Listra, mas o Senhor me livrou de todas essas coisas.
+<verse eid="2TI 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TI 3:12"/>Sim, todos os que desejam viver de modo piedoso em Cristo Jesus serão perseguidos.
+<verse eid="2TI 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TI 3:13"/>E os homens maus e os falsos mestres irão de mal a pior, enganando muitos e sendo eles mesmos enganados.
+<verse eid="2TI 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TI 3:14"/>Mas você deve permanecer firme nas verdades que aprendeu; você sabe que elas são verdadeiras, porque confia nas pessoas de quem as recebeu.
+<verse eid="2TI 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TI 3:15"/>Você sabe que, desde que era bem pequeno, lhe ensinaram as Sagradas Escrituras, e é por meio delas que você se torna sábio para receber a salvação de Deus, que vem pela fé em Cristo Jesus.
+<verse eid="2TI 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TI 3:16"/>Toda a Escritura é inspirada por Deus e é útil para ensinar o que é verdadeiro, para mostrar o que está errado em nossa vida, para nos corrigir e para nos orientar a fazer o que é certo.
+<verse eid="2TI 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TI 3:17"/>Assim, por meio da Escritura, Deus torna o seu servo apto e completamente preparado para toda boa obra.
 <verse eid="2TI 3:17"/><verse eid="2TI 3:17"/></para>
   <chapter eid="2TI 3"/>
   <chapter number="4" style="c" sid="2TI 4"/>
   <para style="p"><verse number="1" style="v" sid="2TI 4:1"/>Portanto, eu o exorto solenemente diante de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos quando vier para estabelecer o seu reino.
-<verse eid="2TI 4:1"/><verse number="2" style="v" sid="2TI 4:2"/>Anuncie a palavra de Deus com insistência; faça isso em toda ocasião, quer seja oportuno, quer não. Corrija e repreenda, exorte e anime com paciência e ensino constante. 
-<verse eid="2TI 4:2"/><verse number="3" style="v" sid="2TI 4:3"/>Pois chegará o tempo em que muitos não suportarão a sã doutrina; irão de um lado para outro em busca de mestres que falem apenas o que desejam ouvir. 
-<verse eid="2TI 4:3"/><verse number="4" style="v" sid="2TI 4:4"/>Eles rejeitarão a verdade e se voltarão para mitos e histórias enganosas.
-<verse eid="2TI 4:4"/><verse number="5" style="v" sid="2TI 4:5"/>Você, porém, mantenha-se sóbrio em tudo. Suporte os sofrimentos. Faça a obra de um evangelista e cumpra plenamente o seu ministério. 
-<verse eid="2TI 4:5"/><verse number="6" style="v" sid="2TI 4:6"/>Digo isso porque minha vida está chegando ao fim; já estou sendo oferecido, e o tempo da minha partida está próximo. 
-<verse eid="2TI 4:6"/><verse number="7" style="v" sid="2TI 4:7"/>Combati o bom combate, terminei a corrida e guardei a fé. 
-<verse eid="2TI 4:7"/><verse number="8" style="v" sid="2TI 4:8"/>No céu me aguarda a coroa da justiça, que o Senhor, o justo Juiz, me entregará naquele dia; e não somente a mim, mas também a todos os que amam e aguardam a sua vinda. 
-<verse eid="2TI 4:8"/><verse number="9" style="v" sid="2TI 4:9"/>Esforce-se para vir até mim o mais depressa possível.
-<verse eid="2TI 4:9"/><verse number="10" style="v" sid="2TI 4:10"/>Pois Demas me abandonou, amando o presente mundo, e partiu para Tessalônica; Crescente foi para a Galácia, e Tito, para a Dalmácia. 
-<verse eid="2TI 4:10"/><verse number="11" style="v" sid="2TI 4:11"/>Só Lucas permanece comigo. Quando vier, traga Marcos com você, pois ele me será muito útil no ministério.  
-<verse eid="2TI 4:11"/><verse number="12" style="v" sid="2TI 4:12"/>Também enviei Tíquico a Éfeso.  
-<verse eid="2TI 4:12"/><verse number="13" style="v" sid="2TI 4:13"/>Quando vier, traga a capa que deixei em Trôade, na casa de Carpo, e traga também os livros, especialmente os pergaminhos.  
-<verse eid="2TI 4:13"/><verse number="14" style="v" sid="2TI 4:14"/>Alexandre, o ferreiro, causou-me muitos males; o Senhor lhe dará o pagamento conforme as suas obras.  
-<verse eid="2TI 4:14"/><verse number="15" style="v" sid="2TI 4:15"/>Tenha cuidado com ele, porque se opôs com força a tudo o que anunciamos.  
-<verse eid="2TI 4:15"/><verse number="16" style="v" sid="2TI 4:16"/>Na primeira vez em que apresentei minha defesa diante do tribunal, ninguém ficou ao meu lado; todos me abandonaram. Que isso não lhes seja cobrado.  
-<verse eid="2TI 4:16"/><verse number="17" style="v" sid="2TI 4:17"/>Mas o Senhor permaneceu ao meu lado e me fortaleceu, para que, por meu intermédio, a mensagem fosse plenamente anunciada e todos os gentios a ouvissem; e fui livrado da boca do leão.  
-<verse eid="2TI 4:17"/><verse number="18" style="v" sid="2TI 4:18"/>O Senhor continuará a livrar-me de toda obra maligna e me levará em segurança para o seu reino celestial. A ele seja a glória pelos séculos dos séculos. Amém. 
-<verse eid="2TI 4:18"/><verse number="19" style="v" sid="2TI 4:19"/>Saúdem, da minha parte, Priscila e Áquila, e a casa de Onesíforo. 
-<verse eid="2TI 4:19"/><verse number="20" style="v" sid="2TI 4:20"/>Erasto ficou em Corinto, e deixei Trófimo doente em Mileto.  
-<verse eid="2TI 4:20"/><verse number="21" style="v" sid="2TI 4:21"/>Procure vir antes do inverno. Êubulo manda saudações, bem como Prudente, Lino, Cláudia e todos os irmãos.  
-<verse eid="2TI 4:21"/><verse number="22" style="v" sid="2TI 4:22"/>Que o Senhor esteja com o seu espírito. A graça seja com vocês.
+<verse eid="2TI 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TI 4:2"/>Anuncie a palavra de Deus com insistência; faça isso em toda ocasião, quer seja oportuno, quer não. Corrija e repreenda, exorte e anime com paciência e ensino constante.
+<verse eid="2TI 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TI 4:3"/>Pois chegará o tempo em que muitos não suportarão a sã doutrina; irão de um lado para outro em busca de mestres que falem apenas o que desejam ouvir.
+<verse eid="2TI 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TI 4:4"/>Eles rejeitarão a verdade e se voltarão para mitos e histórias enganosas.
+<verse eid="2TI 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TI 4:5"/>Você, porém, mantenha-se sóbrio em tudo. Suporte os sofrimentos. Faça a obra de um evangelista e cumpra plenamente o seu ministério.
+<verse eid="2TI 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TI 4:6"/>Digo isso porque minha vida está chegando ao fim; já estou sendo oferecido, e o tempo da minha partida está próximo.
+<verse eid="2TI 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TI 4:7"/>Combati o bom combate, terminei a corrida e guardei a fé.
+<verse eid="2TI 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TI 4:8"/>No céu me aguarda a coroa da justiça, que o Senhor, o justo Juiz, me entregará naquele dia; e não somente a mim, mas também a todos os que amam e aguardam a sua vinda.
+<verse eid="2TI 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TI 4:9"/>Esforce-se para vir até mim o mais depressa possível.
+<verse eid="2TI 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TI 4:10"/>Pois Demas me abandonou, amando o presente mundo, e partiu para Tessalônica; Crescente foi para a Galácia, e Tito, para a Dalmácia.
+<verse eid="2TI 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TI 4:11"/>Só Lucas permanece comigo. Quando vier, traga Marcos com você, pois ele me será muito útil no ministério.
+<verse eid="2TI 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TI 4:12"/>Também enviei Tíquico a Éfeso.
+<verse eid="2TI 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TI 4:13"/>Quando vier, traga a capa que deixei em Trôade, na casa de Carpo, e traga também os livros, especialmente os pergaminhos.
+<verse eid="2TI 4:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TI 4:14"/>Alexandre, o ferreiro, causou-me muitos males; o Senhor lhe dará o pagamento conforme as suas obras.
+<verse eid="2TI 4:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TI 4:15"/>Tenha cuidado com ele, porque se opôs com força a tudo o que anunciamos.
+<verse eid="2TI 4:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TI 4:16"/>Na primeira vez em que apresentei minha defesa diante do tribunal, ninguém ficou ao meu lado; todos me abandonaram. Que isso não lhes seja cobrado.
+<verse eid="2TI 4:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TI 4:17"/>Mas o Senhor permaneceu ao meu lado e me fortaleceu, para que, por meu intermédio, a mensagem fosse plenamente anunciada e todos os gentios a ouvissem; e fui livrado da boca do leão.
+<verse eid="2TI 4:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="2TI 4:18"/>O Senhor continuará a livrar-me de toda obra maligna e me levará em segurança para o seu reino celestial. A ele seja a glória pelos séculos dos séculos. Amém.
+<verse eid="2TI 4:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="2TI 4:19"/>Saúdem, da minha parte, Priscila e Áquila, e a casa de Onesíforo.
+<verse eid="2TI 4:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="2TI 4:20"/>Erasto ficou em Corinto, e deixei Trófimo doente em Mileto.
+<verse eid="2TI 4:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="2TI 4:21"/>Procure vir antes do inverno. Êubulo manda saudações, bem como Prudente, Lino, Cláudia e todos os irmãos.
+<verse eid="2TI 4:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="2TI 4:22"/>Que o Senhor esteja com o seu espírito. A graça seja com vocês.
 <verse eid="2TI 4:22"/></para>
   <chapter eid="2TI 4"/>
 </usx>

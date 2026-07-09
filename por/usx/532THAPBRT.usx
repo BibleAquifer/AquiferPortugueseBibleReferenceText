@@ -1,69 +1,113 @@
 <usx version="3.1">
-  <book code="2TH" style="id">EN</book>
-  <para style="h">2 Thessalonians
+  <book code="2TH" style="id">2th PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">2 Tessalonicenses
 </para>
-  <para style="toc1">2 Thessalonians
+  <para style="toc1">2 Tessalonicenses
 </para>
-  <para style="toc2">2 Thessalonians
+  <para style="toc2">2 Tessalonicenses
 </para>
-  <para style="toc3">2TH
+  <para style="toc3">2 Ts
 </para>
-  <para style="mt1">2 Thessalonians
+  <para style="mt1">2 Tessalonicenses
 </para>
   <chapter number="1" style="c" sid="2TH 1"/>
   <para style="p"><verse number="1" style="v" sid="2TH 1:1"/>Paulo, Silvano e Timóteo à igreja de Tessalônica, que está em Deus, nosso Pai, e no Senhor Jesus Cristo.
-<verse eid="2TH 1:1"/><verse number="2" style="v" sid="2TH 1:2"/>Que a graça e a paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
-<verse eid="2TH 1:2"/><verse number="3" style="v" sid="2TH 1:3"/>Irmãos, devemos sempre agradecer a Deus por vocês. Isso é justo, porque a fé e o amor que vocês têm uns pelos outros crescem cada vez mais.
-<verse eid="2TH 1:3"/><verse number="4" style="v" sid="2TH 1:4"/>Por isso, falamos com alegria sobre vocês entre as igrejas de Deus, por causa da perseverança e da fé que vocês demonstram em todas as perseguições e tribulações que suportam.
-<verse eid="2TH 1:4"/><verse number="5" style="v" sid="2TH 1:5"/>Tudo isso mostra o justo julgamento de Deus, para que vocês sejam considerados dignos do reino de Deus, pelo qual também sofrem.
-<verse eid="2TH 1:5"/><verse number="6" style="v" sid="2TH 1:6"/>Pois, para Deus, é justo trazer aflição para aqueles que os afligem
-<verse eid="2TH 1:6"/><verse number="7" style="v" sid="2TH 1:7"/>e trazer alívio a vocês, que sofrem, e também a nós, quando o Senhor Jesus for revelado do céu com os anjos do seu poder,
-<verse eid="2TH 1:7"/><verse number="8" style="v" sid="2TH 1:8"/>em fogo ardente, executando juízo sobre os que não conhecem a Deus e sobre os que não obedecem ao evangelho do nosso Senhor Jesus.
-<verse eid="2TH 1:8"/><verse number="9" style="v" sid="2TH 1:9"/>Eles sofrerão a pena de destruição eterna, longe da presença do Senhor e da glória do seu poder,
-<verse eid="2TH 1:9"/><verse number="10" style="v" sid="2TH 1:10"/>quando ele vier para ser glorificado entre aqueles que lhe pertencem e para ser admirado por todos os que creram. Vocês estarão entre eles, porque creram em nosso testemunho.
-<verse eid="2TH 1:10"/><verse number="11" style="v" sid="2TH 1:11"/>Por isso, também oramos sempre por vocês, para que nosso Deus os torne dignos do chamado que receberam e, com poder, realize todo propósito de bondade e toda obra da fé.
-<verse eid="2TH 1:11"/><verse number="12" style="v" sid="2TH 1:12"/>Assim, o nome de nosso Senhor Jesus será glorificado em vocês, e vocês nele, de acordo com a graça de nosso Deus e do Senhor Jesus Cristo.
+<verse eid="2TH 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TH 1:2"/>Que a graça e a paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
+<verse eid="2TH 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TH 1:3"/>Irmãos, devemos sempre agradecer a Deus por vocês. Isso é justo, porque a fé e o amor que vocês têm uns pelos outros crescem cada vez mais.
+<verse eid="2TH 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TH 1:4"/>Por isso, falamos com alegria sobre vocês entre as igrejas de Deus, por causa da perseverança e da fé que vocês demonstram em todas as perseguições e tribulações que suportam.
+<verse eid="2TH 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TH 1:5"/>Tudo isso mostra o justo julgamento de Deus, para que vocês sejam considerados dignos do reino de Deus, pelo qual também sofrem.
+<verse eid="2TH 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TH 1:6"/>Pois, para Deus, é justo trazer aflição para aqueles que os afligem
+<verse eid="2TH 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TH 1:7"/>e trazer alívio a vocês, que sofrem, e também a nós, quando o Senhor Jesus for revelado do céu com os anjos do seu poder,
+<verse eid="2TH 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TH 1:8"/>em fogo ardente, executando juízo sobre os que não conhecem a Deus e sobre os que não obedecem ao evangelho do nosso Senhor Jesus.
+<verse eid="2TH 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TH 1:9"/>Eles sofrerão a pena de destruição eterna, longe da presença do Senhor e da glória do seu poder,
+<verse eid="2TH 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TH 1:10"/>quando ele vier para ser glorificado entre aqueles que lhe pertencem e para ser admirado por todos os que creram. Vocês estarão entre eles, porque creram em nosso testemunho.
+<verse eid="2TH 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TH 1:11"/>Por isso, também oramos sempre por vocês, para que nosso Deus os torne dignos do chamado que receberam e, com poder, realize todo propósito de bondade e toda obra da fé.
+<verse eid="2TH 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TH 1:12"/>Assim, o nome de nosso Senhor Jesus será glorificado em vocês, e vocês nele, de acordo com a graça de nosso Deus e do Senhor Jesus Cristo.
 <verse eid="2TH 1:12"/><verse eid="2TH 1:12"/></para>
   <chapter eid="2TH 1"/>
   <chapter number="2" style="c" sid="2TH 2"/>
   <para style="p"><verse number="1" style="v" sid="2TH 2:1"/>Irmãos, quanto à volta do nosso Senhor Jesus Cristo e ao nosso encontro com ele, pedimos a vocês
-<verse eid="2TH 2:1"/><verse number="2" style="v" sid="2TH 2:2"/>que não deixem que ninguém confunda a mente de vocês nem os assuste, seja por alguma revelação espiritual, palavra ou carta supostamente enviada por nós, dizendo que o Dia do Senhor já chegou.
-<verse eid="2TH 2:2"/><verse number="3" style="v" sid="2TH 2:3"/>Ninguém engane vocês de modo algum, porque antes virá a apostasia e será revelado o homem da rebelião, o filho da destruição.
-<verse eid="2TH 2:3"/><verse number="4" style="v" sid="2TH 2:4"/>Ele se oporá a tudo o que as pessoas tratam como sagrado e a tudo o que chamam de divino. Ele se colocará acima de todos e até entrará no templo de Deus para sentar-se ali e dizer que é Deus. 
-<verse eid="2TH 2:4"/><verse number="5" style="v" sid="2TH 2:5"/>Lembram que eu dizia isso quando ainda estava com vocês?
-<verse eid="2TH 2:5"/><verse number="6" style="v" sid="2TH 2:6"/>E agora vocês sabem o que o está impedindo. Assim ele só será revelado no devido tempo.
-<verse eid="2TH 2:6"/><verse number="7" style="v" sid="2TH 2:7"/>Pois o mistério da maldade já está agindo, faltando apenas que seja removido aquele que agora o detém.
-<verse eid="2TH 2:7"/><verse number="8" style="v" sid="2TH 2:8"/>Então será revelado esse homem da rebelião, a quem o Senhor Jesus destruirá com o sopro da sua boca e eliminará pela manifestação da sua vinda.
-<verse eid="2TH 2:8"/><verse number="9" style="v" sid="2TH 2:9"/>Esse homem aparecerá graças à ação de Satanás, com todo poder, sinais e maravilhas mentirosas.
-<verse eid="2TH 2:9"/><verse number="10" style="v" sid="2TH 2:10"/>Ele usará todo tipo de engano da injustiça contra os que estão perecendo, porque rejeitaram o amor pela verdade que podia salvá‑los.
-<verse eid="2TH 2:10"/><verse number="11" style="v" sid="2TH 2:11"/>Por isso, Deus permite que venha sobre eles um poder que seduz, para que aceitem a mentira.
-<verse eid="2TH 2:11"/><verse number="12" style="v" sid="2TH 2:12"/>Assim serão condenados todos os que não creram na verdade, mas escolheram a injustiça com prazer.
-<verse eid="2TH 2:12"/><verse number="13" style="v" sid="2TH 2:13"/>Nós, porém, sempre devemos agradecer a Deus por vocês, irmãos amados pelo Senhor, porque foram escolhidos por Deus desde o princípio para serem salvos, por meio da santificação do Espírito e da fé na verdade.
-<verse eid="2TH 2:13"/><verse number="14" style="v" sid="2TH 2:14"/>Deus os chamou por meio do evangelho que anunciamos, para que vocês participem da glória de nosso Senhor Jesus Cristo.
-<verse eid="2TH 2:14"/><verse number="15" style="v" sid="2TH 2:15"/>Portanto, irmãos, permaneçam firmes e mantenham os ensinamentos que receberam, seja por palavra, seja por carta nossa.
-<verse eid="2TH 2:15"/><verse number="16" style="v" sid="2TH 2:16"/>Que o próprio Senhor Jesus Cristo e Deus, nosso Pai, que nos amou e nos deu, pela graça, consolo eterno e boa esperança,
-<verse eid="2TH 2:16"/><verse number="17" style="v" sid="2TH 2:17"/>encorajem o coração de vocês e os fortaleçam para fazerem e dizerem o que é bom.
+<verse eid="2TH 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TH 2:2"/>que não deixem que ninguém confunda a mente de vocês nem os assuste, seja por alguma revelação espiritual, palavra ou carta supostamente enviada por nós, dizendo que o Dia do Senhor já chegou.
+<verse eid="2TH 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TH 2:3"/>Ninguém engane vocês de modo algum, porque antes virá a apostasia e será revelado o homem da rebelião, o filho da destruição.
+<verse eid="2TH 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TH 2:4"/>Ele se oporá a tudo o que as pessoas tratam como sagrado e a tudo o que chamam de divino. Ele se colocará acima de todos e até entrará no templo de Deus para sentar-se ali e dizer que é Deus.
+<verse eid="2TH 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TH 2:5"/>Lembram que eu dizia isso quando ainda estava com vocês?
+<verse eid="2TH 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TH 2:6"/>E agora vocês sabem o que o está impedindo. Assim ele só será revelado no devido tempo.
+<verse eid="2TH 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TH 2:7"/>Pois o mistério da maldade já está agindo, faltando apenas que seja removido aquele que agora o detém.
+<verse eid="2TH 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TH 2:8"/>Então será revelado esse homem da rebelião, a quem o Senhor Jesus destruirá com o sopro da sua boca e eliminará pela manifestação da sua vinda.
+<verse eid="2TH 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TH 2:9"/>Esse homem aparecerá graças à ação de Satanás, com todo poder, sinais e maravilhas mentirosas.
+<verse eid="2TH 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TH 2:10"/>Ele usará todo tipo de engano da injustiça contra os que estão perecendo, porque rejeitaram o amor pela verdade que podia salvá‑los.
+<verse eid="2TH 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TH 2:11"/>Por isso, Deus permite que venha sobre eles um poder que seduz, para que aceitem a mentira.
+<verse eid="2TH 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TH 2:12"/>Assim serão condenados todos os que não creram na verdade, mas escolheram a injustiça com prazer.
+<verse eid="2TH 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TH 2:13"/>Nós, porém, sempre devemos agradecer a Deus por vocês, irmãos amados pelo Senhor, porque foram escolhidos por Deus desde o princípio para serem salvos, por meio da santificação do Espírito e da fé na verdade.
+<verse eid="2TH 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TH 2:14"/>Deus os chamou por meio do evangelho que anunciamos, para que vocês participem da glória de nosso Senhor Jesus Cristo.
+<verse eid="2TH 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TH 2:15"/>Portanto, irmãos, permaneçam firmes e mantenham os ensinamentos que receberam, seja por palavra, seja por carta nossa.
+<verse eid="2TH 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TH 2:16"/>Que o próprio Senhor Jesus Cristo e Deus, nosso Pai, que nos amou e nos deu, pela graça, consolo eterno e boa esperança,
+<verse eid="2TH 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TH 2:17"/>encorajem o coração de vocês e os fortaleçam para fazerem e dizerem o que é bom.
 <verse eid="2TH 2:17"/><verse eid="2TH 2:17"/></para>
   <chapter eid="2TH 2"/>
   <chapter number="3" style="c" sid="2TH 3"/>
   <para style="p"><verse number="1" style="v" sid="2TH 3:1"/>Por fim, irmãos, orem por nós, para que a palavra do Senhor se espalhe rapidamente e seja glorificada, como também aconteceu entre vocês.
-<verse eid="2TH 3:1"/><verse number="2" style="v" sid="2TH 3:2"/>Orem também para que sejamos livrados dos perversos e maus, pois nem todos têm fé.
-<verse eid="2TH 3:2"/><verse number="3" style="v" sid="2TH 3:3"/>Contudo, o Senhor é fiel; ele lhes dará forças e os guardará do Maligno.
-<verse eid="2TH 3:3"/><verse number="4" style="v" sid="2TH 3:4"/>Temos confiança no Senhor de que vocês ainda fazem e continuarão a fazer o que lhes ordenamos.
-<verse eid="2TH 3:4"/><verse number="5" style="v" sid="2TH 3:5"/>Que o Senhor os conduza ao amor de Deus e à perseverança de Cristo.
-<verse eid="2TH 3:5"/><verse number="6" style="v" sid="2TH 3:6"/>Ordenamos a vocês, irmãos, em nome do nosso Senhor Jesus Cristo, que se afastem de todo irmão que viva de maneira desordenada e não siga a tradição recebida de nós.
-<verse eid="2TH 3:6"/><verse number="7" style="v" sid="2TH 3:7"/>Afinal, vocês sabem que devem seguir o exemplo que demos, já que não vivemos de maneira desordenada entre vocês,
-<verse eid="2TH 3:7"/><verse number="8" style="v" sid="2TH 3:8"/>nem comemos pão de ninguém sem pagar, mas trabalhamos arduamente e com esforço, dia e noite, para não sermos um peso para nenhum de vocês.
-<verse eid="2TH 3:8"/><verse number="9" style="v" sid="2TH 3:9"/>Não porque não tivéssemos esse direito, mas para sermos exemplo para vocês.
-<verse eid="2TH 3:9"/><verse number="10" style="v" sid="2TH 3:10"/>Pois, quando ainda estávamos com vocês, ordenamos isto: se alguém não quiser trabalhar, também não deve comer.
-<verse eid="2TH 3:10"/><verse number="11" style="v" sid="2TH 3:11"/>Soubemos que alguns entre vocês vivem de forma desordenada: não trabalham e ainda se intrometem no que não lhes diz respeito.
-<verse eid="2TH 3:11"/><verse number="12" style="v" sid="2TH 3:12"/>A essas pessoas ordenamos e exortamos, no Senhor Jesus Cristo, que trabalhem tranquilamente e comam o próprio pão.
-<verse eid="2TH 3:12"/><verse number="13" style="v" sid="2TH 3:13"/>Mas vocês, irmãos, não desistam de fazer o bem.
-<verse eid="2TH 3:13"/><verse number="14" style="v" sid="2TH 3:14"/>Se alguém não obedecer ao que escrevemos nesta carta, afastem-se dele para que ele sinta vergonha.
-<verse eid="2TH 3:14"/><verse number="15" style="v" sid="2TH 3:15"/>Não o vejam como inimigo, mas aconselhem-no como um irmão.
-<verse eid="2TH 3:15"/><verse number="16" style="v" sid="2TH 3:16"/>Que o próprio Senhor da paz lhes dê paz sempre e de todas as maneiras. Que o Senhor esteja com todos vocês.
-<verse eid="2TH 3:16"/><verse number="17" style="v" sid="2TH 3:17"/>Eu, Paulo, escrevo esta saudação com minha própria mão; este é o sinal de autenticidade em minhas cartas.
-<verse eid="2TH 3:17"/><verse number="18" style="v" sid="2TH 3:18"/>Que a graça de nosso Senhor Jesus Cristo esteja com todos vocês.
+<verse eid="2TH 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="2TH 3:2"/>Orem também para que sejamos livrados dos perversos e maus, pois nem todos têm fé.
+<verse eid="2TH 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="2TH 3:3"/>Contudo, o Senhor é fiel; ele lhes dará forças e os guardará do Maligno.
+<verse eid="2TH 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="2TH 3:4"/>Temos confiança no Senhor de que vocês ainda fazem e continuarão a fazer o que lhes ordenamos.
+<verse eid="2TH 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="2TH 3:5"/>Que o Senhor os conduza ao amor de Deus e à perseverança de Cristo.
+<verse eid="2TH 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="2TH 3:6"/>Ordenamos a vocês, irmãos, em nome do nosso Senhor Jesus Cristo, que se afastem de todo irmão que viva de maneira desordenada e não siga a tradição recebida de nós.
+<verse eid="2TH 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="2TH 3:7"/>Afinal, vocês sabem que devem seguir o exemplo que demos, já que não vivemos de maneira desordenada entre vocês,
+<verse eid="2TH 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="2TH 3:8"/>nem comemos pão de ninguém sem pagar, mas trabalhamos arduamente e com esforço, dia e noite, para não sermos um peso para nenhum de vocês.
+<verse eid="2TH 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="2TH 3:9"/>Não porque não tivéssemos esse direito, mas para sermos exemplo para vocês.
+<verse eid="2TH 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="2TH 3:10"/>Pois, quando ainda estávamos com vocês, ordenamos isto: se alguém não quiser trabalhar, também não deve comer.
+<verse eid="2TH 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="2TH 3:11"/>Soubemos que alguns entre vocês vivem de forma desordenada: não trabalham e ainda se intrometem no que não lhes diz respeito.
+<verse eid="2TH 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="2TH 3:12"/>A essas pessoas ordenamos e exortamos, no Senhor Jesus Cristo, que trabalhem tranquilamente e comam o próprio pão.
+<verse eid="2TH 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="2TH 3:13"/>Mas vocês, irmãos, não desistam de fazer o bem.
+<verse eid="2TH 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="2TH 3:14"/>Se alguém não obedecer ao que escrevemos nesta carta, afastem-se dele para que ele sinta vergonha.
+<verse eid="2TH 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="2TH 3:15"/>Não o vejam como inimigo, mas aconselhem-no como um irmão.
+<verse eid="2TH 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="2TH 3:16"/>Que o próprio Senhor da paz lhes dê paz sempre e de todas as maneiras. Que o Senhor esteja com todos vocês.
+<verse eid="2TH 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="2TH 3:17"/>Eu, Paulo, escrevo esta saudação com minha própria mão; este é o sinal de autenticidade em minhas cartas.
+<verse eid="2TH 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="2TH 3:18"/>Que a graça de nosso Senhor Jesus Cristo esteja com todos vocês.
 <verse eid="2TH 3:18"/></para>
   <chapter eid="2TH 3"/>
 </usx>

@@ -1,483 +1,865 @@
 <usx version="3.1">
-  <book code="REV" style="id">EN</book>
-  <para style="h">Revelation
+  <book code="REV" style="id">rev PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Apocalipse
 </para>
-  <para style="toc1">Revelation
+  <para style="toc1">Apocalipse
 </para>
-  <para style="toc2">Revelation
+  <para style="toc2">Apocalipse
 </para>
-  <para style="toc3">REV
+  <para style="toc3">Ap
 </para>
-  <para style="mt1">Revelation
+  <para style="mt1">Apocalipse
 </para>
   <chapter number="1" style="c" sid="REV 1"/>
-  <para style="p"><verse number="1" style="v" sid="REV 1:1"/>Revelação que Jesus Cristo recebeu de Deus para mostrar aos seus servos os eventos que em breve acontecerão. Ele enviou o seu anjo para comunicar essa visão ao seu servo João. 
-<verse eid="REV 1:1"/><verse number="2" style="v" sid="REV 1:2"/>João dá testemunho de tudo o que viu: a palavra de Deus e o testemunho de Jesus Cristo.
-<verse eid="REV 1:2"/><verse number="3" style="v" sid="REV 1:3"/>Feliz quem lê esta profecia, felizes os que a escutam e obedecem ao que está escrito, pois o tempo do cumprimento está perto.  
-<verse eid="REV 1:3"/><verse number="4" style="v" sid="REV 1:4"/>João, às sete igrejas da província da Ásia: que a graça e a paz venham de Deus, aquele que é, que era e que virá, e também dos sete espíritos que estão diante do seu trono;
-<verse eid="REV 1:4"/><verse number="5" style="v" sid="REV 1:5"/>e de Jesus Cristo, a testemunha fiel, o primeiro a ressuscitar dentre os mortos e o soberano dos reis da terra. Ele nos ama e nos libertou dos nossos pecados ao derramar o seu sangue. 
-<verse eid="REV 1:5"/><verse number="6" style="v" sid="REV 1:6"/>Ele fez de nós um reino e nos tornou sacerdotes para Deus, seu Pai. A ele sejam dadas glória e poder para sempre. Amém. 
-<verse eid="REV 1:6"/><verse number="7" style="v" sid="REV 1:7"/>Vejam, ele vem nas nuvens, e todos o verão, até mesmo os que o traspassaram; e todas as nações lamentarão por causa dele. Assim será. Amém. 
-<verse eid="REV 1:7"/><verse number="8" style="v" sid="REV 1:8"/>“Eu sou o Alfa e o Ômega”, declara o Senhor Deus, o Todo‑poderoso, aquele que é, que era e que virá. 
-<verse eid="REV 1:8"/><verse number="9" style="v" sid="REV 1:9"/>Eu, João, irmão de vocês e companheiro no sofrimento, no reino e na perseverança em Jesus, estava exilado na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus.
-<verse eid="REV 1:9"/><verse number="10" style="v" sid="REV 1:10"/>No dia do Senhor, fui tomado pelo Espírito e ouvi atrás de mim uma voz forte, como som de trombeta,
-<verse eid="REV 1:10"/><verse number="11" style="v" sid="REV 1:11"/>dizendo: “Escreva o que você vê e envie às sete igrejas: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia”.
-<verse eid="REV 1:11"/><verse number="12" style="v" sid="REV 1:12"/>Quando me virei para ver quem falava, vi sete castiçais de ouro.  
-<verse eid="REV 1:12"/><verse number="13" style="v" sid="REV 1:13"/>E entre os castiçais estava alguém "semelhante a um filho de homem", com um manto longo até os pés e uma faixa de ouro no peito.
-<verse eid="REV 1:13"/><verse number="14" style="v" sid="REV 1:14"/>Seus cabelos eram brancos como lã branca, como neve, e seus olhos brilhavam como chamas de fogo. 
-<verse eid="REV 1:14"/><verse number="15" style="v" sid="REV 1:15"/>Seus pés reluziam como bronze polido, e sua voz soava como o estrondo de muitas águas.  
-<verse eid="REV 1:15"/><verse number="16" style="v" sid="REV 1:16"/>Na mão direita ele segurava sete estrelas. De sua boca saía uma espada afiada de dois gumes. Seu rosto brilhava como o sol ao meio‑dia. 
-<verse eid="REV 1:16"/><verse number="17" style="v" sid="REV 1:17"/>Quando o vi, caí aos seus pés como morto, mas ele colocou a mão direita sobre mim e disse: “Não tenha medo. Eu sou o primeiro e o último, 
-<verse eid="REV 1:17"/><verse number="18" style="v" sid="REV 1:18"/>Eu sou o Vivente. Estive morto, mas agora estou vivo para todo o sempre. Tenho as chaves da morte e do mundo dos mortos. 
-<verse eid="REV 1:18"/><verse number="19" style="v" sid="REV 1:19"/>Escreva o que você viu, o que está acontecendo agora e o que ainda vai acontecer.
-<verse eid="REV 1:19"/><verse number="20" style="v" sid="REV 1:20"/>Este é o sentido das sete estrelas em minha mão direita e dos sete castiçais de ouro: as sete estrelas são os anjos das sete igrejas, e os sete castiçais são as sete igrejas”. 
+  <para style="p"><verse number="1" style="v" sid="REV 1:1"/>Revelação que Jesus Cristo recebeu de Deus para mostrar aos seus servos os eventos que em breve acontecerão. Ele enviou o seu anjo para comunicar essa visão ao seu servo João.
+<verse eid="REV 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 1:2"/>João dá testemunho de tudo o que viu: a palavra de Deus e o testemunho de Jesus Cristo.
+<verse eid="REV 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 1:3"/>Feliz quem lê esta profecia, felizes os que a escutam e obedecem ao que está escrito, pois o tempo do cumprimento está perto.
+<verse eid="REV 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 1:4"/>João, às sete igrejas da província da Ásia: que a graça e a paz venham de Deus, aquele que é, que era e que virá, e também dos sete espíritos que estão diante do seu trono;
+<verse eid="REV 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 1:5"/>e de Jesus Cristo, a testemunha fiel, o primeiro a ressuscitar dentre os mortos e o soberano dos reis da terra. Ele nos ama e nos libertou dos nossos pecados ao derramar o seu sangue.
+<verse eid="REV 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 1:6"/>Ele fez de nós um reino e nos tornou sacerdotes para Deus, seu Pai. A ele sejam dadas glória e poder para sempre. Amém.
+<verse eid="REV 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 1:7"/>Vejam, ele vem nas nuvens, e todos o verão, até mesmo os que o traspassaram; e todas as nações lamentarão por causa dele. Assim será. Amém.
+<verse eid="REV 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 1:8"/>“Eu sou o Alfa e o Ômega”, declara o Senhor Deus, o Todo‑poderoso, aquele que é, que era e que virá.
+<verse eid="REV 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 1:9"/>Eu, João, irmão de vocês e companheiro no sofrimento, no reino e na perseverança em Jesus, estava exilado na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus.
+<verse eid="REV 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 1:10"/>No dia do Senhor, fui tomado pelo Espírito e ouvi atrás de mim uma voz forte, como som de trombeta,
+<verse eid="REV 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 1:11"/>dizendo: “Escreva o que você vê e envie às sete igrejas: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia”.
+<verse eid="REV 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 1:12"/>Quando me virei para ver quem falava, vi sete castiçais de ouro.
+<verse eid="REV 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 1:13"/>E entre os castiçais estava alguém “semelhante a um filho de homem”, com um manto longo até os pés e uma faixa de ouro no peito.
+<verse eid="REV 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 1:14"/>Seus cabelos eram brancos como lã branca, como neve, e seus olhos brilhavam como chamas de fogo.
+<verse eid="REV 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 1:15"/>Seus pés reluziam como bronze polido, e sua voz soava como o estrondo de muitas águas.
+<verse eid="REV 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 1:16"/>Na mão direita ele segurava sete estrelas. De sua boca saía uma espada afiada de dois gumes. Seu rosto brilhava como o sol ao meio‑dia.
+<verse eid="REV 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 1:17"/>Quando o vi, caí aos seus pés como morto, mas ele colocou a mão direita sobre mim e disse: “Não tenha medo. Eu sou o primeiro e o último,
+<verse eid="REV 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 1:18"/>Eu sou o Vivente. Estive morto, mas agora estou vivo para todo o sempre. Tenho as chaves da morte e do mundo dos mortos.
+<verse eid="REV 1:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 1:19"/>Escreva o que você viu, o que está acontecendo agora e o que ainda vai acontecer.
+<verse eid="REV 1:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 1:20"/>Este é o sentido das sete estrelas em minha mão direita e dos sete castiçais de ouro: as sete estrelas são os anjos das sete igrejas, e os sete castiçais são as sete igrejas”.
 <verse eid="REV 1:20"/><verse eid="REV 1:20"/></para>
   <chapter eid="REV 1"/>
   <chapter number="2" style="c" sid="REV 2"/>
-  <para style="p"><verse number="1" style="v" sid="REV 2:1"/>“Ao anjo da igreja em Éfeso, escreva: Esta é a mensagem daquele que segura em sua mão direita as sete estrelas e que anda entre os sete castiçais de ouro.  
-<verse eid="REV 2:1"/><verse number="2" style="v" sid="REV 2:2"/>Eu conheço tudo o que você faz. Vejo o seu trabalho cansativo e a sua perseverança. Sei que você não aceita o mal, que examina com cuidado os que afirmam ser apóstolos e não são, e já provou que eles são mentirosos. 
-<verse eid="REV 2:2"/><verse number="3" style="v" sid="REV 2:3"/>Você tem suportado sofrimentos por causa do meu nome, tem perseverado e não desistiu.  
-<verse eid="REV 2:3"/><verse number="4" style="v" sid="REV 2:4"/>Mas tenho algo contra você: você já não tem o mesmo amor que tinha no princípio!
-<verse eid="REV 2:4"/><verse number="5" style="v" sid="REV 2:5"/>Lembre-se de onde você caiu, arrependa-se e volte a praticar as primeiras obras. Se não fizer isso, virei a você e tirarei o seu castiçal do lugar em que está.
-<verse eid="REV 2:5"/><verse number="6" style="v" sid="REV 2:6"/>Contudo, há algo bom em seu favor: você rejeita as obras dos nicolaítas, obras que eu também rejeito.  
-<verse eid="REV 2:6"/><verse number="7" style="v" sid="REV 2:7"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei o direito de comer da árvore da vida, que está no paraíso de Deus.
-<verse eid="REV 2:7"/><verse number="8" style="v" sid="REV 2:8"/>Ao anjo da igreja em Esmirna, escreva: Esta é a mensagem daquele que é o Primeiro e o Último, que esteve morto e tornou a viver.
-<verse eid="REV 2:8"/><verse number="9" style="v" sid="REV 2:9"/>Eu conheço o seu sofrimento e sei da sua pobreza, mas você é rico. Sei também das calúnias dos que dizem ser judeus e não são, mas que são como uma sinagoga de Satanás.
-<verse eid="REV 2:9"/><verse number="10" style="v" sid="REV 2:10"/>Não tenha medo do que está prestes a sofrer. O diabo lançará em breve alguns de vocês na prisão para colocá-los à prova, e vocês serão perseguidos durante dez dias. Seja fiel até mesmo diante da morte, e eu lhe darei a coroa da vida. 
-<verse eid="REV 2:10"/><verse number="11" style="v" sid="REV 2:11"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Aquele que vencer de modo algum será atingido pela segunda morte.  
-<verse eid="REV 2:11"/><verse number="12" style="v" sid="REV 2:12"/>Ao anjo da igreja em Pérgamo, escreva: Esta é a mensagem daquele que tem a espada afiada de dois gumes.  
-<verse eid="REV 2:12"/><verse number="13" style="v" sid="REV 2:13"/>Eu sei que você vive onde está o trono de Satanás. Mesmo assim, você permanece fiel a mim e não negou a fé em mim, nem mesmo quando Antipas, minha testemunha fiel, foi morto entre vocês, nesse lugar onde Satanás habita. 
-<verse eid="REV 2:13"/><verse number="14" style="v" sid="REV 2:14"/>Mas tenho algumas coisas contra você: você tolera aí pessoas que seguem o ensino de Balaão, que orientou Balaque a armar ciladas contra Israel, levando o meu povo a cair em imoralidade sexual e a participar de refeições dedicadas a ídolos.  
-<verse eid="REV 2:14"/><verse number="15" style="v" sid="REV 2:15"/>Do mesmo modo, há também entre vocês alguns que seguem o ensino dos nicolaítas.  
-<verse eid="REV 2:15"/><verse number="16" style="v" sid="REV 2:16"/>Arrependa-se. Se não fizer isso, virei a você sem demora e lutarei contra eles com a espada que sai da minha boca. 
-<verse eid="REV 2:16"/><verse number="17" style="v" sid="REV 2:17"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei do maná escondido. Também darei a cada um uma pedra branca, e nessa pedra estará gravado um novo nome, que ninguém conhece, a não ser aquele que o recebe. 
-<verse eid="REV 2:17"/><verse number="18" style="v" sid="REV 2:18"/>Ao anjo da igreja em Tiatira, escreva: Esta é a mensagem do Filho de Deus, cujos olhos são como chamas de fogo e cujos pés brilham como bronze reluzente. 
-<verse eid="REV 2:18"/><verse number="19" style="v" sid="REV 2:19"/>Eu conheço as suas obras, o seu amor, a sua fé, o seu serviço e a sua perseverança, e vejo que você tem crescido em tudo isso, fazendo agora mais do que fazia no início.  
-<verse eid="REV 2:19"/><verse number="20" style="v" sid="REV 2:20"/>Mas tenho contra você o seguinte: você permite que Jezabel, aquela mulher que se apresenta como profetisa, ensine e engane os meus servos, levando-os à imoralidade sexual e a comer carne oferecida aos ídolos.
-<verse eid="REV 2:20"/><verse number="21" style="v" sid="REV 2:21"/>Eu lhe dei tempo para se arrepender da sua imoralidade, mas ela não quer se arrepender.
-<verse eid="REV 2:21"/><verse number="22" style="v" sid="REV 2:22"/>Portanto, preste atenção: eu a lançarei em leito de dor, em grande aflição, e também todos os que cometem adultério com ela, se não se voltarem para mim, arrependidos das obras que ela pratica. 
-<verse eid="REV 2:22"/><verse number="23" style="v" sid="REV 2:23"/>Matarei os filhos dela, e todas as igrejas saberão que eu sou aquele que sonda mente e coração. Eu retribuirei a cada um de vocês segundo as suas obras. 
-<verse eid="REV 2:23"/><verse number="24" style="v" sid="REV 2:24"/>Quanto a vocês, os demais que estão em Tiatira, que não seguem esse ensino e não aceitaram o que eles chamam de ‘profundas verdades’, os profundos segredos de Satanás, não pedirei nada mais;
-<verse eid="REV 2:24"/><verse number="25" style="v" sid="REV 2:25"/>apenas que conservem firmemente o que vocês têm, até que eu venha. 
-<verse eid="REV 2:25"/><verse number="26" style="v" sid="REV 2:26"/>Ao que vencer e continuar até o fim na prática das obras que me agradam, darei autoridade sobre as nações. 
-<verse eid="REV 2:26"/><verse number="27" style="v" sid="REV 2:27"/>Ele as governará com cetro de ferro. Elas serão despedaçadas como um vaso de barro que se quebra em muitos pedaços.
-<verse eid="REV 2:27"/><verse number="28" style="v" sid="REV 2:28"/>Eu lhe darei a mesma autoridade que recebi de meu Pai e também lhe darei a estrela da manhã.  
-<verse eid="REV 2:28"/><verse number="29" style="v" sid="REV 2:29"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas”. 
+  <para style="p"><verse number="1" style="v" sid="REV 2:1"/>“Ao anjo da igreja em Éfeso, escreva: Esta é a mensagem daquele que segura em sua mão direita as sete estrelas e que anda entre os sete castiçais de ouro.
+<verse eid="REV 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 2:2"/>Eu conheço tudo o que você faz. Vejo o seu trabalho cansativo e a sua perseverança. Sei que você não aceita o mal, que examina com cuidado os que afirmam ser apóstolos e não são, e já provou que eles são mentirosos.
+<verse eid="REV 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 2:3"/>Você tem suportado sofrimentos por causa do meu nome, tem perseverado e não desistiu.
+<verse eid="REV 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 2:4"/>Mas tenho algo contra você: você já não tem o mesmo amor que tinha no princípio!
+<verse eid="REV 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 2:5"/>Lembre-se de onde você caiu, arrependa-se e volte a praticar as primeiras obras. Se não fizer isso, virei a você e tirarei o seu castiçal do lugar em que está.
+<verse eid="REV 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 2:6"/>Contudo, há algo bom em seu favor: você rejeita as obras dos nicolaítas, obras que eu também rejeito.
+<verse eid="REV 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 2:7"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei o direito de comer da árvore da vida, que está no paraíso de Deus.
+<verse eid="REV 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 2:8"/>Ao anjo da igreja em Esmirna, escreva: Esta é a mensagem daquele que é o Primeiro e o Último, que esteve morto e tornou a viver.
+<verse eid="REV 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 2:9"/>Eu conheço o seu sofrimento e sei da sua pobreza, mas você é rico. Sei também das calúnias dos que dizem ser judeus e não são, mas que são como uma sinagoga de Satanás.
+<verse eid="REV 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 2:10"/>Não tenha medo do que está prestes a sofrer. O diabo lançará em breve alguns de vocês na prisão para colocá-los à prova, e vocês serão perseguidos durante dez dias. Seja fiel até mesmo diante da morte, e eu lhe darei a coroa da vida.
+<verse eid="REV 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 2:11"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Aquele que vencer de modo algum será atingido pela segunda morte.
+<verse eid="REV 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 2:12"/>Ao anjo da igreja em Pérgamo, escreva: Esta é a mensagem daquele que tem a espada afiada de dois gumes.
+<verse eid="REV 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 2:13"/>Eu sei que você vive onde está o trono de Satanás. Mesmo assim, você permanece fiel a mim e não negou a fé em mim, nem mesmo quando Antipas, minha testemunha fiel, foi morto entre vocês, nesse lugar onde Satanás habita.
+<verse eid="REV 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 2:14"/>Mas tenho algumas coisas contra você: você tolera aí pessoas que seguem o ensino de Balaão, que orientou Balaque a armar ciladas contra Israel, levando o meu povo a cair em imoralidade sexual e a participar de refeições dedicadas a ídolos.
+<verse eid="REV 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 2:15"/>Do mesmo modo, há também entre vocês alguns que seguem o ensino dos nicolaítas.
+<verse eid="REV 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 2:16"/>Arrependa-se. Se não fizer isso, virei a você sem demora e lutarei contra eles com a espada que sai da minha boca.
+<verse eid="REV 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 2:17"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei do maná escondido. Também darei a cada um uma pedra branca, e nessa pedra estará gravado um novo nome, que ninguém conhece, a não ser aquele que o recebe.
+<verse eid="REV 2:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 2:18"/>Ao anjo da igreja em Tiatira, escreva: Esta é a mensagem do Filho de Deus, cujos olhos são como chamas de fogo e cujos pés brilham como bronze reluzente.
+<verse eid="REV 2:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 2:19"/>Eu conheço as suas obras, o seu amor, a sua fé, o seu serviço e a sua perseverança, e vejo que você tem crescido em tudo isso, fazendo agora mais do que fazia no início.
+<verse eid="REV 2:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 2:20"/>Mas tenho contra você o seguinte: você permite que Jezabel, aquela mulher que se apresenta como profetisa, ensine e engane os meus servos, levando-os à imoralidade sexual e a comer carne oferecida aos ídolos.
+<verse eid="REV 2:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 2:21"/>Eu lhe dei tempo para se arrepender da sua imoralidade, mas ela não quer se arrepender.
+<verse eid="REV 2:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="REV 2:22"/>Portanto, preste atenção: eu a lançarei em leito de dor, em grande aflição, e também todos os que cometem adultério com ela, se não se voltarem para mim, arrependidos das obras que ela pratica.
+<verse eid="REV 2:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="REV 2:23"/>Matarei os filhos dela, e todas as igrejas saberão que eu sou aquele que sonda mente e coração. Eu retribuirei a cada um de vocês segundo as suas obras.
+<verse eid="REV 2:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="REV 2:24"/>Quanto a vocês, os demais que estão em Tiatira, que não seguem esse ensino e não aceitaram o que eles chamam de ‘profundas verdades’, os profundos segredos de Satanás, não pedirei nada mais;
+<verse eid="REV 2:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="REV 2:25"/>apenas que conservem firmemente o que vocês têm, até que eu venha.
+<verse eid="REV 2:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="REV 2:26"/>Ao que vencer e continuar até o fim na prática das obras que me agradam, darei autoridade sobre as nações.
+<verse eid="REV 2:26"/></para>
+  <para style="p"><verse number="27" style="v" sid="REV 2:27"/>Ele as governará com cetro de ferro. Elas serão despedaçadas como um vaso de barro que se quebra em muitos pedaços.
+<verse eid="REV 2:27"/></para>
+  <para style="p"><verse number="28" style="v" sid="REV 2:28"/>Eu lhe darei a mesma autoridade que recebi de meu Pai e também lhe darei a estrela da manhã.
+<verse eid="REV 2:28"/></para>
+  <para style="p"><verse number="29" style="v" sid="REV 2:29"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas”.
 <verse eid="REV 2:29"/><verse eid="REV 2:29"/></para>
   <chapter eid="REV 2"/>
   <chapter number="3" style="c" sid="REV 3"/>
-  <para style="p"><verse number="1" style="v" sid="REV 3:1"/>“Ao anjo da igreja em Sardes, escreva: Estas palavras vêm daquele que possui os sete espíritos de Deus e as sete estrelas. Eu conheço as suas ações. Você é conhecido como alguém vivo, mas, na verdade, está morto. 
-<verse eid="REV 3:1"/><verse number="2" style="v" sid="REV 3:2"/>Por isso, desperte! Fortaleça o pouco que ainda permanece, pois até o que resta está perto de morrer. As suas obras  não estão de acordo com o que o meu Deus requer.
-<verse eid="REV 3:2"/><verse number="3" style="v" sid="REV 3:3"/>Lembre-se do que você recebeu e ouviu no início. Guarde o que recebeu e ouviu, e arrependa-se. Se você não vigiar, virei de repente, de modo inesperado, como um ladrão, e você não saberá a que hora virei contra você.
-<verse eid="REV 3:3"/><verse number="4" style="v" sid="REV 3:4"/>Mas você tem aí em Sardes algumas pessoas que não mancharam suas roupas. Elas andarão comigo vestidas de branco, pois são dignas.
-<verse eid="REV 3:4"/><verse number="5" style="v" sid="REV 3:5"/>Quem vencer será vestido de roupas brancas. Eu não apagarei o seu nome do Livro da Vida, e declararei o seu nome diante do meu Pai e diante dos seus anjos. 
-<verse eid="REV 3:5"/><verse number="6" style="v" sid="REV 3:6"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas.  
-<verse eid="REV 3:6"/><verse number="7" style="v" sid="REV 3:7"/>Ao anjo da igreja em Filadélfia, escreva: Estas palavras vêm daquele que é santo e verdadeiro, que possui a chave de Davi, que abre o que ninguém pode fechar e fecha o que ninguém pode abrir. 
-<verse eid="REV 3:7"/><verse number="8" style="v" sid="REV 3:8"/>Eu conheço as suas obras. Você tem pouca força, mas guardou a minha palavra e não negou o meu nome. Por isso, coloquei diante de você uma porta aberta que ninguém pode fechar. 
-<verse eid="REV 3:8"/><verse number="9" style="v" sid="REV 3:9"/>Veja: farei com que aqueles que pertencem à sinagoga de Satanás, que dizem ser judeus e não são, mas mentem, venham e se prostrem aos seus pés, e reconheçam que eu amo você.  
-<verse eid="REV 3:9"/><verse number="10" style="v" sid="REV 3:10"/>Porque você me obedeceu com perseverança, eu o guardarei da hora da provação que virá sobre o mundo inteiro, para pôr à prova todos os que habitam sobre a terra.
-<verse eid="REV 3:10"/><verse number="11" style="v" sid="REV 3:11"/>Eu venho em breve. Retenha com firmeza o que você tem, para que ninguém tome a sua coroa.  
-<verse eid="REV 3:11"/><verse number="12" style="v" sid="REV 3:12"/>Ao vencedor farei uma coluna no templo do meu Deus. Ele permanecerá firme ali e nunca mais sairá. Sobre ele escreverei o nome do meu Deus, o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, vinda do meu Deus, e também o meu novo nome. 
-<verse eid="REV 3:12"/><verse number="13" style="v" sid="REV 3:13"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas.  
-<verse eid="REV 3:13"/><verse number="14" style="v" sid="REV 3:14"/>Ao anjo da igreja em Laodiceia, escreva: Estas palavras vêm daquele que é o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:
-<verse eid="REV 3:14"/><verse number="15" style="v" sid="REV 3:15"/>Eu conheço as suas obras. Sei que você não é frio nem quente. Eu preferiria que você fosse frio ou quente! 
-<verse eid="REV 3:15"/><verse number="16" style="v" sid="REV 3:16"/>Mas, porque você é morno, e não é nem frio nem quente, estou prestes a vomitá-lo da minha boca.  
-<verse eid="REV 3:16"/><verse number="17" style="v" sid="REV 3:17"/>Você diz: 'Sou rico, estou bem, não me falta nada'; mas não percebe que espiritualmente é infeliz, miserável, pobre, cego e nu.  
-<verse eid="REV 3:17"/><verse number="18" style="v" sid="REV 3:18"/>Eu o aconselho a comprar de mim ouro refinado no fogo, para que você seja realmente rico; e roupas brancas para vestir, a fim de cobrir a sua vergonha e nudez; e colírio para passar nos olhos, para que possa enxergar.  
-<verse eid="REV 3:18"/><verse number="19" style="v" sid="REV 3:19"/>Eu repreendo e disciplino todos aqueles a quem amo. Portanto, seja zeloso e arrependa-se. 
-<verse eid="REV 3:19"/><verse number="20" style="v" sid="REV 3:20"/>Veja! Estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, entrarei, cearei com ele, e ele comigo. 
-<verse eid="REV 3:20"/><verse number="21" style="v" sid="REV 3:21"/>Ao vencedor darei o direito de sentar-se comigo no meu trono, assim como eu venci e me sentei com meu Pai no seu trono.  
-<verse eid="REV 3:21"/><verse number="22" style="v" sid="REV 3:22"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas". 
+  <para style="p"><verse number="1" style="v" sid="REV 3:1"/>“Ao anjo da igreja em Sardes, escreva: Estas palavras vêm daquele que possui os sete espíritos de Deus e as sete estrelas. Eu conheço as suas ações. Você é conhecido como alguém vivo, mas, na verdade, está morto.
+<verse eid="REV 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 3:2"/>Por isso, desperte! Fortaleça o pouco que ainda permanece, pois até o que resta está perto de morrer. As suas obras não estão de acordo com o que o meu Deus requer.
+<verse eid="REV 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 3:3"/>Lembre-se do que você recebeu e ouviu no início. Guarde o que recebeu e ouviu, e arrependa-se. Se você não vigiar, virei de repente, de modo inesperado, como um ladrão, e você não saberá a que hora virei contra você.
+<verse eid="REV 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 3:4"/>Mas você tem aí em Sardes algumas pessoas que não mancharam suas roupas. Elas andarão comigo vestidas de branco, pois são dignas.
+<verse eid="REV 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 3:5"/>Quem vencer será vestido de roupas brancas. Eu não apagarei o seu nome do Livro da Vida, e declararei o seu nome diante do meu Pai e diante dos seus anjos.
+<verse eid="REV 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 3:6"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
+<verse eid="REV 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 3:7"/>Ao anjo da igreja em Filadélfia, escreva: Estas palavras vêm daquele que é santo e verdadeiro, que possui a chave de Davi, que abre o que ninguém pode fechar e fecha o que ninguém pode abrir.
+<verse eid="REV 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 3:8"/>Eu conheço as suas obras. Você tem pouca força, mas guardou a minha palavra e não negou o meu nome. Por isso, coloquei diante de você uma porta aberta que ninguém pode fechar.
+<verse eid="REV 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 3:9"/>Veja: farei com que aqueles que pertencem à sinagoga de Satanás, que dizem ser judeus e não são, mas mentem, venham e se prostrem aos seus pés, e reconheçam que eu amo você.
+<verse eid="REV 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 3:10"/>Porque você me obedeceu com perseverança, eu o guardarei da hora da provação que virá sobre o mundo inteiro, para pôr à prova todos os que habitam sobre a terra.
+<verse eid="REV 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 3:11"/>Eu venho em breve. Retenha com firmeza o que você tem, para que ninguém tome a sua coroa.
+<verse eid="REV 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 3:12"/>Ao vencedor farei uma coluna no templo do meu Deus. Ele permanecerá firme ali e nunca mais sairá. Sobre ele escreverei o nome do meu Deus, o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, vinda do meu Deus, e também o meu novo nome.
+<verse eid="REV 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 3:13"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
+<verse eid="REV 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 3:14"/>Ao anjo da igreja em Laodiceia, escreva: Estas palavras vêm daquele que é o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:
+<verse eid="REV 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 3:15"/>Eu conheço as suas obras. Sei que você não é frio nem quente. Eu preferiria que você fosse frio ou quente!
+<verse eid="REV 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 3:16"/>Mas, porque você é morno, e não é nem frio nem quente, estou prestes a vomitá-lo da minha boca.
+<verse eid="REV 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 3:17"/>Você diz: ‘Sou rico, estou bem, não me falta nada’; mas não percebe que espiritualmente é infeliz, miserável, pobre, cego e nu.
+<verse eid="REV 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 3:18"/>Eu o aconselho a comprar de mim ouro refinado no fogo, para que você seja realmente rico; e roupas brancas para vestir, a fim de cobrir a sua vergonha e nudez; e colírio para passar nos olhos, para que possa enxergar.
+<verse eid="REV 3:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 3:19"/>Eu repreendo e disciplino todos aqueles a quem amo. Portanto, seja zeloso e arrependa-se.
+<verse eid="REV 3:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 3:20"/>Veja! Estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, entrarei, cearei com ele, e ele comigo.
+<verse eid="REV 3:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 3:21"/>Ao vencedor darei o direito de sentar-se comigo no meu trono, assim como eu venci e me sentei com meu Pai no seu trono.
+<verse eid="REV 3:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="REV 3:22"/>Quem tem ouvidos, ouça o que o Espírito diz às igrejas”.
 <verse eid="REV 3:22"/><verse eid="REV 3:22"/></para>
   <chapter eid="REV 3"/>
   <chapter number="4" style="c" sid="REV 4"/>
-  <para style="p"><verse number="1" style="v" sid="REV 4:1"/>Depois disso, quando olhei, vi uma porta aberta no céu, e a mesma voz que eu tinha ouvido antes, que soava como uma forte trombeta, falou comigo e disse: “Suba até aqui, e eu lhe mostrarei o que deve acontecer depois destas coisas”. 
-<verse eid="REV 4:1"/><verse number="2" style="v" sid="REV 4:2"/>No mesmo momento, fui tomado pelo Espírito, e vi um trono colocado no céu, e alguém estava sentado nesse trono.  
-<verse eid="REV 4:2"/><verse number="3" style="v" sid="REV 4:3"/>Aquele que estava sentado brilhava como jaspe e sardônio, e um arco-íris resplandecente, parecido com uma esmeralda, circundava o trono.
-<verse eid="REV 4:3"/><verse number="4" style="v" sid="REV 4:4"/>Em volta desse trono havia outros 24 tronos, e sobre eles estavam sentados 24 anciãos, vestidos com roupas brancas e com coroas de ouro sobre a cabeça. 
-<verse eid="REV 4:4"/><verse number="5" style="v" sid="REV 4:5"/>Do trono saíam relâmpagos, vozes e trovões. Diante do trono ardiam sete lâmpadas de fogo, que são os sete espíritos de Deus. 
-<verse eid="REV 4:5"/><verse number="6" style="v" sid="REV 4:6"/>Também diante do trono havia algo como um mar transparente, brilhando como cristal. No centro, ao redor do trono, estavam quatro seres viventes, cheios de olhos na frente e atrás. 
-<verse eid="REV 4:6"/><verse number="7" style="v" sid="REV 4:7"/>O primeiro ser vivente parecia um leão; o segundo se assemelhava a um boi; o terceiro tinha rosto de homem; e o quarto parecia uma águia em pleno voo. 
-<verse eid="REV 4:7"/><verse number="8" style="v" sid="REV 4:8"/>Cada um dos quatro seres viventes tinha seis asas e estava cheio de olhos ao redor e por dentro. Dia e noite, sem parar, diziam: “Santo, santo, santo é o Senhor Deus Todo-poderoso, aquele que era, que é e que há de vir”. 
-<verse eid="REV 4:8"/><verse number="9" style="v" sid="REV 4:9"/>Sempre que os seres viventes dão glória, honra e ações de graças ao que está sentado no trono, ao que vive para todo o sempre, 
-<verse eid="REV 4:9"/><verse number="10" style="v" sid="REV 4:10"/>os 24 anciãos se prostram diante daquele que está sentado no trono, adoram o que vive eternamente e lançam as suas coroas diante do trono, dizendo: 
-<verse eid="REV 4:10"/><verse number="11" style="v" sid="REV 4:11"/>“Senhor, nosso Deus, tu és digno de receber a glória, a honra e o poder, porque criaste todas as coisas. Por tua vontade, elas vieram a existir e foram criadas”. 
+  <para style="p"><verse number="1" style="v" sid="REV 4:1"/>Depois disso, quando olhei, vi uma porta aberta no céu, e a mesma voz que eu tinha ouvido antes, que soava como uma forte trombeta, falou comigo e disse: “Suba até aqui, e eu lhe mostrarei o que deve acontecer depois destas coisas”.
+<verse eid="REV 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 4:2"/>No mesmo momento, fui tomado pelo Espírito, e vi um trono colocado no céu, e alguém estava sentado nesse trono.
+<verse eid="REV 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 4:3"/>Aquele que estava sentado brilhava como jaspe e sardônio, e um arco-íris resplandecente, parecido com uma esmeralda, circundava o trono.
+<verse eid="REV 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 4:4"/>Em volta desse trono havia outros 24 tronos, e sobre eles estavam sentados 24 anciãos, vestidos com roupas brancas e com coroas de ouro sobre a cabeça.
+<verse eid="REV 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 4:5"/>Do trono saíam relâmpagos, vozes e trovões. Diante do trono ardiam sete lâmpadas de fogo, que são os sete espíritos de Deus.
+<verse eid="REV 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 4:6"/>Também diante do trono havia algo como um mar transparente, brilhando como cristal. No centro, ao redor do trono, estavam quatro seres viventes, cheios de olhos na frente e atrás.
+<verse eid="REV 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 4:7"/>O primeiro ser vivente parecia um leão; o segundo se assemelhava a um boi; o terceiro tinha rosto de homem; e o quarto parecia uma águia em pleno voo.
+<verse eid="REV 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 4:8"/>Cada um dos quatro seres viventes tinha seis asas e estava cheio de olhos ao redor e por dentro. Dia e noite, sem parar, diziam: “Santo, santo, santo é o Senhor Deus Todo-poderoso, aquele que era, que é e que há de vir”.
+<verse eid="REV 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 4:9"/>Sempre que os seres viventes dão glória, honra e ações de graças ao que está sentado no trono, ao que vive para todo o sempre,
+<verse eid="REV 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 4:10"/>os 24 anciãos se prostram diante daquele que está sentado no trono, adoram o que vive eternamente e lançam as suas coroas diante do trono, dizendo:
+<verse eid="REV 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 4:11"/>“Senhor, nosso Deus, tu és digno de receber a glória, a honra e o poder, porque criaste todas as coisas. Por tua vontade, elas vieram a existir e foram criadas”.
 <verse eid="REV 4:11"/><verse eid="REV 4:11"/></para>
   <chapter eid="REV 4"/>
   <chapter number="5" style="c" sid="REV 5"/>
-  <para style="p"><verse number="1" style="v" sid="REV 5:1"/>Então vi, na mão direita daquele que está sentado no trono, um livro em forma de rolo, escrito por dentro e por fora, fechado com sete selos.  
-<verse eid="REV 5:1"/><verse number="2" style="v" sid="REV 5:2"/>Vi também um anjo forte, que proclamava em alta voz: “Quem é digno de romper os selos deste rolo e de abri-lo?”. 
-<verse eid="REV 5:2"/><verse number="3" style="v" sid="REV 5:3"/>Mas ninguém no céu, nem sobre a terra, nem debaixo da terra, podia abrir o rolo nem olhar o que estava escrito.  
-<verse eid="REV 5:3"/><verse number="4" style="v" sid="REV 5:4"/>Então comecei a chorar muito, porque não se encontrava ninguém em lugar algum que fosse digno de abrir o livro e de olhar para ele. 
-<verse eid="REV 5:4"/><verse number="5" style="v" sid="REV 5:5"/>Porém um dos anciãos me disse: “Não chore mais! O Leão da tribo de Judá, a Raiz de Davi, venceu e é digno de abrir o livro e de romper os seus sete selos”.  
-<verse eid="REV 5:5"/><verse number="6" style="v" sid="REV 5:6"/>Olhei e vi um Cordeiro em pé, no centro do trono, entre os quatro seres viventes e os vinte e quatro anciãos. Ele parecia ter sido morto, e tinha sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra. 
-<verse eid="REV 5:6"/><verse number="7" style="v" sid="REV 5:7"/>O Cordeiro aproximou-se e tomou o livro da mão direita daquele que está sentado no trono.  
-<verse eid="REV 5:7"/><verse number="8" style="v" sid="REV 5:8"/>Quando ele recebeu o livro, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro. Cada um tinha uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.
-<verse eid="REV 5:8"/><verse number="9" style="v" sid="REV 5:9"/>E cantavam um cântico novo, dizendo: “Tu és digno de tomar o livro e de abrir os seus selos, porque foste morto e, com o teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação. 
-<verse eid="REV 5:9"/><verse number="10" style="v" sid="REV 5:10"/>Tu os fizeste um reino e sacerdotes para o nosso Deus, e eles reinarão sobre a terra".
-<verse eid="REV 5:10"/><verse number="11" style="v" sid="REV 5:11"/>Então, na visão, ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos. Eram milhares de milhares e milhões de milhões. 
-<verse eid="REV 5:11"/><verse number="12" style="v" sid="REV 5:12"/>E cantavam em voz forte: “O Cordeiro que foi morto é digno de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e o louvor”. 
-<verse eid="REV 5:12"/><verse number="13" style="v" sid="REV 5:13"/>Depois ouvi todas as criaturas que estão no céu, sobre a terra, debaixo da terra e no mar, e tudo o que neles há, dizendo: “Àquele que está sentado no trono e ao Cordeiro pertencem o louvor, a honra, a glória e o poder, para todo o sempre”.  
-<verse eid="REV 5:13"/><verse number="14" style="v" sid="REV 5:14"/>E os quatro seres viventes respondiam: “Amém!”; e os vinte e quatro anciãos se prostraram e o adoraram. 
+  <para style="p"><verse number="1" style="v" sid="REV 5:1"/>Então vi, na mão direita daquele que está sentado no trono, um livro em forma de rolo, escrito por dentro e por fora, fechado com sete selos.
+<verse eid="REV 5:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 5:2"/>Vi também um anjo forte, que proclamava em alta voz: “Quem é digno de romper os selos deste rolo e de abri-lo?”.
+<verse eid="REV 5:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 5:3"/>Mas ninguém no céu, nem sobre a terra, nem debaixo da terra, podia abrir o rolo nem olhar o que estava escrito.
+<verse eid="REV 5:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 5:4"/>Então comecei a chorar muito, porque não se encontrava ninguém em lugar algum que fosse digno de abrir o livro e de olhar para ele.
+<verse eid="REV 5:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 5:5"/>Porém um dos anciãos me disse: “Não chore mais! O Leão da tribo de Judá, a Raiz de Davi, venceu e é digno de abrir o livro e de romper os seus sete selos”.
+<verse eid="REV 5:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 5:6"/>Olhei e vi um Cordeiro em pé, no centro do trono, entre os quatro seres viventes e os vinte e quatro anciãos. Ele parecia ter sido morto, e tinha sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra.
+<verse eid="REV 5:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 5:7"/>O Cordeiro aproximou-se e tomou o livro da mão direita daquele que está sentado no trono.
+<verse eid="REV 5:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 5:8"/>Quando ele recebeu o livro, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro. Cada um tinha uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.
+<verse eid="REV 5:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 5:9"/>E cantavam um cântico novo, dizendo: “Tu és digno de tomar o livro e de abrir os seus selos, porque foste morto e, com o teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação.
+<verse eid="REV 5:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 5:10"/>Tu os fizeste um reino e sacerdotes para o nosso Deus, e eles reinarão sobre a terra”.
+<verse eid="REV 5:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 5:11"/>Então, na visão, ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos. Eram milhares de milhares e milhões de milhões.
+<verse eid="REV 5:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 5:12"/>E cantavam em voz forte: “O Cordeiro que foi morto é digno de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e o louvor”.
+<verse eid="REV 5:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 5:13"/>Depois ouvi todas as criaturas que estão no céu, sobre a terra, debaixo da terra e no mar, e tudo o que neles há, dizendo: “Àquele que está sentado no trono e ao Cordeiro pertencem o louvor, a honra, a glória e o poder, para todo o sempre”.
+<verse eid="REV 5:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 5:14"/>E os quatro seres viventes respondiam: “Amém!”; e os vinte e quatro anciãos se prostraram e o adoraram.
 <verse eid="REV 5:14"/><verse eid="REV 5:14"/></para>
   <chapter eid="REV 5"/>
   <chapter number="6" style="c" sid="REV 6"/>
-  <para style="p"><verse number="1" style="v" sid="REV 6:1"/>Enquanto eu olhava, o Cordeiro abriu o primeiro dos sete selos, e um dos quatro seres viventes falou com voz forte como trovão: “Venha!”.  
-<verse eid="REV 6:1"/><verse number="2" style="v" sid="REV 6:2"/>Então vi diante de mim um cavalo branco. Seu cavaleiro segurava um arco. Ele recebeu uma coroa sobre a cabeça e saiu cavalgando. Ele avançava para vencer e continuar a conquistar. 
-<verse eid="REV 6:2"/><verse number="3" style="v" sid="REV 6:3"/>Em seguida, o Cordeiro rompeu o segundo selo, e ouvi o segundo ser vivente dizer: “Venha!”.  
-<verse eid="REV 6:3"/><verse number="4" style="v" sid="REV 6:4"/>Apareceu então um cavalo vermelho. Ao seu cavaleiro foi dada uma grande espada e autoridade para tirar a paz da terra, para que as pessoas se matassem umas às outras. 
-<verse eid="REV 6:4"/><verse number="5" style="v" sid="REV 6:5"/>Quando o Cordeiro quebrou o terceiro selo, ouvi o terceiro ser vivente dizer: “Venha!”, e vi um cavalo negro; o cavaleiro segurava uma balança na mão.  
-<verse eid="REV 6:5"/><verse number="6" style="v" sid="REV 6:6"/>E ouvi uma voz que vinha do meio dos quatro seres viventes, dizendo: “Um quilo de trigo por um denário, e três quilos de cevada por um denário, mas não toque no azeite de oliva nem no vinho”.  
-<verse eid="REV 6:6"/><verse number="7" style="v" sid="REV 6:7"/>Quando o Cordeiro abriu o quarto selo, ouvi o quarto ser vivente dizer: “Venha!”.  
-<verse eid="REV 6:7"/><verse number="8" style="v" sid="REV 6:8"/>Então vi um cavalo amarelo. O nome do cavaleiro era Morte, e o Inferno o seguia logo atrás. Eles receberam poder sobre a quarta parte da terra, para matar pela guerra, pela fome, pelas doenças e por meio dos animais selvagens da terra. 
-<verse eid="REV 6:8"/><verse number="9" style="v" sid="REV 6:9"/>Quando ele quebrou o quinto selo, vi um altar e, debaixo dele, as almas daqueles que tinham sido mortos por causa da palavra de Deus e do testemunho que deram. 
-<verse eid="REV 6:9"/><verse number="10" style="v" sid="REV 6:10"/>Eles clamavam em alta voz e diziam: “Ó Senhor soberano, santo e verdadeiro, até quando o Senhor deixará de julgar os habitantes da terra e de vingar o nosso sangue?”.  
-<verse eid="REV 6:10"/><verse number="11" style="v" sid="REV 6:11"/>Então cada um deles recebeu uma roupa branca, e lhes foi dito que esperassem mais um pouco, até que se completasse o número dos seus companheiros no trabalho de Cristo e irmãos, que ainda seriam mortos como eles. 
-<verse eid="REV 6:11"/><verse number="12" style="v" sid="REV 6:12"/>Eu continuei a olhar quando ele abriu o sexto selo; e houve um grande terremoto. O sol escureceu como pano negro, e a lua ficou com aparência de sangue. 
-<verse eid="REV 6:12"/><verse number="13" style="v" sid="REV 6:13"/>As estrelas do céu caíram sobre a terra, como figos verdes que caem da figueira quando ela é sacudida por um vento forte.
-<verse eid="REV 6:13"/><verse number="14" style="v" sid="REV 6:14"/>O céu recolheu-se como um rolo que se enrola, e todas as montanhas e todas as ilhas foram tiradas do seu lugar.
-<verse eid="REV 6:14"/><verse number="15" style="v" sid="REV 6:15"/>Os reis da terra, os grandes líderes, os chefes militares, os ricos, os poderosos e todo ser humano, escravos e livres, esconderam-se nas cavernas e entre as rochas das montanhas. 
-<verse eid="REV 6:15"/><verse number="16" style="v" sid="REV 6:16"/>E diziam às montanhas e às rochas: “Caiam sobre nós e escondam-nos da presença daquele que está sentado no trono e da ira do Cordeiro,  
-<verse eid="REV 6:16"/><verse number="17" style="v" sid="REV 6:17"/>pois chegou o grande dia da ira deles, e quem é capaz de permanecer em pé?”. 
+  <para style="p"><verse number="1" style="v" sid="REV 6:1"/>Enquanto eu olhava, o Cordeiro abriu o primeiro dos sete selos, e um dos quatro seres viventes falou com voz forte como trovão: “Venha!”.
+<verse eid="REV 6:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 6:2"/>Então vi diante de mim um cavalo branco. Seu cavaleiro segurava um arco. Ele recebeu uma coroa sobre a cabeça e saiu cavalgando. Ele avançava para vencer e continuar a conquistar.
+<verse eid="REV 6:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 6:3"/>Em seguida, o Cordeiro rompeu o segundo selo, e ouvi o segundo ser vivente dizer: “Venha!”.
+<verse eid="REV 6:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 6:4"/>Apareceu então um cavalo vermelho. Ao seu cavaleiro foi dada uma grande espada e autoridade para tirar a paz da terra, para que as pessoas se matassem umas às outras.
+<verse eid="REV 6:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 6:5"/>Quando o Cordeiro quebrou o terceiro selo, ouvi o terceiro ser vivente dizer: “Venha!”, e vi um cavalo negro; o cavaleiro segurava uma balança na mão.
+<verse eid="REV 6:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 6:6"/>E ouvi uma voz que vinha do meio dos quatro seres viventes, dizendo: “Um quilo de trigo por um denário, e três quilos de cevada por um denário, mas não toque no azeite de oliva nem no vinho”.
+<verse eid="REV 6:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 6:7"/>Quando o Cordeiro abriu o quarto selo, ouvi o quarto ser vivente dizer: “Venha!”.
+<verse eid="REV 6:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 6:8"/>Então vi um cavalo amarelo. O nome do cavaleiro era Morte, e o Inferno o seguia logo atrás. Eles receberam poder sobre a quarta parte da terra, para matar pela guerra, pela fome, pelas doenças e por meio dos animais selvagens da terra.
+<verse eid="REV 6:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 6:9"/>Quando ele quebrou o quinto selo, vi um altar e, debaixo dele, as almas daqueles que tinham sido mortos por causa da palavra de Deus e do testemunho que deram.
+<verse eid="REV 6:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 6:10"/>Eles clamavam em alta voz e diziam: “Ó Senhor soberano, santo e verdadeiro, até quando o Senhor deixará de julgar os habitantes da terra e de vingar o nosso sangue?”.
+<verse eid="REV 6:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 6:11"/>Então cada um deles recebeu uma roupa branca, e lhes foi dito que esperassem mais um pouco, até que se completasse o número dos seus companheiros no trabalho de Cristo e irmãos, que ainda seriam mortos como eles.
+<verse eid="REV 6:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 6:12"/>Eu continuei a olhar quando ele abriu o sexto selo; e houve um grande terremoto. O sol escureceu como pano negro, e a lua ficou com aparência de sangue.
+<verse eid="REV 6:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 6:13"/>As estrelas do céu caíram sobre a terra, como figos verdes que caem da figueira quando ela é sacudida por um vento forte.
+<verse eid="REV 6:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 6:14"/>O céu recolheu-se como um rolo que se enrola, e todas as montanhas e todas as ilhas foram tiradas do seu lugar.
+<verse eid="REV 6:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 6:15"/>Os reis da terra, os grandes líderes, os chefes militares, os ricos, os poderosos e todo ser humano, escravos e livres, esconderam-se nas cavernas e entre as rochas das montanhas.
+<verse eid="REV 6:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 6:16"/>E diziam às montanhas e às rochas: “Caiam sobre nós e escondam-nos da presença daquele que está sentado no trono e da ira do Cordeiro,
+<verse eid="REV 6:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 6:17"/>pois chegou o grande dia da ira deles, e quem é capaz de permanecer em pé?”.
 <verse eid="REV 6:17"/><verse eid="REV 6:17"/></para>
   <chapter eid="REV 6"/>
   <chapter number="7" style="c" sid="REV 7"/>
-  <para style="p"><verse number="1" style="v" sid="REV 7:1"/>Então vi quatro anjos posicionados nos quatro cantos da terra, segurando os quatro ventos, para que não soprassem sobre a terra, nem sobre o mar, nem sobre árvore alguma.  
-<verse eid="REV 7:1"/><verse number="2" style="v" sid="REV 7:2"/>Vi também outro anjo que vinha do leste, trazendo o selo do Deus vivo, e ele clamou fortemente aos quatro anjos que tinham recebido autoridade para causar dano à terra e ao mar.
-<verse eid="REV 7:2"/><verse number="3" style="v" sid="REV 7:3"/>Ele disse: “Esperem! Não causem ainda nenhum dano à terra, nem ao mar, nem às árvores, até que tenhamos selado a testa dos servos do nosso Deus”.
-<verse eid="REV 7:3"/><verse number="4" style="v" sid="REV 7:4"/>Então ouvi o número dos que foram selados; eram 144 mil, de todas as tribos dos filhos de Israel.  
-<verse eid="REV 7:4"/><verse number="5" style="v" sid="REV 7:5"/>Da tribo de Judá foram selados 12 mil; da tribo de Rúben, 12 mil; da tribo de Gade, 12 mil;
-<verse eid="REV 7:5"/><verse number="6" style="v" sid="REV 7:6"/>da tribo de Aser, 12 mil; da tribo de Naftali, 12 mil; da tribo de Manassés, 12 mil;
-<verse eid="REV 7:6"/><verse number="7" style="v" sid="REV 7:7"/>da tribo de Simeão, 12 mil; da tribo de Levi, 12 mil; da tribo de Issacar, 12 mil;
-<verse eid="REV 7:7"/><verse number="8" style="v" sid="REV 7:8"/>da tribo de Zebulom, 12 mil; da tribo de José, 12 mil; da tribo de Benjamim, 12 mil.  
-<verse eid="REV 7:8"/><verse number="9" style="v" sid="REV 7:9"/>Depois disso, vi uma grande multidão, tão numerosa que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestidos com roupas brancas e segurando ramos de palmeiras nas mãos.
-<verse eid="REV 7:9"/><verse number="10" style="v" sid="REV 7:10"/>E eles clamavam em alta voz: “A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro”.  
-<verse eid="REV 7:10"/><verse number="11" style="v" sid="REV 7:11"/>Todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes; e se prostraram com o rosto em terra diante do trono e adoraram a Deus, dizendo:
-<verse eid="REV 7:11"/><verse number="12" style="v" sid="REV 7:12"/>“Amém! Louvor, glória, sabedoria, ação de graças, honra, poder e força sejam dados ao nosso Deus, para todo o sempre. Amém!”. 
-<verse eid="REV 7:12"/><verse number="13" style="v" sid="REV 7:13"/>Então um dos 24 anciãos me perguntou: “Você sabe quem são estes que estão vestidos de branco e de onde vieram?”. 
-<verse eid="REV 7:13"/><verse number="14" style="v" sid="REV 7:14"/>Eu respondi: “Meu senhor, o senhor é quem sabe”. E ele disse: “Estes são os que vieram da grande tribulação. Eles lavaram suas roupas e as tornaram brancas no sangue do Cordeiro. 
-<verse eid="REV 7:14"/><verse number="15" style="v" sid="REV 7:15"/>Por isso estão diante do trono de Deus e o servem dia e noite no seu templo. Aquele que está sentado no trono estenderá sobre eles a sua tenda.
-<verse eid="REV 7:15"/><verse number="16" style="v" sid="REV 7:16"/>Eles nunca mais terão fome, nunca mais terão sede; o sol não os ferirá, nem qualquer calor ardente.  
-<verse eid="REV 7:16"/><verse number="17" style="v" sid="REV 7:17"/>Pois o Cordeiro que está no centro do trono será o pastor deles e os conduzirá às fontes de água viva; e Deus enxugará de seus olhos toda lágrima”. 
+  <para style="p"><verse number="1" style="v" sid="REV 7:1"/>Então vi quatro anjos posicionados nos quatro cantos da terra, segurando os quatro ventos, para que não soprassem sobre a terra, nem sobre o mar, nem sobre árvore alguma.
+<verse eid="REV 7:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 7:2"/>Vi também outro anjo que vinha do leste, trazendo o selo do Deus vivo, e ele clamou fortemente aos quatro anjos que tinham recebido autoridade para causar dano à terra e ao mar.
+<verse eid="REV 7:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 7:3"/>Ele disse: “Esperem! Não causem ainda nenhum dano à terra, nem ao mar, nem às árvores, até que tenhamos selado a testa dos servos do nosso Deus”.
+<verse eid="REV 7:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 7:4"/>Então ouvi o número dos que foram selados; eram 144 mil, de todas as tribos dos filhos de Israel.
+<verse eid="REV 7:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 7:5"/>Da tribo de Judá foram selados 12 mil; da tribo de Rúben, 12 mil; da tribo de Gade, 12 mil;
+<verse eid="REV 7:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 7:6"/>da tribo de Aser, 12 mil; da tribo de Naftali, 12 mil; da tribo de Manassés, 12 mil;
+<verse eid="REV 7:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 7:7"/>da tribo de Simeão, 12 mil; da tribo de Levi, 12 mil; da tribo de Issacar, 12 mil;
+<verse eid="REV 7:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 7:8"/>da tribo de Zebulom, 12 mil; da tribo de José, 12 mil; da tribo de Benjamim, 12 mil.
+<verse eid="REV 7:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 7:9"/>Depois disso, vi uma grande multidão, tão numerosa que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestidos com roupas brancas e segurando ramos de palmeiras nas mãos.
+<verse eid="REV 7:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 7:10"/>E eles clamavam em alta voz: “A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro”.
+<verse eid="REV 7:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 7:11"/>Todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes; e se prostraram com o rosto em terra diante do trono e adoraram a Deus, dizendo:
+<verse eid="REV 7:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 7:12"/>“Amém! Louvor, glória, sabedoria, ação de graças, honra, poder e força sejam dados ao nosso Deus, para todo o sempre. Amém!”.
+<verse eid="REV 7:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 7:13"/>Então um dos 24 anciãos me perguntou: “Você sabe quem são estes que estão vestidos de branco e de onde vieram?”.
+<verse eid="REV 7:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 7:14"/>Eu respondi: “Meu senhor, o senhor é quem sabe”. E ele disse: “Estes são os que vieram da grande tribulação. Eles lavaram suas roupas e as tornaram brancas no sangue do Cordeiro.
+<verse eid="REV 7:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 7:15"/>Por isso estão diante do trono de Deus e o servem dia e noite no seu templo. Aquele que está sentado no trono estenderá sobre eles a sua tenda.
+<verse eid="REV 7:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 7:16"/>Eles nunca mais terão fome, nunca mais terão sede; o sol não os ferirá, nem qualquer calor ardente.
+<verse eid="REV 7:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 7:17"/>Pois o Cordeiro que está no centro do trono será o pastor deles e os conduzirá às fontes de água viva; e Deus enxugará de seus olhos toda lágrima”.
 <verse eid="REV 7:17"/><verse eid="REV 7:17"/></para>
   <chapter eid="REV 7"/>
   <chapter number="8" style="c" sid="REV 8"/>
-  <para style="p"><verse number="1" style="v" sid="REV 8:1"/>Quando o Cordeiro abriu o sétimo selo, houve silêncio no céu por cerca de meia hora. 
-<verse eid="REV 8:1"/><verse number="2" style="v" sid="REV 8:2"/>Então vi sete anjos que estavam diante de Deus, e a eles foram entregues sete trombetas.  
-<verse eid="REV 8:2"/><verse number="3" style="v" sid="REV 8:3"/>Veio outro anjo, trazendo um incensário de ouro, e ficou junto ao altar. Deram-lhe muito incenso, para misturar com as orações dos santos e oferecer sobre o altar de ouro diante do trono. 
-<verse eid="REV 8:3"/><verse number="4" style="v" sid="REV 8:4"/>Das mãos do anjo subia até Deus a fumaça perfumada do incenso, unida às orações dos santos. 
-<verse eid="REV 8:4"/><verse number="5" style="v" sid="REV 8:5"/>Em seguida, o anjo encheu o incensário com fogo tirado do altar e o lançou sobre a terra. Então houve trovões, vozes, relâmpagos e um terremoto. 
-<verse eid="REV 8:5"/><verse number="6" style="v" sid="REV 8:6"/>Depois disso, os sete anjos que tinham as sete trombetas se prepararam para tocá-las. 
-<verse eid="REV 8:6"/><verse number="7" style="v" sid="REV 8:7"/>O primeiro anjo tocou a trombeta, e fogo e granizo, misturados com sangue, foram lançados sobre a terra; queimou-se a terça parte da terra, a terça parte das árvores e toda a erva verde.  
-<verse eid="REV 8:7"/><verse number="8" style="v" sid="REV 8:8"/>O segundo anjo tocou a trombeta, e algo parecido com uma enorme montanha em chamas foi lançado ao mar, e a terça parte do mar tornou-se como sangue.
-<verse eid="REV 8:8"/><verse number="9" style="v" sid="REV 8:9"/>Morreu a terça parte das criaturas que viviam no mar, e foi destruída a terça parte dos navios e barcos.  
-<verse eid="REV 8:9"/><verse number="10" style="v" sid="REV 8:10"/>O terceiro anjo tocou a trombeta, e uma grande estrela em chamas caiu do céu sobre a terça parte dos rios e sobre as fontes de água.  
-<verse eid="REV 8:10"/><verse number="11" style="v" sid="REV 8:11"/>O nome da estrela era Absinto, e ela tornou amargo um terço das águas. Muitos morreram por causa dessas águas que se tornaram amargas. 
-<verse eid="REV 8:11"/><verse number="12" style="v" sid="REV 8:12"/>O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, da lua e das estrelas; assim, a luz do dia diminuiu em um terço, e a noite ficou um terço mais escura.  
-<verse eid="REV 8:12"/><verse number="13" style="v" sid="REV 8:13"/>Enquanto eu olhava, vi uma águia voando pelo meio do céu e dizendo em voz forte: “Ai, ai, ai dos que habitam sobre a terra, por causa dos toques das trombetas dos três anjos que ainda estão para tocar”.
+  <para style="p"><verse number="1" style="v" sid="REV 8:1"/>Quando o Cordeiro abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.
+<verse eid="REV 8:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 8:2"/>Então vi sete anjos que estavam diante de Deus, e a eles foram entregues sete trombetas.
+<verse eid="REV 8:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 8:3"/>Veio outro anjo, trazendo um incensário de ouro, e ficou junto ao altar. Deram-lhe muito incenso, para misturar com as orações dos santos e oferecer sobre o altar de ouro diante do trono.
+<verse eid="REV 8:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 8:4"/>Das mãos do anjo subia até Deus a fumaça perfumada do incenso, unida às orações dos santos.
+<verse eid="REV 8:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 8:5"/>Em seguida, o anjo encheu o incensário com fogo tirado do altar e o lançou sobre a terra. Então houve trovões, vozes, relâmpagos e um terremoto.
+<verse eid="REV 8:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 8:6"/>Depois disso, os sete anjos que tinham as sete trombetas se prepararam para tocá-las.
+<verse eid="REV 8:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 8:7"/>O primeiro anjo tocou a trombeta, e fogo e granizo, misturados com sangue, foram lançados sobre a terra; queimou-se a terça parte da terra, a terça parte das árvores e toda a erva verde.
+<verse eid="REV 8:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 8:8"/>O segundo anjo tocou a trombeta, e algo parecido com uma enorme montanha em chamas foi lançado ao mar, e a terça parte do mar tornou-se como sangue.
+<verse eid="REV 8:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 8:9"/>Morreu a terça parte das criaturas que viviam no mar, e foi destruída a terça parte dos navios e barcos.
+<verse eid="REV 8:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 8:10"/>O terceiro anjo tocou a trombeta, e uma grande estrela em chamas caiu do céu sobre a terça parte dos rios e sobre as fontes de água.
+<verse eid="REV 8:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 8:11"/>O nome da estrela era Absinto, e ela tornou amargo um terço das águas. Muitos morreram por causa dessas águas que se tornaram amargas.
+<verse eid="REV 8:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 8:12"/>O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, da lua e das estrelas; assim, a luz do dia diminuiu em um terço, e a noite ficou um terço mais escura.
+<verse eid="REV 8:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 8:13"/>Enquanto eu olhava, vi uma águia voando pelo meio do céu e dizendo em voz forte: “Ai, ai, ai dos que habitam sobre a terra, por causa dos toques das trombetas dos três anjos que ainda estão para tocar”.
 <verse eid="REV 8:13"/><verse eid="REV 8:13"/></para>
   <chapter eid="REV 8"/>
   <chapter number="9" style="c" sid="REV 9"/>
   <para style="p"><verse number="1" style="v" sid="REV 9:1"/>Nisso o quinto anjo tocou a trombeta, e vi uma estrela que tinha caído do céu sobre a terra, e foi-lhe entregue a chave do poço do abismo.
-<verse eid="REV 9:1"/><verse number="2" style="v" sid="REV 9:2"/>Quando abriu o abismo, subiu fumaça como de uma grande fornalha, e o sol e o céu ficaram escuros por causa da fumaça que saía do abismo.  
-<verse eid="REV 9:2"/><verse number="3" style="v" sid="REV 9:3"/>Daquela fumaça saíram gafanhotos sobre a terra, e foi dado a eles poder para ferir como os escorpiões da terra. 
-<verse eid="REV 9:3"/><verse number="4" style="v" sid="REV 9:4"/>Foi ordenado a esses gafanhotos que não atacassem a relva, nem qualquer planta, nem árvore alguma, mas somente as pessoas que não tinham o selo de Deus na testa.
-<verse eid="REV 9:4"/><verse number="5" style="v" sid="REV 9:5"/>Não lhes foi permitido matar essas pessoas, mas sim causar sofrimento por cinco meses, com dor parecida com a da picada de escorpião. 
-<verse eid="REV 9:5"/><verse number="6" style="v" sid="REV 9:6"/>Naqueles dias, as pessoas desejarão a morte e não a encontrarão; desejarão morrer, mas a morte se afastará delas. 
-<verse eid="REV 9:6"/><verse number="7" style="v" sid="REV 9:7"/>Os gafanhotos pareciam cavalos preparados para a guerra. Sobre a cabeça tinham algo semelhante a coroas de ouro, e o rosto deles era como rosto de homens. 
-<verse eid="REV 9:7"/><verse number="8" style="v" sid="REV 9:8"/>O cabelo deles era como cabelo de mulher, e os dentes eram como dentes de leão.  
-<verse eid="REV 9:8"/><verse number="9" style="v" sid="REV 9:9"/>Usavam couraças parecidas com couraças de ferro, e o som das suas asas era como o barulho de muitas carruagens puxadas por cavalos correndo para a batalha.  
-<verse eid="REV 9:9"/><verse number="10" style="v" sid="REV 9:10"/>Tinham caudas com ferrões, como escorpiões, e nas caudas estava o poder de ferir as pessoas por cinco meses.  
-<verse eid="REV 9:10"/><verse number="11" style="v" sid="REV 9:11"/>Eles tinham por rei o anjo do abismo. O nome dele em hebraico é Abadom, e em grego é Apoliom.
-<verse eid="REV 9:11"/><verse number="12" style="v" sid="REV 9:12"/>O primeiro ai passou, mas ainda vêm outros dois ais depois deste.  
-<verse eid="REV 9:12"/><verse number="13" style="v" sid="REV 9:13"/>O sexto anjo tocou a trombeta, e ouvi uma voz que vinha das pontas do altar de ouro que está diante de Deus,
-<verse eid="REV 9:13"/><verse number="14" style="v" sid="REV 9:14"/>dizendo ao sexto anjo que tinha a trombeta: “Solte os quatro anjos que estão presos junto ao grande rio Eufrates”.  
-<verse eid="REV 9:14"/><verse number="15" style="v" sid="REV 9:15"/>Então foram soltos os quatro anjos que estavam preparados para aquela hora, e para aquele dia, e para aquele mês, e para aquele ano, a fim de matarem a terça parte da humanidade.  
-<verse eid="REV 9:15"/><verse number="16" style="v" sid="REV 9:16"/>O número dos soldados a cavalo era de duzentos milhões. Ouvi claramente o número deles. 
-<verse eid="REV 9:16"/><verse number="17" style="v" sid="REV 9:17"/>Na visão, vi os cavalos e os cavaleiros: eles usavam couraças vermelhas como fogo, outras azuis como jacinto1 e outras amarelas como enxofre. A cabeça dos cavalos era como cabeça de leão, e da boca deles saíam fogo, fumaça e enxofre ardente.
-<verse eid="REV 9:17"/><verse number="18" style="v" sid="REV 9:18"/>Por meio dessas três pragas — o fogo, a fumaça e o enxofre que saíam da boca dos cavalos — foi morta a terça parte da humanidade.
-<verse eid="REV 9:18"/><verse number="19" style="v" sid="REV 9:19"/>Pois o poder dos cavalos estava na boca e na cauda, porque as caudas eram semelhantes a serpentes, com cabeças, e com elas feriam as pessoas. 
-<verse eid="REV 9:19"/><verse number="20" style="v" sid="REV 9:20"/>Mas as pessoas que não morreram por essas pragas não se arrependeram das obras das suas mãos; não deixaram de adorar os demônios nem os ídolos de ouro, de prata, de bronze, de pedra e de madeira, ídolos que não podem ver, nem ouvir, nem andar.  
-<verse eid="REV 9:20"/><verse number="21" style="v" sid="REV 9:21"/>Também não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem das suas imoralidades sexuais, nem dos seus roubos. 
+<verse eid="REV 9:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 9:2"/>Quando abriu o abismo, subiu fumaça como de uma grande fornalha, e o sol e o céu ficaram escuros por causa da fumaça que saía do abismo.
+<verse eid="REV 9:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 9:3"/>Daquela fumaça saíram gafanhotos sobre a terra, e foi dado a eles poder para ferir como os escorpiões da terra.
+<verse eid="REV 9:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 9:4"/>Foi ordenado a esses gafanhotos que não atacassem a relva, nem qualquer planta, nem árvore alguma, mas somente as pessoas que não tinham o selo de Deus na testa.
+<verse eid="REV 9:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 9:5"/>Não lhes foi permitido matar essas pessoas, mas sim causar sofrimento por cinco meses, com dor parecida com a da picada de escorpião.
+<verse eid="REV 9:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 9:6"/>Naqueles dias, as pessoas desejarão a morte e não a encontrarão; desejarão morrer, mas a morte se afastará delas.
+<verse eid="REV 9:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 9:7"/>Os gafanhotos pareciam cavalos preparados para a guerra. Sobre a cabeça tinham algo semelhante a coroas de ouro, e o rosto deles era como rosto de homens.
+<verse eid="REV 9:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 9:8"/>O cabelo deles era como cabelo de mulher, e os dentes eram como dentes de leão.
+<verse eid="REV 9:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 9:9"/>Usavam couraças parecidas com couraças de ferro, e o som das suas asas era como o barulho de muitas carruagens puxadas por cavalos correndo para a batalha.
+<verse eid="REV 9:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 9:10"/>Tinham caudas com ferrões, como escorpiões, e nas caudas estava o poder de ferir as pessoas por cinco meses.
+<verse eid="REV 9:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 9:11"/>Eles tinham por rei o anjo do abismo. O nome dele em hebraico é Abadom, e em grego é Apoliom.
+<verse eid="REV 9:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 9:12"/>O primeiro ai passou, mas ainda vêm outros dois ais depois deste.
+<verse eid="REV 9:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 9:13"/>O sexto anjo tocou a trombeta, e ouvi uma voz que vinha das pontas do altar de ouro que está diante de Deus,
+<verse eid="REV 9:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 9:14"/>dizendo ao sexto anjo que tinha a trombeta: “Solte os quatro anjos que estão presos junto ao grande rio Eufrates”.
+<verse eid="REV 9:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 9:15"/>Então foram soltos os quatro anjos que estavam preparados para aquela hora, e para aquele dia, e para aquele mês, e para aquele ano, a fim de matarem a terça parte da humanidade.
+<verse eid="REV 9:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 9:16"/>O número dos soldados a cavalo era de duzentos milhões. Ouvi claramente o número deles.
+<verse eid="REV 9:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 9:17"/>Na visão, vi os cavalos e os cavaleiros: eles usavam couraças vermelhas como fogo, outras azuis como jacinto<note style="f" caller="+"> <char style="ft" closed="false">Jacinto: uma pedra preciosa de cor azul-escura. Aqui, o texto usa essa palavra para dizer que a couraça tinha uma cor azul forte.</char></note> e outras amarelas como enxofre. A cabeça dos cavalos era como cabeça de leão, e da boca deles saíam fogo, fumaça e enxofre ardente.
+<verse eid="REV 9:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 9:18"/>Por meio dessas três pragas — o fogo, a fumaça e o enxofre que saíam da boca dos cavalos — foi morta a terça parte da humanidade.
+<verse eid="REV 9:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 9:19"/>Pois o poder dos cavalos estava na boca e na cauda, porque as caudas eram semelhantes a serpentes, com cabeças, e com elas feriam as pessoas.
+<verse eid="REV 9:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 9:20"/>Mas as pessoas que não morreram por essas pragas não se arrependeram das obras das suas mãos; não deixaram de adorar os demônios nem os ídolos de ouro, de prata, de bronze, de pedra e de madeira, ídolos que não podem ver, nem ouvir, nem andar.
+<verse eid="REV 9:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 9:21"/>Também não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem das suas imoralidades sexuais, nem dos seus roubos.
 <verse eid="REV 9:21"/><verse eid="REV 9:21"/></para>
   <chapter eid="REV 9"/>
   <chapter number="10" style="c" sid="REV 10"/>
-  <para style="p"><verse number="1" style="v" sid="REV 10:1"/>Vi então outro anjo forte descendo do céu, envolto numa nuvem, com um arco‑íris sobre a cabeça. Seu rosto brilhava como o sol, e suas pernas eram como colunas de fogo. 
-<verse eid="REV 10:1"/><verse number="2" style="v" sid="REV 10:2"/>Ele segurava um pequeno livro aberto na mão. Colocou o pé direito sobre o mar e o esquerdo sobre a terra.  
-<verse eid="REV 10:2"/><verse number="3" style="v" sid="REV 10:3"/>Ele levantou a voz com um brado poderoso, como o rugido de um leão, e os sete trovões responderam. 
-<verse eid="REV 10:3"/><verse number="4" style="v" sid="REV 10:4"/>Quando eu me preparava para escrever o que os trovões disseram, ouvi uma voz do céu dizendo: “Guarde em segredo essas palavras; o que eles falaram não deve ser escrito”.
-<verse eid="REV 10:4"/><verse number="5" style="v" sid="REV 10:5"/>Então o anjo forte, que estava sobre o mar e sobre a terra, ergueu a mão direita para o céu.  
-<verse eid="REV 10:5"/><verse number="6" style="v" sid="REV 10:6"/>Ele fez um juramento em nome daquele que vive para sempre, o Criador do céu, da terra, do mar e de tudo o que existe neles. E declarou: “Não haverá mais espera”. 
-<verse eid="REV 10:6"/><verse number="7" style="v" sid="REV 10:7"/>“Quando o sétimo anjo tocar a trombeta, o propósito que Deus guardou em segredo se cumprirá, como ele anunciou aos seus servos, os profetas”.
-<verse eid="REV 10:7"/><verse number="8" style="v" sid="REV 10:8"/>Depois disso, a voz do céu falou comigo outra vez: “Vá e pegue o livro aberto da mão do anjo que está sobre o mar e sobre a terra”. 
-<verse eid="REV 10:8"/><verse number="9" style="v" sid="REV 10:9"/>Então me aproximei do anjo e pedi o pequeno livro. Ele disse: “Tome-o e coma-o. Será doce como mel na boca, mas ficará amargo em seu estômago”. 
-<verse eid="REV 10:9"/><verse number="10" style="v" sid="REV 10:10"/>Recebi o livro da mão dele e o comi. Estava doce na minha boca, mas ficou amargo no meu estômago quando o engoli. 
-<verse eid="REV 10:10"/><verse number="11" style="v" sid="REV 10:11"/>E ele me disse: “Você deve profetizar novamente a respeito de muitos povos, nações, línguas e reis”.
+  <para style="p"><verse number="1" style="v" sid="REV 10:1"/>Vi então outro anjo forte descendo do céu, envolto numa nuvem, com um arco‑íris sobre a cabeça. Seu rosto brilhava como o sol, e suas pernas eram como colunas de fogo.
+<verse eid="REV 10:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 10:2"/>Ele segurava um pequeno livro aberto na mão. Colocou o pé direito sobre o mar e o esquerdo sobre a terra.
+<verse eid="REV 10:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 10:3"/>Ele levantou a voz com um brado poderoso, como o rugido de um leão, e os sete trovões responderam.
+<verse eid="REV 10:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 10:4"/>Quando eu me preparava para escrever o que os trovões disseram, ouvi uma voz do céu dizendo: “Guarde em segredo essas palavras; o que eles falaram não deve ser escrito”.
+<verse eid="REV 10:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 10:5"/>Então o anjo forte, que estava sobre o mar e sobre a terra, ergueu a mão direita para o céu.
+<verse eid="REV 10:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 10:6"/>Ele fez um juramento em nome daquele que vive para sempre, o Criador do céu, da terra, do mar e de tudo o que existe neles. E declarou: “Não haverá mais espera”.
+<verse eid="REV 10:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 10:7"/>“Quando o sétimo anjo tocar a trombeta, o propósito que Deus guardou em segredo se cumprirá, como ele anunciou aos seus servos, os profetas”.
+<verse eid="REV 10:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 10:8"/>Depois disso, a voz do céu falou comigo outra vez: “Vá e pegue o livro aberto da mão do anjo que está sobre o mar e sobre a terra”.
+<verse eid="REV 10:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 10:9"/>Então me aproximei do anjo e pedi o pequeno livro. Ele disse: “Tome-o e coma-o. Será doce como mel na boca, mas ficará amargo em seu estômago”.
+<verse eid="REV 10:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 10:10"/>Recebi o livro da mão dele e o comi. Estava doce na minha boca, mas ficou amargo no meu estômago quando o engoli.
+<verse eid="REV 10:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 10:11"/>E ele me disse: “Você deve profetizar novamente a respeito de muitos povos, nações, línguas e reis”.
 <verse eid="REV 10:11"/><verse eid="REV 10:11"/></para>
   <chapter eid="REV 10"/>
   <chapter number="11" style="c" sid="REV 11"/>
   <para style="p"><verse number="1" style="v" sid="REV 11:1"/>Depois disso recebi um caniço parecido com uma vara de medir, e me ordenaram que medisse o templo de Deus, todo o pátio interno onde está o altar, e que contasse o número dos adoradores ali presentes.
-<verse eid="REV 11:1"/><verse number="2" style="v" sid="REV 11:2"/>Disseram-me ainda: “Não meça o pátio de fora, pois foi entregue às nações. Elas pisarão a cidade santa por 42 meses. 
-<verse eid="REV 11:2"/><verse number="3" style="v" sid="REV 11:3"/>Concederei autoridade às minhas duas testemunhas, e elas profetizarão por 1.260 dias, vestidas com pano de saco”.
-<verse eid="REV 11:3"/><verse number="4" style="v" sid="REV 11:4"/>Essas duas testemunhas são as duas oliveiras e os dois castiçais que permanecem diante do Senhor da terra.
-<verse eid="REV 11:4"/><verse number="5" style="v" sid="REV 11:5"/>Se alguém tentar fazer-lhes mal, fogo sairá da boca delas e matará quem as atacar. Assim morrerá todo aquele que desejar causar-lhes dano.
-<verse eid="REV 11:5"/><verse number="6" style="v" sid="REV 11:6"/>Elas têm poder para fechar o céu, para que não chova durante o tempo em que estiverem profetizando; têm poder para transformar a água em sangue e para enviar sobre a terra toda espécie de praga, quantas vezes julgarem necessário.
-<verse eid="REV 11:6"/><verse number="7" style="v" sid="REV 11:7"/>Quando terminarem o seu testemunho, a besta que sobe do abismo lutará contra elas, as vencerá e as matará. 
-<verse eid="REV 11:7"/><verse number="8" style="v" sid="REV 11:8"/>O corpo delas ficará exposto na rua principal da grande cidade, chamada, em sentido figurado, de Sodoma e Egito, o mesmo lugar onde o seu Senhor foi crucificado. 
-<verse eid="REV 11:8"/><verse number="9" style="v" sid="REV 11:9"/>Durante três dias e meio, gente de todos os povos, tribos, línguas e nações olhará para o corpo delas e não permitirá que sejam sepultadas. 
-<verse eid="REV 11:9"/><verse number="10" style="v" sid="REV 11:10"/>Os que habitam a terra se alegrarão por causa delas, farão festa, trocarão presentes entre si, porque esses dois profetas tinham atormentado os moradores da terra.  
-<verse eid="REV 11:10"/><verse number="11" style="v" sid="REV 11:11"/>Mas, depois de três dias e meio, o espírito de vida vindo de Deus entrou nelas. Elas se levantaram sobre os pés, e grande medo caiu sobre todos os que as viram. 
-<verse eid="REV 11:11"/><verse number="12" style="v" sid="REV 11:12"/>Então uma voz forte, vinda do céu, disse: “Subam até aqui!”; e elas subiram ao céu numa nuvem, enquanto os seus inimigos as observavam.  
-<verse eid="REV 11:12"/><verse number="13" style="v" sid="REV 11:13"/>Na mesma hora houve um grande terremoto. A décima parte da cidade desabou, e sete mil pessoas morreram. Os sobreviventes, cheios de medo, deram glória ao Deus do céu. 
-<verse eid="REV 11:13"/><verse number="14" style="v" sid="REV 11:14"/>O segundo ai passou; o terceiro ai virá em breve.  
-<verse eid="REV 11:14"/><verse number="15" style="v" sid="REV 11:15"/>O sétimo anjo tocou a trombeta, e vozes fortes se ouviram no céu, dizendo: “O reino do mundo agora pertence ao nosso Senhor e ao seu Cristo, e ele reinará para todo o sempre”.  
-<verse eid="REV 11:15"/><verse number="16" style="v" sid="REV 11:16"/>Então os 24 anciãos, que estavam sentados em seus tronos diante de Deus, prostraram-se com o rosto em terra e adoraram a Deus, dizendo: 
-<verse eid="REV 11:16"/><verse number="17" style="v" sid="REV 11:17"/>“Nós lhe damos graças, Senhor Deus Todo-poderoso, que é e que era, porque o Senhor assumiu o seu grande poder e começou a reinar.
-<verse eid="REV 11:17"/><verse number="18" style="v" sid="REV 11:18"/>As nações se iraram contra o Senhor, mas chegou o tempo da sua ira contra elas. É o tempo de julgar os mortos, de recompensar os seus servos, os profetas, o seu povo santo e todos os que temem o seu nome, tanto grandes como pequenos, e de destruir os que destroem a terra”. 
-<verse eid="REV 11:18"/><verse number="19" style="v" sid="REV 11:19"/>Então o templo de Deus, que está no céu, foi aberto, e a arca da sua aliança apareceu no templo. Houve relâmpagos, vozes, trovões, um terremoto e uma forte tempestade de granizo. 
+<verse eid="REV 11:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 11:2"/>Disseram-me ainda: “Não meça o pátio de fora, pois foi entregue às nações. Elas pisarão a cidade santa por 42 meses.
+<verse eid="REV 11:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 11:3"/>Concederei autoridade às minhas duas testemunhas, e elas profetizarão por 1.260 dias, vestidas com pano de saco”.
+<verse eid="REV 11:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 11:4"/>Essas duas testemunhas são as duas oliveiras e os dois castiçais que permanecem diante do Senhor da terra.
+<verse eid="REV 11:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 11:5"/>Se alguém tentar fazer-lhes mal, fogo sairá da boca delas e matará quem as atacar. Assim morrerá todo aquele que desejar causar-lhes dano.
+<verse eid="REV 11:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 11:6"/>Elas têm poder para fechar o céu, para que não chova durante o tempo em que estiverem profetizando; têm poder para transformar a água em sangue e para enviar sobre a terra toda espécie de praga, quantas vezes julgarem necessário.
+<verse eid="REV 11:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 11:7"/>Quando terminarem o seu testemunho, a besta que sobe do abismo lutará contra elas, as vencerá e as matará.
+<verse eid="REV 11:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 11:8"/>O corpo delas ficará exposto na rua principal da grande cidade, chamada, em sentido figurado, de Sodoma e Egito, o mesmo lugar onde o seu Senhor foi crucificado.
+<verse eid="REV 11:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 11:9"/>Durante três dias e meio, gente de todos os povos, tribos, línguas e nações olhará para o corpo delas e não permitirá que sejam sepultadas.
+<verse eid="REV 11:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 11:10"/>Os que habitam a terra se alegrarão por causa delas, farão festa, trocarão presentes entre si, porque esses dois profetas tinham atormentado os moradores da terra.
+<verse eid="REV 11:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 11:11"/>Mas, depois de três dias e meio, o espírito de vida vindo de Deus entrou nelas. Elas se levantaram sobre os pés, e grande medo caiu sobre todos os que as viram.
+<verse eid="REV 11:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 11:12"/>Então uma voz forte, vinda do céu, disse: “Subam até aqui!”; e elas subiram ao céu numa nuvem, enquanto os seus inimigos as observavam.
+<verse eid="REV 11:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 11:13"/>Na mesma hora houve um grande terremoto. A décima parte da cidade desabou, e sete mil pessoas morreram. Os sobreviventes, cheios de medo, deram glória ao Deus do céu.
+<verse eid="REV 11:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 11:14"/>O segundo ai passou; o terceiro ai virá em breve.
+<verse eid="REV 11:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 11:15"/>O sétimo anjo tocou a trombeta, e vozes fortes se ouviram no céu, dizendo: “O reino do mundo agora pertence ao nosso Senhor e ao seu Cristo, e ele reinará para todo o sempre”.
+<verse eid="REV 11:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 11:16"/>Então os 24 anciãos, que estavam sentados em seus tronos diante de Deus, prostraram-se com o rosto em terra e adoraram a Deus, dizendo:
+<verse eid="REV 11:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 11:17"/>“Nós lhe damos graças, Senhor Deus Todo-poderoso, que é e que era, porque o Senhor assumiu o seu grande poder e começou a reinar.
+<verse eid="REV 11:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 11:18"/>As nações se iraram contra o Senhor, mas chegou o tempo da sua ira contra elas. É o tempo de julgar os mortos, de recompensar os seus servos, os profetas, o seu povo santo e todos os que temem o seu nome, tanto grandes como pequenos, e de destruir os que destroem a terra”.
+<verse eid="REV 11:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 11:19"/>Então o templo de Deus, que está no céu, foi aberto, e a arca da sua aliança apareceu no templo. Houve relâmpagos, vozes, trovões, um terremoto e uma forte tempestade de granizo.
 <verse eid="REV 11:19"/><verse eid="REV 11:19"/></para>
   <chapter eid="REV 11"/>
   <chapter number="12" style="c" sid="REV 12"/>
-  <para style="p"><verse number="1" style="v" sid="REV 12:1"/>Então vi um grande sinal no céu: uma mulher vestida do sol, com a lua sob os pés e, sobre a cabeça, uma coroa de doze estrelas. 
-<verse eid="REV 12:1"/><verse number="2" style="v" sid="REV 12:2"/>Ela estava grávida, sentia fortes dores de parto e clamava em alta voz, esperando o momento de dar à luz.  
-<verse eid="REV 12:2"/><verse number="3" style="v" sid="REV 12:3"/>De repente surgiu outro sinal no céu: um enorme dragão vermelho, com sete cabeças e dez chifres, e sobre as cabeças havia sete coroas.  
-<verse eid="REV 12:3"/><verse number="4" style="v" sid="REV 12:4"/>Com a cauda, ele arrastou a terça parte das estrelas do céu e as lançou sobre a terra; e o dragão se colocou diante da mulher que estava para dar à luz, pronto para devorar o filho assim que nascesse.
-<verse eid="REV 12:4"/><verse number="5" style="v" sid="REV 12:5"/>A mulher deu à luz um filho, um menino destinado a governar todas as nações com um cetro de ferro, e esse filho foi levado para junto de Deus e do seu trono.
-<verse eid="REV 12:5"/><verse number="6" style="v" sid="REV 12:6"/>A mulher fugiu então para o deserto, para um lugar preparado por Deus, onde seria sustentada por 1.260 dias.
-<verse eid="REV 12:6"/><verse number="7" style="v" sid="REV 12:7"/>Houve, então, guerra no céu: Miguel e os anjos sob seu comando lutaram contra o dragão, e o dragão lutou com os anjos dele.
-<verse eid="REV 12:7"/><verse number="8" style="v" sid="REV 12:8"/>Mas o dragão não teve força suficiente. Ele e os seus anjos foram derrotados e não houve mais lugar para eles no céu. 
-<verse eid="REV 12:8"/><verse number="9" style="v" sid="REV 12:9"/>Assim, o grande dragão foi lançado fora — a antiga serpente, chamada diabo e Satanás, aquele que engana o mundo inteiro — e atirado à terra, junto com todos os seus anjos. 
-<verse eid="REV 12:9"/><verse number="10" style="v" sid="REV 12:10"/>Depois ouvi uma voz poderosa que proclamava pelos céus: “Agora a salvação chegou, o poder e o reino do nosso Deus vieram, e também a autoridade do seu Cristo, porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noite diante do nosso Deus.
-<verse eid="REV 12:10"/><verse number="11" style="v" sid="REV 12:11"/>Eles o venceram por causa do sangue do Cordeiro e por causa da palavra do testemunho que deram. Eles não amaram a própria vida, nem mesmo diante da morte. 
-<verse eid="REV 12:11"/><verse number="12" style="v" sid="REV 12:12"/>Por isso, alegrem-se, ó céus, e vocês que habitam nos céus, exultem; mas ai da terra e do mar, porque o diabo desceu até vocês cheio de grande fúria, sabendo que lhe resta apenas pouco tempo”.  
-<verse eid="REV 12:12"/><verse number="13" style="v" sid="REV 12:13"/>Quando o dragão percebeu que tinha sido lançado sobre a terra, passou a perseguir a mulher que tinha dado à luz o menino. 
-<verse eid="REV 12:13"/><verse number="14" style="v" sid="REV 12:14"/>Mas à mulher foram dadas duas asas de uma grande águia, para que pudesse voar para o deserto, para o lugar preparado para ela, onde foi cuidada e guardada, longe da serpente, por um tempo, dois tempos e meio tempo.
-<verse eid="REV 12:14"/><verse number="15" style="v" sid="REV 12:15"/>A serpente, tentando alcançar a mulher, lançou da própria boca uma grande corrente de água, como um rio, para arrastá-la com a força das águas.  
-<verse eid="REV 12:15"/><verse number="16" style="v" sid="REV 12:16"/>Porém a terra veio em auxílio da mulher: abriu a boca e engoliu o rio que o dragão tinha feito sair da sua boca.  
-<verse eid="REV 12:16"/><verse number="17" style="v" sid="REV 12:17"/>Então o dragão, furioso contra a mulher, foi atacar o restante da descendência dela, isto é, todos os que obedecem aos mandamentos de Deus e permanecem fiéis ao testemunho de Jesus; e o dragão ficou em pé à beira do mar.
+  <para style="p"><verse number="1" style="v" sid="REV 12:1"/>Então vi um grande sinal no céu: uma mulher vestida do sol, com a lua sob os pés e, sobre a cabeça, uma coroa de doze estrelas.
+<verse eid="REV 12:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 12:2"/>Ela estava grávida, sentia fortes dores de parto e clamava em alta voz, esperando o momento de dar à luz.
+<verse eid="REV 12:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 12:3"/>De repente surgiu outro sinal no céu: um enorme dragão vermelho, com sete cabeças e dez chifres, e sobre as cabeças havia sete coroas.
+<verse eid="REV 12:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 12:4"/>Com a cauda, ele arrastou a terça parte das estrelas do céu e as lançou sobre a terra; e o dragão se colocou diante da mulher que estava para dar à luz, pronto para devorar o filho assim que nascesse.
+<verse eid="REV 12:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 12:5"/>A mulher deu à luz um filho, um menino destinado a governar todas as nações com um cetro de ferro, e esse filho foi levado para junto de Deus e do seu trono.
+<verse eid="REV 12:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 12:6"/>A mulher fugiu então para o deserto, para um lugar preparado por Deus, onde seria sustentada por 1.260 dias.
+<verse eid="REV 12:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 12:7"/>Houve, então, guerra no céu: Miguel e os anjos sob seu comando lutaram contra o dragão, e o dragão lutou com os anjos dele.
+<verse eid="REV 12:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 12:8"/>Mas o dragão não teve força suficiente. Ele e os seus anjos foram derrotados e não houve mais lugar para eles no céu.
+<verse eid="REV 12:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 12:9"/>Assim, o grande dragão foi lançado fora — a antiga serpente, chamada diabo e Satanás, aquele que engana o mundo inteiro — e atirado à terra, junto com todos os seus anjos.
+<verse eid="REV 12:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 12:10"/>Depois ouvi uma voz poderosa que proclamava pelos céus: “Agora a salvação chegou, o poder e o reino do nosso Deus vieram, e também a autoridade do seu Cristo, porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noite diante do nosso Deus.
+<verse eid="REV 12:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 12:11"/>Eles o venceram por causa do sangue do Cordeiro e por causa da palavra do testemunho que deram. Eles não amaram a própria vida, nem mesmo diante da morte.
+<verse eid="REV 12:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 12:12"/>Por isso, alegrem-se, ó céus, e vocês que habitam nos céus, exultem; mas ai da terra e do mar, porque o diabo desceu até vocês cheio de grande fúria, sabendo que lhe resta apenas pouco tempo”.
+<verse eid="REV 12:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 12:13"/>Quando o dragão percebeu que tinha sido lançado sobre a terra, passou a perseguir a mulher que tinha dado à luz o menino.
+<verse eid="REV 12:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 12:14"/>Mas à mulher foram dadas duas asas de uma grande águia, para que pudesse voar para o deserto, para o lugar preparado para ela, onde foi cuidada e guardada, longe da serpente, por um tempo, dois tempos e meio tempo.
+<verse eid="REV 12:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 12:15"/>A serpente, tentando alcançar a mulher, lançou da própria boca uma grande corrente de água, como um rio, para arrastá-la com a força das águas.
+<verse eid="REV 12:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 12:16"/>Porém a terra veio em auxílio da mulher: abriu a boca e engoliu o rio que o dragão tinha feito sair da sua boca.
+<verse eid="REV 12:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 12:17"/>Então o dragão, furioso contra a mulher, foi atacar o restante da descendência dela, isto é, todos os que obedecem aos mandamentos de Deus e permanecem fiéis ao testemunho de Jesus; e o dragão ficou em pé à beira do mar.
 <verse eid="REV 12:17"/><verse eid="REV 12:17"/></para>
   <chapter eid="REV 12"/>
   <chapter number="13" style="c" sid="REV 13"/>
-  <para style="p"><verse number="1" style="v" sid="REV 13:1"/>Em minha visão, vi uma besta com sete cabeças e dez chifres subindo do mar, e sobre os chifres havia dez coroas, e sobre cada cabeça estavam escritos nomes ofensivos que insultavam Deus. 
-<verse eid="REV 13:1"/><verse number="2" style="v" sid="REV 13:2"/>A besta tinha aparência de leopardo, mas seus pés eram como pés de urso, e sua boca era como boca de leão; e o dragão entregou a ela o seu poder, o seu trono e grande autoridade.  
-<verse eid="REV 13:2"/><verse number="3" style="v" sid="REV 13:3"/>Observei que uma de suas cabeças parecia ter sofrido um ferimento mortal. Mas a ferida mortal foi curada, e toda a terra ficou admirada e passou a seguir a besta.
-<verse eid="REV 13:3"/><verse number="4" style="v" sid="REV 13:4"/>As pessoas adoravam o dragão, porque ele tinha dado autoridade à besta, e também adoravam a besta, dizendo: “Quem é comparável à besta? Quem tem força para guerrear contra ela?”. 
-<verse eid="REV 13:4"/><verse number="5" style="v" sid="REV 13:5"/>Foi permitido à besta falar com arrogância e proferir blasfêmias, e foi-lhe dada autoridade para agir durante 42 meses.
-<verse eid="REV 13:5"/><verse number="6" style="v" sid="REV 13:6"/>Ela abriu a boca para blasfemar contra o nome de Deus, contra o tabernáculo de Deus e contra os que habitam no céu.
-<verse eid="REV 13:6"/><verse number="7" style="v" sid="REV 13:7"/>Também recebeu poder para fazer guerra contra os santos e vencê-los, e recebeu autoridade sobre toda tribo, povo, língua e nação. 
-<verse eid="REV 13:7"/><verse number="8" style="v" sid="REV 13:8"/>Todos os habitantes da terra a adorarão, isto é, aqueles cujo nome não está escrito no Livro da Vida do Cordeiro que foi morto desde a criação do mundo. 
-<verse eid="REV 13:8"/><verse number="9" style="v" sid="REV 13:9"/>Quem tem ouvidos para ouvir, ouça com atenção:
-<verse eid="REV 13:9"/><verse number="10" style="v" sid="REV 13:10"/>Se alguém está destinado ao cárcere, irá para o cárcere. Se alguém está destinado a morrer pela espada, pela espada morrerá. Aqui está a perseverança e a fidelidade dos santos.
-<verse eid="REV 13:10"/><verse number="11" style="v" sid="REV 13:11"/>Depois vi outra besta saindo da terra. Essa tinha dois chifres semelhantes aos de um cordeiro, mas sua voz era como a voz de um dragão. 
-<verse eid="REV 13:11"/><verse number="12" style="v" sid="REV 13:12"/>Ela exercia toda a autoridade da primeira besta, cuja ferida mortal havia sido curada, e fazia com que os habitantes da terra adorassem a primeira besta.
-<verse eid="REV 13:12"/><verse number="13" style="v" sid="REV 13:13"/>Realizava sinais impressionantes, chegando a fazer descer fogo do céu à terra diante dos olhos de todas as pessoas.  
-<verse eid="REV 13:13"/><verse number="14" style="v" sid="REV 13:14"/>Por meio desses sinais, ela enganava os moradores da terra. Ela ordenou aos habitantes da terra que fizessem uma imagem da primeira besta, daquela que tinha sido ferida pela espada e sobrevivido.
-<verse eid="REV 13:14"/><verse number="15" style="v" sid="REV 13:15"/>Foi permitido a ela dar fôlego à imagem da besta, de modo que a imagem até falava; e a imagem decretou que todos os que se recusassem a adorá-la fossem mortos.  
-<verse eid="REV 13:15"/><verse number="16" style="v" sid="REV 13:16"/>Em seguida, ela exigiu que todos, pequenos e grandes, ricos e pobres, escravos e livres, recebessem uma marca na mão direita ou na testa.  
-<verse eid="REV 13:16"/><verse number="17" style="v" sid="REV 13:17"/>E ninguém podia comprar ou vender se não tivesse essa marca, que é o nome da besta ou o número do nome dela.
-<verse eid="REV 13:17"/><verse number="18" style="v" sid="REV 13:18"/>Aqui está a sabedoria: quem tem entendimento, calcule o número da besta, pois é número de homem; e o seu número é 666.
+  <para style="p"><verse number="1" style="v" sid="REV 13:1"/>Em minha visão, vi uma besta com sete cabeças e dez chifres subindo do mar, e sobre os chifres havia dez coroas, e sobre cada cabeça estavam escritos nomes ofensivos que insultavam Deus.
+<verse eid="REV 13:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 13:2"/>A besta tinha aparência de leopardo, mas seus pés eram como pés de urso, e sua boca era como boca de leão; e o dragão entregou a ela o seu poder, o seu trono e grande autoridade.
+<verse eid="REV 13:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 13:3"/>Observei que uma de suas cabeças parecia ter sofrido um ferimento mortal. Mas a ferida mortal foi curada, e toda a terra ficou admirada e passou a seguir a besta.
+<verse eid="REV 13:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 13:4"/>As pessoas adoravam o dragão, porque ele tinha dado autoridade à besta, e também adoravam a besta, dizendo: “Quem é comparável à besta? Quem tem força para guerrear contra ela?”.
+<verse eid="REV 13:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 13:5"/>Foi permitido à besta falar com arrogância e proferir blasfêmias, e foi-lhe dada autoridade para agir durante 42 meses.
+<verse eid="REV 13:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 13:6"/>Ela abriu a boca para blasfemar contra o nome de Deus, contra o tabernáculo de Deus e contra os que habitam no céu.
+<verse eid="REV 13:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 13:7"/>Também recebeu poder para fazer guerra contra os santos e vencê-los, e recebeu autoridade sobre toda tribo, povo, língua e nação.
+<verse eid="REV 13:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 13:8"/>Todos os habitantes da terra a adorarão, isto é, aqueles cujo nome não está escrito no Livro da Vida do Cordeiro que foi morto desde a criação do mundo.
+<verse eid="REV 13:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 13:9"/>Quem tem ouvidos para ouvir, ouça com atenção:
+<verse eid="REV 13:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 13:10"/>Se alguém está destinado ao cárcere, irá para o cárcere. Se alguém está destinado a morrer pela espada, pela espada morrerá. Aqui está a perseverança e a fidelidade dos santos.
+<verse eid="REV 13:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 13:11"/>Depois vi outra besta saindo da terra. Essa tinha dois chifres semelhantes aos de um cordeiro, mas sua voz era como a voz de um dragão.
+<verse eid="REV 13:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 13:12"/>Ela exercia toda a autoridade da primeira besta, cuja ferida mortal havia sido curada, e fazia com que os habitantes da terra adorassem a primeira besta.
+<verse eid="REV 13:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 13:13"/>Realizava sinais impressionantes, chegando a fazer descer fogo do céu à terra diante dos olhos de todas as pessoas.
+<verse eid="REV 13:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 13:14"/>Por meio desses sinais, ela enganava os moradores da terra. Ela ordenou aos habitantes da terra que fizessem uma imagem da primeira besta, daquela que tinha sido ferida pela espada e sobrevivido.
+<verse eid="REV 13:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 13:15"/>Foi permitido a ela dar fôlego à imagem da besta, de modo que a imagem até falava; e a imagem decretou que todos os que se recusassem a adorá-la fossem mortos.
+<verse eid="REV 13:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 13:16"/>Em seguida, ela exigiu que todos, pequenos e grandes, ricos e pobres, escravos e livres, recebessem uma marca na mão direita ou na testa.
+<verse eid="REV 13:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 13:17"/>E ninguém podia comprar ou vender se não tivesse essa marca, que é o nome da besta ou o número do nome dela.
+<verse eid="REV 13:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 13:18"/>Aqui está a sabedoria: quem tem entendimento, calcule o número da besta, pois é número de homem; e o seu número é 666.
 <verse eid="REV 13:18"/><verse eid="REV 13:18"/></para>
   <chapter eid="REV 13"/>
   <chapter number="14" style="c" sid="REV 14"/>
-  <para style="p"><verse number="1" style="v" sid="REV 14:1"/>Então contemplei o Cordeiro em pé sobre o monte Sião, e com ele estavam 144 mil, trazendo escrito na testa o nome dele e o nome do seu Pai.  
-<verse eid="REV 14:1"/><verse number="2" style="v" sid="REV 14:2"/>E ouvi um som vindo do céu, parecido com o barulho de muitas águas caindo e com o estrondo de forte trovão; era também como o som de músicos tocando harpas.  
-<verse eid="REV 14:2"/><verse number="3" style="v" sid="REV 14:3"/>Esse som era um cântico novo e maravilhoso, cantado diante do trono de Deus, diante dos quatro seres viventes e dos anciãos. Ninguém podia aprender esse cântico, a não ser os 144 mil que foram resgatados da terra. 
-<verse eid="REV 14:3"/><verse number="4" style="v" sid="REV 14:4"/>Eles se mantiveram puros e não se envolveram em imoralidade sexual; seguem o Cordeiro por onde quer que ele vá. Foram comprados dentre os seres humanos como oferta consagrada a Deus e ao Cordeiro.
-<verse eid="REV 14:4"/><verse number="5" style="v" sid="REV 14:5"/>E não se encontrou mentira em sua boca; são íntegros e sem culpa.  
-<verse eid="REV 14:5"/><verse number="6" style="v" sid="REV 14:6"/>Depois vi outro anjo voando pelo meio do céu, trazendo o evangelho eterno para anunciar aos que habitam sobre a terra, a toda nação, tribo, língua e povo.  
-<verse eid="REV 14:6"/><verse number="7" style="v" sid="REV 14:7"/>Ele dizia em alta voz: “Temam a Deus e deem glória a ele, porque chegou a hora em que ele julgará a humanidade. Adorem aquele que criou o céu e a terra, o mar e as fontes das águas”.  
-<verse eid="REV 14:7"/><verse number="8" style="v" sid="REV 14:8"/>Um segundo anjo o seguiu, proclamando: “Caiu, caiu a Babilônia, a grande cidade, porque ela fez todas as nações beberem do vinho da sua terrível imoralidade”.  
-<verse eid="REV 14:8"/><verse number="9" style="v" sid="REV 14:9"/>Em seguida, um terceiro anjo os acompanhou, dizendo em voz forte: “Se alguém adorar a besta e a sua imagem, e receber o seu sinal na testa ou na mão,  
-<verse eid="REV 14:9"/><verse number="10" style="v" sid="REV 14:10"/>também beberá do vinho do furor de Deus, derramado sem mistura na taça da sua ira. Essa pessoa será atormentada com fogo e enxofre em brasa, diante dos santos anjos e diante do Cordeiro.  
-<verse eid="REV 14:10"/><verse number="11" style="v" sid="REV 14:11"/>A fumaça do tormento deles sobe para todo o sempre, e não terão descanso, nem de dia nem de noite, aqueles que adoram a besta e a sua imagem e recebem o sinal do seu nome”.  
-<verse eid="REV 14:11"/><verse number="12" style="v" sid="REV 14:12"/>Aqui está o chamado para que o povo de Deus permaneça firme, para que os santos suportem com perseverança, pois são aqueles que guardam os mandamentos de Deus e continuam fiéis a Jesus.  
-<verse eid="REV 14:12"/><verse number="13" style="v" sid="REV 14:13"/>Então ouvi uma voz do céu que dizia: “Escreva isto: Felizes os que, de agora em diante, morrem no Senhor. Sim, diz o Espírito, eles são felizes, porque descansarão de seus trabalhos e sofrimentos, e as suas obras os seguirão”.
-<verse eid="REV 14:13"/><verse number="14" style="v" sid="REV 14:14"/>Depois vi uma nuvem branca, e sobre a nuvem estava sentado alguém semelhante a um filho de homem, com uma coroa de ouro na cabeça e uma foice afiada na mão.  
-<verse eid="REV 14:14"/><verse number="15" style="v" sid="REV 14:15"/>Outro anjo saiu do templo e gritou em alta voz para aquele que estava sentado sobre a nuvem: “Use a sua foice e comece a ceifar, porque chegou a hora da colheita. A seara da terra está madura”. 
-<verse eid="REV 14:15"/><verse number="16" style="v" sid="REV 14:16"/>Então aquele que estava sentado sobre a nuvem passou a foice sobre a terra, e a terra foi ceifada.  
-<verse eid="REV 14:16"/><verse number="17" style="v" sid="REV 14:17"/>Em seguida, outro anjo saiu do templo que está no céu, e também tinha uma foice afiada.  
-<verse eid="REV 14:17"/><verse number="18" style="v" sid="REV 14:18"/>E outro anjo, que tem autoridade sobre o fogo, saiu do altar e chamou em alta voz o anjo que tinha a foice afiada, dizendo: “Use agora a sua foice afiada e corte os cachos da vinha da terra, porque as uvas já estão maduras”.  
-<verse eid="REV 14:18"/><verse number="19" style="v" sid="REV 14:19"/>O anjo passou a foice sobre a terra, colheu as uvas da vinha da terra e as lançou no grande lagar da ira de Deus.  
-<verse eid="REV 14:19"/><verse number="20" style="v" sid="REV 14:20"/>As uvas foram pisadas no lagar fora da cidade, e dele saiu sangue em grande quantidade, que correu por cerca de trezentos quilômetros, chegando até as rédeas dos cavalos.
+  <para style="p"><verse number="1" style="v" sid="REV 14:1"/>Então contemplei o Cordeiro em pé sobre o monte Sião, e com ele estavam 144 mil, trazendo escrito na testa o nome dele e o nome do seu Pai.
+<verse eid="REV 14:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 14:2"/>E ouvi um som vindo do céu, parecido com o barulho de muitas águas caindo e com o estrondo de forte trovão; era também como o som de músicos tocando harpas.
+<verse eid="REV 14:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 14:3"/>Esse som era um cântico novo e maravilhoso, cantado diante do trono de Deus, diante dos quatro seres viventes e dos anciãos. Ninguém podia aprender esse cântico, a não ser os 144 mil que foram resgatados da terra.
+<verse eid="REV 14:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 14:4"/>Eles se mantiveram puros e não se envolveram em imoralidade sexual; seguem o Cordeiro por onde quer que ele vá. Foram comprados dentre os seres humanos como oferta consagrada a Deus e ao Cordeiro.
+<verse eid="REV 14:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 14:5"/>E não se encontrou mentira em sua boca; são íntegros e sem culpa.
+<verse eid="REV 14:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 14:6"/>Depois vi outro anjo voando pelo meio do céu, trazendo o evangelho eterno para anunciar aos que habitam sobre a terra, a toda nação, tribo, língua e povo.
+<verse eid="REV 14:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 14:7"/>Ele dizia em alta voz: “Temam a Deus e deem glória a ele, porque chegou a hora em que ele julgará a humanidade. Adorem aquele que criou o céu e a terra, o mar e as fontes das águas”.
+<verse eid="REV 14:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 14:8"/>Um segundo anjo o seguiu, proclamando: “Caiu, caiu a Babilônia, a grande cidade, porque ela fez todas as nações beberem do vinho da sua terrível imoralidade”.
+<verse eid="REV 14:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 14:9"/>Em seguida, um terceiro anjo os acompanhou, dizendo em voz forte: “Se alguém adorar a besta e a sua imagem, e receber o seu sinal na testa ou na mão,
+<verse eid="REV 14:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 14:10"/>também beberá do vinho do furor de Deus, derramado sem mistura na taça da sua ira. Essa pessoa será atormentada com fogo e enxofre em brasa, diante dos santos anjos e diante do Cordeiro.
+<verse eid="REV 14:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 14:11"/>A fumaça do tormento deles sobe para todo o sempre, e não terão descanso, nem de dia nem de noite, aqueles que adoram a besta e a sua imagem e recebem o sinal do seu nome”.
+<verse eid="REV 14:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 14:12"/>Aqui está o chamado para que o povo de Deus permaneça firme, para que os santos suportem com perseverança, pois são aqueles que guardam os mandamentos de Deus e continuam fiéis a Jesus.
+<verse eid="REV 14:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 14:13"/>Então ouvi uma voz do céu que dizia: “Escreva isto: Felizes os que, de agora em diante, morrem no Senhor. Sim, diz o Espírito, eles são felizes, porque descansarão de seus trabalhos e sofrimentos, e as suas obras os seguirão”.
+<verse eid="REV 14:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 14:14"/>Depois vi uma nuvem branca, e sobre a nuvem estava sentado alguém semelhante a um filho de homem, com uma coroa de ouro na cabeça e uma foice afiada na mão.
+<verse eid="REV 14:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 14:15"/>Outro anjo saiu do templo e gritou em alta voz para aquele que estava sentado sobre a nuvem: “Use a sua foice e comece a ceifar, porque chegou a hora da colheita. A seara da terra está madura”.
+<verse eid="REV 14:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 14:16"/>Então aquele que estava sentado sobre a nuvem passou a foice sobre a terra, e a terra foi ceifada.
+<verse eid="REV 14:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 14:17"/>Em seguida, outro anjo saiu do templo que está no céu, e também tinha uma foice afiada.
+<verse eid="REV 14:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 14:18"/>E outro anjo, que tem autoridade sobre o fogo, saiu do altar e chamou em alta voz o anjo que tinha a foice afiada, dizendo: “Use agora a sua foice afiada e corte os cachos da vinha da terra, porque as uvas já estão maduras”.
+<verse eid="REV 14:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 14:19"/>O anjo passou a foice sobre a terra, colheu as uvas da vinha da terra e as lançou no grande lagar da ira de Deus.
+<verse eid="REV 14:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 14:20"/>As uvas foram pisadas no lagar fora da cidade, e dele saiu sangue em grande quantidade, que correu por cerca de trezentos quilômetros, chegando até as rédeas dos cavalos.
 <verse eid="REV 14:20"/><verse eid="REV 14:20"/></para>
   <chapter eid="REV 14"/>
   <chapter number="15" style="c" sid="REV 15"/>
-  <para style="p"><verse number="1" style="v" sid="REV 15:1"/>Vi no céu outro sinal, grande e impressionante, anunciando o que ainda viria: sete anjos foram separados para trazer à terra as sete últimas pragas, e com elas se completa a ira de Deus. 
-<verse eid="REV 15:1"/><verse number="2" style="v" sid="REV 15:2"/>Diante de mim apareceu algo como um mar de vidro, misturado com fogo, e junto a esse mar estavam em pé todos os que venceram a besta, a sua imagem e o número do seu nome. Eles seguravam harpas que tinham recebido de Deus.
-<verse eid="REV 15:2"/><verse number="3" style="v" sid="REV 15:3"/>E cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e admiráveis são as tuas obras, Senhor Deus Todo-poderoso; justos e verdadeiros são os teus caminhos, ó Rei das nações.  
-<verse eid="REV 15:3"/><verse number="4" style="v" sid="REV 15:4"/>Quem não terá temor de ti, Senhor? Quem não dará glória ao teu nome? Pois só tu és santo. Todas as nações virão e se prostrarão diante de ti, porque os teus atos de justiça foram revelados”. 
-<verse eid="REV 15:4"/><verse number="5" style="v" sid="REV 15:5"/>Depois disso, olhei e vi que no céu se abriu o santuário, o tabernáculo da aliança.
-<verse eid="REV 15:5"/><verse number="6" style="v" sid="REV 15:6"/>Então saíram do santuário os sete anjos encarregados das sete pragas, vestidos com linho puro, branco e brilhante, e traziam faixas de ouro em volta do peito.
-<verse eid="REV 15:6"/><verse number="7" style="v" sid="REV 15:7"/>Um dos quatro seres viventes entregou aos sete anjos sete taças de ouro cheias da ira do Deus que vive para todo o sempre.
-<verse eid="REV 15:7"/><verse number="8" style="v" sid="REV 15:8"/>O templo se encheu de fumaça, vinda da glória de Deus e do seu poder, e ninguém podia entrar ali até que se completasse o derramamento das sete pragas pelos sete anjos. 
+  <para style="p"><verse number="1" style="v" sid="REV 15:1"/>Vi no céu outro sinal, grande e impressionante, anunciando o que ainda viria: sete anjos foram separados para trazer à terra as sete últimas pragas, e com elas se completa a ira de Deus.
+<verse eid="REV 15:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 15:2"/>Diante de mim apareceu algo como um mar de vidro, misturado com fogo, e junto a esse mar estavam em pé todos os que venceram a besta, a sua imagem e o número do seu nome. Eles seguravam harpas que tinham recebido de Deus.
+<verse eid="REV 15:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 15:3"/>E cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e admiráveis são as tuas obras, Senhor Deus Todo-poderoso; justos e verdadeiros são os teus caminhos, ó Rei das nações.
+<verse eid="REV 15:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 15:4"/>Quem não terá temor de ti, Senhor? Quem não dará glória ao teu nome? Pois só tu és santo. Todas as nações virão e se prostrarão diante de ti, porque os teus atos de justiça foram revelados”.
+<verse eid="REV 15:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 15:5"/>Depois disso, olhei e vi que no céu se abriu o santuário, o tabernáculo da aliança.
+<verse eid="REV 15:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 15:6"/>Então saíram do santuário os sete anjos encarregados das sete pragas, vestidos com linho puro, branco e brilhante, e traziam faixas de ouro em volta do peito.
+<verse eid="REV 15:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 15:7"/>Um dos quatro seres viventes entregou aos sete anjos sete taças de ouro cheias da ira do Deus que vive para todo o sempre.
+<verse eid="REV 15:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 15:8"/>O templo se encheu de fumaça, vinda da glória de Deus e do seu poder, e ninguém podia entrar ali até que se completasse o derramamento das sete pragas pelos sete anjos.
 <verse eid="REV 15:8"/><verse eid="REV 15:8"/></para>
   <chapter eid="REV 15"/>
   <chapter number="16" style="c" sid="REV 16"/>
   <para style="p"><verse number="1" style="v" sid="REV 16:1"/>E ouvi uma voz forte vinda do templo, dizendo aos sete anjos: “Vão agora e derramem sobre a terra as sete taças da ira de Deus”.
-<verse eid="REV 16:1"/><verse number="2" style="v" sid="REV 16:2"/>Então o primeiro anjo saiu e despejou a sua taça sobre a terra. Surgiram feridas dolorosas e malignas em todos os que tinham o sinal da besta e adoravam a sua imagem.
-<verse eid="REV 16:2"/><verse number="3" style="v" sid="REV 16:3"/>O segundo anjo derramou a sua taça sobre o mar. O mar ficou como sangue de um morto, e toda criatura que vivia no mar morreu. 
-<verse eid="REV 16:3"/><verse number="4" style="v" sid="REV 16:4"/>O terceiro anjo derramou a sua taça sobre os rios e sobre as fontes de água; e os rios e as fontes se tornaram em sangue.  
-<verse eid="REV 16:4"/><verse number="5" style="v" sid="REV 16:5"/>E ouvi o anjo responsável pelas águas dizer: “Tu és justo ao trazer este julgamento, ó Santo, tu que és e que eras,
-<verse eid="REV 16:5"/><verse number="6" style="v" sid="REV 16:6"/>porque os teus santos e os teus profetas foram mortos como mártires, e o sangue deles foi derramado sobre a terra. Agora lhes deste sangue para beber em troca, pois é isso que eles merecem”. 
-<verse eid="REV 16:6"/><verse number="7" style="v" sid="REV 16:7"/>E ouvi uma voz que vinha do altar, dizendo: “Sim, Senhor Deus Todo-poderoso, os teus julgamentos são justos e verdadeiros”.
-<verse eid="REV 16:7"/><verse number="8" style="v" sid="REV 16:8"/>O quarto anjo derramou a sua taça sobre o sol; e foi dado poder ao sol para queimar as pessoas com fogo. 
-<verse eid="REV 16:8"/><verse number="9" style="v" sid="REV 16:9"/>As pessoas foram queimadas pelo calor intenso, e amaldiçoaram o nome de Deus que tinha poder sobre essas pragas. Elas, porém, não se arrependeram, nem mudaram de atitude para dar glória a ele. 
-<verse eid="REV 16:9"/><verse number="10" style="v" sid="REV 16:10"/>O quinto anjo derramou a sua taça sobre o trono da besta. O reino da besta ficou mergulhado em profunda escuridão, e os seus súditos mordiam a língua de tanta angústia, 
-<verse eid="REV 16:10"/><verse number="11" style="v" sid="REV 16:11"/>e blasfemavam contra o Deus do céu por causa das dores e das feridas que sofriam, mas recusaram-se a abandonar as suas obras más.
-<verse eid="REV 16:11"/><verse number="12" style="v" sid="REV 16:12"/>O sexto anjo derramou a sua taça sobre o grande rio Eufrates. O rio secou, para que os reis que vêm do Oriente pudessem avançar com seus exércitos sem impedimento. 
-<verse eid="REV 16:12"/><verse number="13" style="v" sid="REV 16:13"/>Então vi saírem da boca do dragão, da boca da besta e da boca do falso profeta três espíritos impuros, parecidos com sapos.  
-<verse eid="REV 16:13"/><verse number="14" style="v" sid="REV 16:14"/>São espíritos de demônios que fazem sinais milagrosos. Eles vão ao encontro dos reis de todo o mundo para reuni-los para a batalha contra o Senhor naquele grande dia do Deus Todo-poderoso.
-<verse eid="REV 16:14"/><verse number="15" style="v" sid="REV 16:15"/>“Prestem atenção: eu venho de modo inesperado, como um ladrão! Felizes aqueles que permanecem vigilantes, que guardam suas vestes preparadas e não andam nus, para que não passem vergonha diante dos outros”.
-<verse eid="REV 16:15"/><verse number="16" style="v" sid="REV 16:16"/>E esses espíritos reuniram os exércitos de todo o mundo perto de um lugar chamado, em hebraico, Armagedom.  
-<verse eid="REV 16:16"/><verse number="17" style="v" sid="REV 16:17"/>O sétimo anjo derramou a sua taça no ar; então saiu do trono, no templo, uma voz poderosa que dizia: “Está concluído!”.  
-<verse eid="REV 16:17"/><verse number="18" style="v" sid="REV 16:18"/>E houve relâmpagos, vozes, trovões e um grande terremoto, tão forte como nunca tinha acontecido desde que há gente sobre a terra.  
-<verse eid="REV 16:18"/><verse number="19" style="v" sid="REV 16:19"/>A grande cidade se dividiu em três partes, e as cidades das nações caíram em ruínas; Deus se lembrou da grande Babilônia e lhe deu o cálice do vinho do furor da sua ira, para que o bebesse até o fim.
-<verse eid="REV 16:19"/><verse number="20" style="v" sid="REV 16:20"/>Todas as ilhas desapareceram, e as montanhas deixaram de existir.
-<verse eid="REV 16:20"/><verse number="21" style="v" sid="REV 16:21"/>E caiu do céu sobre as pessoas uma forte tempestade de granizo. Pedras de granizo, pesando cerca de 35 quilos, caíam sobre os homens, e eles blasfemavam contra Deus por causa dessa praga terrível de granizo. 
+<verse eid="REV 16:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 16:2"/>Então o primeiro anjo saiu e despejou a sua taça sobre a terra. Surgiram feridas dolorosas e malignas em todos os que tinham o sinal da besta e adoravam a sua imagem.
+<verse eid="REV 16:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 16:3"/>O segundo anjo derramou a sua taça sobre o mar. O mar ficou como sangue de um morto, e toda criatura que vivia no mar morreu.
+<verse eid="REV 16:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 16:4"/>O terceiro anjo derramou a sua taça sobre os rios e sobre as fontes de água; e os rios e as fontes se tornaram em sangue.
+<verse eid="REV 16:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 16:5"/>E ouvi o anjo responsável pelas águas dizer: “Tu és justo ao trazer este julgamento, ó Santo, tu que és e que eras,
+<verse eid="REV 16:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 16:6"/>porque os teus santos e os teus profetas foram mortos como mártires, e o sangue deles foi derramado sobre a terra. Agora lhes deste sangue para beber em troca, pois é isso que eles merecem”.
+<verse eid="REV 16:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 16:7"/>E ouvi uma voz que vinha do altar, dizendo: “Sim, Senhor Deus Todo-poderoso, os teus julgamentos são justos e verdadeiros”.
+<verse eid="REV 16:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 16:8"/>O quarto anjo derramou a sua taça sobre o sol; e foi dado poder ao sol para queimar as pessoas com fogo.
+<verse eid="REV 16:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 16:9"/>As pessoas foram queimadas pelo calor intenso, e amaldiçoaram o nome de Deus que tinha poder sobre essas pragas. Elas, porém, não se arrependeram, nem mudaram de atitude para dar glória a ele.
+<verse eid="REV 16:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 16:10"/>O quinto anjo derramou a sua taça sobre o trono da besta. O reino da besta ficou mergulhado em profunda escuridão, e os seus súditos mordiam a língua de tanta angústia,
+<verse eid="REV 16:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 16:11"/>e blasfemavam contra o Deus do céu por causa das dores e das feridas que sofriam, mas recusaram-se a abandonar as suas obras más.
+<verse eid="REV 16:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 16:12"/>O sexto anjo derramou a sua taça sobre o grande rio Eufrates. O rio secou, para que os reis que vêm do Oriente pudessem avançar com seus exércitos sem impedimento.
+<verse eid="REV 16:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 16:13"/>Então vi saírem da boca do dragão, da boca da besta e da boca do falso profeta três espíritos impuros, parecidos com sapos.
+<verse eid="REV 16:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 16:14"/>São espíritos de demônios que fazem sinais milagrosos. Eles vão ao encontro dos reis de todo o mundo para reuni-los para a batalha contra o Senhor naquele grande dia do Deus Todo-poderoso.
+<verse eid="REV 16:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 16:15"/>“Prestem atenção: eu venho de modo inesperado, como um ladrão! Felizes aqueles que permanecem vigilantes, que guardam suas vestes preparadas e não andam nus, para que não passem vergonha diante dos outros”.
+<verse eid="REV 16:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 16:16"/>E esses espíritos reuniram os exércitos de todo o mundo perto de um lugar chamado, em hebraico, Armagedom.
+<verse eid="REV 16:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 16:17"/>O sétimo anjo derramou a sua taça no ar; então saiu do trono, no templo, uma voz poderosa que dizia: “Está concluído!”.
+<verse eid="REV 16:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 16:18"/>E houve relâmpagos, vozes, trovões e um grande terremoto, tão forte como nunca tinha acontecido desde que há gente sobre a terra.
+<verse eid="REV 16:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 16:19"/>A grande cidade se dividiu em três partes, e as cidades das nações caíram em ruínas; Deus se lembrou da grande Babilônia e lhe deu o cálice do vinho do furor da sua ira, para que o bebesse até o fim.
+<verse eid="REV 16:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 16:20"/>Todas as ilhas desapareceram, e as montanhas deixaram de existir.
+<verse eid="REV 16:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 16:21"/>E caiu do céu sobre as pessoas uma forte tempestade de granizo. Pedras de granizo, pesando cerca de 35 quilos, caíam sobre os homens, e eles blasfemavam contra Deus por causa dessa praga terrível de granizo.
 <verse eid="REV 16:21"/><verse eid="REV 16:21"/></para>
   <chapter eid="REV 16"/>
   <chapter number="17" style="c" sid="REV 17"/>
-  <para style="p"><verse number="1" style="v" sid="REV 17:1"/>Um dos sete anjos que tinham derramado as últimas pragas aproximou-se de mim e falou: "Venha, eu lhe mostrarei o que acontecerá com a grande prostituta que está sentada sobre muitas águas.  
-<verse eid="REV 17:1"/><verse number="2" style="v" sid="REV 17:2"/>Com ela os reis da terra praticaram imoralidade, e os moradores do mundo se embriagaram com o vinho da sua imoralidade".
-<verse eid="REV 17:2"/><verse number="3" style="v" sid="REV 17:3"/>Então o anjo me levou, em espírito, para um deserto. Ali vi uma mulher sentada sobre uma besta vermelha, com sete cabeças e dez chifres, coberta de nomes que insultavam Deus. 
-<verse eid="REV 17:3"/><verse number="4" style="v" sid="REV 17:4"/>A mulher vestia roupas de púrpura e de escarlata,1 e estava enfeitada com joias de ouro, pedras preciosas e pérolas. Em sua mão havia uma taça de ouro cheia de coisas repugnantes e da impureza da sua prostituição. 
-<verse eid="REV 17:4"/><verse number="5" style="v" sid="REV 17:5"/>Na testa dela estava escrito um título misterioso: "A Grande Babilônia, a Mãe das Prostitutas e das Abominações da Terra". 
-<verse eid="REV 17:5"/><verse number="6" style="v" sid="REV 17:6"/>Vi que a mulher estava embriagada com o sangue do povo santo, com o sangue das testemunhas de Jesus que foram mortas. Ao vê-la, fiquei muito admirado. 
-<verse eid="REV 17:6"/><verse number="7" style="v" sid="REV 17:7"/>Então o anjo me perguntou: "Por que você está tão admirado? Eu lhe explicarei o mistério desta mulher e da besta que a carrega, que tem sete cabeças e dez chifres.  
-<verse eid="REV 17:7"/><verse number="8" style="v" sid="REV 17:8"/>A besta que você viu existia, mas agora não existe. Contudo, em breve subirá do abismo e irá para a destruição, e os habitantes da terra, cujo nome não está escrito no Livro da Vida desde a criação do mundo, ficarão espantados ao ver a besta, porque ela existia, não existe mais, mas voltará. 
-<verse eid="REV 17:8"/><verse number="9" style="v" sid="REV 17:9"/>Aqui é preciso mente sábia: as sete cabeças são sete montes sobre os quais a mulher está sentada.  
-<verse eid="REV 17:9"/><verse number="10" style="v" sid="REV 17:10"/>São também sete reis: cinco já caíram, um ainda governa, e o outro ainda não veio; quando vier, terá de permanecer por pouco tempo.  
-<verse eid="REV 17:10"/><verse number="11" style="v" sid="REV 17:11"/>A besta que existia e não existe mais é o oitavo rei; pertence ao grupo dos sete e caminha para a destruição.  
-<verse eid="REV 17:11"/><verse number="12" style="v" sid="REV 17:12"/>Os dez chifres que você viu são dez reis que ainda não receberam reino, mas receberão autoridade como reis, por pouco tempo, junto com a besta.  
-<verse eid="REV 17:12"/><verse number="13" style="v" sid="REV 17:13"/>Eles têm um só propósito e entregarão o seu poder e a sua autoridade à besta.  
-<verse eid="REV 17:13"/><verse number="14" style="v" sid="REV 17:14"/>Eles lutarão contra o Cordeiro, mas o Cordeiro os vencerá, porque é o Senhor dos senhores e Rei dos reis; e com ele vencerão os chamados, os escolhidos e fiéis".  
-<verse eid="REV 17:14"/><verse number="15" style="v" sid="REV 17:15"/>Então o anjo me disse também: "As águas que você viu, onde a prostituta está sentada, são povos, multidões, nações e línguas.  
-<verse eid="REV 17:15"/><verse number="16" style="v" sid="REV 17:16"/>A besta e os dez chifres que você viu odiarão a prostituta. Eles a deixarão abandonada e nua, comerão a sua carne e a queimarão no fogo. 
-<verse eid="REV 17:16"/><verse number="17" style="v" sid="REV 17:17"/>Pois Deus colocou no coração deles o plano de realizar o propósito dele, de concordarem mutuamente em entregar o poder de reinar que eles têm à besta, até que se cumpram as palavras de Deus.
-<verse eid="REV 17:17"/><verse number="18" style="v" sid="REV 17:18"/>A mulher que você viu é a grande cidade que reina sobre os reis da terra". 
+  <para style="p"><verse number="1" style="v" sid="REV 17:1"/>Um dos sete anjos que tinham derramado as últimas pragas aproximou-se de mim e falou: “Venha, eu lhe mostrarei o que acontecerá com a grande prostituta que está sentada sobre muitas águas.
+<verse eid="REV 17:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 17:2"/>Com ela os reis da terra praticaram imoralidade, e os moradores do mundo se embriagaram com o vinho da sua imoralidade”.
+<verse eid="REV 17:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 17:3"/>Então o anjo me levou, em espírito, para um deserto. Ali vi uma mulher sentada sobre uma besta vermelha, com sete cabeças e dez chifres, coberta de nomes que insultavam Deus.
+<verse eid="REV 17:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 17:4"/>A mulher vestia roupas de púrpura e de escarlata,<note style="f" caller="+"> <char style="ft" closed="false"><char style="it" closed="true">Púrpura e escarlata: Púrpura e escarlata eram cores muito caras e raras no tempo da Bíblia.</char></char></note> e estava enfeitada com joias de ouro, pedras preciosas e pérolas. Em sua mão havia uma taça de ouro cheia de coisas repugnantes e da impureza da sua prostituição.
+<verse eid="REV 17:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 17:5"/>Na testa dela estava escrito um título misterioso: “A Grande Babilônia, a Mãe das Prostitutas e das Abominações da Terra”.
+<verse eid="REV 17:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 17:6"/>Vi que a mulher estava embriagada com o sangue do povo santo, com o sangue das testemunhas de Jesus que foram mortas. Ao vê-la, fiquei muito admirado.
+<verse eid="REV 17:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 17:7"/>Então o anjo me perguntou: “Por que você está tão admirado? Eu lhe explicarei o mistério desta mulher e da besta que a carrega, que tem sete cabeças e dez chifres.
+<verse eid="REV 17:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 17:8"/>A besta que você viu existia, mas agora não existe. Contudo, em breve subirá do abismo e irá para a destruição, e os habitantes da terra, cujo nome não está escrito no Livro da Vida desde a criação do mundo, ficarão espantados ao ver a besta, porque ela existia, não existe mais, mas voltará.
+<verse eid="REV 17:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 17:9"/>Aqui é preciso mente sábia: as sete cabeças são sete montes sobre os quais a mulher está sentada.
+<verse eid="REV 17:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 17:10"/>São também sete reis: cinco já caíram, um ainda governa, e o outro ainda não veio; quando vier, terá de permanecer por pouco tempo.
+<verse eid="REV 17:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 17:11"/>A besta que existia e não existe mais é o oitavo rei; pertence ao grupo dos sete e caminha para a destruição.
+<verse eid="REV 17:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 17:12"/>Os dez chifres que você viu são dez reis que ainda não receberam reino, mas receberão autoridade como reis, por pouco tempo, junto com a besta.
+<verse eid="REV 17:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 17:13"/>Eles têm um só propósito e entregarão o seu poder e a sua autoridade à besta.
+<verse eid="REV 17:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 17:14"/>Eles lutarão contra o Cordeiro, mas o Cordeiro os vencerá, porque é o Senhor dos senhores e Rei dos reis; e com ele vencerão os chamados, os escolhidos e fiéis”.
+<verse eid="REV 17:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 17:15"/>Então o anjo me disse também: “As águas que você viu, onde a prostituta está sentada, são povos, multidões, nações e línguas.
+<verse eid="REV 17:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 17:16"/>A besta e os dez chifres que você viu odiarão a prostituta. Eles a deixarão abandonada e nua, comerão a sua carne e a queimarão no fogo.
+<verse eid="REV 17:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 17:17"/>Pois Deus colocou no coração deles o plano de realizar o propósito dele, de concordarem mutuamente em entregar o poder de reinar que eles têm à besta, até que se cumpram as palavras de Deus.
+<verse eid="REV 17:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 17:18"/>A mulher que você viu é a grande cidade que reina sobre os reis da terra”.
 <verse eid="REV 17:18"/><verse eid="REV 17:18"/></para>
   <chapter eid="REV 17"/>
   <chapter number="18" style="c" sid="REV 18"/>
-  <para style="p"><verse number="1" style="v" sid="REV 18:1"/>Depois disso, vi outro anjo descer do céu com grande autoridade, e a terra ficou iluminada pelo brilho da sua presença.  
-<verse eid="REV 18:1"/><verse number="2" style="v" sid="REV 18:2"/>Ele gritou com voz forte: “Caiu, caiu a grande Babilônia. Ela se tornou morada de demônios, abrigo de espíritos impuros e esconderijo de toda espécie de aves impuras e repugnantes.
-<verse eid="REV 18:2"/><verse number="3" style="v" sid="REV 18:3"/>Pois todas as nações beberam do vinho da fúria da sua prostituição. Os reis da terra se uniram a ela em prostituição, e os comerciantes do mundo inteiro enriqueceram por causa do seu luxo exagerado”.
-<verse eid="REV 18:3"/><verse number="4" style="v" sid="REV 18:4"/>Então ouvi outra voz vinda do céu, dizendo: “Saiam do meio dela, meu povo. Não participem dos pecados dela, para que vocês não recebam as mesmas pragas que cairão sobre ela. 
-<verse eid="REV 18:4"/><verse number="5" style="v" sid="REV 18:5"/>Porque os pecados da Babilônia se acumularam até o céu, e Deus está pronto para lembrar e julgar todas as suas maldades.
-<verse eid="REV 18:5"/><verse number="6" style="v" sid="REV 18:6"/>Tratem-na como ela tratou vocês. Paguem a ela na mesma medida, e ainda em dobro, por todas as suas obras más. No cálice em que ela serviu sofrimento aos outros, misturem para ela uma porção dupla.
-<verse eid="REV 18:6"/><verse number="7" style="v" sid="REV 18:7"/>Na mesma proporção em que viveu em luxo e prazer, deem a ela tormento e tristeza, pois ela diz em seu coração: ‘Estou sentada como rainha, não sou viúva e jamais terei tristeza’.
-<verse eid="REV 18:7"/><verse number="8" style="v" sid="REV 18:8"/>Por isso, num só dia virão sobre ela morte, pranto e fome, e ela será totalmente queimada no fogo, porque forte é o Senhor Deus que a julga. 
-<verse eid="REV 18:8"/><verse number="9" style="v" sid="REV 18:9"/>Os reis da terra que se prostituíram com ela e participaram do seu luxo chorarão e se lamentarão quando virem a fumaça do incêndio que a consome.  
-<verse eid="REV 18:9"/><verse number="10" style="v" sid="REV 18:10"/>Eles ficarão de longe, com medo do tormento dela, e dirão: ‘Ai! Ai de você, grande cidade, Babilônia poderosa! Em apenas uma hora chegou o seu juízo’. 
-<verse eid="REV 18:10"/><verse number="11" style="v" sid="REV 18:11"/>Os comerciantes da terra também chorarão e se lamentarão por causa dela, porque ninguém mais compra as suas mercadorias.
-<verse eid="REV 18:11"/><verse number="12" style="v" sid="REV 18:12"/>Ninguém mais adquire o seu ouro, prata, pedras preciosas, pérolas, linho fino, púrpura, seda e tecido escarlate; nem todo tipo de madeira de cedro, objetos de marfim, esculturas de madeira rara, de bronze, de ferro e de mármore. 
-<verse eid="REV 18:12"/><verse number="13" style="v" sid="REV 18:13"/>Ninguém compra canela, perfumes, incenso, unguentos e bálsamos; nem vinho, azeite, farinha fina, trigo, bois, ovelhas, cavalos, carruagens, e corpos e almas de seres humanos.
-<verse eid="REV 18:13"/><verse number="14" style="v" sid="REV 18:14"/>'Foram-se as frutas que você tanto desejava', dizem eles. 'Toda a riqueza e todo o esplendor que você apreciava desapareceram; nunca mais voltarão'. 
-<verse eid="REV 18:14"/><verse number="15" style="v" sid="REV 18:15"/>Os comerciantes que ficaram ricos vendendo essas coisas para ela ficarão de longe, com medo do tormento dela, chorando e lamentando.  
-<verse eid="REV 18:15"/><verse number="16" style="v" sid="REV 18:16"/>E dirão: 'Ai daquela grande cidade, tão bela, vestida de linho finíssimo, de púrpura e de escarlate, enfeitada com ouro, pedras preciosas e pérolas! 
-<verse eid="REV 18:16"/><verse number="17" style="v" sid="REV 18:17"/>Em apenas uma hora toda essa grande riqueza foi destruída!'. Todos os pilotos, passageiros e marinheiros, e todos os que ganham a vida no mar ficarão de longe,
-<verse eid="REV 18:17"/><verse number="18" style="v" sid="REV 18:18"/>e, vendo a fumaça do incêndio da cidade, chorarão e dirão: 'Que outra cidade houve igual a esta grande cidade?'.
-<verse eid="REV 18:18"/><verse number="19" style="v" sid="REV 18:19"/>E, cheios de tristeza, jogarão pó sobre a cabeça e clamarão, chorando e lamentando: 'Ai! Ai daquela grande cidade! Por causa da sua riqueza, todos os que tinham navios no mar ficaram ricos. No entanto, em apenas uma hora ela foi arrasada!'.
-<verse eid="REV 18:19"/><verse number="20" style="v" sid="REV 18:20"/>Alegrem-se por causa dela, ó céus. Alegrem-se, povo de Deus, profetas e apóstolos, porque Deus a julgou, retribuindo-lhe o que ela fez a vocês".
-<verse eid="REV 18:20"/><verse number="21" style="v" sid="REV 18:21"/>Então um anjo forte pegou uma grande pedra, do tamanho de uma grande pedra de moinho, lançou-a no mar e disse: “Assim, com violência, será lançada para baixo a grande cidade da Babilônia, e nunca mais será encontrada.
-<verse eid="REV 18:21"/><verse number="22" style="v" sid="REV 18:22"/>Nela nunca mais se ouvirá o som de músicos, de harpistas, flautistas e tocadores de trombeta. Nunca mais se achará ali qualquer artífice de qualquer profissão, e nunca mais se ouvirá o som das pedras de moinho. 
-<verse eid="REV 18:22"/><verse number="23" style="v" sid="REV 18:23"/>A luz de lamparina nunca mais brilhará em você. A voz do noivo e da noiva nunca mais será ouvida em você. Os seus comerciantes eram os grandes da terra, e com as suas feitiçarias todas as nações foram seduzidas.
-<verse eid="REV 18:23"/><verse number="24" style="v" sid="REV 18:24"/>E nela foi encontrado o sangue dos profetas, dos santos e de todos os que foram mortos na terra”. 
+  <para style="p"><verse number="1" style="v" sid="REV 18:1"/>Depois disso, vi outro anjo descer do céu com grande autoridade, e a terra ficou iluminada pelo brilho da sua presença.
+<verse eid="REV 18:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 18:2"/>Ele gritou com voz forte: “Caiu, caiu a grande Babilônia. Ela se tornou morada de demônios, abrigo de espíritos impuros e esconderijo de toda espécie de aves impuras e repugnantes.
+<verse eid="REV 18:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 18:3"/>Pois todas as nações beberam do vinho da fúria da sua prostituição. Os reis da terra se uniram a ela em prostituição, e os comerciantes do mundo inteiro enriqueceram por causa do seu luxo exagerado”.
+<verse eid="REV 18:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 18:4"/>Então ouvi outra voz vinda do céu, dizendo: “Saiam do meio dela, meu povo. Não participem dos pecados dela, para que vocês não recebam as mesmas pragas que cairão sobre ela.
+<verse eid="REV 18:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 18:5"/>Porque os pecados da Babilônia se acumularam até o céu, e Deus está pronto para lembrar e julgar todas as suas maldades.
+<verse eid="REV 18:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 18:6"/>Tratem-na como ela tratou vocês. Paguem a ela na mesma medida, e ainda em dobro, por todas as suas obras más. No cálice em que ela serviu sofrimento aos outros, misturem para ela uma porção dupla.
+<verse eid="REV 18:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 18:7"/>Na mesma proporção em que viveu em luxo e prazer, deem a ela tormento e tristeza, pois ela diz em seu coração: ‘Estou sentada como rainha, não sou viúva e jamais terei tristeza’.
+<verse eid="REV 18:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 18:8"/>Por isso, num só dia virão sobre ela morte, pranto e fome, e ela será totalmente queimada no fogo, porque forte é o Senhor Deus que a julga.
+<verse eid="REV 18:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 18:9"/>Os reis da terra que se prostituíram com ela e participaram do seu luxo chorarão e se lamentarão quando virem a fumaça do incêndio que a consome.
+<verse eid="REV 18:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 18:10"/>Eles ficarão de longe, com medo do tormento dela, e dirão: ‘Ai! Ai de você, grande cidade, Babilônia poderosa! Em apenas uma hora chegou o seu juízo’.
+<verse eid="REV 18:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 18:11"/>Os comerciantes da terra também chorarão e se lamentarão por causa dela, porque ninguém mais compra as suas mercadorias.
+<verse eid="REV 18:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 18:12"/>Ninguém mais adquire o seu ouro, prata, pedras preciosas, pérolas, linho fino, púrpura, seda e tecido escarlate; nem todo tipo de madeira de cedro, objetos de marfim, esculturas de madeira rara, de bronze, de ferro e de mármore.
+<verse eid="REV 18:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 18:13"/>Ninguém compra canela, perfumes, incenso, unguentos e bálsamos; nem vinho, azeite, farinha fina, trigo, bois, ovelhas, cavalos, carruagens, e corpos e almas de seres humanos.
+<verse eid="REV 18:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 18:14"/>'Foram-se as frutas que você tanto desejava’, dizem eles. ‘Toda a riqueza e todo o esplendor que você apreciava desapareceram; nunca mais voltarão’.
+<verse eid="REV 18:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 18:15"/>Os comerciantes que ficaram ricos vendendo essas coisas para ela ficarão de longe, com medo do tormento dela, chorando e lamentando.
+<verse eid="REV 18:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 18:16"/>E dirão: ‘Ai daquela grande cidade, tão bela, vestida de linho finíssimo, de púrpura e de escarlate, enfeitada com ouro, pedras preciosas e pérolas!
+<verse eid="REV 18:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 18:17"/>Em apenas uma hora toda essa grande riqueza foi destruída!’. Todos os pilotos, passageiros e marinheiros, e todos os que ganham a vida no mar ficarão de longe,
+<verse eid="REV 18:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 18:18"/>e, vendo a fumaça do incêndio da cidade, chorarão e dirão: ‘Que outra cidade houve igual a esta grande cidade?’.
+<verse eid="REV 18:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 18:19"/>E, cheios de tristeza, jogarão pó sobre a cabeça e clamarão, chorando e lamentando: ‘Ai! Ai daquela grande cidade! Por causa da sua riqueza, todos os que tinham navios no mar ficaram ricos. No entanto, em apenas uma hora ela foi arrasada!’.
+<verse eid="REV 18:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 18:20"/>Alegrem-se por causa dela, ó céus. Alegrem-se, povo de Deus, profetas e apóstolos, porque Deus a julgou, retribuindo-lhe o que ela fez a vocês”.
+<verse eid="REV 18:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 18:21"/>Então um anjo forte pegou uma grande pedra, do tamanho de uma grande pedra de moinho, lançou-a no mar e disse: “Assim, com violência, será lançada para baixo a grande cidade da Babilônia, e nunca mais será encontrada.
+<verse eid="REV 18:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="REV 18:22"/>Nela nunca mais se ouvirá o som de músicos, de harpistas, flautistas e tocadores de trombeta. Nunca mais se achará ali qualquer artífice de qualquer profissão, e nunca mais se ouvirá o som das pedras de moinho.
+<verse eid="REV 18:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="REV 18:23"/>A luz de lamparina nunca mais brilhará em você. A voz do noivo e da noiva nunca mais será ouvida em você. Os seus comerciantes eram os grandes da terra, e com as suas feitiçarias todas as nações foram seduzidas.
+<verse eid="REV 18:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="REV 18:24"/>E nela foi encontrado o sangue dos profetas, dos santos e de todos os que foram mortos na terra”.
 <verse eid="REV 18:24"/><verse eid="REV 18:24"/></para>
   <chapter eid="REV 18"/>
   <chapter number="19" style="c" sid="REV 19"/>
-  <para style="p"><verse number="1" style="v" sid="REV 19:1"/>Depois disso ouvi a voz de uma grande multidão no céu, dizendo: "Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus.
-<verse eid="REV 19:1"/><verse number="2" style="v" sid="REV 19:2"/>Pois suas decisões são justas e verdadeiras. Ele puniu a grande prostituta que corrompeu a terra com a sua prostituição, e cobrou dela o sangue dos seus servos".
-<verse eid="REV 19:2"/><verse number="3" style="v" sid="REV 19:3"/>A multidão repetia com voz ainda mais forte: "Aleluia! A fumaça do incêndio dela sobe para sempre".  
-<verse eid="REV 19:3"/><verse number="4" style="v" sid="REV 19:4"/>Então os vinte e quatro anciãos e os quatro seres viventes se ajoelharam e adoraram a Deus, que está no trono, dizendo: "Amém! Aleluia!". 
-<verse eid="REV 19:4"/><verse number="5" style="v" sid="REV 19:5"/>Do trono veio uma voz que dizia: "Louvem o nosso Deus, todos vocês, seus servos, todos vocês que o temem, tanto grandes como pequenos".  
-<verse eid="REV 19:5"/><verse number="6" style="v" sid="REV 19:6"/>Depois ouvi outra voz, forte como o som de uma multidão, como águas que correm e como trovões: "Aleluia! O Senhor, nosso Deus Todo‑poderoso, reina.  
-<verse eid="REV 19:6"/><verse number="7" style="v" sid="REV 19:7"/>Alegremo-nos, celebremos e demos glória a ele, pois chegou o casamento do Cordeiro, e a noiva já está pronta. 
-<verse eid="REV 19:7"/><verse number="8" style="v" sid="REV 19:8"/>A ela foi dado o direito de vestir linho puro, branco e fino". Esse linho representa as ações justas dos santos, o povo de Deus.
-<verse eid="REV 19:8"/><verse number="9" style="v" sid="REV 19:9"/>O anjo me disse: "Escreva: Felizes os convidados para o banquete do casamento do Cordeiro". E afirmou: "Estas são palavras verdadeiras de Deus".  
-<verse eid="REV 19:9"/><verse number="10" style="v" sid="REV 19:10"/>Então caí aos pés dele para adorá-lo, mas ele disse: "Não faça isso! Eu sou servo de Deus como você e como seus irmãos que permanecem fiéis ao testemunho de Jesus. Adore a Deus. O testemunho de Jesus é o espírito da profecia".
-<verse eid="REV 19:10"/><verse number="11" style="v" sid="REV 19:11"/>Vi o céu aberto, e diante de mim estava um cavalo branco. Quem o montava tinha o nome de "Fiel e Verdadeiro", e ele julga e guerreia com justiça.  
-<verse eid="REV 19:11"/><verse number="12" style="v" sid="REV 19:12"/>Seus olhos brilhavam como fogo, e sobre sua cabeça havia muitas coroas. Ele tinha um nome escrito que só ele conhece.
-<verse eid="REV 19:12"/><verse number="13" style="v" sid="REV 19:13"/>Ele vestia uma roupa manchada de sangue, e seu título era "Palavra de Deus".  
-<verse eid="REV 19:13"/><verse number="14" style="v" sid="REV 19:14"/>Os exércitos do céu o seguiam, vestidos de linho fino, branco e limpo, montados em cavalos brancos.  
-<verse eid="REV 19:14"/><verse number="15" style="v" sid="REV 19:15"/>De sua boca saía uma espada afiada para derrotar as nações. Ele as governará com vara de ferro e pisará o lagar da ira do Deus Todo‑poderoso.  
-<verse eid="REV 19:15"/><verse number="16" style="v" sid="REV 19:16"/>Em seu manto e em sua coxa estava escrito: Rei dos Reis e Senhor dos Senhores.  
-<verse eid="REV 19:16"/><verse number="17" style="v" sid="REV 19:17"/>Vi um anjo parado na luz do sol que clamava em voz alta a todas as aves: "Venham! Reúnam-se para a grande ceia de Deus!
-<verse eid="REV 19:17"/><verse number="18" style="v" sid="REV 19:18"/>Venham comer a carne de reis, de generais, de soldados, de cavalos e de cavaleiros, e de toda a humanidade, tanto grandes como pequenos, tanto escravos como livres". 
-<verse eid="REV 19:18"/><verse number="19" style="v" sid="REV 19:19"/>Depois vi a besta reunindo os governantes da terra e seus exércitos para lutar contra aquele que estava no cavalo e contra o seu exército.  
-<verse eid="REV 19:19"/><verse number="20" style="v" sid="REV 19:20"/>A besta foi presa, e com ela o falso profeta que fazia sinais em favor dela, sinais que enganaram os que receberam o sinal da besta e adoraram sua imagem. Ambos foram lançados vivos no lago de fogo que queima com enxofre.  
-<verse eid="REV 19:20"/><verse number="21" style="v" sid="REV 19:21"/>O exército deles foi morto pela espada afiada que saía da boca daquele que montava o cavalo branco, e todas as aves se alimentaram da carne deles. 
+  <para style="p"><verse number="1" style="v" sid="REV 19:1"/>Depois disso ouvi a voz de uma grande multidão no céu, dizendo: “Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus.
+<verse eid="REV 19:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 19:2"/>Pois suas decisões são justas e verdadeiras. Ele puniu a grande prostituta que corrompeu a terra com a sua prostituição, e cobrou dela o sangue dos seus servos”.
+<verse eid="REV 19:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 19:3"/>A multidão repetia com voz ainda mais forte: “Aleluia! A fumaça do incêndio dela sobe para sempre”.
+<verse eid="REV 19:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 19:4"/>Então os vinte e quatro anciãos e os quatro seres viventes se ajoelharam e adoraram a Deus, que está no trono, dizendo: “Amém! Aleluia!”.
+<verse eid="REV 19:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 19:5"/>Do trono veio uma voz que dizia: “Louvem o nosso Deus, todos vocês, seus servos, todos vocês que o temem, tanto grandes como pequenos”.
+<verse eid="REV 19:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 19:6"/>Depois ouvi outra voz, forte como o som de uma multidão, como águas que correm e como trovões: “Aleluia! O Senhor, nosso Deus Todo‑poderoso, reina.
+<verse eid="REV 19:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 19:7"/>Alegremo-nos, celebremos e demos glória a ele, pois chegou o casamento do Cordeiro, e a noiva já está pronta.
+<verse eid="REV 19:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 19:8"/>A ela foi dado o direito de vestir linho puro, branco e fino”. Esse linho representa as ações justas dos santos, o povo de Deus.
+<verse eid="REV 19:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 19:9"/>O anjo me disse: “Escreva: Felizes os convidados para o banquete do casamento do Cordeiro”. E afirmou: “Estas são palavras verdadeiras de Deus”.
+<verse eid="REV 19:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 19:10"/>Então caí aos pés dele para adorá-lo, mas ele disse: “Não faça isso! Eu sou servo de Deus como você e como seus irmãos que permanecem fiéis ao testemunho de Jesus. Adore a Deus. O testemunho de Jesus é o espírito da profecia”.
+<verse eid="REV 19:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 19:11"/>Vi o céu aberto, e diante de mim estava um cavalo branco. Quem o montava tinha o nome de “Fiel e Verdadeiro”, e ele julga e guerreia com justiça.
+<verse eid="REV 19:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 19:12"/>Seus olhos brilhavam como fogo, e sobre sua cabeça havia muitas coroas. Ele tinha um nome escrito que só ele conhece.
+<verse eid="REV 19:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 19:13"/>Ele vestia uma roupa manchada de sangue, e seu título era “Palavra de Deus”.
+<verse eid="REV 19:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 19:14"/>Os exércitos do céu o seguiam, vestidos de linho fino, branco e limpo, montados em cavalos brancos.
+<verse eid="REV 19:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 19:15"/>De sua boca saía uma espada afiada para derrotar as nações. Ele as governará com vara de ferro e pisará o lagar da ira do Deus Todo‑poderoso.
+<verse eid="REV 19:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 19:16"/>Em seu manto e em sua coxa estava escrito: Rei dos Reis e Senhor dos Senhores.
+<verse eid="REV 19:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 19:17"/>Vi um anjo parado na luz do sol que clamava em voz alta a todas as aves: “Venham! Reúnam-se para a grande ceia de Deus!
+<verse eid="REV 19:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 19:18"/>Venham comer a carne de reis, de generais, de soldados, de cavalos e de cavaleiros, e de toda a humanidade, tanto grandes como pequenos, tanto escravos como livres”.
+<verse eid="REV 19:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 19:19"/>Depois vi a besta reunindo os governantes da terra e seus exércitos para lutar contra aquele que estava no cavalo e contra o seu exército.
+<verse eid="REV 19:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 19:20"/>A besta foi presa, e com ela o falso profeta que fazia sinais em favor dela, sinais que enganaram os que receberam o sinal da besta e adoraram sua imagem. Ambos foram lançados vivos no lago de fogo que queima com enxofre.
+<verse eid="REV 19:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 19:21"/>O exército deles foi morto pela espada afiada que saía da boca daquele que montava o cavalo branco, e todas as aves se alimentaram da carne deles.
 <verse eid="REV 19:21"/><verse eid="REV 19:21"/></para>
   <chapter eid="REV 19"/>
   <chapter number="20" style="c" sid="REV 20"/>
-  <para style="p"><verse number="1" style="v" sid="REV 20:1"/>Nisso vi um anjo descer do céu trazendo a chave do abismo e segurando uma corrente pesada.  
-<verse eid="REV 20:1"/><verse number="2" style="v" sid="REV 20:2"/>Ele capturou o dragão, a antiga serpente chamada diabo e Satanás, e o prendeu com correntes por mil anos.  
-<verse eid="REV 20:2"/><verse number="3" style="v" sid="REV 20:3"/>Depois o lançou no abismo, fechou a entrada e colocou um selo, para que ele não enganasse mais as nações até o fim dos mil anos. Depois disso, ele seria solto por pouco tempo. 
-<verse eid="REV 20:3"/><verse number="4" style="v" sid="REV 20:4"/>Vi tronos, e neles estavam sentados aqueles que receberam autoridade para julgar. Vi também as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus, e que não adoraram a besta nem a sua imagem, nem aceitaram a sua marca na testa ou na mão. Eles voltaram à vida e reinaram com Cristo por mil anos.
-<verse eid="REV 20:4"/><verse number="5" style="v" sid="REV 20:5"/>Os outros mortos não voltaram à vida até que os mil anos terminaram. Esta é a primeira ressurreição. 
-<verse eid="REV 20:5"/><verse number="6" style="v" sid="REV 20:6"/>Felizes e santos os que participam da primeira ressurreição. A segunda morte não tem poder sobre eles. Serão sacerdotes de Deus e de Cristo, e reinarão com ele por mil anos. 
-<verse eid="REV 20:6"/><verse number="7" style="v" sid="REV 20:7"/>Quando os mil anos terminarem, Satanás será solto da sua prisão.
-<verse eid="REV 20:7"/><verse number="8" style="v" sid="REV 20:8"/>Ele sairá para enganar as nações da terra e reuni-las para a batalha, junto com Gogue e Magogue, um exército tão grande como a areia do mar.  
-<verse eid="REV 20:8"/><verse number="9" style="v" sid="REV 20:9"/>As nações avançaram por toda a superfície da terra e cercaram o acampamento do povo de Deus e a cidade amada. Mas um fogo desceu do céu e as destruiu.
-<verse eid="REV 20:9"/><verse number="10" style="v" sid="REV 20:10"/>O diabo, que as enganou, foi lançado no lago de fogo que arde com enxofre, onde a besta e o falso profeta já tinham sido lançados, e será atormentado dia e noite para sempre.
-<verse eid="REV 20:10"/><verse number="11" style="v" sid="REV 20:11"/>Vi um grande trono branco e aquele que estava sentado nele. Diante dele, o céu e a terra fugiram, e não houve lugar para se esconder. 
-<verse eid="REV 20:11"/><verse number="12" style="v" sid="REV 20:12"/>Vi os mortos, grandes e pequenos, em pé diante do trono. Os livros foram abertos, inclusive o Livro da Vida, e os mortos foram julgados segundo o que estava escrito nos livros, conforme as suas obras.
-<verse eid="REV 20:12"/><verse number="13" style="v" sid="REV 20:13"/>O mar entregou os mortos que estavam nele. A morte e o Hades entregaram os mortos que guardavam, e cada um foi julgado conforme as suas obras. 
-<verse eid="REV 20:13"/><verse number="14" style="v" sid="REV 20:14"/>A morte e o Hades foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo. 
-<verse eid="REV 20:14"/><verse number="15" style="v" sid="REV 20:15"/>E quem não teve o nome encontrado no Livro da Vida foi lançado no lago de fogo. 
+  <para style="p"><verse number="1" style="v" sid="REV 20:1"/>Nisso vi um anjo descer do céu trazendo a chave do abismo e segurando uma corrente pesada.
+<verse eid="REV 20:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 20:2"/>Ele capturou o dragão, a antiga serpente chamada diabo e Satanás, e o prendeu com correntes por mil anos.
+<verse eid="REV 20:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 20:3"/>Depois o lançou no abismo, fechou a entrada e colocou um selo, para que ele não enganasse mais as nações até o fim dos mil anos. Depois disso, ele seria solto por pouco tempo.
+<verse eid="REV 20:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 20:4"/>Vi tronos, e neles estavam sentados aqueles que receberam autoridade para julgar. Vi também as almas dos que foram decapitados por causa do testemunho de Jesus e da palavra de Deus, e que não adoraram a besta nem a sua imagem, nem aceitaram a sua marca na testa ou na mão. Eles voltaram à vida e reinaram com Cristo por mil anos.
+<verse eid="REV 20:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 20:5"/>Os outros mortos não voltaram à vida até que os mil anos terminaram. Esta é a primeira ressurreição.
+<verse eid="REV 20:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 20:6"/>Felizes e santos os que participam da primeira ressurreição. A segunda morte não tem poder sobre eles. Serão sacerdotes de Deus e de Cristo, e reinarão com ele por mil anos.
+<verse eid="REV 20:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 20:7"/>Quando os mil anos terminarem, Satanás será solto da sua prisão.
+<verse eid="REV 20:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 20:8"/>Ele sairá para enganar as nações da terra e reuni-las para a batalha, junto com Gogue e Magogue, um exército tão grande como a areia do mar.
+<verse eid="REV 20:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 20:9"/>As nações avançaram por toda a superfície da terra e cercaram o acampamento do povo de Deus e a cidade amada. Mas um fogo desceu do céu e as destruiu.
+<verse eid="REV 20:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 20:10"/>O diabo, que as enganou, foi lançado no lago de fogo que arde com enxofre, onde a besta e o falso profeta já tinham sido lançados, e será atormentado dia e noite para sempre.
+<verse eid="REV 20:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 20:11"/>Vi um grande trono branco e aquele que estava sentado nele. Diante dele, o céu e a terra fugiram, e não houve lugar para se esconder.
+<verse eid="REV 20:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 20:12"/>Vi os mortos, grandes e pequenos, em pé diante do trono. Os livros foram abertos, inclusive o Livro da Vida, e os mortos foram julgados segundo o que estava escrito nos livros, conforme as suas obras.
+<verse eid="REV 20:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 20:13"/>O mar entregou os mortos que estavam nele. A morte e o Hades entregaram os mortos que guardavam, e cada um foi julgado conforme as suas obras.
+<verse eid="REV 20:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 20:14"/>A morte e o Hades foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo.
+<verse eid="REV 20:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 20:15"/>E quem não teve o nome encontrado no Livro da Vida foi lançado no lago de fogo.
 <verse eid="REV 20:15"/><verse eid="REV 20:15"/></para>
   <chapter eid="REV 20"/>
   <chapter number="21" style="c" sid="REV 21"/>
-  <para style="p"><verse number="1" style="v" sid="REV 21:1"/>Então contemplei um novo céu e uma nova terra, pois o primeiro céu e a primeira terra tinham passado, e o mar já não existia.  
-<verse eid="REV 21:1"/><verse number="2" style="v" sid="REV 21:2"/>Eu, João, vi a cidade santa, a nova Jerusalém, descendo da parte de Deus, vinda do céu, bela e radiante como uma noiva preparada para encontrar o seu noivo.  
-<verse eid="REV 21:2"/><verse number="3" style="v" sid="REV 21:3"/>Ouvi então uma voz forte que saía do trono e dizia: “Vejam, a morada de Deus está agora entre os seres humanos. Ele habitará com eles, eles serão o seu povo, e o próprio Deus estará com eles e será o seu Deus.
-<verse eid="REV 21:3"/><verse number="4" style="v" sid="REV 21:4"/>Ele enxugará toda lágrima dos olhos deles, e não haverá mais morte, nem lamento, nem choro, nem dor, porque as coisas antigas passaram”.  
-<verse eid="REV 21:4"/><verse number="5" style="v" sid="REV 21:5"/>Aquele que estava sentado no trono declarou: “Veja, faço novas todas as coisas”. E acrescentou: “Escreva estas palavras, pois são verdadeiras e totalmente confiáveis”.  
-<verse eid="REV 21:5"/><verse number="6" style="v" sid="REV 21:6"/>E disse ainda: “Tudo está cumprido. Eu sou o Alfa e o Ômega, o Princípio e o Fim. A quem tem sede, darei gratuitamente da fonte da água da vida.  
-<verse eid="REV 21:6"/><verse number="7" style="v" sid="REV 21:7"/>Quem vencer receberá estas heranças. Eu serei o seu Deus, e ele será meu filho. 
-<verse eid="REV 21:7"/><verse number="8" style="v" sid="REV 21:8"/>Mas os covardes, os incrédulos, os depravados, os assassinos, os que vivem na imoralidade sexual, os que praticam feitiçaria, os idólatras e todos os mentirosos terão como destino o lago de fogo que queima com enxofre. Esta é a segunda morte”.
-<verse eid="REV 21:8"/><verse number="9" style="v" sid="REV 21:9"/>Então um dos sete anjos que tinham as sete taças cheias das últimas pragas aproximou-se de mim e disse: "Venha, eu lhe mostrarei a noiva, a esposa do Cordeiro".
-<verse eid="REV 21:9"/><verse number="10" style="v" sid="REV 21:10"/>Em visão, ele me levou em espírito a uma montanha muito alta, e de lá vi a cidade santa, Jerusalém, descendo do céu, vinda de Deus, diante de mim.  
-<verse eid="REV 21:10"/><verse number="11" style="v" sid="REV 21:11"/>Ela resplandecia com a glória de Deus e brilhava como uma pedra muito preciosa, clara como cristal, semelhante ao jaspe.
-<verse eid="REV 21:11"/><verse number="12" style="v" sid="REV 21:12"/>Seus muros eram grandes e altos, com doze portões guardados por doze anjos, e sobre os portões estavam escritos os nomes das doze tribos de Israel.  
-<verse eid="REV 21:12"/><verse number="13" style="v" sid="REV 21:13"/>Havia três portões ao lado norte, três ao lado sul, três ao lado leste e três ao lado oeste.  
-<verse eid="REV 21:13"/><verse number="14" style="v" sid="REV 21:14"/>O muro da cidade tinha doze fundamentos, e neles estavam gravados os nomes dos doze apóstolos do Cordeiro.  
-<verse eid="REV 21:14"/><verse number="15" style="v" sid="REV 21:15"/>O anjo que falava comigo tinha na mão uma vara de medir feita de ouro, para medir a cidade, os seus portões e os seus muros.
-<verse eid="REV 21:15"/><verse number="16" style="v" sid="REV 21:16"/>Ele mediu a cidade e viu que ela formava um quadrado, com o comprimento igual à largura; mediu com a vara e encontrou cerca de 2.200 quilômetros de comprimento, e a largura e a altura eram iguais ao comprimento.  
-<verse eid="REV 21:16"/><verse number="17" style="v" sid="REV 21:17"/>Ele mediu o muro, e a espessura chegou a 65 metros, conforme a medida humana que o anjo usava.
-<verse eid="REV 21:17"/><verse number="18" style="v" sid="REV 21:18"/>A cidade era de ouro puro, transparente como vidro, e o muro era construído de jaspe.  
-<verse eid="REV 21:18"/><verse number="19" style="v" sid="REV 21:19"/>Os fundamentos do muro da cidade eram adornados com toda espécie de pedras preciosas: o primeiro fundamento era de jaspe, o segundo de safira, o terceiro de calcedônia, o quarto de esmeralda,  
-<verse eid="REV 21:19"/><verse number="20" style="v" sid="REV 21:20"/>o quinto de sardônio, o sexto de sárdio, o sétimo de crisólito, o oitavo de berilo, o nono de topázio, o décimo de crisópraso, o décimo primeiro de jacinto e o décimo segundo de ametista.  
-<verse eid="REV 21:20"/><verse number="21" style="v" sid="REV 21:21"/>Os doze portões eram doze pérolas. Cada portão era formado de uma única pérola, e a rua principal da cidade era de ouro puro, semelhante a vidro transparente. 
-<verse eid="REV 21:21"/><verse number="22" style="v" sid="REV 21:22"/>Não vi nenhum templo na cidade, porque o Senhor Deus Todo-poderoso e o Cordeiro são o templo dela.  
-<verse eid="REV 21:22"/><verse number="23" style="v" sid="REV 21:23"/>A cidade não precisa do sol nem da lua para receber luz, pois a glória de Deus a ilumina, e o Cordeiro é a sua lâmpada.  
-<verse eid="REV 21:23"/><verse number="24" style="v" sid="REV 21:24"/>As nações andarão à luz dessa cidade, e os reis da terra levarão para ela a sua glória.  
-<verse eid="REV 21:24"/><verse number="25" style="v" sid="REV 21:25"/>Os portões da cidade jamais se fecharão durante o dia, e ali não haverá noite.  
-<verse eid="REV 21:25"/><verse number="26" style="v" sid="REV 21:26"/>A glória e a honra das nações serão trazidas para dentro dela.  
-<verse eid="REV 21:26"/><verse number="27" style="v" sid="REV 21:27"/>Nada impuro entrará nela, nem quem pratica o que é vergonhoso ou mentiroso, mas somente aqueles que têm o nome escrito no Livro da Vida do Cordeiro. 
+  <para style="p"><verse number="1" style="v" sid="REV 21:1"/>Então contemplei um novo céu e uma nova terra, pois o primeiro céu e a primeira terra tinham passado, e o mar já não existia.
+<verse eid="REV 21:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 21:2"/>Eu, João, vi a cidade santa, a nova Jerusalém, descendo da parte de Deus, vinda do céu, bela e radiante como uma noiva preparada para encontrar o seu noivo.
+<verse eid="REV 21:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 21:3"/>Ouvi então uma voz forte que saía do trono e dizia: “Vejam, a morada de Deus está agora entre os seres humanos. Ele habitará com eles, eles serão o seu povo, e o próprio Deus estará com eles e será o seu Deus.
+<verse eid="REV 21:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 21:4"/>Ele enxugará toda lágrima dos olhos deles, e não haverá mais morte, nem lamento, nem choro, nem dor, porque as coisas antigas passaram”.
+<verse eid="REV 21:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 21:5"/>Aquele que estava sentado no trono declarou: “Veja, faço novas todas as coisas”. E acrescentou: “Escreva estas palavras, pois são verdadeiras e totalmente confiáveis”.
+<verse eid="REV 21:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 21:6"/>E disse ainda: “Tudo está cumprido. Eu sou o Alfa e o Ômega, o Princípio e o Fim. A quem tem sede, darei gratuitamente da fonte da água da vida.
+<verse eid="REV 21:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 21:7"/>Quem vencer receberá estas heranças. Eu serei o seu Deus, e ele será meu filho.
+<verse eid="REV 21:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 21:8"/>Mas os covardes, os incrédulos, os depravados, os assassinos, os que vivem na imoralidade sexual, os que praticam feitiçaria, os idólatras e todos os mentirosos terão como destino o lago de fogo que queima com enxofre. Esta é a segunda morte”.
+<verse eid="REV 21:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 21:9"/>Então um dos sete anjos que tinham as sete taças cheias das últimas pragas aproximou-se de mim e disse: “Venha, eu lhe mostrarei a noiva, a esposa do Cordeiro”.
+<verse eid="REV 21:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 21:10"/>Em visão, ele me levou em espírito a uma montanha muito alta, e de lá vi a cidade santa, Jerusalém, descendo do céu, vinda de Deus, diante de mim.
+<verse eid="REV 21:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 21:11"/>Ela resplandecia com a glória de Deus e brilhava como uma pedra muito preciosa, clara como cristal, semelhante ao jaspe.
+<verse eid="REV 21:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 21:12"/>Seus muros eram grandes e altos, com doze portões guardados por doze anjos, e sobre os portões estavam escritos os nomes das doze tribos de Israel.
+<verse eid="REV 21:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 21:13"/>Havia três portões ao lado norte, três ao lado sul, três ao lado leste e três ao lado oeste.
+<verse eid="REV 21:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 21:14"/>O muro da cidade tinha doze fundamentos, e neles estavam gravados os nomes dos doze apóstolos do Cordeiro.
+<verse eid="REV 21:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 21:15"/>O anjo que falava comigo tinha na mão uma vara de medir feita de ouro, para medir a cidade, os seus portões e os seus muros.
+<verse eid="REV 21:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 21:16"/>Ele mediu a cidade e viu que ela formava um quadrado, com o comprimento igual à largura; mediu com a vara e encontrou cerca de 2.200 quilômetros de comprimento, e a largura e a altura eram iguais ao comprimento.
+<verse eid="REV 21:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 21:17"/>Ele mediu o muro, e a espessura chegou a 65 metros, conforme a medida humana que o anjo usava.
+<verse eid="REV 21:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 21:18"/>A cidade era de ouro puro, transparente como vidro, e o muro era construído de jaspe.
+<verse eid="REV 21:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 21:19"/>Os fundamentos do muro da cidade eram adornados com toda espécie de pedras preciosas: o primeiro fundamento era de jaspe, o segundo de safira, o terceiro de calcedônia, o quarto de esmeralda,
+<verse eid="REV 21:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 21:20"/>o quinto de sardônio, o sexto de sárdio, o sétimo de crisólito, o oitavo de berilo, o nono de topázio, o décimo de crisópraso, o décimo primeiro de jacinto e o décimo segundo de ametista.
+<verse eid="REV 21:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 21:21"/>Os doze portões eram doze pérolas. Cada portão era formado de uma única pérola, e a rua principal da cidade era de ouro puro, semelhante a vidro transparente.
+<verse eid="REV 21:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="REV 21:22"/>Não vi nenhum templo na cidade, porque o Senhor Deus Todo-poderoso e o Cordeiro são o templo dela.
+<verse eid="REV 21:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="REV 21:23"/>A cidade não precisa do sol nem da lua para receber luz, pois a glória de Deus a ilumina, e o Cordeiro é a sua lâmpada.
+<verse eid="REV 21:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="REV 21:24"/>As nações andarão à luz dessa cidade, e os reis da terra levarão para ela a sua glória.
+<verse eid="REV 21:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="REV 21:25"/>Os portões da cidade jamais se fecharão durante o dia, e ali não haverá noite.
+<verse eid="REV 21:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="REV 21:26"/>A glória e a honra das nações serão trazidas para dentro dela.
+<verse eid="REV 21:26"/></para>
+  <para style="p"><verse number="27" style="v" sid="REV 21:27"/>Nada impuro entrará nela, nem quem pratica o que é vergonhoso ou mentiroso, mas somente aqueles que têm o nome escrito no Livro da Vida do Cordeiro.
 <verse eid="REV 21:27"/><verse eid="REV 21:27"/></para>
   <chapter eid="REV 21"/>
   <chapter number="22" style="c" sid="REV 22"/>
-  <para style="p"><verse number="1" style="v" sid="REV 22:1"/>Então o anjo mostrou para mim um rio com a água da vida, claro como cristal, que saía do trono de Deus e do Cordeiro.  
-<verse eid="REV 22:1"/><verse number="2" style="v" sid="REV 22:2"/>Esse rio seguia pelo centro da rua principal da cidade, e dos dois lados do rio estava a árvore da vida, que produz doze colheitas de frutos, um fruto em cada mês. As suas folhas servem como remédio para curar as nações. 
-<verse eid="REV 22:2"/><verse number="3" style="v" sid="REV 22:3"/>Na cidade não haverá mais nenhuma maldição, pois o trono de Deus e do Cordeiro estará ali, e os servos dele o adorarão.
-<verse eid="REV 22:3"/><verse number="4" style="v" sid="REV 22:4"/>Eles verão o rosto dele, e o nome dele estará escrito na testa de cada um.  
-<verse eid="REV 22:4"/><verse number="5" style="v" sid="REV 22:5"/>E ali não haverá mais noite. Ninguém precisará de luz de lâmpada nem de luz do sol, porque o Senhor Deus será a luz deles, e eles reinarão para todo o sempre. 
-<verse eid="REV 22:5"/><verse number="6" style="v" sid="REV 22:6"/>Então o anjo me falou: “Estas palavras são verdadeiras e confiáveis. O Senhor Deus, que concede o seu Espírito aos profetas, enviou o seu anjo para anunciar a você que estas coisas vão acontecer em breve.
-<verse eid="REV 22:6"/><verse number="7" style="v" sid="REV 22:7"/>'Eis que venho em breve!'. Felizes aqueles que obedecem às palavras da profecia deste livro”. 
-<verse eid="REV 22:7"/><verse number="8" style="v" sid="REV 22:8"/>Eu, João, sou aquele que ouviu e viu todas estas coisas. Quando as ouvi e vi, me prostrei com o rosto em terra para adorar o anjo que as mostrava.
-<verse eid="REV 22:8"/><verse number="9" style="v" sid="REV 22:9"/>Mas ele me disse novamente: “Não faça isso! Eu sou servo como você, como os seus irmãos, os profetas, e como todos os que obedecem à verdade anunciada neste livro. Adore somente a Deus”.  
-<verse eid="REV 22:9"/><verse number="10" style="v" sid="REV 22:10"/>Depois ele me ordenou: “Não esconda nem sele as palavras da profecia deste livro, porque o tempo do cumprimento está próximo.
-<verse eid="REV 22:10"/><verse number="11" style="v" sid="REV 22:11"/>Quando esse tempo chegar, quem pratica o mal continuará a praticá-lo; quem é impuro continuará na impureza; quem é justo continuará a praticar a justiça; e quem é santo continuará a buscar a santidade”.
-<verse eid="REV 22:11"/><verse number="12" style="v" sid="REV 22:12"/>“Escutem, eu venho em breve! Eu trago comigo a recompensa, para dar a cada pessoa conforme as obras que tiver feito.  
-<verse eid="REV 22:12"/><verse number="13" style="v" sid="REV 22:13"/>Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.  
-<verse eid="REV 22:13"/><verse number="14" style="v" sid="REV 22:14"/>Felizes aqueles que lavam as suas vestes, para terem direito de comer do fruto da árvore da vida e de entrar na cidade pelos seus portões.  
-<verse eid="REV 22:14"/><verse number="15" style="v" sid="REV 22:15"/>Fora da cidade ficarão os que praticam coisas repugnantes, os feiticeiros, os que vivem na imoralidade sexual, os assassinos, os idólatras e todos os que amam e praticam a mentira.  
-<verse eid="REV 22:15"/><verse number="16" style="v" sid="REV 22:16"/>Eu, Jesus, enviei o meu anjo a vocês para dar testemunho destas coisas às igrejas. Eu sou a Raiz de Davi e o seu Descendente; eu sou a brilhante Estrela da Manhã”. 
-<verse eid="REV 22:16"/><verse number="17" style="v" sid="REV 22:17"/>O Espírito e a noiva dizem: “Venha!”. E quem ouve diga também: “Venha!”. E quem tem sede venha; quem quiser venha e receba de graça a água da vida.  
-<verse eid="REV 22:17"/><verse number="18" style="v" sid="REV 22:18"/>Declaro a todo aquele que ouve as palavras da profecia deste livro: se alguém acrescentar algo ao que está escrito aqui, Deus acrescentará sobre essa pessoa as pragas descritas neste livro.  
-<verse eid="REV 22:18"/><verse number="19" style="v" sid="REV 22:19"/>E, se alguém tirar alguma parte das palavras deste livro de profecias, Deus tirará a sua parte na árvore da vida e na cidade santa, que são descritas neste livro.  
-<verse eid="REV 22:19"/><verse number="20" style="v" sid="REV 22:20"/>Aquele que dá testemunho destas coisas afirma: “Sim, eu venho em breve!”. Amém! Vem, Senhor Jesus!  
-<verse eid="REV 22:20"/><verse number="21" style="v" sid="REV 22:21"/>A graça do nosso Senhor Jesus Cristo esteja com todos vocês. Amém.
+  <para style="p"><verse number="1" style="v" sid="REV 22:1"/>Então o anjo mostrou para mim um rio com a água da vida, claro como cristal, que saía do trono de Deus e do Cordeiro.
+<verse eid="REV 22:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="REV 22:2"/>Esse rio seguia pelo centro da rua principal da cidade, e dos dois lados do rio estava a árvore da vida, que produz doze colheitas de frutos, um fruto em cada mês. As suas folhas servem como remédio para curar as nações.
+<verse eid="REV 22:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="REV 22:3"/>Na cidade não haverá mais nenhuma maldição, pois o trono de Deus e do Cordeiro estará ali, e os servos dele o adorarão.
+<verse eid="REV 22:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="REV 22:4"/>Eles verão o rosto dele, e o nome dele estará escrito na testa de cada um.
+<verse eid="REV 22:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="REV 22:5"/>E ali não haverá mais noite. Ninguém precisará de luz de lâmpada nem de luz do sol, porque o Senhor Deus será a luz deles, e eles reinarão para todo o sempre.
+<verse eid="REV 22:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="REV 22:6"/>Então o anjo me falou: “Estas palavras são verdadeiras e confiáveis. O Senhor Deus, que concede o seu Espírito aos profetas, enviou o seu anjo para anunciar a você que estas coisas vão acontecer em breve.
+<verse eid="REV 22:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="REV 22:7"/>'Eis que venho em breve!’. Felizes aqueles que obedecem às palavras da profecia deste livro”.
+<verse eid="REV 22:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="REV 22:8"/>Eu, João, sou aquele que ouviu e viu todas estas coisas. Quando as ouvi e vi, me prostrei com o rosto em terra para adorar o anjo que as mostrava.
+<verse eid="REV 22:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="REV 22:9"/>Mas ele me disse novamente: “Não faça isso! Eu sou servo como você, como os seus irmãos, os profetas, e como todos os que obedecem à verdade anunciada neste livro. Adore somente a Deus”.
+<verse eid="REV 22:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="REV 22:10"/>Depois ele me ordenou: “Não esconda nem sele as palavras da profecia deste livro, porque o tempo do cumprimento está próximo.
+<verse eid="REV 22:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="REV 22:11"/>Quando esse tempo chegar, quem pratica o mal continuará a praticá-lo; quem é impuro continuará na impureza; quem é justo continuará a praticar a justiça; e quem é santo continuará a buscar a santidade”.
+<verse eid="REV 22:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="REV 22:12"/>“Escutem, eu venho em breve! Eu trago comigo a recompensa, para dar a cada pessoa conforme as obras que tiver feito.
+<verse eid="REV 22:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="REV 22:13"/>Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.
+<verse eid="REV 22:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="REV 22:14"/>Felizes aqueles que lavam as suas vestes, para terem direito de comer do fruto da árvore da vida e de entrar na cidade pelos seus portões.
+<verse eid="REV 22:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="REV 22:15"/>Fora da cidade ficarão os que praticam coisas repugnantes, os feiticeiros, os que vivem na imoralidade sexual, os assassinos, os idólatras e todos os que amam e praticam a mentira.
+<verse eid="REV 22:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="REV 22:16"/>Eu, Jesus, enviei o meu anjo a vocês para dar testemunho destas coisas às igrejas. Eu sou a Raiz de Davi e o seu Descendente; eu sou a brilhante Estrela da Manhã”.
+<verse eid="REV 22:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="REV 22:17"/>O Espírito e a noiva dizem: “Venha!”. E quem ouve diga também: “Venha!”. E quem tem sede venha; quem quiser venha e receba de graça a água da vida.
+<verse eid="REV 22:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="REV 22:18"/>Declaro a todo aquele que ouve as palavras da profecia deste livro: se alguém acrescentar algo ao que está escrito aqui, Deus acrescentará sobre essa pessoa as pragas descritas neste livro.
+<verse eid="REV 22:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="REV 22:19"/>E, se alguém tirar alguma parte das palavras deste livro de profecias, Deus tirará a sua parte na árvore da vida e na cidade santa, que são descritas neste livro.
+<verse eid="REV 22:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="REV 22:20"/>Aquele que dá testemunho destas coisas afirma: “Sim, eu venho em breve!”. Amém! Vem, Senhor Jesus!
+<verse eid="REV 22:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="REV 22:21"/>A graça do nosso Senhor Jesus Cristo esteja com todos vocês. Amém.
 <verse eid="REV 22:21"/></para>
   <chapter eid="REV 22"/>
 </usx>

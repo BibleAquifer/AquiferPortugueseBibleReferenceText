@@ -1,271 +1,481 @@
 <usx version="3.1">
-  <book code="ECC" style="id">EN</book>
-  <para style="h">Ecclesiastes
+  <book code="ECC" style="id">ecc PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Eclesiastes
 </para>
-  <para style="toc1">Ecclesiastes
+  <para style="toc1">Eclesiastes
 </para>
-  <para style="toc2">Ecclesiastes
+  <para style="toc2">Eclesiastes
 </para>
-  <para style="toc3">ECC
+  <para style="toc3">Ec
 </para>
-  <para style="mt1">Ecclesiastes
+  <para style="mt1">Eclesiastes
 </para>
   <chapter number="1" style="c" sid="ECC 1"/>
   <para style="p"><verse number="1" style="v" sid="ECC 1:1"/>Palavras do Pregador, Salomão, filho de Davi, rei em Jerusalém.
-<verse eid="ECC 1:1"/><verse number="2" style="v" sid="ECC 1:2"/>Ilusão das ilusões, declara o Pregador; ilusão das ilusões, tudo é ilusão.
-<verse eid="ECC 1:2"/><verse number="3" style="v" sid="ECC 1:3"/>Que proveito tem o ser humano de todo o esforço com que trabalha debaixo do sol?
-<verse eid="ECC 1:3"/><verse number="4" style="v" sid="ECC 1:4"/>Uma geração nasce e outra passa, mas a terra permanece para sempre.
-<verse eid="ECC 1:4"/><verse number="5" style="v" sid="ECC 1:5"/>O sol se levanta e o sol se põe; apressa-se a voltar ao lugar de onde se levanta.
-<verse eid="ECC 1:5"/><verse number="6" style="v" sid="ECC 1:6"/>O vento vai para o sul e gira para o norte; dá voltas e mais voltas, e retorna aos seus caminhos.
-<verse eid="ECC 1:6"/><verse number="7" style="v" sid="ECC 1:7"/>Todos os rios correm para o mar, e o mar não se enche; ao lugar de onde vêm, para lá voltam a correr.
-<verse eid="ECC 1:7"/><verse number="8" style="v" sid="ECC 1:8"/>Todas as coisas cansam; ninguém consegue explicar. Os olhos não se satisfazem de ver, nem os ouvidos se cansam de ouvir.
-<verse eid="ECC 1:8"/><verse number="9" style="v" sid="ECC 1:9"/>O que foi é o que será; o que se fez é o que se fará; nada há de novo debaixo do sol.
-<verse eid="ECC 1:9"/><verse number="10" style="v" sid="ECC 1:10"/>Há algo de que se possa dizer: “Veja, isto é novo”? Já existia nos tempos antigos, antes de nós.
-<verse eid="ECC 1:10"/><verse number="11" style="v" sid="ECC 1:11"/>Não há lembrança dos primeiros acontecimentos; e dos que virão depois, também não haverá memória entre os que vierem mais tarde.
-<verse eid="ECC 1:11"/><verse number="12" style="v" sid="ECC 1:12"/>Eu, o Pregador, fui rei sobre Israel em Jerusalém.
-<verse eid="ECC 1:12"/><verse number="13" style="v" sid="ECC 1:13"/>Apliquei o coração a buscar e a examinar, com sabedoria, tudo o que se faz debaixo do céu; tarefa pesada que Deus deu aos seres humanos para nela se ocuparem.
-<verse eid="ECC 1:13"/><verse number="14" style="v" sid="ECC 1:14"/>Observei todas as obras feitas debaixo do sol; e eis que tudo é ilusão e correr atrás do vento.
-<verse eid="ECC 1:14"/><verse number="15" style="v" sid="ECC 1:15"/>O que é torto não pode ser endireitado; o que falta não pode ser contado.
-<verse eid="ECC 1:15"/><verse number="16" style="v" sid="ECC 1:16"/>Disse comigo mesmo: “Eis que me tornei grande e superei em sabedoria todos os que governaram Jerusalém antes de mim; meu coração adquiriu muita sabedoria e conhecimento”.
-<verse eid="ECC 1:16"/><verse number="17" style="v" sid="ECC 1:17"/>Dediquei-me a conhecer a sabedoria, e também a loucura e a insensatez; percebi que isso também é correr atrás do vento.
-<verse eid="ECC 1:17"/><verse number="18" style="v" sid="ECC 1:18"/>Pois na muita sabedoria há muito sofrimento; quem aumenta o conhecimento aumenta a tristeza.
+<verse eid="ECC 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 1:2"/>Ilusão das ilusões, declara o Pregador; ilusão das ilusões, tudo é ilusão.
+<verse eid="ECC 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 1:3"/>Que proveito tem o ser humano de todo o esforço com que trabalha debaixo do sol?
+<verse eid="ECC 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 1:4"/>Uma geração nasce e outra passa, mas a terra permanece para sempre.
+<verse eid="ECC 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 1:5"/>O sol se levanta e se põe; apressa-se a voltar ao lugar de onde se levanta.
+<verse eid="ECC 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 1:6"/>O vento vai para o sul e gira para o norte; dá voltas e mais voltas, e retorna aos seus caminhos.
+<verse eid="ECC 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 1:7"/>Todos os rios correm para o mar, e o mar não se enche; ao lugar para onde correm, para lá continuam a correr.
+<verse eid="ECC 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 1:8"/>Todas as coisas cansam; ninguém consegue explicar. Os olhos não se satisfazem de ver, nem os ouvidos se cansam de ouvir.
+<verse eid="ECC 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 1:9"/>O que foi é o que será; o que se fez é o que se fará; nada há de novo debaixo do sol.
+<verse eid="ECC 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 1:10"/>Há algo de que se possa dizer: “Veja, isto é novo”? Já existia nos tempos antigos, antes de nós.
+<verse eid="ECC 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 1:11"/>Não há lembrança dos primeiros acontecimentos; e dos que virão depois, também não haverá memória entre os que vierem mais tarde.
+<verse eid="ECC 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 1:12"/>Eu, o Pregador, fui rei sobre Israel em Jerusalém.
+<verse eid="ECC 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 1:13"/>Decidi usar toda a minha mente para estudar e entender, com sabedoria, tudo o que as pessoas fazem debaixo do céu. É um trabalho difícil que Deus deu aos seres humanos para que nele se ocupem.
+<verse eid="ECC 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 1:14"/>Observei todas as obras feitas debaixo do sol; e eis que tudo é ilusão e correr atrás do vento.
+<verse eid="ECC 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 1:15"/>O que é torto não pode ser endireitado; o que falta não pode ser contado.
+<verse eid="ECC 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 1:16"/>Disse comigo mesmo: “Eis que me tornei grande e superei em sabedoria todos os que governaram Jerusalém antes de mim; meu coração adquiriu muita sabedoria e conhecimento”.
+<verse eid="ECC 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 1:17"/>Dediquei-me a conhecer a sabedoria, e também a loucura e a insensatez; percebi que isso também é correr atrás do vento.
+<verse eid="ECC 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 1:18"/>Pois onde há muita sabedoria, há muito sofrimento; quanto mais se aprende, mais se aumenta a tristeza.
 <verse eid="ECC 1:18"/><verse eid="ECC 1:18"/></para>
   <chapter eid="ECC 1"/>
   <chapter number="2" style="c" sid="ECC 2"/>
   <para style="p"><verse number="1" style="v" sid="ECC 2:1"/>Eu disse comigo mesmo: “Venha, prove a alegria; desfrute a vida”. Mas percebi que isso também era inútil.
-<verse eid="ECC 2:1"/><verse number="2" style="v" sid="ECC 2:2"/>Eu concluí: rir sem medida é tolice; que proveito há nisso?
-<verse eid="ECC 2:2"/><verse number="3" style="v" sid="ECC 2:3"/>Depois de muito pensar, decidi entregar-me ao vinho e buscar diversão, sem deixar de procurar a sabedoria; pensei que talvez isso fosse o melhor para o ser humano debaixo dos céus, nos poucos dias de sua vida.
-<verse eid="ECC 2:3"/><verse number="4" style="v" sid="ECC 2:4"/>Então eu me voltei para grandes obras: construí casas para mim e plantei videiras para mim.
-<verse eid="ECC 2:4"/><verse number="5" style="v" sid="ECC 2:5"/>Fiz jardins e pomares, e neles plantei toda espécie de árvore frutífera.
-<verse eid="ECC 2:5"/><verse number="6" style="v" sid="ECC 2:6"/>Mandei fazer açudes, para juntar água e regar as plantações.
-<verse eid="ECC 2:6"/><verse number="7" style="v" sid="ECC 2:7"/>Comprei servos e servas, e também tive servos nascidos em minha casa; possuí bois e ovelhas em grande número, mais do que todos os reis que vieram antes de mim em Jerusalém.
-<verse eid="ECC 2:7"/><verse number="8" style="v" sid="ECC 2:8"/>Ajuntei para mim prata e ouro, vindos dos tributos de reis e de províncias; reuni cantores e cantoras, e organizei corais e instrumentos; e tive muitas mulheres, as delícias dos homens.
-<verse eid="ECC 2:8"/><verse number="9" style="v" sid="ECC 2:9"/>Assim, tornei-me grande e poderoso, mais do que todos os que estiveram antes de mim em Jerusalém; e a minha sabedoria permaneceu comigo.
-<verse eid="ECC 2:9"/><verse number="10" style="v" sid="ECC 2:10"/>Tudo o que meus olhos desejaram, eu não lhes neguei; não recusei ao meu coração nenhum prazer; e meu coração se alegrou em todo o meu trabalho, e essa alegria foi a recompensa do meu esforço.
-<verse eid="ECC 2:10"/><verse number="11" style="v" sid="ECC 2:11"/>Porém, quando considerei todas as obras que minhas mãos fizeram e o trabalho em que me cansei, vi que tudo era ilusão; era como correr atrás do vento; e não havia proveito debaixo do sol.
-<verse eid="ECC 2:11"/><verse number="12" style="v" sid="ECC 2:12"/>Então voltei meu pensamento para a sabedoria, para a loucura e para a insensatez; pois o que fará o sucessor do rei, senão repetir o que já foi feito?
-<verse eid="ECC 2:12"/><verse number="13" style="v" sid="ECC 2:13"/>Reconheci que a sabedoria é melhor do que a insensatez, assim como a luz é melhor do que as trevas.
-<verse eid="ECC 2:13"/><verse number="14" style="v" sid="ECC 2:14"/>O sábio tem olhos para ver o caminho, mas o tolo anda como cego; contudo, percebi que o mesmo fim alcança a ambos.
-<verse eid="ECC 2:14"/><verse number="15" style="v" sid="ECC 2:15"/>Eu disse em meu coração: “O destino do tolo também me alcançará; então, para que me serviu ser sábio?” E compreendi que isso também não tem grande valor.
-<verse eid="ECC 2:15"/><verse number="16" style="v" sid="ECC 2:16"/>Pois tanto o sábio como o tolo morrerão, e em pouco tempo serão esquecidos; como morre o sábio, assim morre o tolo.
-<verse eid="ECC 2:16"/><verse number="17" style="v" sid="ECC 2:17"/>Por isso, passei a desprezar a vida, porque o trabalho debaixo do sol me pesava; tudo era ilusão, era como correr atrás do vento.
-<verse eid="ECC 2:17"/><verse number="18" style="v" sid="ECC 2:18"/>Também me aborreci, porque devo deixar a outro o fruto de todo o meu trabalho debaixo do sol.
-<verse eid="ECC 2:18"/><verse number="19" style="v" sid="ECC 2:19"/>E quem sabe se ele será sábio ou tolo? Ainda assim, ele tomará posse de tudo o que fiz com sabedoria debaixo do sol; isso também não faz sentido.
-<verse eid="ECC 2:19"/><verse number="20" style="v" sid="ECC 2:20"/>Cheguei, então, a entregar meu coração ao desespero por todo o trabalho duro que realizei debaixo do sol.
-<verse eid="ECC 2:20"/><verse number="21" style="v" sid="ECC 2:21"/>Pois há quem trabalhe com sabedoria, com conhecimento e com habilidade, e mesmo assim deixa tudo como herança a quem não se esforçou por isso; isso também é ilusão e grande injustiça.
-<verse eid="ECC 2:21"/><verse number="22" style="v" sid="ECC 2:22"/>Afinal, o que recebe o ser humano por todo o seu trabalho e por toda a fadiga de seu coração debaixo do sol?
-<verse eid="ECC 2:22"/><verse number="23" style="v" sid="ECC 2:23"/>Porque todos os seus dias são dor e tristeza; até de noite seu coração não descansa, cheio de preocupação; isso também é sem sentido.
-<verse eid="ECC 2:23"/><verse number="24" style="v" sid="ECC 2:24"/>Então vi que não há nada melhor para o ser humano do que comer, beber e encontrar prazer em seu trabalho; e percebi que até isso vem de Deus.
-<verse eid="ECC 2:24"/><verse number="25" style="v" sid="ECC 2:25"/>Pois quem pode comer e quem pode alegrar-se sem Deus?
-<verse eid="ECC 2:25"/><verse number="26" style="v" sid="ECC 2:26"/>Deus dá sabedoria, conhecimento e alegria a quem lhe agrada; mas ao pecador dá o trabalho de ajuntar e acumular, para entregar a quem agrada a Deus; isso também é ilusão, é como correr atrás do vento.
+<verse eid="ECC 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 2:2"/>Eu concluí: rir sem medida é tolice; que proveito há nisso?
+<verse eid="ECC 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 2:3"/>Depois de muito pensar, decidi entregar-me ao vinho e buscar diversão, sem deixar de procurar a sabedoria; pensei que talvez isso fosse o melhor para o ser humano debaixo dos céus, nos poucos dias de sua vida.
+<verse eid="ECC 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 2:4"/>Então eu me voltei para grandes obras: construí casas e plantei videiras para mim.
+<verse eid="ECC 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 2:5"/>Fiz jardins e pomares, e neles plantei toda espécie de árvore frutífera.
+<verse eid="ECC 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 2:6"/>Mandei fazer açudes, para juntar água e regar as plantações.
+<verse eid="ECC 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 2:7"/>Comprei escravos e escravas, e também tive escravos nascidos em minha casa; possuí bois e ovelhas em grande número, mais do que todos os reis que vieram antes de mim em Jerusalém.
+<verse eid="ECC 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 2:8"/>Ajuntei para mim prata e ouro, vindos dos tributos de reis e de províncias; reuni cantores e cantoras, e organizei corais e instrumentos; e tive muitas mulheres, as delícias dos homens.
+<verse eid="ECC 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 2:9"/>Assim, tornei-me grande e poderoso, mais do que todos os que estiveram antes de mim em Jerusalém; e a minha sabedoria permaneceu comigo.
+<verse eid="ECC 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 2:10"/>Tudo o que meus olhos desejaram, eu não lhes neguei; não recusei ao meu coração nenhum prazer; e meu coração se alegrou em todo o meu trabalho, e essa alegria foi a recompensa do meu esforço.
+<verse eid="ECC 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 2:11"/>Porém, quando considerei todas as obras que minhas mãos fizeram e o trabalho em que me cansei, vi que tudo era ilusão; era como correr atrás do vento; e não havia proveito debaixo do sol.
+<verse eid="ECC 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 2:12"/>Então voltei meu pensamento para a sabedoria, para a loucura e para a insensatez; pois o que fará o sucessor do rei, senão repetir o que já foi feito?
+<verse eid="ECC 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 2:13"/>Reconheci que a sabedoria é melhor do que a insensatez, assim como a luz é melhor do que as trevas.
+<verse eid="ECC 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 2:14"/>O sábio tem olhos para ver o caminho, mas o tolo anda como cego; contudo, percebi que o mesmo fim alcança a ambos.
+<verse eid="ECC 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 2:15"/>Eu disse em meu coração: “O destino do tolo também me alcançará; então, para que me serviu ser sábio?”. E compreendi que isso também não tem grande valor.
+<verse eid="ECC 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 2:16"/>Pois tanto o sábio como o tolo morrerão, e em pouco tempo serão esquecidos; como morre o sábio, assim morre o tolo.
+<verse eid="ECC 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 2:17"/>Por isso, passei a desprezar a vida, porque o trabalho debaixo do sol me pesava; tudo era ilusão, era como correr atrás do vento.
+<verse eid="ECC 2:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 2:18"/>Também me aborreci, porque devo deixar para outro o fruto de todo o meu trabalho debaixo do sol.
+<verse eid="ECC 2:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="ECC 2:19"/>E quem sabe se ele será sábio ou tolo? Ainda assim, ele tomará posse de tudo o que fiz com sabedoria debaixo do sol; isso também não faz sentido.
+<verse eid="ECC 2:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="ECC 2:20"/>Cheguei, então, a entregar meu coração ao desespero por todo o trabalho duro que realizei debaixo do sol.
+<verse eid="ECC 2:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="ECC 2:21"/>Pois eu trabalhei com sabedoria, conhecimento e habilidade, e mesmo assim terei de deixar tudo como herança para alguém que não se esforçou por isso; isso também é ilusão e grande injustiça.
+<verse eid="ECC 2:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="ECC 2:22"/>Afinal, o que recebe o ser humano por todo o seu trabalho e por toda a fadiga de seu coração debaixo do sol?
+<verse eid="ECC 2:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="ECC 2:23"/>Porque todos os seus dias são dor e tristeza; até de noite seu coração não descansa, cheio de preocupação; isso também é sem sentido.
+<verse eid="ECC 2:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="ECC 2:24"/>Então vi que não há nada melhor para o ser humano do que comer, beber e encontrar prazer em seu trabalho; e percebi que até isso vem de Deus.
+<verse eid="ECC 2:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="ECC 2:25"/>Pois quem pode comer e quem pode alegrar-se sem Deus?
+<verse eid="ECC 2:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="ECC 2:26"/>Deus dá sabedoria, conhecimento e alegria a quem lhe agrada; mas ao pecador dá o trabalho de juntar e acumular riquezas, para depois entregá-las a quem agrada a Deus. Isso também é ilusão, é como correr atrás do vento.
 <verse eid="ECC 2:26"/><verse eid="ECC 2:26"/></para>
   <chapter eid="ECC 2"/>
   <chapter number="3" style="c" sid="ECC 3"/>
   <para style="p"><verse number="1" style="v" sid="ECC 3:1"/>Há um tempo definido para tudo; há um momento certo para cada propósito debaixo do céu.
-<verse eid="ECC 3:1"/><verse number="2" style="v" sid="ECC 3:2"/>Há tempo para nascer e tempo para morrer; tempo para plantar e tempo para colher o que foi plantado.
-<verse eid="ECC 3:2"/><verse number="3" style="v" sid="ECC 3:3"/>Há tempo para ferir e tempo para curar; tempo para derrubar e tempo para levantar de novo.
-<verse eid="ECC 3:3"/><verse number="4" style="v" sid="ECC 3:4"/>Há tempo para chorar e tempo para sorrir; tempo para lamentar e tempo para dançar com alegria.
-<verse eid="ECC 3:4"/><verse number="5" style="v" sid="ECC 3:5"/>Há tempo para espalhar pedras e tempo para juntá-las; tempo para abraçar e tempo para se afastar do abraço.
-<verse eid="ECC 3:5"/><verse number="6" style="v" sid="ECC 3:6"/>Há tempo para buscar e tempo para perder; tempo para guardar e tempo para lançar fora.
-<verse eid="ECC 3:6"/><verse number="7" style="v" sid="ECC 3:7"/>Há tempo para rasgar e tempo para costurar; tempo para ficar em silêncio e tempo para falar.
-<verse eid="ECC 3:7"/><verse number="8" style="v" sid="ECC 3:8"/>Há tempo para amar e tempo para odiar; tempo para a guerra e tempo para a paz.
-<verse eid="ECC 3:8"/><verse number="9" style="v" sid="ECC 3:9"/>Que ganho tem o homem em todo o esforço com que trabalha?
-<verse eid="ECC 3:9"/><verse number="10" style="v" sid="ECC 3:10"/>Observei a tarefa que Deus entregou aos filhos dos homens, para que nela se ocupem.
-<verse eid="ECC 3:10"/><verse number="11" style="v" sid="ECC 3:11"/>Ele fez tudo adequado ao seu tempo e colocou no coração humano o desejo pelo eterno; ainda assim, o homem não consegue compreender do começo ao fim a obra de Deus.
-<verse eid="ECC 3:11"/><verse number="12" style="v" sid="ECC 3:12"/>Então reconheci que nada é melhor para o homem do que alegrar-se e fazer o bem enquanto vive.
-<verse eid="ECC 3:12"/><verse number="13" style="v" sid="ECC 3:13"/>Também entendi que comer, beber e desfrutar do fruto do trabalho é um presente de Deus.
-<verse eid="ECC 3:13"/><verse number="14" style="v" sid="ECC 3:14"/>Aprendi que tudo o que Deus faz permanece para sempre; nada se pode acrescentar nem retirar, e Deus age assim para que os homens o respeitem.
-<verse eid="ECC 3:14"/><verse number="15" style="v" sid="ECC 3:15"/>O que existe agora já existiu antes; o que ainda virá também já foi, e Deus traz de volta o que passou.
-<verse eid="ECC 3:15"/><verse number="16" style="v" sid="ECC 3:16"/>Vi ainda que debaixo do sol há injustiça no lugar do direito e maldade no lugar da retidão.
-<verse eid="ECC 3:16"/><verse number="17" style="v" sid="ECC 3:17"/>Disse em meu coração: Deus julgará o justo e o perverso, pois há um tempo determinado para cada ação.
-<verse eid="ECC 3:17"/><verse number="18" style="v" sid="ECC 3:18"/>Compreendi que Deus prova os homens para que percebam que, por si mesmos, são como os animais.
-<verse eid="ECC 3:18"/><verse number="19" style="v" sid="ECC 3:19"/>Pois o destino do homem é o mesmo do animal: ambos respiram o mesmo fôlego e ambos morrem; o homem não tem vantagem, tudo é passageiro.
-<verse eid="ECC 3:19"/><verse number="20" style="v" sid="ECC 3:20"/>Todos vão para o mesmo lugar; todos vêm do pó e ao pó retornam.
-<verse eid="ECC 3:20"/><verse number="21" style="v" sid="ECC 3:21"/>Quem pode afirmar que o espírito do homem sobe e que o espírito do animal desce para a terra?
-<verse eid="ECC 3:21"/><verse number="22" style="v" sid="ECC 3:22"/>Assim, vi que nada é melhor para o homem do que alegrar-se em seu trabalho, pois essa é a sua parte; ninguém pode fazê-lo voltar depois da morte para ver o que ainda acontecerá.
+<verse eid="ECC 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 3:2"/>Há tempo para nascer e tempo para morrer; tempo para plantar e tempo para colher o que foi plantado.
+<verse eid="ECC 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 3:3"/>Há tempo para matar e tempo para curar; tempo para destruir e tempo para construir de novo.
+<verse eid="ECC 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 3:4"/>Há tempo para chorar e tempo para sorrir; tempo para lamentar e tempo para dançar com alegria.
+<verse eid="ECC 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 3:5"/>Há tempo para espalhar pedras e tempo para juntá-las; tempo para abraçar e tempo para se afastar do abraço.
+<verse eid="ECC 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 3:6"/>Há tempo para buscar e tempo para perder; tempo para guardar e tempo para lançar fora.
+<verse eid="ECC 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 3:7"/>Há tempo para rasgar e tempo para costurar; tempo para ficar em silêncio e tempo para falar.
+<verse eid="ECC 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 3:8"/>Há tempo para amar e tempo para odiar; tempo para a guerra e tempo para a paz.
+<verse eid="ECC 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 3:9"/>Que ganho tem o homem em todo o esforço com que trabalha?
+<verse eid="ECC 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 3:10"/>Observei a tarefa que Deus entregou aos filhos dos homens, para afligi-los.
+<verse eid="ECC 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 3:11"/>Ele fez tudo adequado ao seu tempo e colocou no coração humano o desejo pelo eterno; ainda assim, o homem não consegue compreender do começo ao fim a obra de Deus.
+<verse eid="ECC 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 3:12"/>Então reconheci que nada é melhor para o homem do que se alegrar e fazer o bem enquanto vive.
+<verse eid="ECC 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 3:13"/>Também entendi que comer, beber e desfrutar do fruto do trabalho é um presente de Deus.
+<verse eid="ECC 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 3:14"/>Aprendi que tudo o que Deus faz permanece para sempre; nada se pode acrescentar nem retirar, e Deus age assim para que os homens o temam.
+<verse eid="ECC 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 3:15"/>O que existe agora já existiu antes; o que ainda virá também já foi, e Deus traz de volta o que passou.
+<verse eid="ECC 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 3:16"/>Vi ainda que debaixo do sol há injustiça no lugar do direito, e maldade no lugar da retidão.
+<verse eid="ECC 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 3:17"/>Disse em meu coração: “Deus julgará o justo e o perverso, pois há um tempo determinado para cada ação”.
+<verse eid="ECC 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 3:18"/>Compreendi que Deus prova os homens para que percebam que, por si mesmos, são como os animais.
+<verse eid="ECC 3:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="ECC 3:19"/>Pois o destino do homem é o mesmo do animal: ambos respiram o mesmo fôlego e ambos morrem; o homem não tem vantagem; tudo é ilusão.
+<verse eid="ECC 3:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="ECC 3:20"/>Todos vão para o mesmo lugar; todos vêm do pó e ao pó retornam.
+<verse eid="ECC 3:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="ECC 3:21"/>Quem pode afirmar que o espírito do homem sobe e que o espírito do animal desce para a terra?
+<verse eid="ECC 3:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="ECC 3:22"/>Assim, vi que nada é melhor para o homem do que se alegrar em seu trabalho, pois essa é a sua parte; ninguém pode fazê-lo voltar depois da morte para ver o que ainda acontecerá.
 <verse eid="ECC 3:22"/><verse eid="ECC 3:22"/></para>
   <chapter eid="ECC 3"/>
   <chapter number="4" style="c" sid="ECC 4"/>
   <para style="p"><verse number="1" style="v" sid="ECC 4:1"/>Depois disso, observei as dores e as tristezas que existem debaixo do sol; vi as lágrimas dos aflitos, e não havia quem os consolasse; a força estava com os opressores, e não havia consolador.
-<verse eid="ECC 4:1"/><verse number="2" style="v" sid="ECC 4:2"/>Então considerei mais felizes os mortos, que já descansaram, do que os vivos, que ainda suportam isso.
-<verse eid="ECC 4:2"/><verse number="3" style="v" sid="ECC 4:3"/>E julguei mais feliz do que ambos aquele que ainda não nasceu, pois não viu o mal que se pratica debaixo do sol.
-<verse eid="ECC 4:3"/><verse number="4" style="v" sid="ECC 4:4"/>Também percebi que muito esforço e muito sucesso nascem da inveja de um contra o outro; e isso também é ilusão, é correr atrás do vento.
-<verse eid="ECC 4:4"/><verse number="5" style="v" sid="ECC 4:5"/>O tolo cruza os braços e, por causa disso, consome a si mesmo e chega a passar necessidade.
-<verse eid="ECC 4:5"/><verse number="6" style="v" sid="ECC 4:6"/>Melhor é ter pouco com tranquilidade do que ter muito com trabalho pesado e cansaço, porque isso também é correr atrás do vento.
-<verse eid="ECC 4:6"/><verse number="7" style="v" sid="ECC 4:7"/>Vi ainda outra realidade sem sentido debaixo do sol:
-<verse eid="ECC 4:7"/><verse number="8" style="v" sid="ECC 4:8"/>um homem sozinho, sem filho, sem irmão e sem parente; ele trabalha sem parar para ajuntar riqueza, e seus olhos não se satisfazem; e pergunta: “Para quem deixarei o que juntei, e por que me privo do bem?”; isso também é ilusão e um esforço que desanima.
-<verse eid="ECC 4:8"/><verse number="9" style="v" sid="ECC 4:9"/>Dois têm melhor resultado do que um, porque o trabalho deles produz mais.
-<verse eid="ECC 4:9"/><verse number="10" style="v" sid="ECC 4:10"/>Se um cair, o outro o levanta; mas ai do que está só, pois, caindo, não há quem o ajude a levantar-se.
-<verse eid="ECC 4:10"/><verse number="11" style="v" sid="ECC 4:11"/>Se dois se deitam juntos numa noite fria, um aquece o outro; mas como se aquecerá aquele que está sozinho?
-<verse eid="ECC 4:11"/><verse number="12" style="v" sid="ECC 4:12"/>Se alguém atacar um que está só, ele pode ser vencido; mas dois resistem melhor; e uma corda trançada com três fios não se rompe com facilidade.
-<verse eid="ECC 4:12"/><verse number="13" style="v" sid="ECC 4:13"/>Melhor é um jovem pobre e sábio do que um rei velho e tolo, que já não aceita correção.
-<verse eid="ECC 4:13"/><verse number="14" style="v" sid="ECC 4:14"/>Pois o jovem pode sair até de uma prisão e alcançar posição elevada; pode chegar a reinar, mesmo tendo nascido em pobreza.
-<verse eid="ECC 4:14"/><verse number="15" style="v" sid="ECC 4:15"/>E percebi que o povo que vive debaixo do sol se voltava para o jovem, o sucessor que se levantava no lugar do rei.
-<verse eid="ECC 4:15"/><verse number="16" style="v" sid="ECC 4:16"/>Ele pode liderar multidões e ser seguido por muitos; porém, quando envelhecer, os mais novos não se alegrarão com ele; isso também não faz sentido, é correr atrás do vento.
+<verse eid="ECC 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 4:2"/>Então considerei mais felizes os mortos, que já descansaram, do que os vivos, que ainda suportam isso.
+<verse eid="ECC 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 4:3"/>E julguei mais feliz do que ambos aquele que ainda não nasceu, pois não viu o mal que se pratica debaixo do sol.
+<verse eid="ECC 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 4:4"/>Também percebi que muito esforço e muito sucesso nascem da inveja que um sente do outro; e isso também é ilusão, é correr atrás do vento.
+<verse eid="ECC 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 4:5"/>O tolo cruza os braços e, por isso, acaba passando necessidade e até fome.
+<verse eid="ECC 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 4:6"/>Melhor é ter pouco com tranquilidade do que ter muito com trabalho pesado e cansaço, porque isso também é correr atrás do vento.
+<verse eid="ECC 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 4:7"/>Vi ainda outra realidade sem sentido debaixo do sol:
+<verse eid="ECC 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 4:8"/>um homem sozinho, sem filho, sem irmão e sem parente; ele trabalha sem parar para ajuntar riqueza, e seus olhos não se satisfazem, e pergunta: “Para quem deixarei o que juntei, e por que me privo do bem?”. Isso também é ilusão; é um esforço que desanima.
+<verse eid="ECC 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 4:9"/>Dois têm melhor resultado do que um, porque o trabalho deles produz mais.
+<verse eid="ECC 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 4:10"/>Se um cair, o outro o levanta; mas ai do que está só, pois, caindo, não há quem o ajude a levantar-se.
+<verse eid="ECC 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 4:11"/>Se dois se deitam juntos numa noite fria, um aquece o outro; mas como se aquecerá aquele que está sozinho?
+<verse eid="ECC 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 4:12"/>Se alguém atacar um que está só, ele pode ser vencido; mas dois resistem melhor; e uma corda trançada com três fios não se rompe com facilidade.
+<verse eid="ECC 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 4:13"/>Melhor é um jovem pobre e sábio do que um rei velho e tolo, que já não aceita correção.
+<verse eid="ECC 4:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 4:14"/>Pois o jovem pode sair até de uma prisão e alcançar posição elevada; pode chegar a reinar, mesmo tendo nascido em pobreza.
+<verse eid="ECC 4:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 4:15"/>E percebi que o povo que vive debaixo do sol se voltava para o jovem, o sucessor que se levantava no lugar do rei.
+<verse eid="ECC 4:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 4:16"/>Ele pode liderar multidões e ser seguido por muitos; porém, quando envelhecer, os mais novos não o aceitarão como líder; isso também não faz sentido, é correr atrás do vento.
 <verse eid="ECC 4:16"/><verse eid="ECC 4:16"/></para>
   <chapter eid="ECC 4"/>
   <chapter number="5" style="c" sid="ECC 5"/>
-  <para style="p"><verse number="1" style="v" sid="ECC 5:1"/>Quando você entrar na casa de Deus, vigie seus passos; não apresente oferta como os tolos, que não percebem que fazem o mal.
-<verse eid="ECC 5:1"/><verse number="2" style="v" sid="ECC 5:2"/>Não seja apressado para falar diante de Deus, nem precipitado para fazer promessas; pois ele está no céu, e você está na terra; por isso, use poucas palavras.
-<verse eid="ECC 5:2"/><verse number="3" style="v" sid="ECC 5:3"/>Assim como o muito trabalho traz muitos sonhos, também a fala do tolo se mostra em muitas palavras e em muitas tolices.
-<verse eid="ECC 5:3"/><verse number="4" style="v" sid="ECC 5:4"/>Quando você fizer um voto a Deus, não demore para cumpri-lo, porque Ele não se agrada dos tolos; cumpra o que você prometeu.
-<verse eid="ECC 5:4"/><verse number="5" style="v" sid="ECC 5:5"/>É melhor não fazer voto do que fazer voto e não cumprir.
-<verse eid="ECC 5:5"/><verse number="6" style="v" sid="ECC 5:6"/>Não deixe sua boca levar você ao pecado; e não diga ao mensageiro de Deus: “Foi um engano”; pois isso despertaria a ira de Deus, e Ele poderia desfazer o que suas mãos juntaram.
-<verse eid="ECC 5:6"/><verse number="7" style="v" sid="ECC 5:7"/>Muitos sonhos e muitas palavras são vaidade; por isso, tema a Deus.
-<verse eid="ECC 5:7"/><verse number="8" style="v" sid="ECC 5:8"/>Se você vir, em algum lugar, o pobre sendo oprimido, e o direito e a justiça sendo negados, não se espante; pois sobre uma autoridade há outra mais alta, e acima delas há ainda superiores.
-<verse eid="ECC 5:8"/><verse number="9" style="v" sid="ECC 5:9"/>Ainda assim, é proveitoso para a terra ter um rei que governe e receba fruto dos campos.
-<verse eid="ECC 5:9"/><verse number="10" style="v" sid="ECC 5:10"/>Quem ama o dinheiro nunca se farta de dinheiro; e quem ama riquezas nunca se satisfaz com o ganho; isso também é vaidade.
-<verse eid="ECC 5:10"/><verse number="11" style="v" sid="ECC 5:11"/>Quando os bens aumentam, aumentam também os que os consomem; e que vantagem tem o dono, senão ver com os próprios olhos?
-<verse eid="ECC 5:11"/><verse number="12" style="v" sid="ECC 5:12"/>Doce é o sono do trabalhador, coma ele pouco ou coma muito; mas a fartura do rico não o deixa dormir.
-<verse eid="ECC 5:12"/><verse number="13" style="v" sid="ECC 5:13"/>Vi ainda, debaixo do sol, um mal grave: riquezas guardadas para o dano de quem as possui,
-<verse eid="ECC 5:13"/><verse number="14" style="v" sid="ECC 5:14"/>e riquezas perdidas em negócios ruins, de modo que nada fica para o filho que nasce depois.
-<verse eid="ECC 5:14"/><verse number="15" style="v" sid="ECC 5:15"/>Como o homem saiu nu do ventre de sua mãe, assim ele volta; e de todo o seu esforço nada leva consigo.
-<verse eid="ECC 5:15"/><verse number="16" style="v" sid="ECC 5:16"/>Isso também é um mal grave: como veio, assim vai; e que proveito tem quem trabalha para agarrar o vento?
-<verse eid="ECC 5:16"/><verse number="17" style="v" sid="ECC 5:17"/>Todos os seus dias ele come em trevas, com muita tristeza, com doença e com irritação.
-<verse eid="ECC 5:17"/><verse number="18" style="v" sid="ECC 5:18"/>Eis o que vi como bom: que o homem coma e beba, aceite sua parte e desfrute do bem de todo o seu trabalho debaixo do sol, nos poucos dias que Deus lhe dá; porque essa é a sua recompensa.
-<verse eid="ECC 5:18"/><verse number="19" style="v" sid="ECC 5:19"/>Também é bom quando Deus dá ao homem riquezas e bens, e lhe dá saúde para desfrutá-los; que ele aceite sua parte e se alegre no seu trabalho; isso é dom de Deus.
-<verse eid="ECC 5:19"/><verse number="20" style="v" sid="ECC 5:20"/>Pois ele não ficará preso ao peso dos dias, porque Deus enche o seu coração de alegria.
+  <para style="p"><verse number="1" style="v" sid="ECC 5:1"/>Quando você entrar na casa de Deus, vigie seus passos; não apresente sacrifício como os tolos, que não percebem que agem mal.
+<verse eid="ECC 5:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 5:2"/>Não seja apressado para falar diante de Deus, nem precipitado para fazer promessas; pois ele está no céu, e você está na terra; por isso, use poucas palavras.
+<verse eid="ECC 5:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 5:3"/>Assim como quem trabalha muito tem muitos sonhos, também a fala do tolo se mostra em muitas palavras e em muitas tolices.
+<verse eid="ECC 5:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 5:4"/>Quando você fizer um voto a Deus, não demore para cumpri-lo, porque ele não se agrada dos tolos; cumpra o que você prometeu.
+<verse eid="ECC 5:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 5:5"/>É melhor não fazer voto do que fazê-lo e não cumprir.
+<verse eid="ECC 5:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 5:6"/>Não deixe sua boca levar você ao pecado; e não diga ao mensageiro de Deus: “Foi um engano fazer o voto”; pois isso despertaria a ira de Deus, e ele poderia desfazer o que suas mãos juntaram.
+<verse eid="ECC 5:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 5:7"/>Muitos sonhos e muitas palavras são vaidade; por isso, tema a Deus.
+<verse eid="ECC 5:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 5:8"/>Se você vir, em algum lugar, o pobre sendo oprimido, e o direito e a justiça sendo negados, não se espante; pois sobre cada autoridade há alguém mais importante, e acima deles há outros superiores.
+<verse eid="ECC 5:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 5:9"/>Ainda assim, é vantagem para a nação ter um rei que governe e aproveite as colheitas.
+<verse eid="ECC 5:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 5:10"/>Quem ama o dinheiro nunca se farta dele; e quem ama riquezas nunca se satisfaz com o ganho; isso também é vaidade.
+<verse eid="ECC 5:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 5:11"/>Quando os bens aumentam, aumentam também os que os consomem; e que vantagem tem o dono, além de ver o dinheiro sendo gasto?
+<verse eid="ECC 5:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 5:12"/>Doce é o sono do trabalhador, quer coma pouco, quer coma muito; mas a fartura do rico não o deixa dormir.
+<verse eid="ECC 5:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 5:13"/>Vi ainda, debaixo do sol, um mal grave: riquezas guardadas para infelicidade de quem as possui,
+<verse eid="ECC 5:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 5:14"/>e riquezas perdidas em negócios ruins, de modo que nada fica para o filho que nasce depois.
+<verse eid="ECC 5:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 5:15"/>Como o homem saiu nu do ventre de sua mãe, assim ele volta; e de todo o seu esforço nada leva consigo.
+<verse eid="ECC 5:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 5:16"/>Isso também é um mal grave: como veio, assim vai; e que proveito tem quem trabalha para agarrar o vento?
+<verse eid="ECC 5:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 5:17"/>Todos os seus dias ele vive na escuridão, com muita tristeza, com doença e com irritação.
+<verse eid="ECC 5:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 5:18"/>Aqui está o que vi como bom: que o homem coma e beba, aceite sua parte e desfrute do bem de todo o seu trabalho debaixo do sol, nos poucos dias que Deus lhe dá; porque essa é a sua recompensa.
+<verse eid="ECC 5:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="ECC 5:19"/>Também é bom quando Deus dá ao homem riquezas e bens, e lhe dá saúde para desfrutá-los; que ele aceite sua parte e se alegre no seu trabalho; isso é dom de Deus.
+<verse eid="ECC 5:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="ECC 5:20"/>Pois ele não ficará preocupado com a rapidez com que a vida passa, porque Deus enche o seu coração de alegria.
 <verse eid="ECC 5:20"/><verse eid="ECC 5:20"/></para>
   <chapter eid="ECC 5"/>
   <chapter number="6" style="c" sid="ECC 6"/>
   <para style="p"><verse number="1" style="v" sid="ECC 6:1"/>Ainda existe outro grande mal debaixo do sol.
-<verse eid="ECC 6:1"/><verse number="2" style="v" sid="ECC 6:2"/>Deus concede a alguns homens riquezas, bens e honra; nada lhes falta do que desejam, mas Deus não lhes dá força para desfrutar, e eles morrem, e outro toma o que era deles; isso também é ilusão e grande desgraça.
-<verse eid="ECC 6:2"/><verse number="3" style="v" sid="ECC 6:3"/>Ainda que um homem tenha cem filhos e filhas e viva muitos anos, se não provar o bem da vida e não receber sepultura digna, eu digo: melhor sorte tem a criança que nasce morta do que ele.
-<verse eid="ECC 6:3"/><verse number="4" style="v" sid="ECC 6:4"/>Pois ela vem em vão e vai para as trevas, e nas trevas o seu nome se apaga.
-<verse eid="ECC 6:4"/><verse number="5" style="v" sid="ECC 6:5"/>Mesmo sem ver o sol e sem conhecer os dias, ela tem mais descanso do que o velho infeliz.
-<verse eid="ECC 6:5"/><verse number="6" style="v" sid="ECC 6:6"/>De que serve ao homem viver dois mil anos, se não conhece a alegria?
-<verse eid="ECC 6:6"/><verse number="7" style="v" sid="ECC 6:7"/>Todos se cansam para conseguir pão, e ainda assim o desejo não se sacia.
-<verse eid="ECC 6:7"/><verse number="8" style="v" sid="ECC 6:8"/>Que vantagem tem o sábio sobre o tolo? E que vantagem tem o pobre que sabe enfrentar a vida?
-<verse eid="ECC 6:8"/><verse number="9" style="v" sid="ECC 6:9"/>Melhor é contentar-se com o que os olhos alcançam do que viver sonhando com mais; isso também é ilusão, é correr atrás do vento.
-<verse eid="ECC 6:9"/><verse number="10" style="v" sid="ECC 6:10"/>O que há de existir, Deus já conhece; Ele sabe o que é o homem, e não vale discutir com quem é mais forte.
-<verse eid="ECC 6:10"/><verse number="11" style="v" sid="ECC 6:11"/>Quanto mais palavras se multiplicam, mais se multiplicam as tolices; então, que ganho há em falar?
-<verse eid="ECC 6:11"/><verse number="12" style="v" sid="ECC 6:12"/>Nos poucos dias de nossa vida vazia, quem pode dizer o que é melhor para alguém? E quem pode anunciar o que trará bons resultados depois que ele morrer?
+<verse eid="ECC 6:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 6:2"/>Deus concede a alguns homens riquezas, bens e honra; nada lhes falta do que desejam, mas Deus não lhes dá saúde para desfrutar, e eles morrem, e outro desfruta do que era deles; isso também é ilusão e grande desgraça.
+<verse eid="ECC 6:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 6:3"/>Ainda que um homem tenha cem filhos e filhas e viva muitos anos, se não provar o bem da vida e não receber sepultura digna, eu digo: melhor sorte tem a criança que nasce morta do que ele.
+<verse eid="ECC 6:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 6:4"/>Pois ela nasce em vão e vai para as trevas, e nas trevas o seu nome se apaga.
+<verse eid="ECC 6:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 6:5"/>Mesmo sem ver o sol e sem conhecer a vida, ela tem mais descanso do que o velho infeliz.
+<verse eid="ECC 6:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 6:6"/>De que serve ao homem viver dois mil anos, se não conhece a alegria?
+<verse eid="ECC 6:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 6:7"/>Todos se cansam para conseguir pão, e ainda assim o desejo não se sacia.
+<verse eid="ECC 6:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 6:8"/>Que vantagem tem o sábio sobre o tolo? E que vantagem tem o pobre que sabe enfrentar a vida?
+<verse eid="ECC 6:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 6:9"/>Melhor é contentar-se com o que se tem do que viver em busca de mais; isso também é ilusão, é correr atrás do vento.
+<verse eid="ECC 6:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 6:10"/>O que há de existir, Deus já conhece. Ele sabe o que é o homem, e não adianta brigar com quem é mais forte.
+<verse eid="ECC 6:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 6:11"/>Quanto mais a pessoa fala, mais tolices diz; então, para que falar?
+<verse eid="ECC 6:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 6:12"/>Nos poucos dias da nossa vida vazia, quem pode dizer o que realmente é melhor para alguém? E quem pode saber o que virá depois da morte e se isso trará algum bem?
 <verse eid="ECC 6:12"/><verse eid="ECC 6:12"/></para>
   <chapter eid="ECC 6"/>
   <chapter number="7" style="c" sid="ECC 7"/>
   <para style="p"><verse number="1" style="v" sid="ECC 7:1"/>Um bom nome vale mais do que perfume de grande valor; e o dia da morte é melhor do que o dia do nascimento.
-<verse eid="ECC 7:1"/><verse number="2" style="v" sid="ECC 7:2"/>É melhor entrar numa casa de luto do que ir a uma casa de festa, pois esse é o fim de todos; e o vivo deve levar isso ao coração.
-<verse eid="ECC 7:2"/><verse number="3" style="v" sid="ECC 7:3"/>A tristeza é melhor do que o riso, porque o rosto abatido pode tornar melhor o coração.
-<verse eid="ECC 7:3"/><verse number="4" style="v" sid="ECC 7:4"/>É melhor ouvir a repreensão do sábio do que escutar a canção dos tolos.
-<verse eid="ECC 7:4"/><verse number="5" style="v" sid="ECC 7:5"/>Pois, como o estalo de espinhos debaixo da panela, assim é o riso do tolo; e isso também é ilusão.
-<verse eid="ECC 7:5"/><verse number="6" style="v" sid="ECC 7:6"/>Pois, como o estalo de espinhos debaixo da panela, assim é o riso do tolo; e isso também é ilusão.
-<verse eid="ECC 7:6"/><verse number="7" style="v" sid="ECC 7:7"/>A opressão faz o sábio agir como tolo, e o suborno corrompe o coração.
-<verse eid="ECC 7:7"/><verse number="8" style="v" sid="ECC 7:8"/>O fim de uma coisa é melhor do que o seu começo; a paciência é melhor do que o orgulho.
-<verse eid="ECC 7:8"/><verse number="9" style="v" sid="ECC 7:9"/>Não se apresse em seu espírito para se irar, porque a ira repousa no peito dos insensatos.
-<verse eid="ECC 7:9"/><verse number="10" style="v" sid="ECC 7:10"/>Não diga: “Por que os dias do passado não voltam?” pois essa pergunta não vem da sabedoria.
-<verse eid="ECC 7:10"/><verse number="11" style="v" sid="ECC 7:11"/>A sabedoria é boa como uma herança, e é proveitosa para os que veem o sol.
-<verse eid="ECC 7:11"/><verse number="12" style="v" sid="ECC 7:12"/>Porque a riqueza é proteção, e a sabedoria também é proteção; mas a sabedoria preserva a vida de quem a possui.
-<verse eid="ECC 7:12"/><verse number="13" style="v" sid="ECC 7:13"/>Observe a obra do SENHOR e aceite o que Ele faz; quem pode endireitar o que ele tornou torto?
-<verse eid="ECC 7:13"/><verse number="14" style="v" sid="ECC 7:14"/>No dia do bem, desfrute o bem; e no dia mau, considere: o SENHOR fez tanto um como o outro, para que ninguém saiba o que virá depois.
-<verse eid="ECC 7:14"/><verse number="15" style="v" sid="ECC 7:15"/>Nesta vida sem sentido, vi de tudo: um justo que perece apesar de sua justiça, e um perverso que prolonga seus dias apesar de sua maldade.
-<verse eid="ECC 7:15"/><verse number="16" style="v" sid="ECC 7:16"/>Portanto, não seja justo demais, nem se faça sábio em excesso; por que você se destruiria?
-<verse eid="ECC 7:16"/><verse number="17" style="v" sid="ECC 7:17"/>Também não seja mau demais, nem seja tolo; por que morrer antes do tempo?
-<verse eid="ECC 7:17"/><verse number="18" style="v" sid="ECC 7:18"/>É bom que você se apegue a uma coisa e não largue a outra; pois quem teme ao SENHOR sairá bem em tudo.
-<verse eid="ECC 7:18"/><verse number="19" style="v" sid="ECC 7:19"/>A sabedoria torna o sábio mais forte do que dez valentes que guardam uma cidade.
-<verse eid="ECC 7:19"/><verse number="20" style="v" sid="ECC 7:20"/>Certamente não há na terra um homem tão justo que faça sempre o bem e nunca peque.
-<verse eid="ECC 7:20"/><verse number="21" style="v" sid="ECC 7:21"/>Não dê atenção a todas as palavras que se dizem, para que você não ouça o seu servo falar mal de você.
-<verse eid="ECC 7:21"/><verse number="22" style="v" sid="ECC 7:22"/>Pois o seu coração sabe que muitas vezes você também falou mal de outros.
-<verse eid="ECC 7:22"/><verse number="23" style="v" sid="ECC 7:23"/>Tudo isso eu provei com sabedoria; eu disse: “Vou ser sábio”, mas isso ficou longe de mim.
-<verse eid="ECC 7:23"/><verse number="24" style="v" sid="ECC 7:24"/>O que existe está longe e é muito profundo; quem o poderá encontrar?
-<verse eid="ECC 7:24"/><verse number="25" style="v" sid="ECC 7:25"/>Voltei-me, com o coração, para conhecer, examinar e buscar a sabedoria e a razão das coisas, e para entender a insensatez da maldade e a loucura da tolice.
-<verse eid="ECC 7:25"/><verse number="26" style="v" sid="ECC 7:26"/>E achei mais amarga do que a morte a mulher que é laço; seu coração é armadilha, e seus braços são correntes; quem agrada ao SENHOR escapará dela, mas o pecador será preso por ela.
-<verse eid="ECC 7:26"/><verse number="27" style="v" sid="ECC 7:27"/>“Esta é a minha conclusão”, diz o Pregador: “examinei uma coisa após outra, para achar o resultado”.
-<verse eid="ECC 7:27"/><verse number="28" style="v" sid="ECC 7:28"/>“Eis o que ainda busco e não achei: entre mil homens, achei um que se pode considerar sábio; mas entre as mulheres, não achei nenhuma”.
-<verse eid="ECC 7:28"/><verse number="29" style="v" sid="ECC 7:29"/>“Somente isto descobri: o SENHOR fez o ser humano reto, mas cada um buscou seus próprios caminhos, e muitos se desviaram”.
+<verse eid="ECC 7:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 7:2"/>É melhor entrar numa casa de luto do que ir a uma casa de festa, pois esse é o fim de todos; e o vivo deve levar isso ao coração.
+<verse eid="ECC 7:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 7:3"/>A tristeza é melhor do que o riso, porque o rosto abatido pode tornar melhor o coração.
+<verse eid="ECC 7:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 7:4"/>O coração dos sábios está na casa onde há luto, mas o coração dos tolos está na casa da alegria.
+<verse eid="ECC 7:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 7:5"/>É melhor ser repreendido por um sábio do que ouvir o canto dos tolos.
+<verse eid="ECC 7:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 7:6"/>O riso do tolo é como o estalo dos espinhos debaixo da panela; isso também é ilusão.
+<verse eid="ECC 7:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 7:7"/>A opressão faz o sábio agir como tolo, e o suborno corrompe o coração.
+<verse eid="ECC 7:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 7:8"/>O fim de uma coisa é melhor do que o seu começo; a paciência é melhor do que o orgulho.
+<verse eid="ECC 7:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 7:9"/>Não se apresse em seu espírito para se irar, porque a ira repousa no peito dos insensatos.
+<verse eid="ECC 7:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 7:10"/>Não diga: “Por que os dias do passado não voltam?”, pois essa pergunta não vem da sabedoria.
+<verse eid="ECC 7:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 7:11"/>A sabedoria é boa como uma herança, e é proveitosa para os que veem o sol.
+<verse eid="ECC 7:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 7:12"/>Porque a riqueza é proteção, e a sabedoria também é proteção; mas a sabedoria preserva a vida de quem a possui.
+<verse eid="ECC 7:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 7:13"/>Observe a obra do SENHOR e aceite o que ele faz; quem pode endireitar o que ele tornou torto?
+<verse eid="ECC 7:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 7:14"/>No dia do bem, desfrute o bem; e no dia mau, considere: o SENHOR fez tanto um como o outro, para que ninguém saiba o que virá depois.
+<verse eid="ECC 7:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 7:15"/>Nesta vida sem sentido, vi de tudo: um justo que perece apesar de sua justiça, e um perverso que prolonga seus dias apesar de sua maldade.
+<verse eid="ECC 7:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 7:16"/>Portanto, não seja justo demais, nem se faça sábio em excesso; por que você se destruiria?
+<verse eid="ECC 7:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 7:17"/>Também não seja mau demais, nem seja tolo; por que morrer antes do tempo?
+<verse eid="ECC 7:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 7:18"/>É bom que você se apegue a uma coisa e não largue a outra; pois quem teme ao SENHOR sairá bem em tudo.
+<verse eid="ECC 7:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="ECC 7:19"/>A sabedoria torna o sábio mais forte do que dez valentes que guardam uma cidade.
+<verse eid="ECC 7:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="ECC 7:20"/>Certamente não há na terra um homem tão justo que faça sempre o bem e nunca peque.
+<verse eid="ECC 7:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="ECC 7:21"/>Não dê atenção a todas as palavras que se dizem, para que você não ouça o seu servo falar mal de você.
+<verse eid="ECC 7:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="ECC 7:22"/>Pois o seu coração sabe que muitas vezes você também falou mal de outros.
+<verse eid="ECC 7:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="ECC 7:23"/>Tudo isso eu provei com sabedoria; eu disse: “Vou ser sábio”, mas isso ficou longe de mim.
+<verse eid="ECC 7:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="ECC 7:24"/>O que existe está longe e é muito profundo; quem o poderá encontrar?
+<verse eid="ECC 7:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="ECC 7:25"/>Voltei-me, com o coração, para conhecer, examinar e buscar a sabedoria e a razão das coisas, e para entender a insensatez da maldade e a loucura da tolice.
+<verse eid="ECC 7:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="ECC 7:26"/>E achei mais amarga do que a morte a mulher que é laço; seu coração é armadilha, e seus braços são correntes; quem agrada ao SENHOR escapará dela, mas o pecador será preso por ela.
+<verse eid="ECC 7:26"/></para>
+  <para style="p"><verse number="27" style="v" sid="ECC 7:27"/>“Esta é a minha conclusão”, diz o Pregador: “examinei uma coisa após outra, para achar o resultado.
+<verse eid="ECC 7:27"/></para>
+  <para style="p"><verse number="28" style="v" sid="ECC 7:28"/>Eis o que ainda busco e não achei: entre mil homens, achei um que se pode considerar sábio; mas entre as mulheres, não achei nenhuma.
+<verse eid="ECC 7:28"/></para>
+  <para style="p"><verse number="29" style="v" sid="ECC 7:29"/>Somente isto descobri: o SENHOR fez o ser humano reto, mas cada um buscou seus próprios caminhos, e muitos se desviaram”.
 <verse eid="ECC 7:29"/><verse eid="ECC 7:29"/></para>
   <chapter eid="ECC 7"/>
   <chapter number="8" style="c" sid="ECC 8"/>
-  <para style="p"><verse number="1" style="v" sid="ECC 8:1"/>Quem se compara ao sábio, e quem sabe interpretar o que acontece? A sabedoria clareia o rosto do homem e suaviza a dureza do seu olhar.
-<verse eid="ECC 8:1"/><verse number="2" style="v" sid="ECC 8:2"/>Dou-lhe este conselho: obedeça ao rei, por causa do juramento que você fez diante de Deus.
-<verse eid="ECC 8:2"/><verse number="3" style="v" sid="ECC 8:3"/>Não saia depressa da presença dele, nem persista em praticar o mal, pois o rei executa o que decide contra quem desobedece.
-<verse eid="ECC 8:3"/><verse number="4" style="v" sid="ECC 8:4"/>A palavra do rei tem autoridade, e ninguém pode lhe perguntar: “O que o senhor está fazendo?”.
-<verse eid="ECC 8:4"/><verse number="5" style="v" sid="ECC 8:5"/>Quem guarda a ordem do rei não sofrerá castigo, porque o sábio reconhece o tempo e o modo certo de agir.
-<verse eid="ECC 8:5"/><verse number="6" style="v" sid="ECC 8:6"/>Sim, para cada assunto há tempo e modo, embora o sofrimento do homem pese muito sobre ele.
-<verse eid="ECC 8:6"/><verse number="7" style="v" sid="ECC 8:7"/>Ninguém conhece o que virá, e quem pode anunciar o que vai acontecer?
-<verse eid="ECC 8:7"/><verse number="8" style="v" sid="ECC 8:8"/>Ninguém tem poder sobre o próprio espírito, nem pode prolongar a vida para sempre, nem evitar o dia da morte; nessa luta não há descanso, e a maldade não livra ninguém desse dia.
-<verse eid="ECC 8:8"/><verse number="9" style="v" sid="ECC 8:9"/>Pensei em tudo isso e observei o que se faz debaixo do sol, quando uma pessoa tem poder para ferir outra pessoa.
-<verse eid="ECC 8:9"/><verse number="10" style="v" sid="ECC 8:10"/>Vi homens maus serem sepultados, e vi pessoas voltarem do lugar do sepultamento e logo esquecerem o mal que eles fizeram; na cidade onde praticaram perversidade, ainda eram elogiados. Que coisa sem sentido!
-<verse eid="ECC 8:10"/><verse number="11" style="v" sid="ECC 8:11"/>Pelo fato de Deus não punir imediatamente os pecadores, o coração do homem pensa que não há problema em continuar fazendo o mal.
-<verse eid="ECC 8:11"/><verse number="12" style="v" sid="ECC 8:12"/>Ainda que alguém cometa cem crimes e continue vivendo, eu sei que será melhor para os que respeitam e temem a Deus.
-<verse eid="ECC 8:12"/><verse number="13" style="v" sid="ECC 8:13"/>Porém não será bem para os maus, e seus dias não se alongarão; passarão como sombra, porque eles não temem a Deus.
-<verse eid="ECC 8:13"/><verse number="14" style="v" sid="ECC 8:14"/>Há outra coisa sem sentido na terra: muitas vezes os justos recebem o que os perversos merecem, e os perversos recebem o que os justos merecem; isso também é sem sentido.
-<verse eid="ECC 8:14"/><verse number="15" style="v" sid="ECC 8:15"/>Por isso, eu elogio a alegria: debaixo do sol não há nada melhor para o homem do que comer, beber e se alegrar; e isso o acompanhará no seu trabalho, durante os dias que Deus lhe dá debaixo do sol.
-<verse eid="ECC 8:15"/><verse number="16" style="v" sid="ECC 8:16"/>Quando me dediquei a buscar sabedoria, vi a ocupação que existe na terra—uma atividade que não para, de dia e de noite.
-<verse eid="ECC 8:16"/><verse number="17" style="v" sid="ECC 8:17"/>Então compreendi que só Deus vê o todo: ninguém consegue entender o que se faz debaixo do sol; por mais que se esforce, o homem não encontra o sentido, e mesmo o sábio, se disser que entende, na verdade não entende.
+  <para style="p"><verse number="1" style="v" sid="ECC 8:1"/>Quem se compara ao sábio, e quem sabe compreender as coisas? A sabedoria clareia o rosto do homem e suaviza a dureza do seu olhar.
+<verse eid="ECC 8:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 8:2"/>Dou-lhe este conselho: obedeça ao rei, por causa do juramento que você fez diante de Deus.
+<verse eid="ECC 8:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 8:3"/>Não saia depressa da presença dele, nem persista em praticar o mal, pois o rei castiga aqueles que desobedecem.
+<verse eid="ECC 8:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 8:4"/>A palavra do rei tem autoridade, e ninguém pode lhe perguntar: “O que o senhor está fazendo?”.
+<verse eid="ECC 8:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 8:5"/>Quem guarda a ordem do rei não sofrerá castigo, porque o sábio reconhece o tempo e o modo certo de agir.
+<verse eid="ECC 8:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 8:6"/>Sim, para cada assunto há tempo e modo, embora o sofrimento do homem pese muito sobre ele.
+<verse eid="ECC 8:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 8:7"/>Ninguém conhece o que virá, e quem pode anunciar o que vai acontecer?
+<verse eid="ECC 8:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 8:8"/>Ninguém tem poder sobre o próprio espírito, nem pode prolongar a vida para sempre, nem evitar o dia da morte; nessa luta não há descanso, e a maldade não livra ninguém desse dia.
+<verse eid="ECC 8:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 8:9"/>Pensei em tudo isso e observei o que se faz debaixo do sol, quando uma pessoa tem poder para prejudicar outra pessoa.
+<verse eid="ECC 8:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 8:10"/>Vi homens maus serem sepultados, e vi os amigos deles voltarem do lugar do sepultamento e logo esquecerem o mal que eles fizeram; na cidade onde praticaram perversidade, ainda eram elogiados. Que coisa sem sentido!
+<verse eid="ECC 8:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 8:11"/>Pelo fato de Deus não punir imediatamente os pecadores, o coração do homem se dispõe a fazer o que é mau.
+<verse eid="ECC 8:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 8:12"/>Ainda que alguém cometa cem crimes e continue a viver, eu sei que a situação será melhor para os que respeitam e temem a Deus.
+<verse eid="ECC 8:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 8:13"/>Porém nada irá bem para os maus, e seus dias não se alongarão; passarão como sombra, porque eles não temem a Deus.
+<verse eid="ECC 8:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 8:14"/>Há outra coisa sem sentido na terra: muitas vezes os justos recebem o que os perversos merecem, e os perversos recebem o que os justos merecem; isso também é sem sentido.
+<verse eid="ECC 8:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 8:15"/>Por isso, eu elogio a alegria: debaixo do sol não há nada melhor para o homem do que comer, beber e se alegrar; e há a esperança de que isso o acompanhe no seu trabalho, durante os dias que Deus lhe dá debaixo do sol.
+<verse eid="ECC 8:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 8:16"/>Quando me dediquei a buscar sabedoria, vi a ocupação que existe na terra — uma atividade que não para, de dia e de noite.
+<verse eid="ECC 8:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 8:17"/>Então compreendi que só Deus vê o todo: ninguém consegue entender o que se faz debaixo do sol; por mais que se esforce, o homem não encontra o sentido, e mesmo o sábio, se disser que entende, na verdade não entende.
 <verse eid="ECC 8:17"/><verse eid="ECC 8:17"/></para>
   <chapter eid="ECC 8"/>
   <chapter number="9" style="c" sid="ECC 9"/>
-  <para style="p"><verse number="1" style="v" sid="ECC 9:1"/>Dediquei-me a examinar tudo isto e concluí que os justos e os que temem a Deus estão nas mãos dele; ele conhece o que os aguarda, seja amor, seja ódio, e o homem não sabe o que virá, mas isso não muda o fato.
-<verse eid="ECC 9:1"/><verse number="2" style="v" sid="ECC 9:2"/>Todos seguem um mesmo destino: o honesto e o desonesto, o bom e o mau, o puro e o impuro, o que oferece sacrifícios e o que não oferece; ao homem bom sucede o mesmo que ao pecador, e ao que faz juramentos sucede o mesmo que ao que não os faz.
-<verse eid="ECC 9:2"/><verse number="3" style="v" sid="ECC 9:3"/>Este é o mal em tudo o que acontece debaixo do sol: um só destino alcança a todos; por isso o coração do homem não se ocupa do bem, antes se enche de maldade e de loucura, e no fim resta apenas a morte.
-<verse eid="ECC 9:3"/><verse number="4" style="v" sid="ECC 9:4"/>Contudo, para quem está entre os vivos há esperança; melhor é um cão vivo do que um leão morto.
-<verse eid="ECC 9:4"/><verse number="5" style="v" sid="ECC 9:5"/>Os vivos sabem que morrerão, mas os mortos nada sabem; para eles não há mais recompensa, e até a lembrança de sua vida se apaga.
-<verse eid="ECC 9:5"/><verse number="6" style="v" sid="ECC 9:6"/>Para eles, amor, ódio e inveja já passaram há muito; e já não têm parte em coisa alguma do que se faz debaixo do sol.
-<verse eid="ECC 9:6"/><verse number="7" style="v" sid="ECC 9:7"/>Portanto, coma o seu pão com prazer e beba o seu vinho com coração alegre, pois Deus se agrada das suas obras.
-<verse eid="ECC 9:7"/><verse number="8" style="v" sid="ECC 9:8"/>Traga sempre vestes de festa e não deixe faltar óleo sobre a sua cabeça.
-<verse eid="ECC 9:8"/><verse number="9" style="v" sid="ECC 9:9"/>Viva com alegria com a mulher que você ama, todos os dias desta vida sem sentido que Deus lhe deu debaixo do sol, todos os seus dias sem sentido; porque esta é a sua parte no trabalho árduo que você realiza debaixo do sol.
-<verse eid="ECC 9:9"/><verse number="10" style="v" sid="ECC 9:10"/>Tudo o que a sua mão encontrar para fazer, faça com empenho; pois, no lugar para onde você vai após a morte, não há planos, nem trabalho, nem conhecimento, nem sabedoria.
-<verse eid="ECC 9:10"/><verse number="11" style="v" sid="ECC 9:11"/>Vi ainda outra coisa debaixo do sol: nem sempre os mais rápidos vencem a corrida, nem sempre os mais fortes vencem a guerra; os sábios nem sempre têm pão, os prudentes nem sempre ajuntam riquezas, os instruídos nem sempre alcançam honra; tudo depende do acaso e do momento.
-<verse eid="ECC 9:11"/><verse number="12" style="v" sid="ECC 9:12"/>O homem não conhece a sua hora; como peixes presos numa rede mortal e como aves apanhadas num laço, assim os homens são surpreendidos pela desgraça quando menos esperam.
-<verse eid="ECC 9:12"/><verse number="13" style="v" sid="ECC 9:13"/>Também vi debaixo do sol um caso que muito me impressionou.
-<verse eid="ECC 9:13"/><verse number="14" style="v" sid="ECC 9:14"/>Havia uma cidade pequena, com poucos moradores, e contra ela veio um rei com grande exército, cercando-a e levantando muitas armas.
-<verse eid="ECC 9:14"/><verse number="15" style="v" sid="ECC 9:15"/>Nessa cidade havia um homem sábio, porém muito pobre; com a sua sabedoria ele livrou a cidade, mas depois ninguém se lembrou daquele homem.
-<verse eid="ECC 9:15"/><verse number="16" style="v" sid="ECC 9:16"/>Então eu disse: a sabedoria é melhor do que a força; contudo, a sabedoria do pobre é desprezada, e suas palavras logo são esquecidas.
-<verse eid="ECC 9:16"/><verse number="17" style="v" sid="ECC 9:17"/>As palavras calmas do sábio são ouvidas melhor do que os gritos de um rei que governa sobre tolos.
-<verse eid="ECC 9:17"/><verse number="18" style="v" sid="ECC 9:18"/>A sabedoria é melhor do que armas de guerra, mas um só pecador pode arruinar bons planos.
+  <para style="p"><verse number="1" style="v" sid="ECC 9:1"/>Dediquei-me a examinar tudo isso e concluí que os justos e os sábios estão nas mãos de Deus; ele conhece o que os aguarda, seja amor, seja ódio, e o homem não sabe o que virá, mas isso não muda o fato.
+<verse eid="ECC 9:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 9:2"/>Todos seguem um mesmo destino: o honesto e o desonesto, o bom e o mau, o puro e o impuro, o que oferece sacrifícios e o que não oferece; ao homem bom sucede o mesmo que ao pecador, e ao que faz juramentos sucede o mesmo que ao que não os faz.
+<verse eid="ECC 9:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 9:3"/>Este é o mal em tudo o que acontece debaixo do sol: um só destino alcança a todos; por isso o coração do homem não se ocupa do bem, antes se enche de maldade e de loucura, e no fim resta apenas a morte.
+<verse eid="ECC 9:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 9:4"/>Contudo, para quem está entre os vivos há esperança; melhor é um cão vivo do que um leão morto.
+<verse eid="ECC 9:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 9:5"/>Os vivos sabem que morrerão, mas os mortos nada sabem; para eles não há mais recompensa, e até a lembrança de sua vida se apaga.
+<verse eid="ECC 9:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 9:6"/>Para eles, amor, ódio e inveja já passaram há muito, e já não têm parte em coisa alguma do que se faz debaixo do sol.
+<verse eid="ECC 9:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 9:7"/>Portanto, coma o seu pão com prazer e beba o seu vinho com coração alegre, pois Deus se agrada das suas obras.
+<verse eid="ECC 9:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 9:8"/>Traga sempre vestes de festa e não deixe faltar óleo sobre a sua cabeça.
+<verse eid="ECC 9:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 9:9"/>Viva com alegria com a mulher que você ama, todos os dias desta vida sem sentido que Deus lhe deu debaixo do sol; porque esta é a sua parte e a recompensa pelo trabalho árduo que você realiza debaixo do sol.
+<verse eid="ECC 9:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 9:10"/>Tudo o que a sua mão encontrar para fazer, faça com empenho; pois, no lugar para onde você vai após a morte, não há planos, nem trabalho, nem conhecimento, nem sabedoria.
+<verse eid="ECC 9:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 9:11"/>Vi ainda outra coisa debaixo do sol: nem sempre os mais rápidos vencem a corrida, nem sempre os mais fortes vencem a guerra; os sábios nem sempre têm pão, os prudentes nem sempre ajuntam riquezas, os instruídos nem sempre alcançam honra; tudo depende do acaso e do momento.
+<verse eid="ECC 9:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 9:12"/>O homem não conhece a sua hora; como peixes presos numa rede mortal e como aves apanhadas num laço, assim os homens são surpreendidos pela desgraça quando menos esperam.
+<verse eid="ECC 9:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 9:13"/>Também vi debaixo do sol um caso que muito me impressionou.
+<verse eid="ECC 9:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 9:14"/>Havia uma cidade pequena, com poucos moradores, e contra ela veio um rei com grande exército, cercando-a e construindo obras de cerco.
+<verse eid="ECC 9:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 9:15"/>Nessa cidade havia um homem sábio, porém muito pobre; com a sua sabedoria ele livrou a cidade, mas depois ninguém se lembrou daquele homem.
+<verse eid="ECC 9:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 9:16"/>Então eu disse: a sabedoria é melhor do que a força; contudo, a sabedoria do pobre é desprezada, e suas palavras logo são esquecidas.
+<verse eid="ECC 9:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 9:17"/>As palavras calmas do sábio são mais bem ouvidas do que os gritos de um rei que governa sobre tolos.
+<verse eid="ECC 9:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 9:18"/>A sabedoria é melhor do que armas de guerra, mas um só pecador pode arruinar bons planos.
 <verse eid="ECC 9:18"/><verse eid="ECC 9:18"/></para>
   <chapter eid="ECC 9"/>
   <chapter number="10" style="c" sid="ECC 10"/>
   <para style="p"><verse number="1" style="v" sid="ECC 10:1"/>Se alguém lançar moscas mortas dentro de um frasco de perfume, o aroma se corrompe; assim também, um pouco de tolice arruína muita sabedoria e honra.
-<verse eid="ECC 10:1"/><verse number="2" style="v" sid="ECC 10:2"/>O coração do sábio o conduz ao que é correto, mas o coração do tolo o conduz ao mal.
-<verse eid="ECC 10:2"/><verse number="3" style="v" sid="ECC 10:3"/>Até no caminho se reconhece o tolo: ele anda sem bom senso e deixa claro a todos que não tem juízo.
-<verse eid="ECC 10:3"/><verse number="4" style="v" sid="ECC 10:4"/>Se a ira de uma autoridade se levantar contra você, não abandone o seu posto; uma resposta mansa pode evitar faltas graves.
-<verse eid="ECC 10:4"/><verse number="5" style="v" sid="ECC 10:5"/>Há ainda um mal que observei debaixo do sol, e é uma tristeza ligada aos que governam:
-<verse eid="ECC 10:5"/><verse number="6" style="v" sid="ECC 10:6"/>vi tolos recebendo grande autoridade, enquanto homens ricos ficavam em cargos inferiores.
-<verse eid="ECC 10:6"/><verse number="7" style="v" sid="ECC 10:7"/>vi servos montados em belos cavalos, e príncipes andando a pé, como se fossem servos.
-<verse eid="ECC 10:7"/><verse number="8" style="v" sid="ECC 10:8"/>Quem cava um poço pode cair nele; e quem derruba um muro pode ser mordido por uma cobra.
-<verse eid="ECC 10:8"/><verse number="9" style="v" sid="ECC 10:9"/>Quem parte pedras pode ferir-se com elas; e quem corta lenha corre perigo por causa do machado.
-<verse eid="ECC 10:9"/><verse number="10" style="v" sid="ECC 10:10"/>Se o machado está sem corte, o lenhador precisa fazer força dobrada; mas a sabedoria leva a planejar antes de agir.
-<verse eid="ECC 10:10"/><verse number="11" style="v" sid="ECC 10:11"/>Se a cobra morde antes de ser encantada, não há proveito algum para o encantador.
-<verse eid="ECC 10:11"/><verse number="12" style="v" sid="ECC 10:12"/>As palavras do sábio trazem bem, mas a fala do tolo o consome.
-<verse eid="ECC 10:12"/><verse number="13" style="v" sid="ECC 10:13"/>O começo do que ele diz é tolice, e o fim do que ele conclui é loucura.
-<verse eid="ECC 10:13"/><verse number="14" style="v" sid="ECC 10:14"/>O tolo afirma conhecer o futuro e descreve tudo em detalhes; porém, quem lhe fará saber o que acontecerá depois dele?
-<verse eid="ECC 10:14"/><verse number="15" style="v" sid="ECC 10:15"/>O trabalho do tolo o esgota, porque ele nem sabe o caminho de volta para a cidade.
-<verse eid="ECC 10:15"/><verse number="16" style="v" sid="ECC 10:16"/>Ai da terra cujo rei é jovem demais, e cujas autoridades fazem banquetes antes do meio-dia.
-<verse eid="ECC 10:16"/><verse number="17" style="v" sid="ECC 10:17"/>Feliz é a terra cujo rei é de boa família, e cujas autoridades trabalham bastante antes de comer; comem e bebem para recuperar forças, e não para se embriagar.
-<verse eid="ECC 10:17"/><verse number="18" style="v" sid="ECC 10:18"/>Por causa da preguiça, o telhado se enverga; e por falta de conserto, a casa se enche de goteiras e acaba caindo.
-<verse eid="ECC 10:18"/><verse number="19" style="v" sid="ECC 10:19"/>A festa traz alegria, e o vinho torna a vida mais leve; e o dinheiro compra essas coisas.
-<verse eid="ECC 10:19"/><verse number="20" style="v" sid="ECC 10:20"/>Não fale mal do rei, nem mesmo em pensamento; e não amaldiçoe o homem rico nem no seu quarto, pois uma ave do céu pode levar suas palavras e fazê-las chegar até ele.
+<verse eid="ECC 10:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 10:2"/>O coração do sábio o conduz ao que é correto, mas o coração do tolo o conduz ao mal.
+<verse eid="ECC 10:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 10:3"/>Até no modo de andar se reconhece o tolo: ele anda sem bom senso e deixa claro a todos que não tem juízo.
+<verse eid="ECC 10:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 10:4"/>Se a ira de uma autoridade se levantar contra você, não abandone o seu posto; ficar calmo pode evitar erros graves.
+<verse eid="ECC 10:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 10:5"/>Há ainda um mal que observei debaixo do sol, uma situação triste envolvendo os que governam:
+<verse eid="ECC 10:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 10:6"/>vi tolos recebendo grande autoridade, enquanto homens ricos ficavam em cargos inferiores.
+<verse eid="ECC 10:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 10:7"/>vi servos montados em belos cavalos, e príncipes andando a pé, como se fossem servos.
+<verse eid="ECC 10:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 10:8"/>Quem cava um poço pode cair nele; e quem derruba um muro pode ser mordido por uma cobra.
+<verse eid="ECC 10:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 10:9"/>Quem parte pedras pode ferir-se com elas; e quem corta lenha corre perigo por causa do machado.
+<verse eid="ECC 10:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 10:10"/>Se o machado está sem corte, o lenhador precisa fazer força dobrada; mas a sabedoria leva a planejar antes de agir.
+<verse eid="ECC 10:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 10:11"/>Se a cobra morde antes de ser encantada, não há proveito algum para o encantador.
+<verse eid="ECC 10:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 10:12"/>As palavras do sábio fazem bem, mas a fala do tolo o destrói.
+<verse eid="ECC 10:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 10:13"/>O começo do que ele diz é tolice, e o fim do que ele conclui é loucura.
+<verse eid="ECC 10:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 10:14"/>O tolo afirma conhecer o futuro e descreve tudo em detalhes; porém, quem lhe fará saber o que acontecerá mais adiante?
+<verse eid="ECC 10:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="ECC 10:15"/>O trabalho do tolo o deixa exausto, porque ele nem sabe o caminho de volta para a cidade.
+<verse eid="ECC 10:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="ECC 10:16"/>Ai da terra cujo rei é jovem demais, e cujas autoridades fazem banquetes antes do meio-dia.
+<verse eid="ECC 10:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="ECC 10:17"/>Feliz é a terra cujo rei é de boa família, e cujas autoridades trabalham bastante antes de comer; comem e bebem para recuperar forças, e não para se embriagar.
+<verse eid="ECC 10:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="ECC 10:18"/>Por causa da preguiça, o telhado se enverga; e por falta de conserto, a casa se enche de goteiras.
+<verse eid="ECC 10:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="ECC 10:19"/>A festa traz alegria, e o vinho torna a vida mais leve; e o dinheiro compra essas coisas.
+<verse eid="ECC 10:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="ECC 10:20"/>Não fale mal do rei, nem mesmo em pensamento; e não amaldiçoe o homem rico nem no seu quarto, pois uma ave do céu pode levar suas palavras e fazê-las chegar até ele.
 <verse eid="ECC 10:20"/><verse eid="ECC 10:20"/></para>
   <chapter eid="ECC 10"/>
   <chapter number="11" style="c" sid="ECC 11"/>
-  <para style="p"><verse number="1" style="v" sid="ECC 11:1"/>Reparta o seu pão com generosidade, pois o bem que você entrega aos outros retorna a você no tempo certo.
-<verse eid="ECC 11:1"/><verse number="2" style="v" sid="ECC 11:2"/>Divida o que possui com sete pessoas, e até com oito, porque você não sabe quando também precisará de ajuda.
-<verse eid="ECC 11:2"/><verse number="3" style="v" sid="ECC 11:3"/>Quando as nuvens se enchem, a chuva cai; e quando a árvore tomba, para o norte ou para o sul, ali permanece.
-<verse eid="ECC 11:3"/><verse number="4" style="v" sid="ECC 11:4"/>Quem observa o vento não semeia, e quem fixa os olhos nas nuvens não colhe.
-<verse eid="ECC 11:4"/><verse number="5" style="v" sid="ECC 11:5"/>Assim como você não conhece o caminho do vento nem entende como a vida se forma no ventre da mãe, também não compreende as obras de Deus, o Criador de tudo.
-<verse eid="ECC 11:5"/><verse number="6" style="v" sid="ECC 11:6"/>Semeie pela manhã e não descanse à tarde, pois você não sabe qual semente prosperará, se esta ou aquela, ou se ambas crescerão.
-<verse eid="ECC 11:6"/><verse number="7" style="v" sid="ECC 11:7"/>A luz é agradável, e é bom para os olhos contemplar o sol.
-<verse eid="ECC 11:7"/><verse number="8" style="v" sid="ECC 11:8"/>Alegre-se em todos os dias da sua vida; contudo, lembre-se de que virão dias de escuridão, e serão muitos; tudo o que passa é ilusão.
-<verse eid="ECC 11:8"/><verse number="9" style="v" sid="ECC 11:9"/>Jovem, alegre-se na sua juventude; aproveite os dias do seu vigor; siga os desejos do seu coração e o que seus olhos veem, sabendo que Deus pedirá contas de tudo.
-<verse eid="ECC 11:9"/><verse number="10" style="v" sid="ECC 11:10"/>Afaste do coração a ansiedade e retire do corpo o sofrimento, pois a juventude e o vigor passam rapidamente.
+  <para style="p"><verse number="1" style="v" sid="ECC 11:1"/>Reparta o seu pão com generosidade, pois o bem que você entrega aos outros acabará voltando para você.
+<verse eid="ECC 11:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 11:2"/>Divida o que possui com sete pessoas, e até com oito, porque você não sabe quando também precisará de ajuda.
+<verse eid="ECC 11:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 11:3"/>Quando as nuvens se enchem, a chuva cai; e quando a árvore tomba, para o norte ou para o sul, ali permanece.
+<verse eid="ECC 11:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 11:4"/>Quem observa o vento não semeia, e quem fixa os olhos nas nuvens não colhe.
+<verse eid="ECC 11:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 11:5"/>Assim como você não conhece o caminho do vento nem entende como a vida se forma no ventre da mãe, também não compreende as obras de Deus, o Criador de tudo.
+<verse eid="ECC 11:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 11:6"/>Semeie pela manhã e não descanse à tarde, pois você não sabe qual semente prosperará, se esta ou aquela, ou se ambas crescerão.
+<verse eid="ECC 11:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 11:7"/>A luz é agradável, e é bom para os olhos contemplar o sol.
+<verse eid="ECC 11:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 11:8"/>Alegre-se em todos os dias da sua vida; contudo, lembre-se de que virão dias de escuridão, e serão muitos; tudo o que acontece é ilusão.
+<verse eid="ECC 11:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 11:9"/>Jovem, alegre-se na sua juventude; aproveite os dias do seu vigor; siga os caminhos do seu coração e o que seus olhos veem, sabendo que Deus pedirá contas de tudo.
+<verse eid="ECC 11:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 11:10"/>Afaste do coração a ansiedade e mantenha-se saudável, pois a juventude e o vigor passam rapidamente.
 <verse eid="ECC 11:10"/><verse eid="ECC 11:10"/></para>
   <chapter eid="ECC 11"/>
   <chapter number="12" style="c" sid="ECC 12"/>
-  <para style="p"><verse number="1" style="v" sid="ECC 12:1"/>Lembra-te do teu Criador nos dias da juventude, antes que cheguem tempos difíceis e anos em que dirás: “Já não encontro prazer”.
-<verse eid="ECC 12:1"/><verse number="2" style="v" sid="ECC 12:2"/>Antes que a luz do sol, da lua e das estrelas se apague aos teus olhos, e que as nuvens retornem depois da chuva.
-<verse eid="ECC 12:2"/><verse number="3" style="v" sid="ECC 12:3"/>Nesse tempo, os braços que te guardavam tremerão, as pernas fortes perderão vigor; os dentes cairão e a mastigação falhará, e a vista ficará fraca.
-<verse eid="ECC 12:3"/><verse number="4" style="v" sid="ECC 12:4"/>Os ouvidos se fecharão ao som da rua; acordarás com o canto das aves, mas os ruídos do moinho e da música serão baixos para ti.
-<verse eid="ECC 12:4"/><verse number="5" style="v" sid="ECC 12:5"/>Haverá medo das alturas e perigo no caminho; os cabelos ficarão brancos, o desejo se apagará, e irás para a morada eterna, enquanto os que choram passam pelas ruas.
-<verse eid="ECC 12:5"/><verse number="6" style="v" sid="ECC 12:6"/>Sim, lembra-te do teu Criador enquanto és jovem, antes que o fio de prata se rompa, a taça de ouro se quebre, o cântaro se parta junto à fonte e a roda se despedace no poço.
-<verse eid="ECC 12:6"/><verse number="7" style="v" sid="ECC 12:7"/>Antes que o pó volte à terra de onde veio, e o espírito retorne a Deus que o concedeu.
-<verse eid="ECC 12:7"/><verse number="8" style="v" sid="ECC 12:8"/>Vaidade das vaidades, diz o Pregador; tudo é vaidade.
-<verse eid="ECC 12:8"/><verse number="9" style="v" sid="ECC 12:9"/>Sendo sábio, o Pregador continuou a ensinar o povo; reuniu provérbios e organizou muitos ditos.
-<verse eid="ECC 12:9"/><verse number="10" style="v" sid="ECC 12:10"/>Além de sábio, soube instruir; ensinou com agrado e escreveu palavras corretas e verdadeiras.
-<verse eid="ECC 12:10"/><verse number="11" style="v" sid="ECC 12:11"/>As palavras dos sábios estimulam a decisão; seus ditos reunidos são como pregos bem firmes, dados pelo único Pastor.
-<verse eid="ECC 12:11"/><verse number="12" style="v" sid="ECC 12:12"/>E tu, meu filho, fica atento: há muitas opiniões sem fim; estudar sem medida cansa o corpo.
-<verse eid="ECC 12:12"/><verse number="13" style="v" sid="ECC 12:13"/>Esta é a conclusão: teme a Deus e guarda os seus mandamentos; isso resume o dever humano.
-<verse eid="ECC 12:13"/><verse number="14" style="v" sid="ECC 12:14"/>Pois Deus trará a julgamento tudo o que foi feito, até o que está oculto, seja bom ou seja mau.
+  <para style="p"><verse number="1" style="v" sid="ECC 12:1"/>Lembre-se do seu Criador nos dias da juventude, antes que cheguem tempos difíceis e anos em que dirá: “Já não tenho alegria de viver”.
+<verse eid="ECC 12:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="ECC 12:2"/>Antes que a luz do sol, da lua e das estrelas se apague diante dos seus olhos, e que as nuvens retornem depois da chuva.
+<verse eid="ECC 12:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="ECC 12:3"/>Nesse tempo, os braços que o guardavam tremerão, as pernas fortes perderão vigor; os dentes cairão e você não conseguirá mastigar direito, e a vista ficará fraca.
+<verse eid="ECC 12:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="ECC 12:4"/>Os ouvidos se fecharão ao som da rua; você acordará com o canto das aves, mas os ruídos do moinho e da música serão baixos.
+<verse eid="ECC 12:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="ECC 12:5"/>Haverá medo das alturas e perigo no caminho; o cabelo se tornará branco como a flor da amendoeira, o desejo se enfraquecerá, e você irá para a sua morada eterna, enquanto os que choram por você andam pelas ruas.
+<verse eid="ECC 12:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="ECC 12:6"/>Sim, lembre-se do seu Criador enquanto é jovem, antes que o fio de prata se rompa, a taça de ouro se quebre, o cântaro se parta junto à fonte e a roda se despedace no poço.
+<verse eid="ECC 12:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="ECC 12:7"/>Antes que o pó volte à terra de onde veio, e o espírito retorne a Deus que o concedeu.
+<verse eid="ECC 12:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="ECC 12:8"/>Ilusão das ilusões, declara o Pregador; tudo é ilusão.
+<verse eid="ECC 12:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="ECC 12:9"/>Sendo sábio, o Pregador continuou a ensinar o povo; reuniu provérbios e organizou muitos ditos.
+<verse eid="ECC 12:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="ECC 12:10"/>Além de sábio, soube instruir; ensinou com agrado e escreveu palavras corretas e verdadeiras.
+<verse eid="ECC 12:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="ECC 12:11"/>As palavras dos sábios nos levam a tomar uma decisão e apontam verdades importantes; seus ditos reunidos são como pregos bem firmes, dados pelo único Pastor.
+<verse eid="ECC 12:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="ECC 12:12"/>E você, meu filho, fique atento: há muitas opiniões sem fim, e estudar demais cansa o corpo.
+<verse eid="ECC 12:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="ECC 12:13"/>Esta é a conclusão: teme a Deus e guarda os seus mandamentos; isso resume o dever humano.
+<verse eid="ECC 12:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="ECC 12:14"/>Pois Deus trará a julgamento tudo o que foi feito, até o que está oculto, seja bom ou seja mau.
 <verse eid="ECC 12:14"/></para>
   <chapter eid="ECC 12"/>
 </usx>

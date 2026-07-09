@@ -1,110 +1,191 @@
 <usx version="3.1">
-  <book code="RUT" style="id">EN</book>
-  <para style="h">Ruth
+  <book code="RUT" style="id">rut PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Rute
 </para>
-  <para style="toc1">Ruth
+  <para style="toc1">Rute
 </para>
-  <para style="toc2">Ruth
+  <para style="toc2">Rute
 </para>
-  <para style="toc3">RUT
+  <para style="toc3">Rt
 </para>
-  <para style="mt1">Ruth
+  <para style="mt1">Rute
 </para>
   <chapter number="1" style="c" sid="RUT 1"/>
-  <para style="p"><verse number="1" style="v" sid="RUT 1:1"/>No tempo em que os juízes julgavam Israel, houve fome na terra. Por causa disso, um homem saiu de Belém de Judá para viver como estrangeiro na terra de Moabe. Sua esposa e seus dois filhos o acompanharam.
-<verse eid="RUT 1:1"/><verse number="2" style="v" sid="RUT 1:2"/>Seu nome era Elimeleque. Sua esposa se chamava Noemi, e os filhos, Malom e Quiliom. Eram efrateus de Belém de Judá. Chegando a Moabe, passaram a viver ali.
-<verse eid="RUT 1:2"/><verse number="3" style="v" sid="RUT 1:3"/>Algum tempo depois, Elimeleque, marido de Noemi, morreu. Ela ficou com os dois filhos,
-<verse eid="RUT 1:3"/><verse number="4" style="v" sid="RUT 1:4"/>que se casaram com mulheres moabitas. Uma se chamava Orfa, e a outra, Rute. Permaneceram ali cerca de dez anos.
-<verse eid="RUT 1:4"/><verse number="5" style="v" sid="RUT 1:5"/>Depois disso, Malom e Quiliom também morreram. Assim, Noemi ficou sem marido e sem filhos.
-<verse eid="RUT 1:5"/><verse number="6" style="v" sid="RUT 1:6"/>Em Moabe, Noemi ficou sabendo que o SENHOR havia visitado seu povo e lhe dado alimento. Então decidiu ir embora de Moabe com suas noras.
-<verse eid="RUT 1:6"/><verse number="7" style="v" sid="RUT 1:7"/>Ela saiu do lugar onde havia morado, e as duas noras a seguiram. Enquanto caminhavam de volta para a terra de Judá,
-<verse eid="RUT 1:7"/><verse number="8" style="v" sid="RUT 1:8"/>Noemi disse às noras: "Voltem, cada uma de vocês, para a casa de sua mãe. Que o SENHOR seja bondoso com vocês, assim como vocês foram bondosas com os que morreram e também comigo.
-<verse eid="RUT 1:8"/><verse number="9" style="v" sid="RUT 1:9"/>Que o SENHOR conceda descanso a cada uma de vocês, na casa de um novo marido". Depois disso, beijou-as. Então todas desabaram a chorar.
-<verse eid="RUT 1:9"/><verse number="10" style="v" sid="RUT 1:10"/>As noras disseram: "Não. Nós voltaremos com você para o seu povo".
-<verse eid="RUT 1:10"/><verse number="11" style="v" sid="RUT 1:11"/>Noemi, no entanto, respondeu: "Voltem para a casa de vocês, minhas filhas. Por que viriam comigo? Por acaso ainda posso ter filhos que se tornem maridos para vocês?
-<verse eid="RUT 1:11"/><verse number="12" style="v" sid="RUT 1:12"/>Voltem, minhas filhas. Sigam o caminho de vocês. Sou velha demais para me casar de novo. Mesmo que eu dissesse que ainda há esperança, e mesmo que me casasse hoje e tivesse filhos,
-<verse eid="RUT 1:12"/><verse number="13" style="v" sid="RUT 1:13"/>vocês ficariam esperando até que eles crescessem? Ficariam sem se casar por causa disso? Não, minhas filhas. Minha dor é maior do que a de vocês, pois a mão do SENHOR se voltou contra mim".
-<verse eid="RUT 1:13"/><verse number="14" style="v" sid="RUT 1:14"/>Elas choraram novamente. Orfa deu um beijo de despedida em sua sogra, mas Rute permaneceu com Noemi.
-<verse eid="RUT 1:14"/><verse number="15" style="v" sid="RUT 1:15"/>Então Noemi disse: "Veja só, sua cunhada voltou para o povo e para os deuses dela. Volte você também com ela".
-<verse eid="RUT 1:15"/><verse number="16" style="v" sid="RUT 1:16"/>Rute respondeu: "Não me pressione para deixá-la nem para me afastar de você. Aonde você for, eu irei. Onde você ficar, eu ficarei. Seu povo será o meu povo, e o seu Deus será o meu Deus.
-<verse eid="RUT 1:16"/><verse number="17" style="v" sid="RUT 1:17"/>Onde você morrer, eu morrerei, e ali serei sepultada. Que o SENHOR me castigue duramente se algo que não for a morte nos separar".
-<verse eid="RUT 1:17"/><verse number="18" style="v" sid="RUT 1:18"/>Ao perceber que a decisão de Rute de acompanhar a sogra já estava tomada, Noemi deixou de insistir.
-<verse eid="RUT 1:18"/><verse number="19" style="v" sid="RUT 1:19"/>As duas seguiram juntas até Belém. Quando chegaram lá, toda a cidade ficou agitada por causa delas. As mulheres queriam saber: "Esta é Noemi?".
-<verse eid="RUT 1:19"/><verse number="20" style="v" sid="RUT 1:20"/>Ela respondeu: "Não me chamem Noemi. Chamem-me Mara, pois o Todo-poderoso me tem dado uma vida muito amarga.
-<verse eid="RUT 1:20"/><verse number="21" style="v" sid="RUT 1:21"/>Eu parti cheia, mas o SENHOR me fez voltar vazia. Por que vocês me chamam Noemi, se o SENHOR se voltou contra mim e o Todo-poderoso tem me afligido?".
-<verse eid="RUT 1:21"/><verse number="22" style="v" sid="RUT 1:22"/>Assim Noemi voltou da terra de Moabe com sua nora moabita Rute. As duas chegaram a Belém no início da colheita da cevada.
+  <para style="p"><verse number="1" style="v" sid="RUT 1:1"/>No período dos juízes em Israel, houve fome na terra. Por causa disso, um homem saiu de Belém de Judá para viver temporariamente como estrangeiro na terra de Moabe. Sua esposa e seus dois filhos o acompanharam.
+<verse eid="RUT 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="RUT 1:2"/>Seu nome era Elimeleque. Sua esposa se chamava Noemi, e os filhos, Malom e Quiliom. Eram efrateus de Belém de Judá. Chegando a Moabe, passaram a viver ali.
+<verse eid="RUT 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="RUT 1:3"/>Algum tempo depois, Elimeleque, marido de Noemi, morreu. Ela ficou com os dois filhos.
+<verse eid="RUT 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="RUT 1:4"/>Eles se casaram com mulheres moabitas: uma chamada Orfa e a outra Rute. Eles viveram ali por cerca de dez anos.
+<verse eid="RUT 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="RUT 1:5"/>Depois disso, Malom e Quiliom também morreram. Assim, Noemi ficou sem marido e sem filhos.
+<verse eid="RUT 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="RUT 1:6"/>Em Moabe, Noemi ficou sabendo que o SENHOR havia visitado seu povo e lhe dado alimento. Então decidiu ir embora de Moabe com suas noras.
+<verse eid="RUT 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="RUT 1:7"/>Ela saiu do lugar onde havia morado, e as duas noras a seguiram. Enquanto caminhavam de volta para a terra de Judá,
+<verse eid="RUT 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="RUT 1:8"/>Noemi disse às noras: “Voltem cada uma para a casa de sua mãe. Que o SENHOR seja bondoso com vocês, como vocês foram bondosas com os que morreram e comigo.
+<verse eid="RUT 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="RUT 1:9"/>Que o SENHOR conceda descanso a cada uma de vocês, na casa de um novo marido”. Depois disso, beijou-as. Então todas desabaram a chorar.
+<verse eid="RUT 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="RUT 1:10"/>As noras disseram: “Não. Nós voltaremos com você para o seu povo”.
+<verse eid="RUT 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="RUT 1:11"/>Noemi, no entanto, respondeu: “Voltem para a casa de vocês, minhas filhas. Por que viriam comigo? Por acaso ainda posso ter filhos que se tornem maridos para vocês?
+<verse eid="RUT 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="RUT 1:12"/>Voltem, minhas filhas. Sigam o caminho de vocês. Sou velha demais para me casar novamente. Mesmo que ainda houvesse esperança, e mesmo que eu me casasse hoje e tivesse filhos,
+<verse eid="RUT 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="RUT 1:13"/>vocês ficariam esperando até que eles crescessem? Ficariam sem se casar por causa disso? Não, minhas filhas. Minha dor é maior do que a de vocês, pois a mão do SENHOR se voltou contra mim”.
+<verse eid="RUT 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="RUT 1:14"/>Elas choraram novamente. Orfa deu um beijo de despedida na sogra, mas Rute permaneceu com Noemi.
+<verse eid="RUT 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="RUT 1:15"/>Então Noemi disse: “Veja, sua cunhada voltou para o povo e para os deuses dela. Volte você também com ela”.
+<verse eid="RUT 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="RUT 1:16"/>Rute respondeu: “Não me peça para deixá-la nem para me afastar de você. Aonde você for, eu irei. Onde você viver, eu viverei. Seu povo será o meu povo, e o seu Deus será o meu Deus.
+<verse eid="RUT 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="RUT 1:17"/>Onde você morrer, eu morrerei, e lá serei sepultada. Que o SENHOR me castigue severamente se algo, exceto a morte, nos separar”.
+<verse eid="RUT 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="RUT 1:18"/>Ao perceber que a decisão de Rute de acompanhá-la já estava tomada, Noemi deixou de insistir.
+<verse eid="RUT 1:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="RUT 1:19"/>As duas seguiram juntas até Belém. Quando chegaram lá, toda a cidade ficou agitada por causa delas. As mulheres queriam saber: “Esta é Noemi?”.
+<verse eid="RUT 1:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="RUT 1:20"/>Ela respondeu: “Não me chamem Noemi. Chamem-me Mara, pois o Todo-poderoso me tem dado uma vida muito amarga.
+<verse eid="RUT 1:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="RUT 1:21"/>Eu saí cheia, mas o SENHOR me trouxe de volta vazia. Por que vocês me chamam Noemi se ele se voltou contra mim e o Todo-Poderoso me trouxe sofrimento?”.
+<verse eid="RUT 1:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="RUT 1:22"/>Assim Noemi voltou da terra de Moabe com sua nora moabita Rute. As duas chegaram a Belém no início da colheita da cevada.
 <verse eid="RUT 1:22"/><verse eid="RUT 1:22"/></para>
   <chapter eid="RUT 1"/>
   <chapter number="2" style="c" sid="RUT 2"/>
   <para style="p"><verse number="1" style="v" sid="RUT 2:1"/>Elimeleque, marido de Noemi, tinha um parente chamado Boaz, homem rico e influente.
-<verse eid="RUT 2:1"/><verse number="2" style="v" sid="RUT 2:2"/>A moabita Rute disse a Noemi: "Vou ao campo, atrás de alguém que olhe para mim com favor e me deixe recolher as espigas que sobrarem". Noemi respondeu: "Pode ir, minha filha".
-<verse eid="RUT 2:2"/><verse number="3" style="v" sid="RUT 2:3"/>Rute foi e começou a recolher espigas atrás dos ceifeiros. Ela entrou num campo pertencente a Boaz, parente de Elimeleque.
-<verse eid="RUT 2:3"/><verse number="4" style="v" sid="RUT 2:4"/>Enquanto Rute estava nesse campo, Boaz chegou de Belém e saudou os ceifeiros: "Que o Senhor esteja com vocês". Eles responderam: "Que o Senhor o abençoe".
-<verse eid="RUT 2:4"/><verse number="5" style="v" sid="RUT 2:5"/>Logo Boaz perguntou ao encarregado dos trabalhadores: "Quem é aquela jovem? De quem ela é?".
-<verse eid="RUT 2:5"/><verse number="6" style="v" sid="RUT 2:6"/>O encarregado respondeu: "É a moabita que voltou com Noemi da terra de Moabe.
-<verse eid="RUT 2:6"/><verse number="7" style="v" sid="RUT 2:7"/>Ela perguntou se podia recolher espigas atrás dos ceifeiros, entre os feixes. Ela está trabalhando desde a manhã. Só descansou um pouco no abrigo".
-<verse eid="RUT 2:7"/><verse number="8" style="v" sid="RUT 2:8"/>Boaz disse a Rute: "Minha filha, não vá colher espigas em outro campo, nem se afaste daqui. Fique junto das moças que trabalham comigo.
-<verse eid="RUT 2:8"/><verse number="9" style="v" sid="RUT 2:9"/>Observe onde elas estão colhendo e vá atrás delas. Dei ordem aos homens para que não a incomodem. Quando tiver sede, beba da água que os servos tiraram".
-<verse eid="RUT 2:9"/><verse number="10" style="v" sid="RUT 2:10"/>Rute se inclinou, com o rosto em terra, e perguntou: "Por que o senhor está sendo tão bom para mim, a ponto de se importar comigo, sendo eu estrangeira?".
-<verse eid="RUT 2:10"/><verse number="11" style="v" sid="RUT 2:11"/>Boaz respondeu: "Contaram-me tudo o que você fez por sua sogra depois que seu marido morreu. Sei que deixou pai, mãe e terra natal para viver entre pessoas que não conhecia.
-<verse eid="RUT 2:11"/><verse number="12" style="v" sid="RUT 2:12"/>Que o SENHOR recompense o que você fez. Que você receba plena recompensa debaixo das asas do SENHOR, o Deus de Israel, onde você veio buscar abrigo”.
-<verse eid="RUT 2:12"/><verse number="13" style="v" sid="RUT 2:13"/>Ela disse: "Que o senhor possa continuar a ser bom para mim, pois me consolou e falou ao meu coração, embora eu não seja nem mesmo uma de suas servas".
-<verse eid="RUT 2:13"/><verse number="14" style="v" sid="RUT 2:14"/>Boaz lhe disse à hora da refeição: "Aproxime-se, coma do pão e molhe-o no vinagre". Rute sentou-se perto dos ceifeiros, e Boaz lhe serviu grãos tostados. Ela comeu até se fartar, e ainda sobrou.
-<verse eid="RUT 2:14"/><verse number="15" style="v" sid="RUT 2:15"/>Quando ela voltou a recolher espigas, Boaz ordenou aos seus servos: "Deixem que ela recolha até mesmo entre os feixes; não a repreendam.
-<verse eid="RUT 2:15"/><verse number="16" style="v" sid="RUT 2:16"/>Tirem de propósito algumas espigas dos feixes e deixem-nas cair para que ela as recolha. Não a impeçam".
-<verse eid="RUT 2:16"/><verse number="17" style="v" sid="RUT 2:17"/>Rute colheu no campo até o entardecer. Depois debulhou a cevada que havia recolhido e encheu quase um cesto.<char style="em" closed="true">quase um cesto: </char>Nos originais,&amp;nbsp;<char style="em" closed="true">quase um efa</char>. O <char style="em" closed="true">efa</char> era uma medida de capacidade para secos usada em Israel, equivalente a aproximadamente 20–40 litros. Para alguém que recolhia espigas manualmente, essa quantidade era considerada grande e indicava fartura." class="footnote-marker"&gt;1
-<verse eid="RUT 2:17"/><verse number="18" style="v" sid="RUT 2:18"/>Levou tudo para a cidade e mostrou à sogra quanto havia apanhado. Também lhe entregou o alimento que havia sobrado da refeição.
-<verse eid="RUT 2:18"/><verse number="19" style="v" sid="RUT 2:19"/>Noemi perguntou: "Onde você colheu hoje? Onde trabalhou? Que seja abençoado aquele que foi bondoso com você". Então Rute contou à sogra com quem tinha trabalhado: "O dono do campo onde colhi se chama Boaz".
-<verse eid="RUT 2:19"/><verse number="20" style="v" sid="RUT 2:20"/>Noemi disse à nora: "Que o SENHOR o abençoe, pois não deixou de ser bondoso nem com os vivos nem com os mortos. Esse homem é nosso parente próximo; ele é um dos nossos resgatadores".<char style="em" closed="true">resgatadores: </char>Parentes próximos que, segundo a lei de Israel, tinham o direito — e em certos casos a responsabilidade — de proteger os membros vulneráveis da família. Isso podia incluir resgatar propriedades vendidas, defender os direitos familiares e assegurar a continuidade do nome da família por meio do casamento.﻿" class="footnote-marker"&gt;1
-<verse eid="RUT 2:20"/><verse number="21" style="v" sid="RUT 2:21"/>A moabita Rute acrescentou: “Ele também me disse que eu podia ficar com os ceifeiros dele até o fim da colheita".
-<verse eid="RUT 2:21"/><verse number="22" style="v" sid="RUT 2:22"/>Noemi respondeu: "É melhor assim, minha filha. Fique com as servas dele. Assim ninguém irá maltratá-la em outro campo".
-<verse eid="RUT 2:22"/><verse number="23" style="v" sid="RUT 2:23"/>Rute permaneceu com as servas de Boaz, recolhendo espigas até o fim das colheitas da cevada e do trigo. Nesse período, continuou a morar com a sogra.
+<verse eid="RUT 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="RUT 2:2"/>A moabita Rute disse a Noemi: “Vou ao campo, atrás de alguém que olhe para mim com favor e me deixe recolher as espigas que sobrarem”. Noemi respondeu: “Pode ir, minha filha”.
+<verse eid="RUT 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="RUT 2:3"/>Rute foi e começou a recolher espigas atrás dos ceifeiros. Ela entrou num campo pertencente a Boaz, parente de Elimeleque.
+<verse eid="RUT 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="RUT 2:4"/>Enquanto Rute estava nesse campo, Boaz chegou de Belém e saudou os ceifeiros: “Que o SENHOR esteja com vocês”. Eles responderam: “Que o SENHOR abençoe você”.
+<verse eid="RUT 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="RUT 2:5"/>Logo Boaz perguntou ao encarregado dos trabalhadores: “Quem é aquela jovem? De quem ela é?”.
+<verse eid="RUT 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="RUT 2:6"/>O encarregado respondeu: “É a moabita que voltou com Noemi da terra de Moabe.
+<verse eid="RUT 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="RUT 2:7"/>Ela me pediu permissão para seguir atrás dos ceifeiros, recolhendo as espigas que fossem caindo no chão. Está trabalhando desde a manhã. Só descansou um pouco no abrigo”.
+<verse eid="RUT 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="RUT 2:8"/>Boaz disse a Rute: “Minha filha, não vá colher espigas em outro campo. Fique aqui e trabalhe com as minhas moças.
+<verse eid="RUT 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="RUT 2:9"/>Observe onde elas estão colhendo e vá atrás delas. Dei ordem aos homens para que não a incomodem. Quando tiver sede, beba da água que os servos tiraram”.
+<verse eid="RUT 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="RUT 2:10"/>Rute se inclinou, com o rosto em terra, e perguntou: “Por que o senhor está sendo tão bom para mim, a ponto de se importar comigo, sendo eu estrangeira?”.
+<verse eid="RUT 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="RUT 2:11"/>Boaz respondeu: “Contaram-me tudo o que você fez por sua sogra depois que seu marido morreu. Sei que deixou seu pai, sua mãe e sua terra natal para viver entre pessoas que não conhecia.
+<verse eid="RUT 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="RUT 2:12"/>Que o SENHOR recompense tudo o que você fez. Que você receba plena recompensa do SENHOR, o Deus de Israel, sob quem você veio buscar proteção”.
+<verse eid="RUT 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="RUT 2:13"/>Ela disse: “Que o senhor possa continuar a ser bom para mim, pois me consolou e falou ao meu coração, embora eu não seja nem mesmo uma de suas servas”.
+<verse eid="RUT 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="RUT 2:14"/>Boaz disse na hora da refeição: “Aproxime-se, coma do pão e molhe-o no vinagre”. Rute sentou-se com os ceifeiros, e ele lhe serviu grãos tostados. Ela comeu até ficar satisfeita, e ainda sobrou.
+<verse eid="RUT 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="RUT 2:15"/>Quando ela voltou a recolher espigas, Boaz ordenou aos seus servos: “Deixem que ela recolha até mesmo entre os feixes; não a repreendam.
+<verse eid="RUT 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="RUT 2:16"/>Tirem de propósito algumas espigas dos feixes e deixem-nas cair para que ela recolha. Não a impeçam”.
+<verse eid="RUT 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="RUT 2:17"/>Rute colheu no campo até o entardecer. Depois debulhou a cevada que havia recolhido e encheu quase um cesto.<note style="f" caller="+"> <char style="fk" closed="false">quase um cesto: </char><char style="ft" closed="false">Nos originais, <char style="it" closed="true">quase um efa</char>. O <char style="it" closed="true">efa</char> era uma medida de capacidade para secos usada em Israel, equivalente a aproximadamente 20–40 litros. Para alguém que recolhia espigas manualmente, essa quantidade era considerada grande e indicava fartura.</char></note>
+<verse eid="RUT 2:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="RUT 2:18"/>Levou tudo para a cidade e mostrou à sogra quanto havia apanhado. Também lhe entregou o alimento que havia sobrado da refeição.
+<verse eid="RUT 2:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="RUT 2:19"/>Noemi perguntou: “Onde você colheu hoje? Onde trabalhou? Que seja abençoado aquele que foi bom para você”. Então Rute contou à sogra com quem tinha trabalhado: “O dono do campo onde colhi se chama Boaz”.
+<verse eid="RUT 2:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="RUT 2:20"/>Noemi disse: “Que o SENHOR o abençoe, pois ele não deixou de ser bom com os vivos nem com os mortos. Esse homem é nosso parente próximo; ele é um dos nossos resgatadores”.<note style="f" caller="+"> <char style="fk" closed="false">resgatadores: </char><char style="ft" closed="false">Parentes próximos que, segundo a lei de Israel, tinham o direito — e em certos casos a responsabilidade — de proteger os membros vulneráveis da família. Isso podia incluir resgatar propriedades vendidas, defender os direitos familiares e assegurar a continuidade do nome da família por meio do casamento.</char></note>
+<verse eid="RUT 2:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="RUT 2:21"/>A moabita Rute acrescentou: “Ele também me disse que eu podia continuar a recolher espigas junto aos seus trabalhadores até o fim de toda a colheita”.
+<verse eid="RUT 2:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="RUT 2:22"/>Noemi respondeu: “É melhor assim, minha filha. Fique com as empregadas dele. Assim ninguém irá maltratá-la em outro campo”.
+<verse eid="RUT 2:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="RUT 2:23"/>Rute permaneceu com as servas de Boaz, recolhendo espigas até o fim das colheitas da cevada e do trigo. Nesse período, continuou a morar com a sogra.
 <verse eid="RUT 2:23"/><verse eid="RUT 2:23"/></para>
   <chapter eid="RUT 2"/>
   <chapter number="3" style="c" sid="RUT 3"/>
-  <para style="p"><verse number="1" style="v" sid="RUT 3:1"/>Noemi perguntou a Rute: "Minha filha, não devo buscar para você um lugar seguro, onde possa ser feliz?
-<verse eid="RUT 3:1"/><verse number="2" style="v" sid="RUT 3:2"/>Boaz, o dono do campo em que você trabalhou com as servas dele, é nosso parente próximo. Ele estará na eira, debulhando a cevada, hoje à noite.
-<verse eid="RUT 3:2"/><verse number="3" style="v" sid="RUT 3:3"/>Faça o seguinte: tome banho, passe perfume e coloque a melhor roupa que você tiver. Depois vá até a eira e só apareça para ele depois que ele tiver terminado a refeição.
-<verse eid="RUT 3:3"/><verse number="4" style="v" sid="RUT 3:4"/>Observe bem onde ele vai se deitar. Então se aproxime e se deite aos pés dele. Ele lhe dirá o que deve fazer".
-<verse eid="RUT 3:4"/><verse number="5" style="v" sid="RUT 3:5"/>Rute respondeu: "Farei tudo o que você disse".
-<verse eid="RUT 3:5"/><verse number="6" style="v" sid="RUT 3:6"/>Então, ela desceu à eira e fez exatamente como sua sogra havia sugerido.
-<verse eid="RUT 3:6"/><verse number="7" style="v" sid="RUT 3:7"/>Terminada a refeição, Boaz, satisfeito, foi se deitar junto a um monte de grãos. Então, Rute se aproximou sem fazer nenhum barulho, descobriu os pés dele e se deitou.
-<verse eid="RUT 3:7"/><verse number="8" style="v" sid="RUT 3:8"/>Era quase meia-noite quando Boaz despertou, assustado, virou-se e percebeu uma mulher deitada aos seus pés.
-<verse eid="RUT 3:8"/><verse number="9" style="v" sid="RUT 3:9"/>Ele perguntou: "Quem é você?". Ela respondeu: "Sou Rute, sua serva. Estenda a sua capa sobre mim, pois o senhor é  resgatador da minha família".
-<verse eid="RUT 3:9"/><verse number="10" style="v" sid="RUT 3:10"/>Boaz disse: "Que o SENHOR a abençoe, minha filha. Agora você mostrou ser ainda mais leal do que antes, pois não foi atrás de homens mais jovens, nem ricos nem pobres.
-<verse eid="RUT 3:10"/><verse number="11" style="v" sid="RUT 3:11"/>Não tenha medo, minha filha. Farei tudo o que você pediu, pois a cidade inteira sabe que você é uma mulher de caráter íntegro.
-<verse eid="RUT 3:11"/><verse number="12" style="v" sid="RUT 3:12"/>É verdade que sou resgatador de vocês, mas existe um parente mais próximo do que eu.
-<verse eid="RUT 3:12"/><verse number="13" style="v" sid="RUT 3:13"/>Passe a noite aqui. Pela manhã, se ele quiser exercer o direito de resgate, que o faça; mas, se não quiser, tão certo como o SENHOR vive, eu mesmo a resgatarei. Fique deitada aqui até amanhecer".
-<verse eid="RUT 3:13"/><verse number="14" style="v" sid="RUT 3:14"/>Rute permaneceu deitada aos pés dele até o dia seguinte, mas se levantou antes de clarear, pois Boaz havia dito: "Ninguém pode saber que havia uma mulher na eira".
-<verse eid="RUT 3:14"/><verse number="15" style="v" sid="RUT 3:15"/>E acrescentou: "Traga a capa que você está usando e segure-a". Boaz colocou seis medidas<char style="em" closed="true">seis&amp;nbsp;medidas: </char> Aproximadamente 20-22 litros." class="footnote-marker"&gt;1 de cevada sobre a capa e a pôs sobre os ombros de Rute. Depois, ela voltou para a cidade.
-<verse eid="RUT 3:15"/><verse number="16" style="v" sid="RUT 3:16"/>Quando Rute chegou à casa de sua sogra, Noemi perguntou: "E então? O que aconteceu, minha filha?". Rute contou tudo o que Boaz havia feito.
-<verse eid="RUT 3:16"/><verse number="17" style="v" sid="RUT 3:17"/>E disse ainda: "Ele me deu esta cevada, dizendo: 'Você não vai chegar à casa de sua sogra de mãos vazias'".
-<verse eid="RUT 3:17"/><verse number="18" style="v" sid="RUT 3:18"/>Então Noemi comentou: "Fique tranquila, minha filha, até sabermos como ficarão as coisas. Aquele homem não descansará até que essa questão esteja resolvida. E será ainda hoje".
+  <para style="p"><verse number="1" style="v" sid="RUT 3:1"/>Noemi perguntou a Rute: “Minha filha, devo procurar para você um lugar seguro, onde você possa viver bem?
+<verse eid="RUT 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="RUT 3:2"/>Boaz, o dono do campo em que você trabalhou com as servas dele, é nosso parente próximo. Ele estará na eira, debulhando a cevada, hoje à noite.
+<verse eid="RUT 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="RUT 3:3"/>Faça o seguinte: tome banho, passe perfume e coloque sua melhor roupa. Depois vá até a eira e não se aproxime dele antes que ele termine de comer.
+<verse eid="RUT 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="RUT 3:4"/>Observe bem onde ele vai se deitar. Então se aproxime e se deite aos pés dele. Ele lhe dirá o que deve fazer”.
+<verse eid="RUT 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="RUT 3:5"/>Rute respondeu: “Farei tudo o que você disse”.
+<verse eid="RUT 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="RUT 3:6"/>Então, ela desceu à eira e fez exatamente como sua sogra havia sugerido.
+<verse eid="RUT 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="RUT 3:7"/>Depois da refeição, Boaz, satisfeito, foi dormir ao lado do monte de grãos. Rute se aproximou em silêncio, descobriu os pés dele e se deitou.
+<verse eid="RUT 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="RUT 3:8"/>Era quase meia-noite quando Boaz despertou, assustado, virou-se e percebeu uma mulher deitada aos seus pés.
+<verse eid="RUT 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="RUT 3:9"/>Ele perguntou: “Quem é você?”. Ela respondeu: “Sou Rute, sua serva. Estenda sua capa sobre mim, pois o senhor é o nosso resgatador de família”.
+<verse eid="RUT 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="RUT 3:10"/>Boaz disse: “Que o SENHOR abençoe você, minha filha. Agora você mostrou ser ainda mais leal do que antes, pois não foi atrás de homens mais jovens, nem ricos nem pobres.
+<verse eid="RUT 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="RUT 3:11"/>Não tenha medo, minha filha. Farei tudo o que você pediu, pois a cidade inteira sabe que você é uma mulher de caráter íntegro.
+<verse eid="RUT 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="RUT 3:12"/>É verdade que sou resgatador da família de vocês, mas existe outro parente mais próximo do que eu.
+<verse eid="RUT 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="RUT 3:13"/>Passe a noite aqui. Pela manhã, se ele quiser exercer o direito de resgate, que o faça; mas, se não quiser, tão certo como o SENHOR vive, eu mesmo a resgatarei. Fique deitada aqui até amanhecer”.
+<verse eid="RUT 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="RUT 3:14"/>Rute ficou deitada aos pés dele até de manhã, mas levantou-se antes do amanhecer, pois Boaz tinha dito: “Ninguém deve saber que houve uma mulher aqui na eira”.
+<verse eid="RUT 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="RUT 3:15"/>E acrescentou: “Traga a capa que você está usando e segure-a”. Boaz colocou cerca de seis medidas<note style="f" caller="+"> <char style="fk" closed="false">seis medidas: </char><char style="ft" closed="false"><char style="it" closed="true"/>Aproximadamente 20-22 litros.</char></note> de cevada na capa e a colocou sobre os ombros de Rute. Depois ela voltou para a cidade.
+<verse eid="RUT 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="RUT 3:16"/>Quando Rute chegou à casa de sua sogra, Noemi perguntou: “E então? O que aconteceu, minha filha?”. Rute contou tudo o que Boaz havia feito.
+<verse eid="RUT 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="RUT 3:17"/>E disse ainda: “Ele me deu esta cevada, dizendo: ‘Você não vai chegar à casa de sua sogra de mãos vazias’”.
+<verse eid="RUT 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="RUT 3:18"/>Então Noemi comentou: “Fique tranquila, minha filha, até sabermos como ficarão as coisas. Aquele homem não descansará até que essa questão esteja resolvida. E será ainda hoje”.
 <verse eid="RUT 3:18"/><verse eid="RUT 3:18"/></para>
   <chapter eid="RUT 3"/>
   <chapter number="4" style="c" sid="RUT 4"/>
-  <para style="p"><verse number="1" style="v" sid="RUT 4:1"/>Boaz foi se sentar à porta da cidade quando o parente resgatador de quem ele havia falado passou. Boaz o chamou: "Fulano, venha se sentar aqui um momento". O homem se aproximou e se sentou.
-<verse eid="RUT 4:1"/><verse number="2" style="v" sid="RUT 4:2"/>Boaz chamou dez autoridades da cidade e disse: "Sentem-se aqui". E elas se sentaram.
-<verse eid="RUT 4:2"/><verse number="3" style="v" sid="RUT 4:3"/>Boaz disse ao resgatador: "Noemi, que voltou da terra de Moabe, colocou à disposição para resgate a parte da terra que era do nosso parente Elimeleque.
-<verse eid="RUT 4:3"/><verse number="4" style="v" sid="RUT 4:4"/>Resolvi falar com você sobre isso e pedir, na presença dos que estão sentados aqui e de todo o povo, que você compre essa terra. Se quiser exercer o direito de resgate, faça isso; se não quiser, diga-me, para que eu o saiba, pois não há outro com esse direito antes de você, e depois de você sou eu". O homem respondeu: "Eu comprarei a terra".
-<verse eid="RUT 4:4"/><verse number="5" style="v" sid="RUT 4:5"/>Em seguida, Boaz disse ao homem: "No dia em que você resgatar a terra das mãos de Noemi, também deverá assumir Rute, a viúva moabita de Malom, como esposa, para preservar o nome do falecido sobre a sua herança".
-<verse eid="RUT 4:5"/><verse number="6" style="v" sid="RUT 4:6"/>O resgatador respondeu: "Nesse caso, não posso exercer o resgate, pois isso prejudicaria a minha própria herança. Exerça você o meu direito, porque eu não posso fazer isso".
-<verse eid="RUT 4:6"/><verse number="7" style="v" sid="RUT 4:7"/>Antigamente, em Israel, para confirmar resgates e transações, a pessoa tirava a sandália e a entregava à outra em público. Assim se validavam os acordos.
-<verse eid="RUT 4:7"/><verse number="8" style="v" sid="RUT 4:8"/>Então o resgatador disse a Boaz: "Adquira você a terra", e tirou a sandália.
-<verse eid="RUT 4:8"/><verse number="9" style="v" sid="RUT 4:9"/>Boaz declarou às autoridades e a todo o povo que ali estavam: "Vocês hoje são testemunhas de que comprei de Noemi tudo o que era de Elimeleque, de Quiliom e de Malom.
-<verse eid="RUT 4:9"/><verse number="10" style="v" sid="RUT 4:10"/>Também tomo por esposa Rute, a viúva moabita de Malom, para preservar o nome do falecido sobre a sua herança, a fim de que seu nome não desapareça dentre seus parentes nem da porta da sua cidade. Vocês são hoje testemunhas disso".
-<verse eid="RUT 4:10"/><verse number="11" style="v" sid="RUT 4:11"/>Então todo o povo que estava à porta, junto com as autoridades, respondeu: "Somos testemunhas! Que o SENHOR faça a esta mulher, que entra na sua casa, como fez a Raquel e a Lia, que edificaram a casa de Israel! Que você seja forte em Efrata e tenha nome ilustre em Belém!
-<verse eid="RUT 4:11"/><verse number="12" style="v" sid="RUT 4:12"/>Que, por meio dos descendentes que o SENHOR lhe der com esta jovem, a sua casa seja como a de Perez, que Tamar deu a Judá!".
-<verse eid="RUT 4:12"/><verse number="13" style="v" sid="RUT 4:13"/>Então, Boaz tomou Rute por esposa. Ele se uniu a ela, e o SENHOR permitiu que ela concebesse e desse à luz um filho.
-<verse eid="RUT 4:13"/><verse number="14" style="v" sid="RUT 4:14"/>As mulheres disseram a Noemi: "Bendito seja o SENHOR, que hoje não a deixou sem resgatador. Que o nome desse menino seja celebrado em Israel!
-<verse eid="RUT 4:14"/><verse number="15" style="v" sid="RUT 4:15"/>Ele renovará as suas forças e a sustentará na velhice, pois é filho da sua nora, que a ama e tem sido para você melhor do que sete filhos".
-<verse eid="RUT 4:15"/><verse number="16" style="v" sid="RUT 4:16"/>Noemi colocou o menino no colo e passou a cuidar dele.
-<verse eid="RUT 4:16"/><verse number="17" style="v" sid="RUT 4:17"/>As vizinhas diziam: "Nasceu um filho para Noemi!", e o chamaram de Obede. Ele é o pai de Jessé e o avô de Davi.
-<verse eid="RUT 4:17"/><verse number="18" style="v" sid="RUT 4:18"/>Segue a genealogia de Perez: Perez foi pai de Hezrom;
-<verse eid="RUT 4:18"/><verse number="19" style="v" sid="RUT 4:19"/>Hezrom foi pai de Rão que, por sua vez, foi pai de Aminadabe;
-<verse eid="RUT 4:19"/><verse number="20" style="v" sid="RUT 4:20"/>Aminadabe foi pai de Naassom que, por sua vez, foi pai de Salmom;
-<verse eid="RUT 4:20"/><verse number="21" style="v" sid="RUT 4:21"/>Salmom foi pai de Boaz que, por sua vez, foi pai de Obede;
-<verse eid="RUT 4:21"/><verse number="22" style="v" sid="RUT 4:22"/>Obede foi pai de Jessé que, por sua vez, foi pai de Davi.
+  <para style="p"><verse number="1" style="v" sid="RUT 4:1"/>Boaz foi se sentar à porta da cidade quando o parente resgatador de quem ele havia falado passou. Boaz o chamou: “Amigo, sente-se aqui um pouquinho”. O homem se aproximou e se sentou.
+<verse eid="RUT 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="RUT 4:2"/>Boaz chamou dez autoridades da cidade e disse: “Sentem-se aqui”. E elas se sentaram.
+<verse eid="RUT 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="RUT 4:3"/>Boaz disse ao resgatador: “Noemi, que voltou da terra de Moabe, está oferecendo para resgate a parte da terra que pertencia ao nosso parente Elimeleque.
+<verse eid="RUT 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="RUT 4:4"/>Resolvi falar com você sobre isso, na presença dos que estão aqui e de todo o povo, para que você compre essa terra. Se quiser exercer o direito, faça isso; se não quiser, diga-me, para que eu saiba, pois você é o primeiro na ordem de resgate, e depois de você venho eu”. O homem respondeu: “Eu comprarei a terra”.
+<verse eid="RUT 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="RUT 4:5"/>Então Boaz disse ao homem: “No dia em que você comprar a terra de Noemi, também deverá casar-se com Rute, a viúva moabita de Malom, para manter o nome do falecido ligado à sua herança”.
+<verse eid="RUT 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="RUT 4:6"/>O resgatador respondeu: “Nesse caso, não posso exercer o resgate, pois isso prejudicaria a minha própria herança. Exerça você o meu direito, porque eu não posso fazer isso”.
+<verse eid="RUT 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="RUT 4:7"/>Antigamente em Israel, para confirmar um resgate ou uma compra, a pessoa tirava a sandália e a entregava à outra em público. Assim o acordo era confirmado.
+<verse eid="RUT 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="RUT 4:8"/>Então o resgatador disse a Boaz: “Adquira você a terra”, e tirou a sandália.
+<verse eid="RUT 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="RUT 4:9"/>Boaz declarou às autoridades e a todo o povo que ali estavam: “Vocês hoje são testemunhas de que comprei de Noemi tudo o que era de Elimeleque, de Quiliom e de Malom.
+<verse eid="RUT 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="RUT 4:10"/>Também estou tomando como esposa Rute, a viúva moabita de Malom, para manter o nome do falecido ligado à sua herança, e para que seu nome não desapareça entre seus parentes nem da porta da sua cidade. Vocês são testemunhas disso hoje”.
+<verse eid="RUT 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="RUT 4:11"/>Então todo o povo que estava à porta, junto com as autoridades, respondeu: “Somos testemunhas! Que o SENHOR faça a essa mulher que está entrando na sua família o mesmo que fez a Raquel e Lia, que juntas edificaram as tribos de Israel. E que você tenha força e prestígio em Efrata e seja lembrado com honra em Belém.
+<verse eid="RUT 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="RUT 4:12"/>Que, por meio dos descendentes que o SENHOR lhe der com esta jovem, sua casa seja como a de Perez, filho de Tamar e Judá!”.
+<verse eid="RUT 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="RUT 4:13"/>Então, Boaz tomou Rute por esposa. Ele se uniu a ela, e o SENHOR permitiu que ela concebesse e desse à luz um filho.
+<verse eid="RUT 4:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="RUT 4:14"/>As mulheres disseram a Noemi: “Bendito seja o SENHOR, que hoje não a deixou sem resgatador. Que o nome desse menino seja celebrado em Israel!
+<verse eid="RUT 4:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="RUT 4:15"/>Ele renovará suas forças e cuidará de você na velhice, pois ele é filho da sua nora, que a ama e foi melhor para você do que sete filhos”.
+<verse eid="RUT 4:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="RUT 4:16"/>Noemi colocou o menino no colo e passou a cuidar dele.
+<verse eid="RUT 4:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="RUT 4:17"/>As vizinhas diziam: “Nasceu um filho para Noemi!”. E o chamaram de Obede. Ele foi o pai de Jessé e avô de Davi.
+<verse eid="RUT 4:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="RUT 4:18"/>Segue a genealogia de Perez: Perez foi pai de Hezrom;
+<verse eid="RUT 4:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="RUT 4:19"/>Hezrom foi pai de Rão que, por sua vez, foi pai de Aminadabe;
+<verse eid="RUT 4:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="RUT 4:20"/>Aminadabe foi pai de Naassom que, por sua vez, foi pai de Salmom;
+<verse eid="RUT 4:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="RUT 4:21"/>Salmom foi pai de Boaz que, por sua vez, foi pai de Obede;
+<verse eid="RUT 4:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="RUT 4:22"/>Obede foi pai de Jessé que, por sua vez, foi pai de Davi.
 <verse eid="RUT 4:22"/></para>
   <chapter eid="RUT 4"/>
 </usx>

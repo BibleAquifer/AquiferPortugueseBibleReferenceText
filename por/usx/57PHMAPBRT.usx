@@ -1,41 +1,65 @@
 <usx version="3.1">
-  <book code="PHM" style="id">EN</book>
-  <para style="h">Philemon
+  <book code="PHM" style="id">phm PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Filemom
 </para>
-  <para style="toc1">Philemon
+  <para style="toc1">Filemom
 </para>
-  <para style="toc2">Philemon
+  <para style="toc2">Filemom
 </para>
-  <para style="toc3">PHM
+  <para style="toc3">Fm
 </para>
-  <para style="mt1">Philemon
+  <para style="mt1">Filemom
 </para>
   <chapter number="1" style="c" sid="PHM 1"/>
   <para style="p"><verse number="1" style="v" sid="PHM 1:1"/>Paulo, prisioneiro por causa de Cristo Jesus, e o irmão Timóteo, a você, Filemom, nosso querido amigo e cooperador,
-<verse eid="PHM 1:1"/><verse number="2" style="v" sid="PHM 1:2"/>e à igreja que se reúne em sua casa; também à nossa irmã Áfia e ao nosso companheiro de luta Arquipo.
-<verse eid="PHM 1:2"/><verse number="3" style="v" sid="PHM 1:3"/>Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
-<verse eid="PHM 1:3"/><verse number="4" style="v" sid="PHM 1:4"/>Agradeço ao meu Deus, sempre orando por você,
-<verse eid="PHM 1:4"/><verse number="5" style="v" sid="PHM 1:5"/>pois ouço falar de sua fé no Senhor Jesus e de seu amor por todo o povo de Deus.
-<verse eid="PHM 1:5"/><verse number="6" style="v" sid="PHM 1:6"/>Oro para que a comunhão que nasce da sua fé tenha força e produza fruto. Oro para que esse fruto traga pleno conhecimento de todo o bem que recebemos em Cristo.
-<verse eid="PHM 1:6"/><verse number="7" style="v" sid="PHM 1:7"/>Recebi grande alegria e consolo por causa de seu amor, pois o amor que você tem, irmão, trouxe descanso ao coração dos santos.
-<verse eid="PHM 1:7"/><verse number="8" style="v" sid="PHM 1:8"/>Por isso, embora eu tenha plena liberdade em Cristo para lhe ordenar o que convém,
-<verse eid="PHM 1:8"/><verse number="9" style="v" sid="PHM 1:9"/>prefiro fazer um pedido baseado no amor. Eu, Paulo, já idoso e agora prisioneiro de Cristo Jesus,
-<verse eid="PHM 1:9"/><verse number="10" style="v" sid="PHM 1:10"/>apelo a você por meu filho Onésimo, de quem me tornei pai enquanto estava preso.
-<verse eid="PHM 1:10"/><verse number="11" style="v" sid="PHM 1:11"/>Ele, que antes era inútil para você, agora é útil tanto para você quanto para mim.
-<verse eid="PHM 1:11"/><verse number="12" style="v" sid="PHM 1:12"/>Estou enviando-o de volta a você, como se fosse o meu próprio coração.
-<verse eid="PHM 1:12"/><verse number="13" style="v" sid="PHM 1:13"/>Eu queria mantê-lo ao meu lado, pois sigo preso por anunciar o evangelho, e assim você me ajudaria por meio dele.
-<verse eid="PHM 1:13"/><verse number="14" style="v" sid="PHM 1:14"/>mas não quis fazer nada sem sua permissão, para que sua bondade não fosse por obrigação, mas espontânea.
-<verse eid="PHM 1:14"/><verse number="15" style="v" sid="PHM 1:15"/>Ele pode ter se afastado de você por um tempo, para que o recebesse de volta para sempre,
-<verse eid="PHM 1:15"/><verse number="16" style="v" sid="PHM 1:16"/>não mais como escravo, mas muito mais do que isso: como um irmão amado — especialmente para mim, e quanto mais para você, tanto como ser humano quanto no Senhor.
-<verse eid="PHM 1:16"/><verse number="17" style="v" sid="PHM 1:17"/>Portanto, se você me considera seu companheiro, receba-o como se fosse a mim mesmo.
-<verse eid="PHM 1:17"/><verse number="18" style="v" sid="PHM 1:18"/>Mas, se ele lhe causou algum prejuízo ou lhe deve algo, coloque isso na minha conta.
-<verse eid="PHM 1:18"/><verse number="19" style="v" sid="PHM 1:19"/>Eu, Paulo, escrevo isto com minha própria mão: eu pagarei, para não dizer que você também me deve sua própria vida.
-<verse eid="PHM 1:19"/><verse number="20" style="v" sid="PHM 1:20"/>Sim, irmão, faça-me esse favor no Senhor e traga alegria ao meu coração em Cristo.
-<verse eid="PHM 1:20"/><verse number="21" style="v" sid="PHM 1:21"/>Eu lhe escrevo com confiança em sua obediência, certo de que você fará até mais do que estou pedindo.
-<verse eid="PHM 1:21"/><verse number="22" style="v" sid="PHM 1:22"/>E prepare também um lugar para eu ficar, pois espero que, por meio das orações de vocês, eu possa voltar a vê-los.
-<verse eid="PHM 1:22"/><verse number="23" style="v" sid="PHM 1:23"/>Epafras, meu companheiro de prisão por anunciar Cristo Jesus, envia saudações.
-<verse eid="PHM 1:23"/><verse number="24" style="v" sid="PHM 1:24"/>Assim também Marcos, Aristarco, Demas e Lucas, meus cooperadores.
-<verse eid="PHM 1:24"/><verse number="25" style="v" sid="PHM 1:25"/>Que a graça do Senhor Jesus Cristo esteja com o espírito de vocês.
+<verse eid="PHM 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="PHM 1:2"/>e à igreja que se reúne em sua casa; também à nossa irmã Áfia e ao nosso companheiro de luta Arquipo.
+<verse eid="PHM 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="PHM 1:3"/>Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
+<verse eid="PHM 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="PHM 1:4"/>Agradeço ao meu Deus, sempre orando por você,
+<verse eid="PHM 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="PHM 1:5"/>pois ouço falar de sua fé no Senhor Jesus e de seu amor por todo o povo de Deus.
+<verse eid="PHM 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="PHM 1:6"/>Oro para que a comunhão que nasce da sua fé tenha força e produza fruto. Oro para que esse fruto traga pleno conhecimento de todo o bem que recebemos em Cristo.
+<verse eid="PHM 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="PHM 1:7"/>Recebi grande alegria e consolo por causa de seu amor, pois o amor que você tem, irmão, trouxe descanso ao coração dos santos.
+<verse eid="PHM 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="PHM 1:8"/>Por isso, embora eu tenha plena liberdade em Cristo para lhe ordenar o que convém,
+<verse eid="PHM 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="PHM 1:9"/>prefiro fazer um pedido baseado no amor. Eu, Paulo, já idoso e agora prisioneiro de Cristo Jesus,
+<verse eid="PHM 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="PHM 1:10"/>apelo a você por meu filho Onésimo, de quem me tornei pai enquanto estava preso.
+<verse eid="PHM 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="PHM 1:11"/>Ele, que antes era inútil para você, agora é útil tanto para você quanto para mim.
+<verse eid="PHM 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="PHM 1:12"/>Estou enviando-o de volta a você, como se fosse o meu próprio coração.
+<verse eid="PHM 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="PHM 1:13"/>Eu queria mantê-lo ao meu lado, pois sigo preso por anunciar o evangelho, e assim você me ajudaria por meio dele.
+<verse eid="PHM 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="PHM 1:14"/>mas não quis fazer nada sem sua permissão, para que sua bondade não fosse por obrigação, mas espontânea.
+<verse eid="PHM 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="PHM 1:15"/>Ele pode ter se afastado de você por um tempo, para que o recebesse de volta para sempre,
+<verse eid="PHM 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="PHM 1:16"/>não mais como escravo, mas muito mais do que isso: como um irmão amado — especialmente para mim, e quanto mais para você, tanto como ser humano quanto no Senhor.
+<verse eid="PHM 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="PHM 1:17"/>Portanto, se você me considera seu companheiro, receba-o como se fosse a mim mesmo.
+<verse eid="PHM 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="PHM 1:18"/>Mas, se ele lhe causou algum prejuízo ou lhe deve algo, coloque isso na minha conta.
+<verse eid="PHM 1:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="PHM 1:19"/>Eu, Paulo, escrevo isto com minha própria mão: eu pagarei, para não dizer que você também me deve sua própria vida.
+<verse eid="PHM 1:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="PHM 1:20"/>Sim, irmão, faça-me esse favor no Senhor e traga alegria ao meu coração em Cristo.
+<verse eid="PHM 1:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="PHM 1:21"/>Eu lhe escrevo com confiança em sua obediência, certo de que você fará até mais do que estou pedindo.
+<verse eid="PHM 1:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="PHM 1:22"/>E prepare também um lugar para eu ficar, pois espero que, por meio das orações de vocês, eu possa voltar a vê-los.
+<verse eid="PHM 1:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="PHM 1:23"/>Epafras, meu companheiro de prisão por anunciar Cristo Jesus, envia saudações.
+<verse eid="PHM 1:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="PHM 1:24"/>Assim também Marcos, Aristarco, Demas e Lucas, meus cooperadores.
+<verse eid="PHM 1:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="PHM 1:25"/>Que a graça do Senhor Jesus Cristo esteja com o espírito de vocês.
 <verse eid="PHM 1:25"/></para>
   <chapter eid="PHM 1"/>
 </usx>

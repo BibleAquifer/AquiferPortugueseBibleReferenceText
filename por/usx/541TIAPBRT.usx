@@ -1,144 +1,251 @@
 <usx version="3.1">
-  <book code="1TI" style="id">EN</book>
-  <para style="h">1 Timothy
+  <book code="1TI" style="id">1ti PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">1 Timóteo
 </para>
-  <para style="toc1">1 Timothy
+  <para style="toc1">1 Timóteo
 </para>
-  <para style="toc2">1 Timothy
+  <para style="toc2">1 Timóteo
 </para>
-  <para style="toc3">1TI
+  <para style="toc3">1 Tm
 </para>
-  <para style="mt1">1 Timothy
+  <para style="mt1">1 Timóteo
 </para>
   <chapter number="1" style="c" sid="1TI 1"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 1:1"/>Paulo, apóstolo de Jesus Cristo, enviado por Deus, nosso Salvador, e por Jesus Cristo, nossa esperança segura.  
-<verse eid="1TI 1:1"/><verse number="2" style="v" sid="1TI 1:2"/>A Timóteo, meu verdadeiro filho na fé: que Deus, nosso Pai, e Jesus Cristo, nosso Senhor, concedam a você graça, misericórdia e paz.
-<verse eid="1TI 1:2"/><verse number="3" style="v" sid="1TI 1:3"/>Quando parti para a Macedônia, pedi que você permanecesse em Éfeso para impedir certos homens de espalharem ensinamentos falsos.
-<verse eid="1TI 1:3"/><verse number="4" style="v" sid="1TI 1:4"/>Diga a eles que parem com os mitos e histórias vazias, e com o valor exagerado que dão às genealogias, pois isso cria dúvidas e discussões, e não ajuda o povo a seguir o plano de Deus, que se recebe pela fé. 
-<verse eid="1TI 1:4"/><verse number="5" style="v" sid="1TI 1:5"/>Meu propósito é que todos aí vivam com amor que nasce de um coração puro, de uma mente limpa e de uma fé sincera.  
-<verse eid="1TI 1:5"/><verse number="6" style="v" sid="1TI 1:6"/>Mas alguns se afastaram desse caminho e gastam o tempo em conversas inúteis.  
-<verse eid="1TI 1:6"/><verse number="7" style="v" sid="1TI 1:7"/>Querem ser vistos como mestres da lei, mas não entendem o que dizem nem o que afirmam com tanta segurança.  
-<verse eid="1TI 1:7"/><verse number="8" style="v" sid="1TI 1:8"/>Sabemos que a lei é boa quando usada conforme a vontade de Deus.  
-<verse eid="1TI 1:8"/><verse number="9" style="v" sid="1TI 1:9"/>Ela não foi feita para os que vivem corretamente, mas para os pecadores: os que rejeitam a Deus, os rebeldes, os que blasfemam, os que matam pai e mãe, e os que cometem homicídio.
-<verse eid="1TI 1:9"/><verse number="10" style="v" sid="1TI 1:10"/>Ela foi feita para os que vivem na imoralidade sexual, para os que praticam a homossexualidade, para os sequestradores, para os mentirosos, para os que fazem juramentos falsos e para todos os que praticam o que se opõe ao verdadeiro ensinamento.
-<verse eid="1TI 1:10"/><verse number="11" style="v" sid="1TI 1:11"/>Esse ensinamento é o evangelho glorioso do nosso Deus bendito, do qual eu fui feito mensageiro.  
-<verse eid="1TI 1:11"/><verse number="12" style="v" sid="1TI 1:12"/>Agradeço a Cristo Jesus, nosso Senhor, por me escolher para servir e por me dar força para ser fiel.  
-<verse eid="1TI 1:12"/><verse number="13" style="v" sid="1TI 1:13"/>Antes eu zombava do nome de Cristo e perseguia o seu povo, causando todo o mal que podia. Mas Deus teve misericórdia de mim, porque eu agia sem entender, pois ainda não conhecia Cristo.  
-<verse eid="1TI 1:13"/><verse number="14" style="v" sid="1TI 1:14"/>Nosso Senhor foi muito bondoso comigo e derramou sobre mim fé e amor que vêm de Jesus Cristo.
-<verse eid="1TI 1:14"/><verse number="15" style="v" sid="1TI 1:15"/>Esta palavra é verdadeira, e desejo que todos a conheçam: Jesus Cristo veio ao mundo para salvar os pecadores — e eu sou o pior deles. 
-<verse eid="1TI 1:15"/><verse number="16" style="v" sid="1TI 1:16"/>Mas Deus teve misericórdia de mim para que Cristo Jesus me usasse como exemplo de sua grande paciência, mostrando que até o pior dos pecadores pode crer e receber a vida eterna.  
-<verse eid="1TI 1:16"/><verse number="17" style="v" sid="1TI 1:17"/>Ao Rei eterno, ao Deus único, imortal e invisível, sejam honra e glória para sempre. Amém.  
-<verse eid="1TI 1:17"/><verse number="18" style="v" sid="1TI 1:18"/>Timóteo, meu filho, esta é a instrução que lhe dou conforme as profecias ditas sobre você: lute bem o bom combate da fé.
-<verse eid="1TI 1:18"/><verse number="19" style="v" sid="1TI 1:19"/>Mantenha firme a fé e conserve a consciência limpa, fazendo o que sabe ser certo. Alguns rejeitaram a boa consciência e, por isso, naufragaram na fé. 
-<verse eid="1TI 1:19"/><verse number="20" style="v" sid="1TI 1:20"/>Himeneu e Alexandre são exemplos disso; tive de entregá-los a Satanás para que fossem disciplinados e aprendessem a não blasfemar. 
+  <para style="p"><verse number="1" style="v" sid="1TI 1:1"/>Paulo, apóstolo de Jesus Cristo, enviado por Deus, nosso Salvador, e por Jesus Cristo, nossa esperança segura.
+<verse eid="1TI 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 1:2"/>A Timóteo, meu verdadeiro filho na fé: que Deus, nosso Pai, e Jesus Cristo, nosso Senhor, concedam a você graça, misericórdia e paz.
+<verse eid="1TI 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 1:3"/>Quando parti para a Macedônia, pedi que você permanecesse em Éfeso para impedir certos homens de espalharem ensinamentos falsos.
+<verse eid="1TI 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 1:4"/>Diga a eles que parem com os mitos e histórias vazias, e com o valor exagerado que dão às genealogias, pois isso cria dúvidas e discussões, e não ajuda o povo a seguir o plano de Deus, que se recebe pela fé.
+<verse eid="1TI 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 1:5"/>Meu propósito é que todos aí vivam com amor que nasce de um coração puro, de uma mente limpa e de uma fé sincera.
+<verse eid="1TI 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 1:6"/>Mas alguns se afastaram desse caminho e gastam o tempo em conversas inúteis.
+<verse eid="1TI 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 1:7"/>Querem ser vistos como mestres da lei, mas não entendem o que dizem nem o que afirmam com tanta segurança.
+<verse eid="1TI 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 1:8"/>Sabemos que a lei é boa quando usada conforme a vontade de Deus.
+<verse eid="1TI 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 1:9"/>Ela não foi feita para os que vivem corretamente, mas para os pecadores: os que rejeitam a Deus, os rebeldes, os que blasfemam, os que matam pai e mãe, e os que cometem homicídio.
+<verse eid="1TI 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 1:10"/>Ela foi feita para os que vivem na imoralidade sexual, para os que praticam a homossexualidade, para os sequestradores, para os mentirosos, para os que fazem juramentos falsos e para todos os que praticam o que se opõe ao verdadeiro ensinamento.
+<verse eid="1TI 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 1:11"/>Esse ensinamento é o evangelho glorioso do nosso Deus bendito, do qual eu fui feito mensageiro.
+<verse eid="1TI 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 1:12"/>Agradeço a Cristo Jesus, nosso Senhor, por me escolher para servir e por me dar força para ser fiel.
+<verse eid="1TI 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 1:13"/>Antes eu zombava do nome de Cristo e perseguia o seu povo, causando todo o mal que podia. Mas Deus teve misericórdia de mim, porque eu agia sem entender, pois ainda não conhecia Cristo.
+<verse eid="1TI 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 1:14"/>Nosso Senhor foi muito bondoso comigo e derramou sobre mim fé e amor que vêm de Jesus Cristo.
+<verse eid="1TI 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 1:15"/>Esta palavra é verdadeira, e desejo que todos a conheçam: Jesus Cristo veio ao mundo para salvar os pecadores — e eu sou o pior deles.
+<verse eid="1TI 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="1TI 1:16"/>Mas Deus teve misericórdia de mim para que Cristo Jesus me usasse como exemplo de sua grande paciência, mostrando que até o pior dos pecadores pode crer e receber a vida eterna.
+<verse eid="1TI 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="1TI 1:17"/>Ao Rei eterno, ao Deus único, imortal e invisível, sejam honra e glória para sempre. Amém.
+<verse eid="1TI 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="1TI 1:18"/>Timóteo, meu filho, esta é a instrução que lhe dou conforme as profecias ditas sobre você: lute bem o bom combate da fé.
+<verse eid="1TI 1:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="1TI 1:19"/>Mantenha firme a fé e conserve a consciência limpa, fazendo o que sabe ser certo. Alguns rejeitaram a boa consciência e, por isso, naufragaram na fé.
+<verse eid="1TI 1:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="1TI 1:20"/>Himeneu e Alexandre são exemplos disso; tive de entregá-los a Satanás para que fossem disciplinados e aprendessem a não blasfemar.
 <verse eid="1TI 1:20"/><verse eid="1TI 1:20"/></para>
   <chapter eid="1TI 1"/>
   <chapter number="2" style="c" sid="1TI 2"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 2:1"/>Estas são as instruções que dou: façam orações, súplicas, pedidos e ações de graças em favor de todos os seres humanos.  
-<verse eid="1TI 2:1"/><verse number="2" style="v" sid="1TI 2:2"/>Orem assim também pelos reis e por todos os que têm autoridade ou ocupam cargos elevados, para que possamos viver em paz e tranquilidade, com vida piedosa e digna em tudo.  
-<verse eid="1TI 2:2"/><verse number="3" style="v" sid="1TI 2:3"/>Isso é bom e agradável diante de Deus, nosso Salvador.  
-<verse eid="1TI 2:3"/><verse number="4" style="v" sid="1TI 2:4"/>Ele deseja que todos sejam salvos e cheguem ao pleno conhecimento da verdade.  
-<verse eid="1TI 2:4"/><verse number="5" style="v" sid="1TI 2:5"/>Pois há um só Deus e há um só mediador entre Deus e os seres humanos: o homem Cristo Jesus.  
-<verse eid="1TI 2:5"/><verse number="6" style="v" sid="1TI 2:6"/>Ele entregou a própria vida como resgate por toda a humanidade. Essa mensagem foi revelada por Deus ao mundo no tempo certo.
-<verse eid="1TI 2:6"/><verse number="7" style="v" sid="1TI 2:7"/>E eu fui constituído pregador e apóstolo para anunciar a mensagem da fé e da verdade aos gentios. Digo a verdade, não minto.
-<verse eid="1TI 2:7"/><verse number="8" style="v" sid="1TI 2:8"/>Portanto, desejo que, em todo lugar, os homens orem, levantando mãos santas para Deus, sem ira e sem discussões.  
-<verse eid="1TI 2:8"/><verse number="9" style="v" sid="1TI 2:9"/>Do mesmo modo, quero que as mulheres se vistam com modéstia, decência e discrição, não chamando atenção pelo penteado, pelas joias ou por roupas luxuosas.
-<verse eid="1TI 2:9"/><verse number="10" style="v" sid="1TI 2:10"/>As mulheres que professam ser dedicadas a Deus devem ser reconhecidas por suas boas obras.
-<verse eid="1TI 2:10"/><verse number="11" style="v" sid="1TI 2:11"/>A mulher deve receber o ensino em silêncio, com atitude de plena submissão.  
-<verse eid="1TI 2:11"/><verse number="12" style="v" sid="1TI 2:12"/>Não permito que a mulher ensine ou exerça autoridade sobre o homem. Que ela permaneça em silêncio.
-<verse eid="1TI 2:12"/><verse number="13" style="v" sid="1TI 2:13"/>Pois primeiro Deus formou Adão, e depois formou Eva.  
-<verse eid="1TI 2:13"/><verse number="14" style="v" sid="1TI 2:14"/>E não foi Adão que foi enganado, mas a mulher foi enganada e caiu em transgressão.  
-<verse eid="1TI 2:14"/><verse number="15" style="v" sid="1TI 2:15"/>Contudo, a mulher será salva dando à luz filhos, se permanecer na fé, no amor e na santidade, com bom senso.
+  <para style="p"><verse number="1" style="v" sid="1TI 2:1"/>Estas são as instruções que dou: façam orações, súplicas, pedidos e ações de graças em favor de todos os seres humanos.
+<verse eid="1TI 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 2:2"/>Orem assim também pelos reis e por todos os que têm autoridade ou ocupam cargos elevados, para que possamos viver em paz e tranquilidade, com vida piedosa e digna em tudo.
+<verse eid="1TI 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 2:3"/>Isso é bom e agradável diante de Deus, nosso Salvador.
+<verse eid="1TI 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 2:4"/>Ele deseja que todos sejam salvos e cheguem ao pleno conhecimento da verdade.
+<verse eid="1TI 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 2:5"/>Pois há um só Deus e há um só mediador entre Deus e os seres humanos: o homem Cristo Jesus.
+<verse eid="1TI 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 2:6"/>Ele entregou a própria vida como resgate por toda a humanidade. Essa mensagem foi revelada por Deus ao mundo no tempo certo.
+<verse eid="1TI 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 2:7"/>E eu fui constituído pregador e apóstolo para anunciar a mensagem da fé e da verdade aos gentios. Digo a verdade, não minto.
+<verse eid="1TI 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 2:8"/>Portanto, desejo que, em todo lugar, os homens orem, levantando mãos santas para Deus, sem ira e sem discussões.
+<verse eid="1TI 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 2:9"/>Do mesmo modo, quero que as mulheres se vistam com modéstia, decência e discrição, não chamando atenção pelo penteado, pelas joias ou por roupas luxuosas.
+<verse eid="1TI 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 2:10"/>As mulheres que professam ser dedicadas a Deus devem ser reconhecidas por suas boas obras.
+<verse eid="1TI 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 2:11"/>A mulher deve receber o ensino em silêncio, com atitude de plena submissão.
+<verse eid="1TI 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 2:12"/>Não permito que a mulher ensine ou exerça autoridade sobre o homem. Que ela permaneça em silêncio.
+<verse eid="1TI 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 2:13"/>Pois primeiro Deus formou Adão, e depois formou Eva.
+<verse eid="1TI 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 2:14"/>E não foi Adão que foi enganado, mas a mulher foi enganada e caiu em transgressão.
+<verse eid="1TI 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 2:15"/>Contudo, a mulher será salva dando à luz filhos, se permanecer na fé, no amor e na santidade, com bom senso.
 <verse eid="1TI 2:15"/><verse eid="1TI 2:15"/></para>
   <chapter eid="1TI 2"/>
   <chapter number="3" style="c" sid="1TI 3"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 3:1"/>Esta palavra é digna de confiança: se alguém deseja o cargo de bispo, deseja uma tarefa boa e honrosa.  
-<verse eid="1TI 3:1"/><verse number="2" style="v" sid="1TI 3:2"/>Pois o bispo precisa ser um homem irrepreensível; marido de uma só mulher, equilibrado, sensato e respeitável, hospitaleiro e capaz de ensinar bem as Escrituras.
-<verse eid="1TI 3:2"/><verse number="3" style="v" sid="1TI 3:3"/>Não deve ser apegado à bebida, nem violento, mas deve ser gentil, pacífico e livre do amor ao dinheiro.  
-<verse eid="1TI 3:3"/><verse number="4" style="v" sid="1TI 3:4"/>Ele deve governar bem a própria casa, tendo filhos obedientes e respeitosos.  
-<verse eid="1TI 3:4"/><verse number="5" style="v" sid="1TI 3:5"/>Pois, se alguém não sabe conduzir a sua família, como poderá cuidar da igreja de Deus?  
-<verse eid="1TI 3:5"/><verse number="6" style="v" sid="1TI 3:6"/>O bispo não pode ser recém-convertido, para que não se encha de orgulho e caia na mesma condenação que o diabo recebeu.  
-<verse eid="1TI 3:6"/><verse number="7" style="v" sid="1TI 3:7"/>Também é necessário que tenha boa reputação entre os de fora, para que não caia em descrédito nem nas armadilhas do diabo.
-<verse eid="1TI 3:7"/><verse number="8" style="v" sid="1TI 3:8"/>Do mesmo modo, os diáconos devem ser homens respeitáveis e confiáveis na palavra, não dominados pela bebida e não gananciosos por lucro desonesto.  
-<verse eid="1TI 3:8"/><verse number="9" style="v" sid="1TI 3:9"/>Devem guardar o mistério da fé revelada com consciência limpa.  
-<verse eid="1TI 3:9"/><verse number="10" style="v" sid="1TI 3:10"/>Antes de serem nomeados diáconos, sejam primeiro provados; se forem aprovados, então sirvam como diáconos.
-<verse eid="1TI 3:10"/><verse number="11" style="v" sid="1TI 3:11"/>As mulheres igualmente devem ser sérias, não caluniadoras, mas sóbrias e fiéis em tudo o que fazem.  
-<verse eid="1TI 3:11"/><verse number="12" style="v" sid="1TI 3:12"/>O diácono deve ser marido de uma só mulher e governar bem seus filhos e sua própria casa.  
-<verse eid="1TI 3:12"/><verse number="13" style="v" sid="1TI 3:13"/>Pois os diáconos que servem de modo exemplar recebem respeito entre os irmãos na fé e ganham firmeza para anunciar com clareza a fé que têm em Cristo Jesus.
-<verse eid="1TI 3:13"/><verse number="14" style="v" sid="1TI 3:14"/>Escrevo estas coisas, embora espere ir vê-lo em breve.
-<verse eid="1TI 3:14"/><verse number="15" style="v" sid="1TI 3:15"/>Mas, se eu demorar, você saberá como é preciso proceder na casa de Deus, que é a igreja do Deus vivo, coluna e fundamento da verdade.  
-<verse eid="1TI 3:15"/><verse number="16" style="v" sid="1TI 3:16"/>E, sem dúvida, grande é o mistério da piedade: Deus foi manifestado em forma humana, justificado no Espírito, visto pelos anjos, anunciado entre as nações, crido no mundo inteiro e recebido na glória.
+  <para style="p"><verse number="1" style="v" sid="1TI 3:1"/>Esta palavra é digna de confiança: se alguém deseja o cargo de bispo, deseja uma tarefa boa e honrosa.
+<verse eid="1TI 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 3:2"/>Pois o bispo precisa ser um homem irrepreensível; marido de uma só mulher, equilibrado, sensato e respeitável, hospitaleiro e capaz de ensinar bem as Escrituras.
+<verse eid="1TI 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 3:3"/>Não deve ser apegado à bebida, nem violento, mas deve ser gentil, pacífico e livre do amor ao dinheiro.
+<verse eid="1TI 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 3:4"/>Ele deve governar bem a própria casa, tendo filhos obedientes e respeitosos.
+<verse eid="1TI 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 3:5"/>Pois, se alguém não sabe conduzir a sua família, como poderá cuidar da igreja de Deus?
+<verse eid="1TI 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 3:6"/>O bispo não pode ser recém-convertido, para que não se encha de orgulho e caia na mesma condenação que o diabo recebeu.
+<verse eid="1TI 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 3:7"/>Também é necessário que tenha boa reputação entre os de fora, para que não caia em descrédito nem nas armadilhas do diabo.
+<verse eid="1TI 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 3:8"/>Do mesmo modo, os diáconos devem ser homens respeitáveis e confiáveis na palavra, não dominados pela bebida e não gananciosos por lucro desonesto.
+<verse eid="1TI 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 3:9"/>Devem guardar o mistério da fé revelada com consciência limpa.
+<verse eid="1TI 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 3:10"/>Antes de serem nomeados diáconos, sejam primeiro provados; se forem aprovados, então sirvam como diáconos.
+<verse eid="1TI 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 3:11"/>As mulheres igualmente devem ser sérias, não caluniadoras, mas sóbrias e fiéis em tudo o que fazem.
+<verse eid="1TI 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 3:12"/>O diácono deve ser marido de uma só mulher e governar bem seus filhos e sua própria casa.
+<verse eid="1TI 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 3:13"/>Pois os diáconos que servem de modo exemplar recebem respeito entre os irmãos na fé e ganham firmeza para anunciar com clareza a fé que têm em Cristo Jesus.
+<verse eid="1TI 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 3:14"/>Escrevo estas coisas, embora espere ir vê-lo em breve.
+<verse eid="1TI 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 3:15"/>Mas, se eu demorar, você saberá como é preciso proceder na casa de Deus, que é a igreja do Deus vivo, coluna e fundamento da verdade.
+<verse eid="1TI 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="1TI 3:16"/>E, sem dúvida, grande é o mistério da piedade: Deus foi manifestado em forma humana, justificado no Espírito, visto pelos anjos, anunciado entre as nações, crido no mundo inteiro e recebido na glória.
 <verse eid="1TI 3:16"/><verse eid="1TI 3:16"/></para>
   <chapter eid="1TI 3"/>
   <chapter number="4" style="c" sid="1TI 4"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 4:1"/>O Espírito de Deus afirma com clareza que, nos últimos tempos, alguns se afastarão de Cristo e seguirão com zelo espíritos enganadores e ensinamentos que vêm de demônios. 
-<verse eid="1TI 4:1"/><verse number="2" style="v" sid="1TI 4:2"/>Esses ensinamentos procedem de pessoas hipócritas e mentirosas, que persistem tanto no mal que a própria consciência deixa de acusá-las. 
-<verse eid="1TI 4:2"/><verse number="3" style="v" sid="1TI 4:3"/>Elas afirmarão que é errado se casar e também comer certos alimentos que Deus criou para serem recebidos com gratidão pelos que creem e conhecem a verdade. 
-<verse eid="1TI 4:3"/><verse number="4" style="v" sid="1TI 4:4"/>Pois tudo o que Deus criou é bom, e nada precisa ser rejeitado quando é recebido com ação de graças. 
-<verse eid="1TI 4:4"/><verse number="5" style="v" sid="1TI 4:5"/>Porque a palavra de Deus e a oração santificam esses alimentos. 
-<verse eid="1TI 4:5"/><verse number="6" style="v" sid="1TI 4:6"/>Se você apresentar estas orientações aos irmãos, será um bom ministro de Cristo Jesus, nutrido pela fé e pelo verdadeiro ensinamento que você tem seguido.  
-<verse eid="1TI 4:6"/><verse number="7" style="v" sid="1TI 4:7"/>Não perca tempo com histórias sem valor e ideias falsas. Em vez disso, exercite-se para viver de um modo que agrade a Deus. 
-<verse eid="1TI 4:7"/><verse number="8" style="v" sid="1TI 4:8"/>O exercício físico tem algum valor, mas a vida com Deus é muito mais útil, pois traz proveito para a vida presente e para a vida futura.
-<verse eid="1TI 4:8"/><verse number="9" style="v" sid="1TI 4:9"/>Esta palavra é fiel e merece plena aceitação.
-<verse eid="1TI 4:9"/><verse number="10" style="v" sid="1TI 4:10"/>Por isso trabalhamos e lutamos, porque colocamos a nossa esperança no Deus vivo, o Salvador de todos, especialmente dos que creem.
-<verse eid="1TI 4:10"/><verse number="11" style="v" sid="1TI 4:11"/>Ordene e ensine estas coisas, garantindo que todos as aprendam com atenção. 
-<verse eid="1TI 4:11"/><verse number="12" style="v" sid="1TI 4:12"/>Ninguém o despreze por você ser jovem. Seja um exemplo para os fiéis, na maneira de falar e de viver, no amor, na fé e na pureza.  
-<verse eid="1TI 4:12"/><verse number="13" style="v" sid="1TI 4:13"/>Até que eu chegue, dedique-se à leitura pública das Escrituras, à exortação e ao ensino.  
-<verse eid="1TI 4:13"/><verse number="14" style="v" sid="1TI 4:14"/>Não negligencie o dom que há em você, que lhe foi dado por Deus por meio de uma palavra profética, quando os presbíteros impuseram as mãos sobre a sua cabeça.  
-<verse eid="1TI 4:14"/><verse number="15" style="v" sid="1TI 4:15"/>Pratique essas coisas, dedique-se totalmente a elas, para que o seu progresso seja evidente a todos. 
-<verse eid="1TI 4:15"/><verse number="16" style="v" sid="1TI 4:16"/>Vigie a sua vida e a doutrina — aquilo em que você crê e o que ensina. Continue firme nisso, pois, ao agir assim, você salvará a si mesmo e aqueles que o escutam.
+  <para style="p"><verse number="1" style="v" sid="1TI 4:1"/>O Espírito de Deus afirma com clareza que, nos últimos tempos, alguns se afastarão de Cristo e seguirão com zelo espíritos enganadores e ensinamentos que vêm de demônios.
+<verse eid="1TI 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 4:2"/>Esses ensinamentos procedem de pessoas hipócritas e mentirosas, que persistem tanto no mal que a própria consciência deixa de acusá-las.
+<verse eid="1TI 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 4:3"/>Elas afirmarão que é errado se casar e também comer certos alimentos que Deus criou para serem recebidos com gratidão pelos que creem e conhecem a verdade.
+<verse eid="1TI 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 4:4"/>Pois tudo o que Deus criou é bom, e nada precisa ser rejeitado quando é recebido com ação de graças.
+<verse eid="1TI 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 4:5"/>Porque a palavra de Deus e a oração santificam esses alimentos.
+<verse eid="1TI 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 4:6"/>Se você apresentar estas orientações aos irmãos, será um bom ministro de Cristo Jesus, nutrido pela fé e pelo verdadeiro ensinamento que você tem seguido.
+<verse eid="1TI 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 4:7"/>Não perca tempo com histórias sem valor e ideias falsas. Em vez disso, exercite-se para viver de um modo que agrade a Deus.
+<verse eid="1TI 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 4:8"/>O exercício físico tem algum valor, mas a vida com Deus é muito mais útil, pois traz proveito para a vida presente e para a vida futura.
+<verse eid="1TI 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 4:9"/>Esta palavra é fiel e merece plena aceitação.
+<verse eid="1TI 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 4:10"/>Por isso trabalhamos e lutamos, porque colocamos a nossa esperança no Deus vivo, o Salvador de todos, especialmente dos que creem.
+<verse eid="1TI 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 4:11"/>Ordene e ensine estas coisas, garantindo que todos as aprendam com atenção.
+<verse eid="1TI 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 4:12"/>Ninguém o despreze por você ser jovem. Seja um exemplo para os fiéis, na maneira de falar e de viver, no amor, na fé e na pureza.
+<verse eid="1TI 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 4:13"/>Até que eu chegue, dedique-se à leitura pública das Escrituras, à exortação e ao ensino.
+<verse eid="1TI 4:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 4:14"/>Não negligencie o dom que há em você, que lhe foi dado por Deus por meio de uma palavra profética, quando os presbíteros impuseram as mãos sobre a sua cabeça.
+<verse eid="1TI 4:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 4:15"/>Pratique essas coisas, dedique-se totalmente a elas, para que o seu progresso seja evidente a todos.
+<verse eid="1TI 4:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="1TI 4:16"/>Vigie a sua vida e a doutrina — aquilo em que você crê e o que ensina. Continue firme nisso, pois, ao agir assim, você salvará a si mesmo e aqueles que o escutam.
 <verse eid="1TI 4:16"/><verse eid="1TI 4:16"/></para>
   <chapter eid="1TI 4"/>
   <chapter number="5" style="c" sid="1TI 5"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 5:1"/>Não fale com dureza a um homem mais velho, mas exorte-o com respeito, como se fosse seu pai; trate os homens mais jovens como irmãos. 
-<verse eid="1TI 5:1"/><verse number="2" style="v" sid="1TI 5:2"/>Trate as mulheres mais velhas como mães e as moças como irmãs, mantendo sempre o coração e os pensamentos puros. 
-<verse eid="1TI 5:2"/><verse number="3" style="v" sid="1TI 5:3"/>A igreja deve amparar as viúvas que não têm mais ninguém para ajudá-las. 
-<verse eid="1TI 5:3"/><verse number="4" style="v" sid="1TI 5:4"/>Porém, se uma viúva tem filhos ou netos, são eles que devem assumir a responsabilidade, aprendendo primeiro em casa a viver a sua fé, cuidando dos pais necessitados e retribuindo o bem que receberam. Isso agrada a Deus.
-<verse eid="1TI 5:4"/><verse number="5" style="v" sid="1TI 5:5"/>A viúva realmente necessitada e sozinha coloca a sua esperança em Deus e persevera em orações e súplicas, de dia e de noite.  
-<verse eid="1TI 5:5"/><verse number="6" style="v" sid="1TI 5:6"/>Mas a viúva que vive apenas em busca de prazeres está morta espiritualmente, mesmo que esteja viva.  
-<verse eid="1TI 5:6"/><verse number="7" style="v" sid="1TI 5:7"/>Ensine estas orientações com firmeza, para que conheçam o que é correto e vivam de modo irrepreensível. 
-<verse eid="1TI 5:7"/><verse number="8" style="v" sid="1TI 5:8"/>Quem não cuida dos seus parentes, especialmente dos de sua própria casa, negou a fé e é pior do que quem não crê.  
-<verse eid="1TI 5:8"/><verse number="9" style="v" sid="1TI 5:9"/>Seja colocada na lista das viúvas apenas aquela que tiver pelo menos sessenta anos e tenha sido esposa de um só marido.  
-<verse eid="1TI 5:9"/><verse number="10" style="v" sid="1TI 5:10"/>Ela deve ser conhecida por suas boas obras: ter criado bem os filhos, recebido estranhos com bondade, lavado os pés dos fiéis, socorrido os aflitos e se dedicado a toda boa obra. 
-<verse eid="1TI 5:10"/><verse number="11" style="v" sid="1TI 5:11"/>As viúvas mais jovens não devem ser colocadas nessa lista, pois, quando seus desejos sensuais se tornarem mais fortes do que a sua dedicação a Cristo, elas desejarão casar-se outra vez.
-<verse eid="1TI 5:11"/><verse number="12" style="v" sid="1TI 5:12"/>Assim, caem em condenação, porque quebraram a primeira promessa que assumiram.  
-<verse eid="1TI 5:12"/><verse number="13" style="v" sid="1TI 5:13"/>Além disso, tornam-se ociosas, andando de casa em casa. Além de não trabalharem, metem-se na vida alheia e falam o que não convém. 
-<verse eid="1TI 5:13"/><verse number="14" style="v" sid="1TI 5:14"/>Por isso, aconselho que as viúvas mais jovens se casem novamente, tenham filhos e cuidem do próprio lar, para que o inimigo e as pessoas não tenham motivo para falar mal delas.
-<verse eid="1TI 5:14"/><verse number="15" style="v" sid="1TI 5:15"/>Pois temo que algumas já tenham se desviado, seguindo o caminho de Satanás.  
-<verse eid="1TI 5:15"/><verse number="16" style="v" sid="1TI 5:16"/>Se alguma mulher crente tiver viúvas em sua família, que cuide delas e não deixe esse peso para a igreja, para que a igreja possa socorrer as viúvas que realmente não têm ninguém.  
-<verse eid="1TI 5:16"/><verse number="17" style="v" sid="1TI 5:17"/>Os líderes da igreja que governam bem devem ser considerados dignos de dupla honra, especialmente os que se dedicam ao ensino e à pregação.  
-<verse eid="1TI 5:17"/><verse number="18" style="v" sid="1TI 5:18"/>Pois as Escrituras dizem: “Não impeça o boi de comer enquanto pisa o cereal”, e: “O trabalhador tem direito ao seu salário”.
-<verse eid="1TI 5:18"/><verse number="19" style="v" sid="1TI 5:19"/>Não aceite acusação contra um líder, a menos que seja confirmada por duas ou três testemunhas.  
-<verse eid="1TI 5:19"/><verse number="20" style="v" sid="1TI 5:20"/>Se algum líder pecar de fato, repreenda-o na presença de todos, para que os demais também tenham temor.  
-<verse eid="1TI 5:20"/><verse number="21" style="v" sid="1TI 5:21"/>Diante de Deus, de Cristo Jesus e dos anjos escolhidos, ordeno solenemente que você obedeça a estas instruções sem parcialidade, não tratando ninguém com favoritismo.  
-<verse eid="1TI 5:21"/><verse number="22" style="v" sid="1TI 5:22"/>Não se precipite ao impor as mãos sobre alguém e não participe dos pecados de outros; mantenha-se puro. 
-<verse eid="1TI 5:22"/><verse number="23" style="v" sid="1TI 5:23"/>Não beba somente água, mas também um pouco de vinho, por causa do estômago e das frequentes enfermidades que você sofre. 
-<verse eid="1TI 5:23"/><verse number="24" style="v" sid="1TI 5:24"/>Alguns homens têm pecados tão evidentes que são vistos por todos antes do juízo; porém, em outros, os pecados só aparecem depois. 
-<verse eid="1TI 5:24"/><verse number="25" style="v" sid="1TI 5:25"/>Do mesmo modo, as boas obras são claras e visíveis; e as que não são assim, não poderão ficar escondidas para sempre. 
+  <para style="p"><verse number="1" style="v" sid="1TI 5:1"/>Não fale com dureza a um homem mais velho, mas exorte-o com respeito, como se fosse seu pai; trate os homens mais jovens como irmãos.
+<verse eid="1TI 5:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 5:2"/>Trate as mulheres mais velhas como mães e as moças como irmãs, mantendo sempre o coração e os pensamentos puros.
+<verse eid="1TI 5:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 5:3"/>A igreja deve amparar as viúvas que não têm mais ninguém para ajudá-las.
+<verse eid="1TI 5:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 5:4"/>Porém, se uma viúva tem filhos ou netos, são eles que devem assumir a responsabilidade, aprendendo primeiro em casa a viver a sua fé, cuidando dos pais necessitados e retribuindo o bem que receberam. Isso agrada a Deus.
+<verse eid="1TI 5:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 5:5"/>A viúva realmente necessitada e sozinha coloca a sua esperança em Deus e persevera em orações e súplicas, de dia e de noite.
+<verse eid="1TI 5:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 5:6"/>Mas a viúva que vive apenas em busca de prazeres está morta espiritualmente, mesmo que esteja viva.
+<verse eid="1TI 5:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 5:7"/>Ensine estas orientações com firmeza, para que conheçam o que é correto e vivam de modo irrepreensível.
+<verse eid="1TI 5:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 5:8"/>Quem não cuida dos seus parentes, especialmente dos de sua própria casa, negou a fé e é pior do que quem não crê.
+<verse eid="1TI 5:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 5:9"/>Seja colocada na lista das viúvas apenas aquela que tiver pelo menos sessenta anos e tenha sido esposa de um só marido.
+<verse eid="1TI 5:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 5:10"/>Ela deve ser conhecida por suas boas obras: ter criado bem os filhos, recebido estranhos com bondade, lavado os pés dos fiéis, socorrido os aflitos e se dedicado a toda boa obra.
+<verse eid="1TI 5:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 5:11"/>As viúvas mais jovens não devem ser colocadas nessa lista, pois, quando seus desejos sensuais se tornarem mais fortes do que a sua dedicação a Cristo, elas desejarão casar-se outra vez.
+<verse eid="1TI 5:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 5:12"/>Assim, caem em condenação, porque quebraram a primeira promessa que assumiram.
+<verse eid="1TI 5:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 5:13"/>Além disso, tornam-se ociosas, andando de casa em casa. Além de não trabalharem, metem-se na vida alheia e falam o que não convém.
+<verse eid="1TI 5:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 5:14"/>Por isso, aconselho que as viúvas mais jovens se casem novamente, tenham filhos e cuidem do próprio lar, para que o inimigo e as pessoas não tenham motivo para falar mal delas.
+<verse eid="1TI 5:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 5:15"/>Pois temo que algumas já tenham se desviado, seguindo o caminho de Satanás.
+<verse eid="1TI 5:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="1TI 5:16"/>Se alguma mulher crente tiver viúvas em sua família, que cuide delas e não deixe esse peso para a igreja, para que a igreja possa socorrer as viúvas que realmente não têm ninguém.
+<verse eid="1TI 5:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="1TI 5:17"/>Os líderes da igreja que governam bem devem ser considerados dignos de dupla honra, especialmente os que se dedicam ao ensino e à pregação.
+<verse eid="1TI 5:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="1TI 5:18"/>Pois as Escrituras dizem: “Não impeça o boi de comer enquanto pisa o cereal”, e: “O trabalhador tem direito ao seu salário”.
+<verse eid="1TI 5:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="1TI 5:19"/>Não aceite acusação contra um líder, a menos que seja confirmada por duas ou três testemunhas.
+<verse eid="1TI 5:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="1TI 5:20"/>Se algum líder pecar de fato, repreenda-o na presença de todos, para que os demais também tenham temor.
+<verse eid="1TI 5:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="1TI 5:21"/>Diante de Deus, de Cristo Jesus e dos anjos escolhidos, ordeno solenemente que você obedeça a estas instruções sem parcialidade, não tratando ninguém com favoritismo.
+<verse eid="1TI 5:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="1TI 5:22"/>Não se precipite ao impor as mãos sobre alguém e não participe dos pecados de outros; mantenha-se puro.
+<verse eid="1TI 5:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="1TI 5:23"/>Não beba somente água, mas também um pouco de vinho, por causa do estômago e das frequentes enfermidades que você sofre.
+<verse eid="1TI 5:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="1TI 5:24"/>Alguns homens têm pecados tão evidentes que são vistos por todos antes do juízo; porém, em outros, os pecados só aparecem depois.
+<verse eid="1TI 5:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="1TI 5:25"/>Do mesmo modo, as boas obras são claras e visíveis; e as que não são assim, não poderão ficar escondidas para sempre.
 <verse eid="1TI 5:25"/><verse eid="1TI 5:25"/></para>
   <chapter eid="1TI 5"/>
   <chapter number="6" style="c" sid="1TI 6"/>
-  <para style="p"><verse number="1" style="v" sid="1TI 6:1"/>Todos os que vivem como escravos devem servir aos seus senhores com empenho e respeito, para que o nome de Deus e o nosso ensino não sejam difamados. 
-<verse eid="1TI 6:1"/><verse number="2" style="v" sid="1TI 6:2"/>Se os senhores deles também forem crentes, isso não é motivo para perder o respeito. Ao contrário, devem servir com ainda mais dedicação, porque, por meio do trabalho deles, um irmão na fé é beneficiado. Ensine essas verdades e exorte todos a segui-las. 
-<verse eid="1TI 6:2"/><verse number="3" style="v" sid="1TI 6:3"/>Se alguém transmite um ensino falso e não aceita as palavras corretas e úteis do nosso Senhor Jesus Cristo, nem o ensino que conduz a uma vida piedosa,  
-<verse eid="1TI 6:3"/><verse number="4" style="v" sid="1TI 6:4"/>essa pessoa é cheia de orgulho e sem entendimento. Ela se apega de modo doentio a discussões sobre palavras, que produzem inveja, brigas, insultos, acusações e suspeitas malignas. 
-<verse eid="1TI 6:4"/><verse number="5" style="v" sid="1TI 6:5"/>Gente assim vive em contendas, sua mente está corrompida e já não conhece a verdade. Para essas pessoas, a vida piedosa se tornou apenas um meio de obter lucro. Afaste-se delas.
-<verse eid="1TI 6:5"/><verse number="6" style="v" sid="1TI 6:6"/>De fato, há grande riqueza em viver com piedade e estar contente com o que se tem.  
-<verse eid="1TI 6:6"/><verse number="7" style="v" sid="1TI 6:7"/>Pois nada trouxemos ao entrar neste mundo, e nada poderemos levar quando dele sairmos.  
-<verse eid="1TI 6:7"/><verse number="8" style="v" sid="1TI 6:8"/>Portanto, se temos o necessário para comer e para nos vestir, devemos considerar isso suficiente.  
-<verse eid="1TI 6:8"/><verse number="9" style="v" sid="1TI 6:9"/>Mas aqueles que desejam ficar ricos caem em tentações, em armadilhas e em muitos desejos tolos e prejudiciais, que trazem dano, ruína e, por fim, destruição.  
-<verse eid="1TI 6:9"/><verse number="10" style="v" sid="1TI 6:10"/>Porque o amor ao dinheiro é raiz de todo tipo de mal. Alguns, por causa desse amor, se desviaram da fé e encheram a própria vida de muitas dores.
-<verse eid="1TI 6:10"/><verse number="11" style="v" sid="1TI 6:11"/>Você, porém, homem de Deus, fuja de tudo isso e busque a justiça, a piedade, a fé, o amor, a perseverança e a mansidão.  
-<verse eid="1TI 6:11"/><verse number="12" style="v" sid="1TI 6:12"/>Lute o bom combate da fé. Agarre-se com firmeza à vida eterna para a qual você foi chamado e que confessou de modo tão claro diante de muitas testemunhas. 
-<verse eid="1TI 6:12"/><verse number="13" style="v" sid="1TI 6:13"/>Eu o encarrego, diante de Deus, que dá vida a todas as coisas, e de Cristo Jesus, que deu bom testemunho diante de Pôncio Pilatos,  
-<verse eid="1TI 6:13"/><verse number="14" style="v" sid="1TI 6:14"/>de obedecer a tudo o que lhe foi ordenado, para que ninguém encontre falta em você, desde agora até a manifestação do nosso Senhor Jesus Cristo. 
-<verse eid="1TI 6:14"/><verse number="15" style="v" sid="1TI 6:15"/>No tempo certo, Deus fará Cristo ser revelado. Ele é o bendito e único Soberano, o Rei dos reis e Senhor dos senhores, 
-<verse eid="1TI 6:15"/><verse number="16" style="v" sid="1TI 6:16"/>o único que possui imortalidade e habita em luz tão intensa que ninguém pode se aproximar. Ninguém jamais o viu, nem poderá ver. A ele sejam honra e poder para sempre. Amém.
-<verse eid="1TI 6:16"/><verse number="17" style="v" sid="1TI 6:17"/>Ordene aos ricos deste mundo que não sejam orgulhosos, nem ponham a sua confiança na incerteza das riquezas, mas no Deus vivo, que nos concede com abundância todas as coisas para que delas desfrutemos. 
-<verse eid="1TI 6:17"/><verse number="18" style="v" sid="1TI 6:18"/>Diga-lhes que pratiquem o bem; que sejam ricos em boas obras, generosos e prontos para repartir com os que precisam.
-<verse eid="1TI 6:18"/><verse number="19" style="v" sid="1TI 6:19"/>Assim, acumularão para si mesmos um verdadeiro tesouro no céu, um fundamento firme para o futuro, e alcançarão a verdadeira vida. 
-<verse eid="1TI 6:19"/><verse number="20" style="v" sid="1TI 6:20"/>Timóteo, guarde o que lhe foi confiado. Afaste-se das conversas vazias e profanas e dos discursos de quem se orgulha de um falso conhecimento, revelando, na verdade, a própria ignorância.  
-<verse eid="1TI 6:20"/><verse number="21" style="v" sid="1TI 6:21"/>Alguns, seguindo esse falso saber, se desviaram da fé. Que a graça de Deus esteja com vocês.
+  <para style="p"><verse number="1" style="v" sid="1TI 6:1"/>Todos os que vivem como escravos devem servir aos seus senhores com empenho e respeito, para que o nome de Deus e o nosso ensino não sejam difamados.
+<verse eid="1TI 6:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="1TI 6:2"/>Se os senhores deles também forem crentes, isso não é motivo para perder o respeito. Ao contrário, devem servir com ainda mais dedicação, porque, por meio do trabalho deles, um irmão na fé é beneficiado. Ensine essas verdades e exorte todos a segui-las.
+<verse eid="1TI 6:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="1TI 6:3"/>Se alguém transmite um ensino falso e não aceita as palavras corretas e úteis do nosso Senhor Jesus Cristo, nem o ensino que conduz a uma vida piedosa,
+<verse eid="1TI 6:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="1TI 6:4"/>essa pessoa é cheia de orgulho e sem entendimento. Ela se apega de modo doentio a discussões sobre palavras, que produzem inveja, brigas, insultos, acusações e suspeitas malignas.
+<verse eid="1TI 6:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="1TI 6:5"/>Gente assim vive em contendas, sua mente está corrompida e já não conhece a verdade. Para essas pessoas, a vida piedosa se tornou apenas um meio de obter lucro. Afaste-se delas.
+<verse eid="1TI 6:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="1TI 6:6"/>De fato, há grande riqueza em viver com piedade e estar contente com o que se tem.
+<verse eid="1TI 6:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="1TI 6:7"/>Pois nada trouxemos ao entrar neste mundo, e nada poderemos levar quando dele sairmos.
+<verse eid="1TI 6:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="1TI 6:8"/>Portanto, se temos o necessário para comer e para nos vestir, devemos considerar isso suficiente.
+<verse eid="1TI 6:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="1TI 6:9"/>Mas aqueles que desejam ficar ricos caem em tentações, em armadilhas e em muitos desejos tolos e prejudiciais, que trazem dano, ruína e, por fim, destruição.
+<verse eid="1TI 6:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="1TI 6:10"/>Porque o amor ao dinheiro é raiz de todo tipo de mal. Alguns, por causa desse amor, se desviaram da fé e encheram a própria vida de muitas dores.
+<verse eid="1TI 6:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="1TI 6:11"/>Você, porém, homem de Deus, fuja de tudo isso e busque a justiça, a piedade, a fé, o amor, a perseverança e a mansidão.
+<verse eid="1TI 6:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="1TI 6:12"/>Lute o bom combate da fé. Agarre-se com firmeza à vida eterna para a qual você foi chamado e que confessou de modo tão claro diante de muitas testemunhas.
+<verse eid="1TI 6:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="1TI 6:13"/>Eu o encarrego, diante de Deus, que dá vida a todas as coisas, e de Cristo Jesus, que deu bom testemunho diante de Pôncio Pilatos,
+<verse eid="1TI 6:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="1TI 6:14"/>de obedecer a tudo o que lhe foi ordenado, para que ninguém encontre falta em você, desde agora até a manifestação do nosso Senhor Jesus Cristo.
+<verse eid="1TI 6:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="1TI 6:15"/>No tempo certo, Deus fará Cristo ser revelado. Ele é o bendito e único Soberano, o Rei dos reis e Senhor dos senhores,
+<verse eid="1TI 6:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="1TI 6:16"/>o único que possui imortalidade e habita em luz tão intensa que ninguém pode se aproximar. Ninguém jamais o viu, nem poderá ver. A ele sejam honra e poder para sempre. Amém.
+<verse eid="1TI 6:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="1TI 6:17"/>Ordene aos ricos deste mundo que não sejam orgulhosos, nem ponham a sua confiança na incerteza das riquezas, mas no Deus vivo, que nos concede com abundância todas as coisas para que delas desfrutemos.
+<verse eid="1TI 6:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="1TI 6:18"/>Diga-lhes que pratiquem o bem; que sejam ricos em boas obras, generosos e prontos para repartir com os que precisam.
+<verse eid="1TI 6:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="1TI 6:19"/>Assim, acumularão para si mesmos um verdadeiro tesouro no céu, um fundamento firme para o futuro, e alcançarão a verdadeira vida.
+<verse eid="1TI 6:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="1TI 6:20"/>Timóteo, guarde o que lhe foi confiado. Afaste-se das conversas vazias e profanas e dos discursos de quem se orgulha de um falso conhecimento, revelando, na verdade, a própria ignorância.
+<verse eid="1TI 6:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="1TI 6:21"/>Alguns, seguindo esse falso saber, se desviaram da fé. Que a graça de Deus esteja com vocês.
 <verse eid="1TI 6:21"/></para>
   <chapter eid="1TI 6"/>
 </usx>

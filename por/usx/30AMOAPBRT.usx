@@ -1,186 +1,323 @@
 <usx version="3.1">
-  <book code="AMO" style="id">EN</book>
-  <para style="h">Amos
+  <book code="AMO" style="id">amo PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Amós
 </para>
-  <para style="toc1">Amos
+  <para style="toc1">Amós
 </para>
-  <para style="toc2">Amos
+  <para style="toc2">Amós
 </para>
-  <para style="toc3">AMO
+  <para style="toc3">Am
 </para>
-  <para style="mt1">Amos
+  <para style="mt1">Amós
 </para>
   <chapter number="1" style="c" sid="AMO 1"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 1:1"/>Amós era pastor e morava em Tecoa; ele cuidava dos seus rebanhos, e em uma visão Deus lhe mostrou coisas que aconteceriam com a sua nação, Israel; isso ocorreu quando Uzias reinava em Judá e Jeroboão, filho de Joás, reinava em Israel, dois anos antes do terremoto.  
-<verse eid="AMO 1:1"/><verse number="2" style="v" sid="AMO 1:2"/>Este é o registro do que Amós viu e ouviu: “De Sião o SENHOR levanta a sua voz como leão; de Jerusalém ele faz ouvir um clamor forte, e soa como trovão; então os pastos se entristecem, e o verde do Carmelo se seca”.  
-<verse eid="AMO 1:2"/><verse number="3" style="v" sid="AMO 1:3"/>Assim diz o SENHOR: “Damasco acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, pois esmagaram Gileade com trilhos de ferro.  
-<verse eid="AMO 1:3"/><verse number="4" style="v" sid="AMO 1:4"/>Por causa disso, enviarei fogo ao palácio de Hazael, e as chamas consumirão as fortalezas de Ben-Hadade.
-<verse eid="AMO 1:4"/><verse number="5" style="v" sid="AMO 1:5"/>Quebrarei as barras que fecham os portões de Damasco; eliminarei os seus moradores até as planícies de Áven, e o povo da Síria voltará a Quir em cativeiro”, diz o SENHOR.  
-<verse eid="AMO 1:5"/><verse number="6" style="v" sid="AMO 1:6"/>Assim diz o SENHOR: “Gaza acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque levou o meu povo para longe e o vendeu como escravo a Edom.
-<verse eid="AMO 1:6"/><verse number="7" style="v" sid="AMO 1:7"/>Portanto, porei fogo nos muros de Gaza, e o fogo devorará todas as suas fortalezas.
-<verse eid="AMO 1:7"/><verse number="8" style="v" sid="AMO 1:8"/>Farei cair os moradores de Asdode, destruirei Ecrom e atingirei o rei de Ascalom, até que pereça o último filisteu”, diz o Soberano, o SENHOR.  
-<verse eid="AMO 1:8"/><verse number="9" style="v" sid="AMO 1:9"/>Assim diz o SENHOR: “Tiro acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque esqueceu o acordo de amizade e entregou o meu povo, vendendo-o como escravo a Edom.  
-<verse eid="AMO 1:9"/><verse number="10" style="v" sid="AMO 1:10"/>Por isso, queimarei as muralhas de Tiro, e o fogo consumirá por completo as suas fortalezas.
-<verse eid="AMO 1:10"/><verse number="11" style="v" sid="AMO 1:11"/>Assim diz o SENHOR: “Edom acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque perseguiu o seu irmão com a espada e não teve compaixão; atacou com fúria sem cessar, e a sua ira não se apaga.
-<verse eid="AMO 1:11"/><verse number="12" style="v" sid="AMO 1:12"/>Por isso, acenderei fogo em Temã, e ele alcançará e queimará as fortalezas de Bozra”.  
-<verse eid="AMO 1:12"/><verse number="13" style="v" sid="AMO 1:13"/>Assim diz o SENHOR: “Os moradores de Amom acumulam pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque, em guerra contra Gileade, para ampliar o seu território, cometeram crueldades e mataram à espada mulheres grávidas e os filhos que ainda nasceriam.
-<verse eid="AMO 1:13"/><verse number="14" style="v" sid="AMO 1:14"/>Por causa disso, incendiarei as muralhas de Rabá e queimarei as suas fortalezas; haverá gritos de batalha, como o estrondo do vento na tempestade.
-<verse eid="AMO 1:14"/><verse number="15" style="v" sid="AMO 1:15"/>O rei de Amom e os seus príncipes irão juntos para o exílio”, diz o SENHOR. 
+  <para style="p"><verse number="1" style="v" sid="AMO 1:1"/>Amós era pastor e morava em Tecoa. Ele cuidava dos seus rebanhos, e numa visão Deus lhe mostrou coisas que aconteceriam com a sua nação, Israel. Isso ocorreu quando Uzias reinava em Judá e Jeroboão, filho de Joás, reinava em Israel, dois anos antes do terremoto.
+<verse eid="AMO 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 1:2"/>Este é o registro do que Amós viu e ouviu: “De Sião o SENHOR levanta a sua voz como leão; de Jerusalém ele faz ouvir um clamor forte, como um trovão; então as pastagens secam, e o verde do Carmelo murcha”.
+<verse eid="AMO 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 1:3"/>Assim diz o SENHOR: “Damasco acumula pecado sobre pecado. Por isso, não retirarei o castigo por mais tempo, pois ela esmagou Gileade com trilhos de ferro.
+<verse eid="AMO 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 1:4"/>Por causa disso, enviarei fogo ao palácio de Hazael, e as chamas consumirão as fortalezas de Ben-Hadade.
+<verse eid="AMO 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 1:5"/>Quebrarei as barras que fecham os portões de Damasco. Destruirei o rei que governa no vale de Áven e o governante de Bete-Éden; e o povo da Síria irá como prisioneiro para Quir”, diz o SENHOR.
+<verse eid="AMO 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 1:6"/>Assim diz o SENHOR: “Gaza acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque levou comunidades inteiras como prisioneiras e as vendeu como escravas a Edom.
+<verse eid="AMO 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 1:7"/>Portanto, porei fogo nos muros de Gaza, e o fogo devorará todas as suas fortalezas.
+<verse eid="AMO 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 1:8"/>Farei cair o rei de Asdode, atingirei o rei de Ascalom e levantarei a minha mão contra Ecrom, até que morra o último filisteu”, diz o Soberano, o SENHOR.
+<verse eid="AMO 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 1:9"/>Assim diz o SENHOR: “Tiro acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque esqueceu o acordo de amizade e vendeu comunidades inteiras de irmãos como escravas a Edom.
+<verse eid="AMO 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 1:10"/>Por isso, queimarei as muralhas de Tiro, e o fogo consumirá as suas fortalezas.
+<verse eid="AMO 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 1:11"/>Assim diz o SENHOR: “Edom acumula pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque perseguiu o seu irmão com a espada e não teve compaixão; atacou com fúria sem cessar, e a sua ira não se apaga.
+<verse eid="AMO 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 1:12"/>Por isso, acenderei fogo em Temã, e ele alcançará e queimará as fortalezas de Bozra”.
+<verse eid="AMO 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 1:13"/>Assim diz o SENHOR: “Os moradores de Amom acumulam pecado sobre pecado; por isso, não retirarei o castigo por mais tempo, porque, em guerra contra Gileade, para ampliar o seu território, cometeram crueldades e mataram à espada mulheres grávidas e os filhos que ainda nasceriam.
+<verse eid="AMO 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 1:14"/>Por causa disso, incendiarei as muralhas de Rabá e queimarei as suas fortalezas; haverá gritos de batalha, como o estrondo do vento na tempestade.
+<verse eid="AMO 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 1:15"/>O rei de Amom e os seus príncipes irão juntos para o exílio”, diz o SENHOR.
 <verse eid="AMO 1:15"/><verse eid="AMO 1:15"/></para>
   <chapter eid="AMO 1"/>
   <chapter number="2" style="c" sid="AMO 2"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 2:1"/>Assim diz o SENHOR: “Moabe acumula culpa sem cessar; não deixarei isso sem resposta, pois queimaram os ossos do rei de Edom até virarem cinza.  
-<verse eid="AMO 2:1"/><verse number="2" style="v" sid="AMO 2:2"/>Por isso enviarei fogo contra Moabe; ele consumirá as fortalezas de Queriote, e Moabe cairá em meio a tumulto, com gritos de guerra e som de trombetas.  
-<verse eid="AMO 2:2"/><verse number="3" style="v" sid="AMO 2:3"/>Eliminarei o governante do meio deles e derrubarei, com ele, todas as autoridades que o seguem”, diz o SENHOR.  
-<verse eid="AMO 2:3"/><verse number="4" style="v" sid="AMO 2:4"/>Assim diz o SENHOR: “Judá também multiplica suas faltas; não os deixarei sem resposta, porque rejeitaram a lei de Deus e não quiseram obedecer; seus próprios enganos os levaram a errar como erraram seus pais.  
-<verse eid="AMO 2:4"/><verse number="5" style="v" sid="AMO 2:5"/>Por isso enviarei fogo sobre Judá; ele queimará as fortalezas de Jerusalém”.  
-<verse eid="AMO 2:5"/><verse number="6" style="v" sid="AMO 2:6"/>Assim diz o SENHOR: “Israel também peca sem parar; não os deixarei sem resposta, porque venderam o justo por prata e o pobre por um par de sandálias.  
-<verse eid="AMO 2:6"/><verse number="7" style="v" sid="AMO 2:7"/>Eles esmagam os necessitados no pó da terra e desviam o direito dos simples; pai e filho se deitam com a mesma mulher do culto pagão e, assim, profanam o meu santo nome.  
-<verse eid="AMO 2:7"/><verse number="8" style="v" sid="AMO 2:8"/>Junto aos seus altares se estendem sobre roupas tomadas como penhor, e na casa do seu deus oferecem vinho recebido como multa.
-<verse eid="AMO 2:8"/><verse number="9" style="v" sid="AMO 2:9"/>“Eu destruí diante deles os amorreus, altos como cedros e firmes como carvalhos; arranquei seus frutos por cima e cortei suas raízes por baixo.  
-<verse eid="AMO 2:9"/><verse number="10" style="v" sid="AMO 2:10"/>Eu tirei Israel do Egito e os conduzi pelo deserto por quarenta anos, para lhes entregar a terra dos amorreus.  
-<verse eid="AMO 2:10"/><verse number="11" style="v" sid="AMO 2:11"/>Eu levantei entre seus filhos nazireus e profetas; vocês podem negar isso, Israel?”, diz o SENHOR.  
-<verse eid="AMO 2:11"/><verse number="12" style="v" sid="AMO 2:12"/>“Mas vocês fizeram os nazireus cair, obrigando-os a beber vinho, e calaram os meus profetas, dizendo: ‘Não falem!’.
-<verse eid="AMO 2:12"/><verse number="13" style="v" sid="AMO 2:13"/>Por isso eu os farei gemer, como geme uma carroça carregada de feixes de trigo.  
-<verse eid="AMO 2:13"/><verse number="14" style="v" sid="AMO 2:14"/>O mais veloz não achará saída na fuga; o forte perderá a força, e o poderoso não conseguirá salvar a própria vida.  
-<verse eid="AMO 2:14"/><verse number="15" style="v" sid="AMO 2:15"/>O arqueiro não manterá a mira; o corredor não correrá o bastante para escapar, e nem o cavaleiro mais hábil livrará a sua vida.
-<verse eid="AMO 2:15"/><verse number="16" style="v" sid="AMO 2:16"/>Até o guerreiro de coração firme largará as armas e fugirá para salvar a vida naquele dia”. Eu, o SENHOR, falei. 
+  <para style="p"><verse number="1" style="v" sid="AMO 2:1"/>Assim diz o SENHOR: “Moabe acumula culpa sem cessar; não deixarei isso sem resposta, pois eles queimaram os ossos do rei de Edom até virarem cinza.
+<verse eid="AMO 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 2:2"/>Por isso enviarei fogo contra Moabe; ele consumirá as fortalezas de Queriote, e Moabe cairá em meio a tumulto, com gritos de guerra e som de trombetas.
+<verse eid="AMO 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 2:3"/>Eliminarei o governante do meio deles e derrubarei, com ele, todas as autoridades que o seguem”, diz o SENHOR.
+<verse eid="AMO 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 2:4"/>Assim diz o SENHOR: “Judá também multiplica suas faltas; não deixarei seus habitantes sem resposta, porque rejeitaram a lei de Deus e não quiseram obedecer; deixaram‑se enganar por deuses falsos, como fizeram seus pais.
+<verse eid="AMO 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 2:5"/>Por isso enviarei fogo sobre Judá; ele queimará as fortalezas de Jerusalém”.
+<verse eid="AMO 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 2:6"/>Assim diz o SENHOR: “Israel também peca sem parar; não deixarei seus habitantes sem castigo, porque venderam o justo por prata e o pobre por um par de sandálias.
+<verse eid="AMO 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 2:7"/>Eles esmagam os necessitados no pó da terra e desviam o direito dos simples; pai e filho se deitam com a mesma mulher e, assim, profanam o meu santo nome.
+<verse eid="AMO 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 2:8"/>Junto aos seus altares se estendem sobre roupas tomadas como penhor, e na casa do seu deus oferecem vinho recebido como multa.
+<verse eid="AMO 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 2:9"/>Eu destruí diante deles os amorreus, altos como cedros e firmes como carvalhos; arranquei seus frutos por cima e cortei suas raízes por baixo.
+<verse eid="AMO 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 2:10"/>Eu tirei os israelitas do Egito e os conduzi pelo deserto por quarenta anos, para lhes entregar a terra dos amorreus.
+<verse eid="AMO 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 2:11"/>Eu levantei entre seus filhos nazireus e profetas; vocês podem negar isso, Israel?”, diz o SENHOR.
+<verse eid="AMO 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 2:12"/>“Mas vocês obrigaram os nazireus a beber vinho e calaram os meus profetas, dizendo: ‘Não falem!’.
+<verse eid="AMO 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 2:13"/>Por isso eu os esmagarei, como uma carroça pesada esmaga a terra quando está carregada de trigo.
+<verse eid="AMO 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 2:14"/>O mais veloz não achará saída na fuga; o forte perderá a força, e o poderoso não conseguirá salvar a própria vida.
+<verse eid="AMO 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 2:15"/>O arqueiro não manterá a mira; o corredor não correrá o bastante para escapar, e nem o cavaleiro mais hábil livrará a sua vida.
+<verse eid="AMO 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="AMO 2:16"/>Até o guerreiro mais corajoso fugirá nu naquele dia para salvar a vida”. Eu, o SENHOR, falei.
 <verse eid="AMO 2:16"/><verse eid="AMO 2:16"/></para>
   <chapter eid="AMO 2"/>
   <chapter number="3" style="c" sid="AMO 3"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 3:1"/>Ouçam esta sentença: o SENHOR a pronuncia contra vocês, israelitas, contra toda a família que eu fiz sair do Egito.  
-<verse eid="AMO 3:1"/><verse number="2" style="v" sid="AMO 3:2"/>“Entre todos os povos da terra, eu escolhi vocês; por isso, eu os chamarei para prestar contas de todas as suas culpas.  
-<verse eid="AMO 3:2"/><verse number="3" style="v" sid="AMO 3:3"/>Podem duas pessoas seguir pelo mesmo caminho, se não tiverem acordo entre si?  
-<verse eid="AMO 3:3"/><verse number="4" style="v" sid="AMO 3:4"/>Acaso o leão ruge na mata, se não tomou presa? E o leão novo grita em sua toca, se nada capturou?  
-<verse eid="AMO 3:4"/><verse number="5" style="v" sid="AMO 3:5"/>A armadilha se fecha sem que o pássaro pise nela? E a armadilha se levanta do chão, se não apanhou coisa alguma?  
-<verse eid="AMO 3:5"/><verse number="6" style="v" sid="AMO 3:6"/>Quando a trombeta soa na cidade, o povo não treme? E quando a calamidade chega à terra, não é o SENHOR quem a envia?  
-<verse eid="AMO 3:6"/><verse number="7" style="v" sid="AMO 3:7"/>Pois o SENHOR, o Soberano, não executa seu plano sem antes revelar o que fará aos seus servos, os profetas.  
-<verse eid="AMO 3:7"/><verse number="8" style="v" sid="AMO 3:8"/>O leão rugiu, quem não terá medo? O SENHOR, o Soberano, falou, quem não anunciará a mensagem?  
-<verse eid="AMO 3:8"/><verse number="9" style="v" sid="AMO 3:9"/>Proclamem nos palácios de Asdode e nos palácios do Egito e digam: “Juntem-se nos montes de Samaria e vejam o grande tumulto que há ali e as opressões dentro dela.  
-<verse eid="AMO 3:9"/><verse number="10" style="v" sid="AMO 3:10"/>Eles já não sabem agir com retidão”, diz o SENHOR; “e em suas casas belas acumulam bens obtidos por roubo e por violência”.  
-<verse eid="AMO 3:10"/><verse number="11" style="v" sid="AMO 3:11"/>Por isso, assim diz o SENHOR, o Soberano: “Um adversário vem; ele cercará a terra, derrubará a tua força e saqueará as tuas casas agradáveis”.  
-<verse eid="AMO 3:11"/><verse number="12" style="v" sid="AMO 3:12"/>Assim diz o SENHOR: “Como o pastor arranca da boca do leão duas pernas e um pedaço de orelha, assim serão resgatados os israelitas que moram em Samaria; restará apenas uma cadeira de descanso e uma cama quebrada.  
-<verse eid="AMO 3:12"/><verse number="13" style="v" sid="AMO 3:13"/>“Ouçam este aviso e façam a notícia correr por Israel”, diz o SENHOR, o Soberano, o Deus dos Exércitos.  
-<verse eid="AMO 3:13"/><verse number="14" style="v" sid="AMO 3:14"/>“No dia em que eu punir Israel por suas culpas, também visitarei os altares de Betel; as pontas do altar serão cortadas e cairão ao chão.  
-<verse eid="AMO 3:14"/><verse number="15" style="v" sid="AMO 3:15"/>Eu derrubarei as casas de inverno e as casas de verão; os palácios de marfim serão destruídos, e as grandes mansões desaparecerão”, diz o SENHOR. 
+  <para style="p"><verse number="1" style="v" sid="AMO 3:1"/>Ouçam esta sentença! O SENHOR a pronuncia contra vocês, israelitas, contra toda a família que eu fiz sair do Egito:
+<verse eid="AMO 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 3:2"/>“Entre todos os povos da terra, eu escolhi vocês. Por isso, eu os chamarei para prestar contas de todas as suas culpas”.
+<verse eid="AMO 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 3:3"/>Podem duas pessoas seguir pelo mesmo caminho, se não tiverem acordo entre si?
+<verse eid="AMO 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 3:4"/>Acaso o leão ruge na mata, se não tomou presa? E o leão novo grita em sua toca, se nada capturou?
+<verse eid="AMO 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 3:5"/>A armadilha se fecha sem que o pássaro pise nela? E a armadilha se levanta do chão, se não apanhou coisa alguma?
+<verse eid="AMO 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 3:6"/>Quando a trombeta soa na cidade, o povo não treme? E quando a calamidade chega à terra, não é o SENHOR quem a envia?
+<verse eid="AMO 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 3:7"/>Pois o SENHOR, o Soberano, não executa seu plano sem antes revelar o que fará aos seus servos, os profetas.
+<verse eid="AMO 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 3:8"/>O leão rugiu, quem não terá medo? O SENHOR, o Soberano, falou, quem não anunciará a mensagem?
+<verse eid="AMO 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 3:9"/>Proclamem nos palácios de Asdode e nos palácios do Egito e digam: “Juntem-se nos montes de Samaria e vejam o grande tumulto que há ali, e as opressões em Israel.
+<verse eid="AMO 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 3:10"/>Eles já não sabem agir com retidão”, diz o SENHOR; “e em suas casas belas acumulam bens obtidos por roubo e por violência”.
+<verse eid="AMO 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 3:11"/>Por isso, assim diz o SENHOR, o Soberano: “Um adversário vem; ele cercará a terra, derrubará a sua força e saqueará as suas casas agradáveis”.
+<verse eid="AMO 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 3:12"/>Assim diz o SENHOR: “Como o pastor salva da boca do leão apenas duas pernas ou um pedaço de orelha da sua ovelha, assim também serão salvos os israelitas que habitam Samaria: com apenas a ponta da cama e um pedaço do sofá.
+<verse eid="AMO 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 3:13"/>Ouçam isto e testemunhem contra o povo de Israel”, diz o SENHOR, o Soberano, o Deus dos Exércitos.
+<verse eid="AMO 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 3:14"/>“No dia em que eu punir Israel por suas culpas, também visitarei os altares de Betel; as pontas do altar serão cortadas e cairão ao chão.
+<verse eid="AMO 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 3:15"/>Eu derrubarei as casas de inverno e as casas de verão; os palácios de marfim serão destruídos, e as grandes mansões desaparecerão”, diz o SENHOR.
 <verse eid="AMO 3:15"/><verse eid="AMO 3:15"/></para>
   <chapter eid="AMO 3"/>
   <chapter number="4" style="c" sid="AMO 4"/>
   <para style="p"><verse number="1" style="v" sid="AMO 4:1"/>Ouçam esta palavra, vocês, “vacas bem alimentadas” de Basã, que moram em Samaria; vocês que esmagam os pobres, ferem os necessitados e dizem aos seus maridos: “Tragam mais bebida, e vamos nos alegrar!”.
-<verse eid="AMO 4:1"/><verse number="2" style="v" sid="AMO 4:2"/>O SENHOR Deus jurou pela sua santidade: virão dias em que ele porá ganchos em suas narinas e as levará para longe, como se conduz o gado; sim, todas vocês serão tiradas da cidade, puxadas e presas por anzóis.  
-<verse eid="AMO 4:2"/><verse number="3" style="v" sid="AMO 4:3"/>Vocês serão arrancadas de suas casas bonitas e sairão pela abertura mais próxima do muro; serão empurradas para fora, na direção do Hermom, diz o SENHOR.  
-<verse eid="AMO 4:3"/><verse number="4" style="v" sid="AMO 4:4"/>“Vão a Betel e continuem oferecendo sacrifícios aos ídolos; vão a Gilgal e continuem aumentando a desobediência; tragam seus sacrifícios pela manhã e apresentem seus dízimos no terceiro dia!
-<verse eid="AMO 4:4"/><verse number="5" style="v" sid="AMO 4:5"/>Ofereçam pães como oferta de gratidão e anunciem em voz alta suas ofertas voluntárias; pois é disso que vocês gostam, e disso vocês se orgulham”, diz o SENHOR Deus.  
-<verse eid="AMO 4:5"/><verse number="6" style="v" sid="AMO 4:6"/>“Eu deixei vocês com fome em cada cidade”, diz o SENHOR, “e faltou pão em todos os lugares; mas, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.  
-<verse eid="AMO 4:6"/><verse number="7" style="v" sid="AMO 4:7"/>“Eu também segurei a chuva, três meses antes da colheita; fiz chover sobre uma cidade e não sobre outra; uma plantação recebeu água, e a outra ficou seca e morreu.
-<verse eid="AMO 4:7"/><verse number="8" style="v" sid="AMO 4:8"/>Então pessoas de duas ou três cidades andaram cansadas até onde havia chovido, para buscar um pouco de água; mas não havia o bastante para todos; apesar disso, vocês não voltaram para mim”, diz o SENHOR.  
-<verse eid="AMO 4:8"/><verse number="9" style="v" sid="AMO 4:9"/>“Eu feri seus jardins e suas vinhas com pragas e ferrugem; os gafanhotos devoraram suas figueiras e suas oliveiras; e, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.  
-<verse eid="AMO 4:9"/><verse number="10" style="v" sid="AMO 4:10"/>“Eu enviei contra vocês doenças como as do Egito; matei seus jovens na guerra e tomei seus cavalos; o cheiro dos mortos subiu e encheu o ar; apesar disso, vocês não voltaram para mim”, diz o SENHOR.
-<verse eid="AMO 4:10"/><verse number="11" style="v" sid="AMO 4:11"/>“Eu derrubei algumas de suas cidades, como derrubei Sodoma e Gomorra; os que restaram pareciam um pedaço de lenha tirado do fogo, meio queimado; mas, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.  
-<verse eid="AMO 4:11"/><verse number="12" style="v" sid="AMO 4:12"/>"Por isso, Israel, eu farei com vocês tudo o que anunciei; e, porque farei isso, prepare-se para encontrar o julgamento do seu Deus, ó Israel.
-<verse eid="AMO 4:12"/><verse number="13" style="v" sid="AMO 4:13"/>Pois vocês estão diante daquele que formou as montanhas e criou os ventos, daquele que conhece os pensamentos do ser humano; ele transforma a luz do dia em escuridão e pisa sobre as alturas da terra; SENHOR, Deus dos Exércitos, é o seu nome. 
+<verse eid="AMO 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 4:2"/>O SENHOR Deus jurou pela sua santidade: “Virão dias em que ele porá ganchos em suas narinas e as levará para longe, como se conduz o gado; sim, todas vocês serão tiradas da cidade, puxadas e presas por anzóis.
+<verse eid="AMO 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 4:3"/>Vocês serão arrancadas de suas casas e sairão pela abertura mais próxima do muro; serão empurradas para fora, na direção do Hermom”, diz o SENHOR.
+<verse eid="AMO 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 4:4"/>“Vão a Betel e continuem a oferecer sacrifícios; vão a Gilgal e continuem a aumentar a desobediência; tragam seus sacrifícios pela manhã e apresentem seus dízimos no terceiro dia!
+<verse eid="AMO 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 4:5"/>Ofereçam pães fermentados como oferta de gratidão e anunciem em voz alta suas ofertas voluntárias; pois é disso que vocês gostam, e disso vocês se orgulham”, diz o SENHOR Deus.
+<verse eid="AMO 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 4:6"/>“Eu deixei vocês com fome em cada cidade”, diz o SENHOR, “e faltou pão em todos os lugares; mas, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.
+<verse eid="AMO 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 4:7"/>“Eu também segurei a chuva, três meses antes da colheita; fiz chover sobre uma cidade e não sobre outra; uma plantação recebeu água, e a outra ficou seca e morreu.
+<verse eid="AMO 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 4:8"/>Então pessoas de duas ou três cidades andaram cansadas até onde havia chovido, para buscar um pouco de água; mas não havia o bastante para todos; apesar disso, vocês não voltaram para mim”, diz o SENHOR.
+<verse eid="AMO 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 4:9"/>“Eu feri seus jardins e suas vinhas com pragas e ferrugem; os gafanhotos devoraram suas figueiras e suas oliveiras; e, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.
+<verse eid="AMO 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 4:10"/>“Eu enviei contra vocês pragas como as do Egito; matei seus jovens na guerra e tomei seus cavalos; o cheiro dos mortos subiu e encheu o ar; apesar disso, vocês não voltaram para mim”, diz o SENHOR.
+<verse eid="AMO 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 4:11"/>“Eu derrubei algumas de suas cidades, como derrubei Sodoma e Gomorra; os que sobreviveram pareciam um pedaço de lenha tirado do fogo, meio queimado; mas, mesmo assim, vocês não voltaram para mim”, diz o SENHOR.
+<verse eid="AMO 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 4:12"/>"Por isso, Israel, eu farei com vocês tudo o que anunciei; e, porque farei isso, prepare-se para encontrar o seu Deus, ó Israel”.
+<verse eid="AMO 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 4:13"/>Pois vocês estão diante daquele que formou as montanhas e criou os ventos, daquele que revela os seus pensamentos ao ser humano; ele transforma a luz do dia em escuridão e pisa sobre as alturas da terra; SENHOR, Deus dos Exércitos, é o seu nome.
 <verse eid="AMO 4:13"/><verse eid="AMO 4:13"/></para>
   <chapter eid="AMO 4"/>
   <chapter number="5" style="c" sid="AMO 5"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 5:1"/>Tomado de dor, eu levanto esta lamentação por ti, ó nação de Israel.  
-<verse eid="AMO 5:1"/><verse number="2" style="v" sid="AMO 5:2"/>“A jovem Israel, antes bela, caiu por terra; foi pisada e quebrada, e não se erguerá; ficou largada em seu próprio chão, e não há quem a levante”.  
-<verse eid="AMO 5:2"/><verse number="3" style="v" sid="AMO 5:3"/>Assim diz o Soberano, o SENHOR: “Da cidade que envia mil para a guerra, voltarão apenas cem; e da que envia cem, voltarão somente dez com vida”.  
-<verse eid="AMO 5:3"/><verse number="4" style="v" sid="AMO 5:4"/>Assim diz o SENHOR à casa de Israel: “Procurem a mim, e vocês viverão.  
-<verse eid="AMO 5:4"/><verse number="5" style="v" sid="AMO 5:5"/>Não busquem os ídolos de Betel; não sigam para Gilgal, nem passem por Berseba; porque Gilgal irá para o exílio, e Betel será reduzida a nada”.  
-<verse eid="AMO 5:5"/><verse number="6" style="v" sid="AMO 5:6"/>Procurem o SENHOR e vivam; do contrário, ele passará pela casa de Israel como fogo, e consumirá tudo; e em Betel não haverá quem apague.  
-<verse eid="AMO 5:6"/><verse number="7" style="v" sid="AMO 5:7"/>Vocês, homens maus, fazem da justiça um gosto amargo para os fracos; e lançam a retidão no chão, como se não valesse nada.  
-<verse eid="AMO 5:7"/><verse number="8" style="v" sid="AMO 5:8"/>Busquem aquele que formou as Plêiades e o Órion, que muda a noite em manhã e faz o dia voltar a ser noite, que chama as águas do mar e as derrama como chuva sobre a terra; SENHOR é o seu nome.  
-<verse eid="AMO 5:8"/><verse number="9" style="v" sid="AMO 5:9"/>Ele traz ruína com força e rapidez sobre o poderoso, e faz cair a destruição sobre as fortalezas.  
-<verse eid="AMO 5:9"/><verse number="10" style="v" sid="AMO 5:10"/>Vocês odeiam quem corrige no tribunal e desprezam quem fala com verdade.  
-<verse eid="AMO 5:10"/><verse number="11" style="v" sid="AMO 5:11"/>Vocês esmagam o pobre e tomam dele o alimento por impostos e multas; por isso, não habitarão as casas bem feitas que levantam, nem beberão o vinho das vinhas verdes que plantam.  
-<verse eid="AMO 5:11"/><verse number="12" style="v" sid="AMO 5:12"/>Pois eu sei que são muitas as suas culpas e grandes as suas transgressões: vocês atacam o justo, aceitam suborno e negam ao pobre o seu direito nos tribunais.  
-<verse eid="AMO 5:12"/><verse number="13" style="v" sid="AMO 5:13"/>Por isso, o prudente se cala naquele tempo, porque será um tempo de calamidade.  
-<verse eid="AMO 5:13"/><verse number="14" style="v" sid="AMO 5:14"/>Busquem o bem e não o mal, para que vocês vivam; então o SENHOR, Deus dos Exércitos, estará com vocês, como vocês dizem.  
-<verse eid="AMO 5:14"/><verse number="15" style="v" sid="AMO 5:15"/>Odeiem o mal e amem o bem; firmem a justiça no tribunal; talvez o SENHOR, Deus dos Exércitos, tenha misericórdia do remanescente de José.  
-<verse eid="AMO 5:15"/><verse number="16" style="v" sid="AMO 5:16"/>Por isso, assim diz o SENHOR, o Deus dos Exércitos, o Soberano: “Haverá lamento em todas as praças e gritos de dor em todas as ruas; chamem os lavradores para chorar e convoquem as pranteadoras para lamentar.  
-<verse eid="AMO 5:16"/><verse number="17" style="v" sid="AMO 5:17"/>Em toda vinha haverá pranto, porque eu passarei pelo meio de vocês”, diz o SENHOR.  
-<verse eid="AMO 5:17"/><verse number="18" style="v" sid="AMO 5:18"/>Ai dos que desejam o dia do SENHOR! “Para que vocês o querem? Esse dia não será luz, mas trevas; não será paz, mas castigo.
-<verse eid="AMO 5:18"/><verse number="19" style="v" sid="AMO 5:19"/>Será como alguém que foge de um leão e encontra um urso; ou como quem entra em casa, apoia a mão na parede, e uma serpente o morde.
-<verse eid="AMO 5:19"/><verse number="20" style="v" sid="AMO 5:20"/>Sim, o dia do SENHOR será trevas, e não luz; será escuridão fechada, sem qualquer claridade.  
-<verse eid="AMO 5:20"/><verse number="21" style="v" sid="AMO 5:21"/>“Eu detesto e rejeito as suas festas; não suporto as suas reuniões solenes.  
-<verse eid="AMO 5:21"/><verse number="22" style="v" sid="AMO 5:22"/>Ainda que me tragam holocaustos e ofertas de gratidão, eu não os aceitarei; e não darei atenção às suas ofertas de paz.
-<verse eid="AMO 5:22"/><verse number="23" style="v" sid="AMO 5:23"/>Afastem de mim o ruído dos seus cânticos; não ouvirei a música das suas liras, ainda que pareça bela.
-<verse eid="AMO 5:23"/><verse number="24" style="v" sid="AMO 5:24"/>O que eu quero é ver a justiça correr como um rio, e a retidão como uma corrente que não seca.
-<verse eid="AMO 5:24"/><verse number="25" style="v" sid="AMO 5:25"/>Vocês me trouxeram sacrifícios e ofertas no deserto durante quarenta anos, ó casa de Israel,
-<verse eid="AMO 5:25"/><verse number="26" style="v" sid="AMO 5:26"/>mas vocês carregaram Sicute, o seu rei, e Quium, as imagens dos seus deuses das estrelas, e os ídolos que vocês mesmos fizeram.  
-<verse eid="AMO 5:26"/><verse number="27" style="v" sid="AMO 5:27"/>Por isso, eu os enviarei ao exílio, para além de Damasco, junto com os seus ídolos”, diz o SENHOR, o Deus dos Exércitos. 
+  <para style="p"><verse number="1" style="v" sid="AMO 5:1"/>Tomado de dor, eu levanto esta lamentação por você, ó nação de Israel.
+<verse eid="AMO 5:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 5:2"/>“A virgem Israel caiu por terra e está abandonada em sua própria terra; não há quem a levante”.
+<verse eid="AMO 5:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 5:3"/>Assim diz o Soberano, o SENHOR: “Da cidade que envia mil para a guerra, voltarão apenas cem; e da que envia cem, voltarão somente dez com vida”.
+<verse eid="AMO 5:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 5:4"/>Assim diz o SENHOR à casa de Israel: “Procurem-me, e vocês viverão.
+<verse eid="AMO 5:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 5:5"/>Não busquem os ídolos de Betel; não sigam para Gilgal, nem passem por Berseba; porque Gilgal irá para o exílio, e Betel será reduzida a nada”.
+<verse eid="AMO 5:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 5:6"/>Procurem o SENHOR e vivam; do contrário, ele virá como fogo sobre os descendentes de José e os consumirá; e em Betel não haverá quem o apague.
+<verse eid="AMO 5:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 5:7"/>Vocês, homens maus, fazem da justiça um gosto amargo para os fracos; e lançam a retidão no chão, como se não valesse nada.
+<verse eid="AMO 5:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 5:8"/>Busquem aquele que formou as Plêiades e o Órion, que muda a noite em manhã e faz o dia voltar a ser noite, que chama as águas do mar e as derrama como chuva sobre a terra; SENHOR é o seu nome.
+<verse eid="AMO 5:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 5:9"/>Ele traz ruína com força e rapidez sobre o poderoso, e faz cair a destruição sobre as fortalezas.
+<verse eid="AMO 5:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 5:10"/>Vocês odeiam quem corrige no tribunal e desprezam quem fala com verdade.
+<verse eid="AMO 5:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 5:11"/>Vocês pisam no pobre e tiram dele o trigo; por isso, não morarão nas casas de pedra que construíram, nem beberão o vinho das vinhas que plantaram.
+<verse eid="AMO 5:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 5:12"/>Pois eu sei que são muitas as suas culpas e grandes as suas transgressões: vocês atacam o justo, aceitam suborno e negam ao pobre o seu direito nos tribunais.
+<verse eid="AMO 5:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 5:13"/>Por isso, o prudente se calará naquele tempo, porque será um tempo de calamidade.
+<verse eid="AMO 5:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 5:14"/>Busquem o bem e não o mal, para que vocês vivam; então o SENHOR, Deus dos Exércitos, estará com vocês, como vocês dizem.
+<verse eid="AMO 5:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 5:15"/>Odeiem o mal e amem o bem; firmem a justiça no tribunal; talvez o SENHOR, Deus dos Exércitos, tenha misericórdia do remanescente de José.
+<verse eid="AMO 5:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="AMO 5:16"/>Por isso, assim diz o SENHOR, o Deus dos Exércitos, o Soberano: “Haverá lamento em todas as praças e gritos de dor em todas as ruas; chamem os lavradores para chorar e convoquem as pranteadoras para lamentar.
+<verse eid="AMO 5:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="AMO 5:17"/>Em toda vinha haverá pranto, porque eu passarei pelo meio de vocês”, diz o SENHOR.
+<verse eid="AMO 5:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="AMO 5:18"/>Ai dos que desejam o dia do SENHOR! Para que vocês o querem? Esse dia não será luz, mas trevas; não será paz, mas castigo.
+<verse eid="AMO 5:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="AMO 5:19"/>Será como alguém que foge de um leão e encontra um urso; ou como quem entra em casa, apoia a mão na parede, e uma serpente o morde.
+<verse eid="AMO 5:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="AMO 5:20"/>Sim, o dia do SENHOR será trevas, e não luz; será escuridão fechada, sem qualquer claridade.
+<verse eid="AMO 5:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="AMO 5:21"/>“Eu detesto e rejeito as suas festas; não suporto as suas reuniões solenes.
+<verse eid="AMO 5:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="AMO 5:22"/>Ainda que me tragam ofertas queimadas e ofertas de cereais, eu não os aceitarei; e não darei atenção às suas ofertas de paz.
+<verse eid="AMO 5:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="AMO 5:23"/>Afastem de mim o ruído dos seus cânticos; não ouvirei a música das suas liras, ainda que pareça bela.
+<verse eid="AMO 5:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="AMO 5:24"/>O que eu quero é ver a justiça correr como um rio, e a retidão como uma corrente que não seca.
+<verse eid="AMO 5:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="AMO 5:25"/>Por acaso foi a mim que vocês trouxeram sacrifícios e ofertas durante os quarenta anos no deserto, ó casa de Israel?
+<verse eid="AMO 5:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="AMO 5:26"/>Não! Vocês carregaram Sicute, o seu rei, e Quium, as imagens dos seus deuses das estrelas, e os ídolos que vocês mesmos fizeram.
+<verse eid="AMO 5:26"/></para>
+  <para style="p"><verse number="27" style="v" sid="AMO 5:27"/>Por isso, eu os enviarei ao exílio, para além de Damasco, junto com os seus ídolos”, diz o SENHOR, o Deus dos Exércitos.
 <verse eid="AMO 5:27"/><verse eid="AMO 5:27"/></para>
   <chapter eid="AMO 5"/>
   <chapter number="6" style="c" sid="AMO 6"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 6:1"/>Ai de vocês que vivem à vontade em Sião, cercados de luxo, e se julgam seguros no monte de Samaria; vocês, homens conhecidos e admirados, a quem o povo de Israel procura.  
-<verse eid="AMO 6:1"/><verse number="2" style="v" sid="AMO 6:2"/>Vão a Calné e observem; depois passem pela grande Haná e desçam a Gate, na terra dos filisteus; eram mais fortes e maiores do que vocês, e vejam o que lhes aconteceu.  
-<verse eid="AMO 6:2"/><verse number="3" style="v" sid="AMO 6:3"/>Vocês afastam de si o pensamento do castigo, mas, com o que fazem, aproximam o dia do Julgamento.  
-<verse eid="AMO 6:3"/><verse number="4" style="v" sid="AMO 6:4"/>Vocês se deitam em camas de marfim e se estendem em leitos caros; comem cordeiros novos e novilhos escolhidos.  
-<verse eid="AMO 6:4"/><verse number="5" style="v" sid="AMO 6:5"/>Vocês cantam preguiçosamente ao som da harpa e se divertem em se chamar músicos como Davi.  
-<verse eid="AMO 6:5"/><verse number="6" style="v" sid="AMO 6:6"/>Vocês bebem vinho sem medida e se perfumam com os melhores óleos, mas não se importam com a dor de seus irmãos que precisam de ajuda.  
-<verse eid="AMO 6:6"/><verse number="7" style="v" sid="AMO 6:7"/>Por isso, vocês irão entre os primeiros para o exílio, e de repente a festa de vocês chegará ao fim.  
-<verse eid="AMO 6:7"/><verse number="8" style="v" sid="AMO 6:8"/>O SENHOR, o Soberano, jurou por si mesmo; assim declara o SENHOR, Deus dos Exércitos: “Eu rejeito o orgulho de Jacó e desprezo sua glória vazia; eu odeio seus palácios e entregarei esta cidade e tudo o que nela há aos inimigos”.  
-<verse eid="AMO 6:8"/><verse number="9" style="v" sid="AMO 6:9"/>Se restarem apenas dez homens numa casa, também eles morrerão.  
-<verse eid="AMO 6:9"/><verse number="10" style="v" sid="AMO 6:10"/>Um parente será o único que ficará para levar o morto e queimá-lo; ao tirar o corpo da casa, perguntará ao que estiver escondido lá dentro: “Existe mais alguém com você?” E ele responderá: “Não”; então o outro dirá: “Fique em silêncio; não devemos nem citar o nome do SENHOR”.  
-<verse eid="AMO 6:10"/><verse number="11" style="v" sid="AMO 6:11"/>Pois o SENHOR deu esta ordem: as casas grandes serão quebradas, e as casas pequenas também serão despedaçadas.  
-<verse eid="AMO 6:11"/><verse number="12" style="v" sid="AMO 6:12"/>Por acaso os cavalos correm sobre rochas? Por acaso os bois aram o mar? Isso não faz sentido; mas vocês fizeram pior: transformaram o direito em veneno e trocaram a justiça por injustiça.  
-<verse eid="AMO 6:12"/><verse number="13" style="v" sid="AMO 6:13"/>Vocês se alegram por Lo-Debar e se gabam, dizendo: “Com a nossa própria força tomaremos Carnaim”; escutem isto:
-<verse eid="AMO 6:13"/><verse number="14" style="v" sid="AMO 6:14"/>“Ó nação de Israel, levantarei contra vocês uma nação que os atacará; ela os apertará de ponta a ponta, desde Lebo-Hamate até o ribeiro de Arabá”, diz o SENHOR, Deus dos Exércitos. 
+  <para style="p"><verse number="1" style="v" sid="AMO 6:1"/>Ai de vocês que vivem à vontade em Sião, cercados de luxo, e se julgam seguros no monte de Samaria; vocês, homens conhecidos e admirados, a quem o povo de Israel procura.
+<verse eid="AMO 6:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 6:2"/>Vão a Calné e observem; depois passem pela grande Hamate e desçam a Gate, na terra dos filisteus. Elas são melhores do que os seus reinos? O território delas é maior que o de vocês?
+<verse eid="AMO 6:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 6:3"/>Vocês afastam de si o pensamento do castigo, mas, com o que fazem, aproximam o dia do mal.
+<verse eid="AMO 6:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 6:4"/>Vocês se deitam em camas de marfim e se estendem em leitos caros; comem cordeiros novos e novilhos escolhidos.
+<verse eid="AMO 6:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 6:5"/>Vocês tocam harpa como Davi e gostam de improvisar em instrumentos musicais.
+<verse eid="AMO 6:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 6:6"/>Vocês bebem vinho sem medida e se perfumam com os melhores óleos, mas não se entristecem com a ruína do seu próprio povo.
+<verse eid="AMO 6:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 6:7"/>Por isso, vocês irão entre os primeiros para o exílio, e de repente a festa de vocês chegará ao fim.
+<verse eid="AMO 6:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 6:8"/>O SENHOR, o Soberano, jurou por si mesmo; assim declara o SENHOR, Deus dos Exércitos: “Eu rejeito o orgulho de Jacó e desprezo sua glória vazia; eu odeio seus palácios e entregarei esta cidade e tudo o que nela há aos inimigos”.
+<verse eid="AMO 6:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 6:9"/>Se restarem apenas dez homens numa casa, também eles morrerão.
+<verse eid="AMO 6:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 6:10"/>Um parente será o único que ficará para levar o morto e queimá-lo; ao tirar o corpo da casa, perguntará ao que estiver escondido lá dentro: “Existe mais alguém com você?”. E ele responderá: “Não”; então o outro dirá: “Fique em silêncio; não devemos nem citar o nome do SENHOR”.
+<verse eid="AMO 6:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 6:11"/>Pois o SENHOR deu esta ordem: as casas grandes serão quebradas, e as casas pequenas também serão despedaçadas.
+<verse eid="AMO 6:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 6:12"/>Por acaso os cavalos correm sobre rochas? Por acaso os bois aram o mar? Isso não faz sentido; mas vocês fizeram pior: transformaram o direito em veneno e o fruto da justiça em amargura.
+<verse eid="AMO 6:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 6:13"/>Vocês se alegram pela conquista de Lo-Debar e se gabam, dizendo: “Não fomos nós que conquistamos Carnaim com a nossa própria força?”.
+<verse eid="AMO 6:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 6:14"/>“Ó nação de Israel, levantarei contra vocês uma nação que os atacará; ela os apertará de ponta a ponta, desde Lebo-Hamate até o ribeiro de Arabá”, diz o SENHOR, Deus dos Exércitos.
 <verse eid="AMO 6:14"/><verse eid="AMO 6:14"/></para>
   <chapter eid="AMO 6"/>
   <chapter number="7" style="c" sid="AMO 7"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 7:1"/>Foi isto que o SENHOR, o Soberano, me fez ver em visão: ele formava uma grande nuvem de gafanhotos para consumir as plantações que brotaram depois da primeira colheita, a colheita reservada ao rei.  
-<verse eid="AMO 7:1"/><verse number="2" style="v" sid="AMO 7:2"/>Quando os gafanhotos tinham comido tudo o que era verde sobre a terra, eu clamei: “SENHOR Soberano, peço que perdoes o teu povo; não deixes que esta praga caia sobre eles; se te levantares contra Jacó, como ele poderá permanecer? Israel é pequeno”.  
-<verse eid="AMO 7:2"/><verse number="3" style="v" sid="AMO 7:3"/>Então o SENHOR desistiu disso e declarou: “Isso não acontecerá”.  
-<verse eid="AMO 7:3"/><verse number="4" style="v" sid="AMO 7:4"/>Depois o SENHOR, o Soberano, mostrou-me outra visão: o SENHOR chamava um grande fogo para julgar os moradores de Israel; o fogo secava rios e mares e devorava a terra.  
-<verse eid="AMO 7:4"/><verse number="5" style="v" sid="AMO 7:5"/>Ao ver isso, eu disse: “SENHOR Deus, peço que não faças isso; se te voltares contra Israel, quem poderá resistir? Israel é pequeno”.  
-<verse eid="AMO 7:5"/><verse number="6" style="v" sid="AMO 7:6"/>Então o SENHOR também desistiu disso e respondeu: “Também isso não acontecerá”.  
-<verse eid="AMO 7:6"/><verse number="7" style="v" sid="AMO 7:7"/>Em seguida, ele me mostrou isto: o SENHOR estava de pé junto a um muro levantado com prumo, e tinha na mão o fio de prumo para examinar o muro.  
-<verse eid="AMO 7:7"/><verse number="8" style="v" sid="AMO 7:8"/>O SENHOR me perguntou: “Amós, o que estás vendo?” Eu respondi: “Um fio de prumo”. Então ele disse: “Eis que eu colocarei o prumo no meio do meu povo Israel; não voltarei a adiar o castigo.  
-<verse eid="AMO 7:8"/><verse number="9" style="v" sid="AMO 7:9"/>Os lugares altos onde os descendentes de Isaque prestavam culto serão arrasados, e eu me levantarei contra a casa real de Jeroboão com a espada”.  
-<verse eid="AMO 7:9"/><verse number="10" style="v" sid="AMO 7:10"/>Quando Amazias, sacerdote de Betel, ouviu o que Amós dizia, enviou recado ao rei Jeroboão: “Amós conspira contra ti no meio de Israel; o país não suporta as suas palavras; ele está incitando revolta.
-<verse eid="AMO 7:10"/><verse number="11" style="v" sid="AMO 7:11"/>Pois Amós afirma: ‘Jeroboão cairá pela espada, e Israel certamente será levado ao exílio, para uma terra distante’”.  
-<verse eid="AMO 7:11"/><verse number="12" style="v" sid="AMO 7:12"/>Depois disso, Amazias deu ordem a Amós: “Vai-te daqui, vidente; foge para a terra de Judá e ganha ali o teu sustento.  
-<verse eid="AMO 7:12"/><verse number="13" style="v" sid="AMO 7:13"/>Não continues a profetizar em Betel, porque este lugar é santuário do rei e centro do reino”.  
-<verse eid="AMO 7:13"/><verse number="14" style="v" sid="AMO 7:14"/>Amós respondeu a Amazias: “Eu não sou profeta por ofício, nem sou filho de profeta; sou boiadeiro e cultivador de sicômoros.  
-<verse eid="AMO 7:14"/><verse number="15" style="v" sid="AMO 7:15"/>Mas o SENHOR me tomou de junto do rebanho e me disse: ‘Vai e profetiza ao meu povo Israel’.  
-<verse eid="AMO 7:15"/><verse number="16" style="v" sid="AMO 7:16"/>Portanto, ouve agora a palavra do SENHOR: tu dizes: ‘Não profetizes contra Israel e não fales contra a descendência de Isaque’.  
-<verse eid="AMO 7:16"/><verse number="17" style="v" sid="AMO 7:17"/>“Por isso, assim diz o SENHOR: ‘Tua esposa se tornará prostituta nesta cidade, teus filhos e tuas filhas cairão à espada, tua terra será repartida por estranhos; tu morrerás em terra estrangeira, e Israel certamente será levado ao exílio, para longe da sua própria terra’”. 
+  <para style="p"><verse number="1" style="v" sid="AMO 7:1"/>Foi isto que o SENHOR, o Soberano, me fez ver em visão: ele formava uma grande nuvem de gafanhotos para consumir as plantações que brotaram depois da primeira colheita, a colheita reservada ao rei.
+<verse eid="AMO 7:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 7:2"/>Quando os gafanhotos tinham comido tudo o que era verde sobre a terra, eu clamei: “SENHOR Soberano, peço que perdoes o teu povo; não deixes que esta praga caia sobre eles; se te levantares contra Jacó, como ele poderá permanecer? Israel é pequeno”.
+<verse eid="AMO 7:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 7:3"/>Então o SENHOR desistiu disso e declarou: “Isso não acontecerá”.
+<verse eid="AMO 7:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 7:4"/>Depois o SENHOR, o Soberano, mostrou-me outra visão: o SENHOR chamava um grande fogo para julgar os moradores de Israel; o fogo secava o grande abismo<note style="f" caller="+"> <char style="ft" closed="false"><char style="it" closed="true">Grande abismo: “Grande abismo”, no contexto de Amós 7:4, quer dizer um lugar muito fundo onde havia muita água debaixo da terra.</char></char></note> e devorava a terra.
+<verse eid="AMO 7:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 7:5"/>Ao ver isso, eu disse: “SENHOR Deus, peço que não faças isso; se te voltares contra Israel, quem poderá resistir? Israel é pequeno”.
+<verse eid="AMO 7:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 7:6"/>Então o SENHOR também desistiu disso e respondeu: “Também isso não acontecerá”.
+<verse eid="AMO 7:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 7:7"/>Em seguida, ele me mostrou isto: o SENHOR estava em pé junto a um muro levantado com prumo e tinha na mão o fio de prumo para examinar o muro.
+<verse eid="AMO 7:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 7:8"/>O SENHOR me perguntou: “Amós, o que você está vendo?”. Eu respondi: “Um fio de prumo”. Então ele disse: “Eis que eu colocarei o prumo no meio do meu povo Israel; não voltarei a adiar o castigo.
+<verse eid="AMO 7:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 7:9"/>Os altares de idolatria de Isaque serão destruídos, os santuários de Israel ficarão em ruínas, e eu me levantarei contra a casa real de Jeroboão com a espada”.
+<verse eid="AMO 7:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 7:10"/>Quando Amazias, sacerdote de Betel, ouviu o que Amós dizia, enviou recado ao rei Jeroboão: “Amós conspira contra o rei no meio de Israel; o país não suporta as suas palavras; ele está incitando revolta.
+<verse eid="AMO 7:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 7:11"/>Pois Amós afirma: ‘Jeroboão cairá pela espada, e Israel certamente será levado ao exílio, para uma terra distante’”.
+<verse eid="AMO 7:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 7:12"/>Depois disso, Amazias deu ordem a Amós: “Vá embora daqui, vidente; fuja para a terra de Judá e ganhe ali o seu sustento.
+<verse eid="AMO 7:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 7:13"/>Não continue a profetizar em Betel, porque este lugar é santuário do rei e centro do reino”.
+<verse eid="AMO 7:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 7:14"/>Amós respondeu a Amazias: “Eu não sou profeta por ofício, nem sou filho de profeta; sou boiadeiro e cultivador de sicômoros.
+<verse eid="AMO 7:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 7:15"/>Mas o SENHOR me chamou quando eu estava junto do rebanho e me disse: ‘Vá e profetize ao meu povo Israel’.
+<verse eid="AMO 7:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="AMO 7:16"/>Portanto, ouça agora a palavra do SENHOR: você diz: ‘Não profetize contra Israel e não fale contra a descendência de Isaque’.
+<verse eid="AMO 7:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="AMO 7:17"/>Por isso, assim diz o SENHOR: ‘Sua esposa se tornará prostituta nesta cidade, seus filhos e suas filhas cairão à espada, sua terra será repartida por estranhos; você morrerá em terra estrangeira, e Israel certamente será levado ao exílio, para longe da sua própria terra’”.
 <verse eid="AMO 7:17"/><verse eid="AMO 7:17"/></para>
   <chapter eid="AMO 7"/>
   <chapter number="8" style="c" sid="AMO 8"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 8:1"/>Depois disso, o SENHOR Deus me fez ver, em visão, um cesto cheio de frutas bem maduras.  
-<verse eid="AMO 8:1"/><verse number="2" style="v" sid="AMO 8:2"/>Ele me perguntou: “O que você vê, Amós?” Eu respondi: “Vejo um cesto de frutas maduras”. Então o SENHOR disse: “Assim está o meu povo Israel: chegou ao ponto do castigo; não o pouparei mais”.  
-<verse eid="AMO 8:2"/><verse number="3" style="v" sid="AMO 8:3"/>“Naquele dia, os cânticos do templo se tornarão lamento; haverá muitos corpos por toda parte; serão levados para fora em silêncio, sem honra de sepultura”, diz o SENHOR.  
-<verse eid="AMO 8:3"/><verse number="4" style="v" sid="AMO 8:4"/>Ouçam isto, comerciantes: vocês exploram os pobres e fazem cair os necessitados da terra.  
-<verse eid="AMO 8:4"/><verse number="5" style="v" sid="AMO 8:5"/>Vocês dizem: “Quando passará a lua nova, para vendermos o cereal? Quando terminará o sábado, para abrirmos o comércio do trigo?” E vocês diminuem a medida, aumentam o preço e usam balanças enganosas.  
-<verse eid="AMO 8:5"/><verse number="6" style="v" sid="AMO 8:6"/>Vocês compram o pobre por uma moeda de prata e o necessitado por um par de sandálias; e ainda vendem o refugo misturado ao trigo.  
-<verse eid="AMO 8:6"/><verse number="7" style="v" sid="AMO 8:7"/>O SENHOR jurou pela glória de Jacó: “Eu não esquecerei nenhuma das obras más que eles praticaram”.  
-<verse eid="AMO 8:7"/><verse number="8" style="v" sid="AMO 8:8"/>Por causa disso, a terra não tremerá? E todos os que nela habitam não chorarão? Ela se levantará como o Nilo na cheia; será agitada e depois baixará, como as águas do Nilo.  
-<verse eid="AMO 8:8"/><verse number="9" style="v" sid="AMO 8:9"/>“Naquele dia”, declara o SENHOR, o Soberano, “farei o sol se pôr ao meio-dia e cobrirei a terra de escuridão em plena luz do dia.  
-<verse eid="AMO 8:9"/><verse number="10" style="v" sid="AMO 8:10"/>Transformarei as festas em luto e as canções em gritos; farei vocês vestirem pano de lamento e rasparem a cabeça; será como pranto por filho único, e o fim desse dia será amargo, muito amargo.  
-<verse eid="AMO 8:10"/><verse number="11" style="v" sid="AMO 8:11"/>Eis que vêm dias”, diz o SENHOR, o Soberano, “em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas fome de ouvir a palavra do SENHOR.  
-<verse eid="AMO 8:11"/><verse number="12" style="v" sid="AMO 8:12"/>Os homens andarão de mar a mar, do Norte ao Oriente, procurando a palavra do SENHOR, mas não a acharão.  
-<verse eid="AMO 8:12"/><verse number="13" style="v" sid="AMO 8:13"/>Naqueles dias, as jovens formosas e os rapazes fortes desfalecerão; cairão de cansaço, consumidos de sede.  
-<verse eid="AMO 8:13"/><verse number="14" style="v" sid="AMO 8:14"/>Os que juram pelo ídolo de Samaria, e os que dizem: 'Juro pelo seu deus, ó Dã', ou: 'Juro pela força de Berseba', cairão e não se levantarão jamais".
+  <para style="p"><verse number="1" style="v" sid="AMO 8:1"/>Depois disso, o SENHOR Deus me fez ver, em visão, um cesto cheio de frutas bem maduras.
+<verse eid="AMO 8:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 8:2"/>Ele me perguntou: “O que você vê, Amós?”. Eu respondi: “Vejo um cesto de frutas maduras”. Então o SENHOR disse: “Chegou o fim para o meu povo Israel; não o pouparei mais.
+<verse eid="AMO 8:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 8:3"/>Naquele dia, os cânticos do templo se tornarão lamento; haverá muitos corpos por toda parte, jogados por todos os lados. Silêncio!”, diz o SENHOR.
+<verse eid="AMO 8:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 8:4"/>Ouçam isto, comerciantes: vocês exploram os pobres e fazem cair os necessitados da terra.
+<verse eid="AMO 8:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 8:5"/>Vocês dizem: “Quando passará a lua nova, para vendermos o cereal? Quando terminará o sábado, para abrirmos o comércio do trigo?”. E vocês diminuem a medida, aumentam o preço e usam balanças enganosas.
+<verse eid="AMO 8:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 8:6"/>Vocês compram o pobre por uma moeda de prata e o necessitado por um par de sandálias; e ainda vendem o refugo misturado ao trigo.
+<verse eid="AMO 8:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 8:7"/>O SENHOR jurou contra o orgulho de Jacó: “Eu não esquecerei nenhuma das coisas más que eles fizeram.
+<verse eid="AMO 8:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 8:8"/>Por causa disso, a terra não tremerá? E todos os que nela habitam não chorarão? Ela se levantará como o Nilo na cheia; será agitada e depois baixará, como as águas do Nilo.
+<verse eid="AMO 8:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 8:9"/>Naquele dia”, declara o SENHOR, o Soberano, “farei o sol se pôr ao meio-dia e cobrirei a terra de escuridão em plena luz do dia.
+<verse eid="AMO 8:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 8:10"/>Transformarei as festas em luto e as canções em gritos; farei vocês vestirem roupas de luto e rasparem a cabeça; será como pranto por filho único, e o fim desse dia será amargo, muito amargo.
+<verse eid="AMO 8:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 8:11"/>Eis que vêm dias”, diz o SENHOR, o Soberano, “em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas fome e sede de ouvir a palavra do SENHOR.
+<verse eid="AMO 8:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 8:12"/>Os homens andarão de mar a mar, do Norte ao Oriente, procurando a palavra do SENHOR, mas não a acharão.
+<verse eid="AMO 8:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 8:13"/>Naqueles dias, as jovens formosas e os rapazes fortes desfalecerão; cairão de cansaço, consumidos de sede.
+<verse eid="AMO 8:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 8:14"/>Os que juram pelo ídolo de Samaria, e os que dizem: ‘Juro pelo seu deus, ó Dã’, ou: ‘Juro pela força de Berseba’, cairão e não se levantarão jamais”.
 <verse eid="AMO 8:14"/><verse eid="AMO 8:14"/></para>
   <chapter eid="AMO 8"/>
   <chapter number="9" style="c" sid="AMO 9"/>
-  <para style="p"><verse number="1" style="v" sid="AMO 9:1"/>Vi o SENHOR de pé junto ao altar, e ele ordenou: “Golpeie o alto das colunas, para que os umbrais tremam; faça cair tudo sobre a cabeça do povo; e os que restarem eu matarei à espada; ninguém que fuja escapará, e ninguém que correr se livrará.  
-<verse eid="AMO 9:1"/><verse number="2" style="v" sid="AMO 9:2"/>Ainda que cavem refúgio nas profundezas, dali eu os tirarei; ainda que subam aos céus, de lá eu os farei descer.
-<verse eid="AMO 9:2"/><verse number="3" style="v" sid="AMO 9:3"/>Ainda que se escondam entre as pedras no cume do Carmelo, ali eu os procurarei e os arrancarei; ainda que se ocultem no fundo do mar, ali ordenarei à serpente marinha que os ataque e os destrua.
-<verse eid="AMO 9:3"/><verse number="4" style="v" sid="AMO 9:4"/>Ainda que sejam levados ao exílio diante de seus inimigos, ali darei ordem à espada para que os mate na terra do cativeiro; eu mesmo voltarei o meu plano contra eles, para o mal e não para o bem.
-<verse eid="AMO 9:4"/><verse number="5" style="v" sid="AMO 9:5"/>O SENHOR, o SENHOR dos Exércitos, toca a terra, e ela se desfaz; todos os que nela habitam lamentam; ela sobe como o Nilo e torna a baixar como o ribeiro do Egito.  
-<verse eid="AMO 9:5"/><verse number="6" style="v" sid="AMO 9:6"/>Ele estende a sua morada até os céus e firma o céu sobre a terra; chama o vapor do mar e o derrama em chuva sobre a terra; SENHOR é o seu nome.  
-<verse eid="AMO 9:6"/><verse number="7" style="v" sid="AMO 9:7"/>“Filhos de Israel, vocês não são para mim como os etíopes?”, diz o SENHOR; “não fui eu quem tirou vocês do Egito, e também tirei os filisteus de Caftor e os sírios de Quir?
-<verse eid="AMO 9:7"/><verse number="8" style="v" sid="AMO 9:8"/>Os olhos do SENHOR, o Soberano, estão sobre este reino, e veem o seu pecado grave; eu o arrancarei da sua terra e espalharei seus moradores; contudo, não destruirei por completo a descendência de Jacó”, diz o SENHOR.  
-<verse eid="AMO 9:8"/><verse number="9" style="v" sid="AMO 9:9"/>“Pois eu dei ordem para que Israel seja sacudido entre as nações, como trigo na peneira, sem que um só grão se perca.
-<verse eid="AMO 9:9"/><verse number="10" style="v" sid="AMO 9:10"/>Mas todos os pecadores do meu povo, que dizem: ‘Deus não nos alcançará com castigo’, cairão mortos pela espada.  
-<verse eid="AMO 9:10"/><verse number="11" style="v" sid="AMO 9:11"/>Naquele dia, levantarei a tenda caída de Davi; fecharei as suas brechas, repararei o que foi quebrado e restaurarei as suas ruínas; eu a reerguerei, e ela voltará ao esplendor de antes.  
-<verse eid="AMO 9:11"/><verse number="12" style="v" sid="AMO 9:12"/>Israel possuirá o que restar de Edom e todas as nações que pertencem ao meu nome”, declara o SENHOR, que realiza estas coisas.
-<verse eid="AMO 9:12"/><verse number="13" style="v" sid="AMO 9:13"/>“Virá o tempo”, diz o SENHOR, “em que a colheita será tão grande que o que colhe mal terminará e já começará o plantio; e as vinhas nos montes de Israel darão tantas uvas que o vinho correrá livremente por todas as colinas.  
-<verse eid="AMO 9:13"/><verse number="14" style="v" sid="AMO 9:14"/>Eu mudarei a sorte do meu povo Israel; eles reconstruirão as cidades arruinadas e nelas habitarão; plantarão vinhas e beberão do seu vinho; farão pomares e comerão do seu fruto.
-<verse eid="AMO 9:14"/><verse number="15" style="v" sid="AMO 9:15"/>Eu os plantarei em sua própria terra, e nunca mais serão arrancados da terra que lhes dei”, diz o SENHOR, seu Deus.
+  <para style="p"><verse number="1" style="v" sid="AMO 9:1"/>Vi o SENHOR de pé junto ao altar, e ele ordenou: “Golpeie o alto das colunas, para que os umbrais tremam; faça cair tudo sobre os que estão ali; e os que restarem eu matarei à espada; ninguém que tentar fugir escapará, e ninguém conseguirá se salvar.
+<verse eid="AMO 9:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="AMO 9:2"/>Ainda que cavem até as profundezas, dali eu os tirarei; ainda que subam aos céus, de lá eu os farei descer.
+<verse eid="AMO 9:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="AMO 9:3"/>Ainda que se escondam no cume do Carmelo, ali eu os procurarei e os arrancarei; ainda que se ocultem no fundo do mar, ali ordenarei à serpente que os morda.
+<verse eid="AMO 9:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="AMO 9:4"/>Ainda que sejam levados ao exílio diante de seus inimigos, ali darei ordem à espada para que os mate na terra do cativeiro; eu mesmo os vigiarei para lhes fazer o mal e não o bem”.
+<verse eid="AMO 9:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="AMO 9:5"/>O SENHOR, o SENHOR dos Exércitos, toca a terra, e ela se desfaz; todos os que nela habitam lamentam; ela sobe como o Nilo e torna a baixar como o ribeiro do Egito.
+<verse eid="AMO 9:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="AMO 9:6"/>Ele estende a sua morada até os céus e firma o céu sobre a terra; reúne a água do mar e a espalha sobre a terra; SENHOR é o seu nome.
+<verse eid="AMO 9:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="AMO 9:7"/>“Filhos de Israel, vocês não são para mim melhores do que os etíopes”, diz o SENHOR; “não fui eu quem tirou vocês do Egito, e não fui eu também quem tirou os filisteus de Caftor, e os sírios de Quir?
+<verse eid="AMO 9:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="AMO 9:8"/>Os olhos do SENHOR, o Soberano, estão sobre este reino, e veem o seu pecado grave; eu o varrerei da face da terra; contudo, não destruirei totalmente a descendência de Jacó”, diz o SENHOR.
+<verse eid="AMO 9:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="AMO 9:9"/>“Pois eu dei ordem para que Israel seja sacudido entre as nações, como trigo na peneira, sem que um só grão se perca.
+<verse eid="AMO 9:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="AMO 9:10"/>Mas todos os pecadores do meu povo, que dizem: ‘Deus não nos alcançará com castigo’, cairão mortos pela espada.
+<verse eid="AMO 9:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="AMO 9:11"/>Naquele dia, levantarei a tenda caída de Davi; fecharei as suas brechas, repararei o que foi quebrado e restaurarei as suas ruínas; eu a reerguerei, e ela voltará ao esplendor de antes.
+<verse eid="AMO 9:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="AMO 9:12"/>Israel possuirá o que restar de Edom e todas as nações que pertencem ao meu nome”, declara o SENHOR, que realiza estas coisas.
+<verse eid="AMO 9:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="AMO 9:13"/>“Virá o tempo”, diz o SENHOR, “em que a colheita será tão grande que o que colhe mal terminará e já começará o plantio; e as vinhas nos montes darão tantas uvas que o vinho correrá livremente por todas as colinas.
+<verse eid="AMO 9:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="AMO 9:14"/>Eu mudarei a sorte do meu povo Israel; eles reconstruirão as cidades arruinadas e nelas habitarão; plantarão vinhas e beberão do seu vinho; farão pomares e comerão do seu fruto.
+<verse eid="AMO 9:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="AMO 9:15"/>Eu os plantarei em sua própria terra, e nunca mais serão arrancados da terra que lhes dei”, diz o SENHOR, seu Deus.
 <verse eid="AMO 9:15"/></para>
   <chapter eid="AMO 9"/>
 </usx>

@@ -1,120 +1,211 @@
 <usx version="3.1">
-  <book code="COL" style="id">EN</book>
-  <para style="h">Colossians
+  <book code="COL" style="id">col PT_APBRT pt_Portuguese_ltr</book>
+  <para style="h">Colossenses
 </para>
-  <para style="toc1">Colossians
+  <para style="toc1">Colossenses
 </para>
-  <para style="toc2">Colossians
+  <para style="toc2">Colossenses
 </para>
-  <para style="toc3">COL
+  <para style="toc3">Cl
 </para>
-  <para style="mt1">Colossians
+  <para style="mt1">Colossenses
 </para>
   <chapter number="1" style="c" sid="COL 1"/>
-  <para style="p"><verse number="1" style="v" sid="COL 1:1"/>Eu, Paulo, chamado por Deus para ser apóstolo de Cristo Jesus, e o irmão Timóteo, escrevemos esta carta. 
-<verse eid="COL 1:1"/><verse number="2" style="v" sid="COL 1:2"/>Ela é dirigida aos santos e fiéis irmãos em Cristo que estão em Colossos. Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.  
-<verse eid="COL 1:2"/><verse number="3" style="v" sid="COL 1:3"/>Em todas as nossas orações por vocês, sempre agradecemos a Deus, o Pai de nosso Senhor Jesus Cristo.  
-<verse eid="COL 1:3"/><verse number="4" style="v" sid="COL 1:4"/>Fazemos isso porque ouvimos falar da fé que vocês têm em Cristo Jesus e do amor que demonstram por todo o povo de Deus.  
-<verse eid="COL 1:4"/><verse number="5" style="v" sid="COL 1:5"/>Também ouvimos que esperam com alegria a herança que está guardada nos céus e que vivem assim desde o dia em que o evangelho lhes foi anunciado pela primeira vez. 
-<verse eid="COL 1:5"/><verse number="6" style="v" sid="COL 1:6"/>Esse mesmo evangelho chegou até vocês e está dando fruto em todo o mundo, transformando vidas em muitos lugares, assim como transformou a vida de vocês desde o dia em que ouviram e entenderam a graça de Deus e conheceram a verdade.  
-<verse eid="COL 1:6"/><verse number="7" style="v" sid="COL 1:7"/>Foi Epafras, nosso amado companheiro de serviço, quem lhes anunciou esse evangelho. Ele é servo fiel de Cristo Jesus e trabalha aqui conosco em favor de vocês. 
-<verse eid="COL 1:7"/><verse number="8" style="v" sid="COL 1:8"/>Foi ele também que nos contou sobre o grande amor que vocês têm, amor que vem do Espírito.  
-<verse eid="COL 1:8"/><verse number="9" style="v" sid="COL 1:9"/>Por isso, desde o dia em que ouvimos falar de vocês, não deixamos de orar, pedindo que Deus lhes dê pleno entendimento da sua vontade e que os faça sábios em tudo o que diz respeito às coisas espirituais.
-<verse eid="COL 1:9"/><verse number="10" style="v" sid="COL 1:10"/>Oramos assim para que o modo de viver de vocês agrade ao Senhor em tudo, para que o honrem em cada passo, fazendo sempre o bem aos outros e crescendo cada vez mais no conhecimento de Deus.  
-<verse eid="COL 1:10"/><verse number="11" style="v" sid="COL 1:11"/>Também pedimos que sejam fortalecidos com o poder glorioso de Deus, para que possam continuar firmes, com muita perseverança, paciência e alegria. 
-<verse eid="COL 1:11"/><verse number="12" style="v" sid="COL 1:12"/>E que sejam sempre agradecidos ao Pai, que nos tornou aptos para participar da herança do seu povo santo, no reino da luz. 
-<verse eid="COL 1:12"/><verse number="13" style="v" sid="COL 1:13"/>Pois foi ele que nos libertou do domínio das trevas e nos trouxe para o reino do seu Filho amado.  
-<verse eid="COL 1:13"/><verse number="14" style="v" sid="COL 1:14"/>No Filho temos a redenção, pois ele comprou a nossa liberdade com o seu sangue e perdoou todos os nossos pecados.  
-<verse eid="COL 1:14"/><verse number="15" style="v" sid="COL 1:15"/>Ele é a imagem perfeita do Deus invisível, o primeiro em importância sobre tudo o que foi criado. 
-<verse eid="COL 1:15"/><verse number="16" style="v" sid="COL 1:16"/>Pois, por meio dele, tudo foi criado: no céu e na terra, o que se vê e o que não se vê; tronos, domínios, poderes e autoridades; tudo existe porque ele criou, e tudo existe para ele. 
-<verse eid="COL 1:16"/><verse number="17" style="v" sid="COL 1:17"/>Ele existe antes de todas as coisas, e é o seu poder que mantém tudo o que existe.  
-<verse eid="COL 1:17"/><verse number="18" style="v" sid="COL 1:18"/>Ele é a cabeça do corpo, que é a igreja; ele é o princípio e o primeiro a ressuscitar dentre os mortos, para que tenha a supremacia em tudo.  
-<verse eid="COL 1:18"/><verse number="19" style="v" sid="COL 1:19"/>Porque Deus decidiu que toda a sua plenitude habitasse em seu Filho.  
-<verse eid="COL 1:19"/><verse number="20" style="v" sid="COL 1:20"/>E, por meio dele, Deus resolveu reconciliar consigo todas as coisas, tanto as que estão na terra como as que estão no céu, fazendo a paz por meio do sangue que Cristo derramou na cruz.  
-<verse eid="COL 1:20"/><verse number="21" style="v" sid="COL 1:21"/>Isso inclui vocês, que antes viviam afastados de Deus e eram seus inimigos por causa dos pensamentos maus e das ações más que praticavam.
-<verse eid="COL 1:21"/><verse number="22" style="v" sid="COL 1:22"/>Mas agora Deus os reconciliou consigo por meio do corpo físico de Cristo, por meio da sua morte, para apresentá-los diante dele santos, sem culpa e sem qualquer acusação.
-<verse eid="COL 1:22"/><verse number="23" style="v" sid="COL 1:23"/>A condição é que vocês permaneçam firmes na fé, bem alicerçados e seguros na verdade, sem se afastar da esperança do evangelho que ouviram, o evangelho que lhes foi anunciado e que está sendo proclamado em todo o mundo. Deste evangelho eu, Paulo, me tornei ministro.
-<verse eid="COL 1:23"/><verse number="24" style="v" sid="COL 1:24"/>Agora me alegro nos sofrimentos que suporto por causa de vocês, pois completo em meu próprio corpo o que ainda resta das aflições de Cristo em favor do seu corpo, que é a igreja. 
-<verse eid="COL 1:24"/><verse number="25" style="v" sid="COL 1:25"/>Deus me encarregou de servir a essa igreja e de tornar conhecido entre vocês o plano revelado plenamente em sua palavra.
-<verse eid="COL 1:25"/><verse number="26" style="v" sid="COL 1:26"/>Esse plano era um mistério escondido por séculos e gerações passadas, mas agora foi revelado ao seu povo santo.
-<verse eid="COL 1:26"/><verse number="27" style="v" sid="COL 1:27"/>E Deus quis mostrar a esses seus santos a riqueza gloriosa desse mistério entre os gentios; e o mistério é este: Cristo em vocês, a esperança da glória.  
-<verse eid="COL 1:27"/><verse number="28" style="v" sid="COL 1:28"/>Por isso, em todo lugar anunciamos Cristo, advertindo e ensinando cada pessoa com toda a sabedoria, para que possamos apresentar cada um maduro e completo diante de Deus por causa da obra de Cristo. 
-<verse eid="COL 1:28"/><verse number="29" style="v" sid="COL 1:29"/>Para isso eu trabalho e luto, esforçando-me com a força de Cristo, que atua poderosamente em mim. 
+  <para style="p"><verse number="1" style="v" sid="COL 1:1"/>Eu, Paulo, chamado por Deus para ser apóstolo de Cristo Jesus, e o irmão Timóteo, escrevemos esta carta.
+<verse eid="COL 1:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="COL 1:2"/>Ela é dirigida aos santos e fiéis irmãos em Cristo que estão em Colossos. Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
+<verse eid="COL 1:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="COL 1:3"/>Em todas as nossas orações por vocês, sempre agradecemos a Deus, o Pai de nosso Senhor Jesus Cristo.
+<verse eid="COL 1:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="COL 1:4"/>Fazemos isso porque ouvimos falar da fé que vocês têm em Cristo Jesus e do amor que demonstram por todo o povo de Deus.
+<verse eid="COL 1:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="COL 1:5"/>Também ouvimos que esperam com alegria a herança que está guardada nos céus e que vivem assim desde o dia em que o evangelho lhes foi anunciado pela primeira vez.
+<verse eid="COL 1:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="COL 1:6"/>Esse mesmo evangelho chegou até vocês e está dando fruto em todo o mundo, transformando vidas em muitos lugares, assim como transformou a vida de vocês desde o dia em que ouviram e entenderam a graça de Deus e conheceram a verdade.
+<verse eid="COL 1:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="COL 1:7"/>Foi Epafras, nosso amado companheiro de serviço, quem lhes anunciou esse evangelho. Ele é servo fiel de Cristo Jesus e trabalha aqui conosco em favor de vocês.
+<verse eid="COL 1:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="COL 1:8"/>Foi ele também que nos contou sobre o grande amor que vocês têm, amor que vem do Espírito.
+<verse eid="COL 1:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="COL 1:9"/>Por isso, desde o dia em que ouvimos falar de vocês, não deixamos de orar, pedindo que Deus lhes dê pleno entendimento da sua vontade e que os faça sábios em tudo o que diz respeito às coisas espirituais.
+<verse eid="COL 1:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="COL 1:10"/>Oramos assim para que o modo de viver de vocês agrade ao Senhor em tudo, para que o honrem em cada passo, fazendo sempre o bem aos outros e crescendo cada vez mais no conhecimento de Deus.
+<verse eid="COL 1:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="COL 1:11"/>Também pedimos que sejam fortalecidos com o poder glorioso de Deus, para que possam continuar firmes, com muita perseverança, paciência e alegria.
+<verse eid="COL 1:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="COL 1:12"/>E que sejam sempre agradecidos ao Pai, que nos tornou aptos para participar da herança do seu povo santo, no reino da luz.
+<verse eid="COL 1:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="COL 1:13"/>Pois foi ele que nos libertou do domínio das trevas e nos trouxe para o reino do seu Filho amado.
+<verse eid="COL 1:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="COL 1:14"/>No Filho temos a redenção, pois ele comprou a nossa liberdade com o seu sangue e perdoou todos os nossos pecados.
+<verse eid="COL 1:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="COL 1:15"/>Ele é a imagem perfeita do Deus invisível, o primeiro em importância sobre tudo o que foi criado.
+<verse eid="COL 1:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="COL 1:16"/>Pois, por meio dele, tudo foi criado: no céu e na terra, o que se vê e o que não se vê; tronos, domínios, poderes e autoridades; tudo existe porque ele criou, e tudo existe para ele.
+<verse eid="COL 1:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="COL 1:17"/>Ele existe antes de todas as coisas, e é o seu poder que mantém tudo o que existe.
+<verse eid="COL 1:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="COL 1:18"/>Ele é a cabeça do corpo, que é a igreja; ele é o princípio e o primeiro a ressuscitar dentre os mortos, para que tenha a supremacia em tudo.
+<verse eid="COL 1:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="COL 1:19"/>Porque Deus decidiu que toda a sua plenitude habitasse em seu Filho.
+<verse eid="COL 1:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="COL 1:20"/>E, por meio dele, Deus resolveu reconciliar consigo todas as coisas, tanto as que estão na terra como as que estão no céu, fazendo a paz por meio do sangue que Cristo derramou na cruz.
+<verse eid="COL 1:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="COL 1:21"/>Isso inclui vocês, que antes viviam afastados de Deus e eram seus inimigos por causa dos pensamentos maus e das ações más que praticavam.
+<verse eid="COL 1:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="COL 1:22"/>Mas agora Deus os reconciliou consigo por meio do corpo físico de Cristo, por meio da sua morte, para apresentá-los diante dele santos, sem culpa e sem qualquer acusação.
+<verse eid="COL 1:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="COL 1:23"/>A condição é que vocês permaneçam firmes na fé, bem alicerçados e seguros na verdade, sem se afastar da esperança do evangelho que ouviram, o evangelho que lhes foi anunciado e que está sendo proclamado em todo o mundo. Deste evangelho eu, Paulo, me tornei ministro.
+<verse eid="COL 1:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="COL 1:24"/>Agora me alegro nos sofrimentos que suporto por causa de vocês, pois completo em meu próprio corpo o que ainda resta das aflições de Cristo em favor do seu corpo, que é a igreja.
+<verse eid="COL 1:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="COL 1:25"/>Deus me encarregou de servir a essa igreja e de tornar conhecido entre vocês o plano revelado plenamente em sua palavra.
+<verse eid="COL 1:25"/></para>
+  <para style="p"><verse number="26" style="v" sid="COL 1:26"/>Esse plano era um mistério escondido por séculos e gerações passadas, mas agora foi revelado ao seu povo santo.
+<verse eid="COL 1:26"/></para>
+  <para style="p"><verse number="27" style="v" sid="COL 1:27"/>E Deus quis mostrar a esses seus santos a riqueza gloriosa desse mistério entre os gentios; e o mistério é este: Cristo em vocês, a esperança da glória.
+<verse eid="COL 1:27"/></para>
+  <para style="p"><verse number="28" style="v" sid="COL 1:28"/>Por isso, em todo lugar anunciamos Cristo, advertindo e ensinando cada pessoa com toda a sabedoria, para que possamos apresentar cada um maduro e completo diante de Deus por causa da obra de Cristo.
+<verse eid="COL 1:28"/></para>
+  <para style="p"><verse number="29" style="v" sid="COL 1:29"/>Para isso eu trabalho e luto, esforçando-me com a força de Cristo, que atua poderosamente em mim.
 <verse eid="COL 1:29"/><verse eid="COL 1:29"/></para>
   <chapter eid="COL 1"/>
   <chapter number="2" style="c" sid="COL 2"/>
-  <para style="p"><verse number="1" style="v" sid="COL 2:1"/>Quero que vocês saibam quanto tenho lutado em oração por vocês, pela igreja em Laodiceia e por muitos outros que nunca me viram pessoalmente.  
-<verse eid="COL 2:1"/><verse number="2" style="v" sid="COL 2:2"/>Peço a Deus que vocês sejam fortalecidos e consolados, unidos por laços firmes de amor, e que tenham a rica experiência de conhecer Cristo com verdadeira certeza e entendimento claro, pois o plano misterioso de Deus, agora revelado, é o próprio Cristo.
-<verse eid="COL 2:2"/><verse number="3" style="v" sid="COL 2:3"/>Em Cristo estão guardados todos os tesouros da sabedoria e do conhecimento.  
-<verse eid="COL 2:3"/><verse number="4" style="v" sid="COL 2:4"/>Digo isso porque temo que alguém possa enganar vocês com discursos bonitos e argumentos persuasivos.  
-<verse eid="COL 2:4"/><verse number="5" style="v" sid="COL 2:5"/>Mesmo estando ausente em corpo, permaneço unido a vocês em meu coração, e alegro-me ao ver que vivem de modo correto e que a fé de vocês em Cristo permanece firme.
-<verse eid="COL 2:5"/><verse number="6" style="v" sid="COL 2:6"/>Assim, como vocês receberam Cristo Jesus, o Senhor, continuem a viver unidos a ele.  
-<verse eid="COL 2:6"/><verse number="7" style="v" sid="COL 2:7"/>Criem raízes profundas em Cristo e recebam dele o sustento. Continuem a crescer no Senhor, tornem-se fortes na fé, como foram instruídos, e que a vida de vocês transborde em gratidão. 
-<verse eid="COL 2:7"/><verse number="8" style="v" sid="COL 2:8"/>Não deixem que ninguém escravize vocês com filosofias vazias e enganosas, baseadas em tradições humanas e nos princípios elementares deste mundo, e não em Cristo. 
-<verse eid="COL 2:8"/><verse number="9" style="v" sid="COL 2:9"/>Pois em Cristo habita, em forma corporal, toda a plenitude da natureza de Deus.  
-<verse eid="COL 2:9"/><verse number="10" style="v" sid="COL 2:10"/>E, por estarem unidos a Cristo, vocês recebem essa plenitude. Ele é o cabeça de todo poder e de toda autoridade. 
-<verse eid="COL 2:10"/><verse number="11" style="v" sid="COL 2:11"/>Quando vocês se aproximaram de Cristo, ele tirou de vocês a velha natureza pecadora, não por uma circuncisão física, mas por uma circuncisão espiritual realizada por ele.
-<verse eid="COL 2:11"/><verse number="12" style="v" sid="COL 2:12"/>No batismo, a velha natureza pecaminosa de vocês foi sepultada com Cristo; e com ele vocês foram ressuscitados para uma nova vida, porque confiaram no poder de Deus, que ressuscitou Cristo dentre os mortos.
-<verse eid="COL 2:12"/><verse number="13" style="v" sid="COL 2:13"/>Vocês estavam mortos em seus pecados e ainda presos à velha natureza pecadora; então Deus lhes deu vida junto com Cristo, perdoando todos os pecados de vocês. 
-<verse eid="COL 2:13"/><verse number="14" style="v" sid="COL 2:14"/>Ele cancelou o registro das acusações que havia contra vocês, a lista de mandamentos que vocês não cumpriram. Ele tomou essa lista e a destruiu, cravando-a na cruz de Cristo. 
-<verse eid="COL 2:14"/><verse number="15" style="v" sid="COL 2:15"/>Assim, ele derrotou governos e autoridades espirituais do mal e os expôs publicamente, mostrando a todos o triunfo de Cristo na cruz, onde os pecados de vocês foram removidos.  
-<verse eid="COL 2:15"/><verse number="16" style="v" sid="COL 2:16"/>Portanto, que ninguém julgue vocês por causa do que comem ou bebem, ou por não guardarem festas religiosas, cerimônias de lua nova ou sábados.  
-<verse eid="COL 2:16"/><verse number="17" style="v" sid="COL 2:17"/>Essas coisas eram apenas sombras temporárias da realidade que viria; e essa realidade é o próprio Cristo. 
-<verse eid="COL 2:17"/><verse number="18" style="v" sid="COL 2:18"/>Que ninguém se considere superior a vocês, dizendo ter visões e se agradando de falsa humildade e de adoração de anjos, e assim impeça vocês de receber o prêmio; tais pessoas são cheias de orgulho e têm a mente dominada pela carne.  
-<verse eid="COL 2:18"/><verse number="19" style="v" sid="COL 2:19"/>Elas não permanecem ligadas a Cristo, a cabeça, de quem todo o corpo recebe união e sustento; por meio das juntas e ligamentos, nós nos mantemos unidos e crescemos, recebendo de Deus a nutrição e a força. 
-<verse eid="COL 2:19"/><verse number="20" style="v" sid="COL 2:20"/>Já que vocês morreram com Cristo e foram libertados dos princípios deste mundo, por que ainda vivem como se estivessem sujeitos a regras humanas que dizem:
-<verse eid="COL 2:20"/><verse number="21" style="v" sid="COL 2:21"/>“não toque”, “não prove”, “não coma”? 
-<verse eid="COL 2:21"/><verse number="22" style="v" sid="COL 2:22"/>Todas essas proibições dizem respeito a coisas que acabam logo depois do uso, e são mandamentos e instruções que os seres humanos inventam. 
-<verse eid="COL 2:22"/><verse number="23" style="v" sid="COL 2:23"/>Tais regras parecem sábias, pois exigem religiosidade fingida, falsa humildade e rigor no tratamento do corpo, mas não têm poder algum para vencer os maus pensamentos e os impulsos da natureza humana. 
+  <para style="p"><verse number="1" style="v" sid="COL 2:1"/>Quero que vocês saibam quanto tenho lutado em oração por vocês, pela igreja em Laodiceia e por muitos outros que nunca me viram pessoalmente.
+<verse eid="COL 2:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="COL 2:2"/>Peço a Deus que vocês sejam fortalecidos e consolados, unidos por laços firmes de amor, e que tenham a rica experiência de conhecer Cristo com verdadeira certeza e entendimento claro, pois o plano misterioso de Deus, agora revelado, é o próprio Cristo.
+<verse eid="COL 2:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="COL 2:3"/>Em Cristo estão guardados todos os tesouros da sabedoria e do conhecimento.
+<verse eid="COL 2:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="COL 2:4"/>Digo isso porque temo que alguém possa enganar vocês com discursos bonitos e argumentos persuasivos.
+<verse eid="COL 2:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="COL 2:5"/>Mesmo estando ausente em corpo, permaneço unido a vocês em meu coração, e alegro-me ao ver que vivem de modo correto e que a fé de vocês em Cristo permanece firme.
+<verse eid="COL 2:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="COL 2:6"/>Assim, como vocês receberam Cristo Jesus, o Senhor, continuem a viver unidos a ele.
+<verse eid="COL 2:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="COL 2:7"/>Criem raízes profundas em Cristo e recebam dele o sustento. Continuem a crescer no Senhor, tornem-se fortes na fé, como foram instruídos, e que a vida de vocês transborde em gratidão.
+<verse eid="COL 2:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="COL 2:8"/>Não deixem que ninguém escravize vocês com filosofias vazias e enganosas, baseadas em tradições humanas e nos princípios elementares deste mundo, e não em Cristo.
+<verse eid="COL 2:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="COL 2:9"/>Pois em Cristo habita, em forma corporal, toda a plenitude da natureza de Deus.
+<verse eid="COL 2:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="COL 2:10"/>E, por estarem unidos a Cristo, vocês recebem essa plenitude. Ele é o cabeça de todo poder e de toda autoridade.
+<verse eid="COL 2:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="COL 2:11"/>Quando vocês se aproximaram de Cristo, ele tirou de vocês a velha natureza pecadora, não por uma circuncisão física, mas por uma circuncisão espiritual realizada por ele.
+<verse eid="COL 2:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="COL 2:12"/>No batismo, a velha natureza pecaminosa de vocês foi sepultada com Cristo; e com ele vocês foram ressuscitados para uma nova vida, porque confiaram no poder de Deus, que ressuscitou Cristo dentre os mortos.
+<verse eid="COL 2:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="COL 2:13"/>Vocês estavam mortos em seus pecados e ainda presos à velha natureza pecadora; então Deus lhes deu vida junto com Cristo, perdoando todos os pecados de vocês.
+<verse eid="COL 2:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="COL 2:14"/>Ele cancelou o registro das acusações que havia contra vocês, a lista de mandamentos que vocês não cumpriram. Ele tomou essa lista e a destruiu, cravando-a na cruz de Cristo.
+<verse eid="COL 2:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="COL 2:15"/>Assim, ele derrotou governos e autoridades espirituais do mal e os expôs publicamente, mostrando a todos o triunfo de Cristo na cruz, onde os pecados de vocês foram removidos.
+<verse eid="COL 2:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="COL 2:16"/>Portanto, que ninguém julgue vocês por causa do que comem ou bebem, ou por não guardarem festas religiosas, cerimônias de lua nova ou sábados.
+<verse eid="COL 2:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="COL 2:17"/>Essas coisas eram apenas sombras temporárias da realidade que viria; e essa realidade é o próprio Cristo.
+<verse eid="COL 2:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="COL 2:18"/>Que ninguém se considere superior a vocês, dizendo ter visões e se agradando de falsa humildade e de adoração de anjos, e assim impeça vocês de receber o prêmio; tais pessoas são cheias de orgulho e têm a mente dominada pela carne.
+<verse eid="COL 2:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="COL 2:19"/>Elas não permanecem ligadas a Cristo, a cabeça, de quem todo o corpo recebe união e sustento; por meio das juntas e ligamentos, nós nos mantemos unidos e crescemos, recebendo de Deus a nutrição e a força.
+<verse eid="COL 2:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="COL 2:20"/>Já que vocês morreram com Cristo e foram libertados dos princípios deste mundo, por que ainda vivem como se estivessem sujeitos a regras humanas que dizem:
+<verse eid="COL 2:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="COL 2:21"/>“não toque”, “não prove”, “não coma”?
+<verse eid="COL 2:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="COL 2:22"/>Todas essas proibições dizem respeito a coisas que acabam logo depois do uso, e são mandamentos e instruções que os seres humanos inventam.
+<verse eid="COL 2:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="COL 2:23"/>Tais regras parecem sábias, pois exigem religiosidade fingida, falsa humildade e rigor no tratamento do corpo, mas não têm poder algum para vencer os maus pensamentos e os impulsos da natureza humana.
 <verse eid="COL 2:23"/><verse eid="COL 2:23"/></para>
   <chapter eid="COL 2"/>
   <chapter number="3" style="c" sid="COL 3"/>
   <para style="p"><verse number="1" style="v" sid="COL 3:1"/>Já que vocês foram ressuscitados com Cristo, voltem agora o olhar para as coisas do céu, onde Cristo está sentado à direita de Deus.
-<verse eid="COL 3:1"/><verse number="2" style="v" sid="COL 3:2"/>Que os pensamentos de vocês se ocupem com as realidades do alto, e não com as coisas terrenas desta vida.
-<verse eid="COL 3:2"/><verse number="3" style="v" sid="COL 3:3"/>Pois vocês já morreram para a antiga vida, e agora a vida de vocês está escondida com Cristo em Deus.  
-<verse eid="COL 3:3"/><verse number="4" style="v" sid="COL 3:4"/>E quando Cristo, que é a verdadeira vida de vocês, se manifestar novamente, então vocês aparecerão com ele, participando da sua glória.
-<verse eid="COL 3:4"/><verse number="5" style="v" sid="COL 3:5"/>Portanto, façam morrer tudo o que pertence à natureza terrena de vocês: imoralidade sexual, impureza, paixões desordenadas, desejos vergonhosos e ganância, pois a ganância é uma forma de idolatria.  
-<verse eid="COL 3:5"/><verse number="6" style="v" sid="COL 3:6"/>Por causa dessas coisas, a ira de Deus vem sobre os que vivem em desobediência.  
-<verse eid="COL 3:6"/><verse number="7" style="v" sid="COL 3:7"/>No passado, quando a vida de vocês ainda pertencia a este mundo, vocês também andavam nesses caminhos.  
-<verse eid="COL 3:7"/><verse number="8" style="v" sid="COL 3:8"/>Mas agora é o momento de abandonar toda ira, ódio, maldade, blasfêmia e qualquer palavra obscena.
-<verse eid="COL 3:8"/><verse number="9" style="v" sid="COL 3:9"/>Não mintam uns aos outros, pois vocês já abandonaram a velha maneira de viver, com todas as suas obras perversas. 
-<verse eid="COL 3:9"/><verse number="10" style="v" sid="COL 3:10"/>Vocês agora receberam uma vida nova, na qual são sempre renovados e aprendem cada vez mais, para se tornarem parecidos com Deus, o Criador. 
-<verse eid="COL 3:10"/><verse number="11" style="v" sid="COL 3:11"/>Nessa nova realidade já não há diferença entre grego e judeu, circunciso e incircunciso, bárbaro e cita, escravo e livre. O que importa é que Cristo é tudo e está em todos vocês que pertencem a ele. 
-<verse eid="COL 3:11"/><verse number="12" style="v" sid="COL 3:12"/>Assim, como pessoas escolhidas por Deus, santas e amadas por ele, revistam-se de compaixão, bondade, humildade, mansidão e paciência.
-<verse eid="COL 3:12"/><verse number="13" style="v" sid="COL 3:13"/>Sejam pacientes e amáveis uns com os outros, prontos a perdoar; não guardem rancor; perdoem como o Senhor perdoou vocês.  
-<verse eid="COL 3:13"/><verse number="14" style="v" sid="COL 3:14"/>Acima de tudo, deixem que o amor seja o laço que une e aperfeiçoa todas as coisas na vida de vocês. 
-<verse eid="COL 3:14"/><verse number="15" style="v" sid="COL 3:15"/>Que a paz de Cristo governe o coração e a vida de vocês, pois para essa paz vocês foram chamados como membros de um só corpo; e sejam sempre agradecidos.  
-<verse eid="COL 3:15"/><verse number="16" style="v" sid="COL 3:16"/>Guardem na memória o que Cristo ensinou; deixem que a palavra dele enriqueça a vida de vocês e lhes dê sabedoria; instruam e aconselhem uns aos outros com toda sabedoria, e cantem salmos, hinos e cânticos espirituais, louvando a Deus com o coração cheio de gratidão. 
-<verse eid="COL 3:16"/><verse number="17" style="v" sid="COL 3:17"/>Tudo o que fizerem ou disserem, façam em nome do Senhor Jesus, como representantes dele, dando por meio dele graças a Deus, o Pai. 
-<verse eid="COL 3:17"/><verse number="18" style="v" sid="COL 3:18"/>Vocês, esposas, sujeitem-se aos seus maridos, pois essa atitude é própria e agradável ao Senhor.  
-<verse eid="COL 3:18"/><verse number="19" style="v" sid="COL 3:19"/>E vocês, maridos, amem as suas esposas, e não as tratem com dureza, nem com amargura.  
-<verse eid="COL 3:19"/><verse number="20" style="v" sid="COL 3:20"/>Vocês, filhos, obedeçam em tudo aos seus pais, pois isso é agradável ao Senhor.  
-<verse eid="COL 3:20"/><verse number="21" style="v" sid="COL 3:21"/>Pais, não provoquem nem irritem seus filhos, para que eles não fiquem desanimados.  
-<verse eid="COL 3:21"/><verse number="22" style="v" sid="COL 3:22"/>Vocês, escravos, obedeçam em tudo aos seus senhores terrenos, não apenas quando estão sendo observados, para agradá-los, mas em todo tempo; obedeçam de coração sincero, porque vocês respeitam e temem o Senhor. 
-<verse eid="COL 3:22"/><verse number="23" style="v" sid="COL 3:23"/>Em tudo o que fizerem, trabalhem com dedicação e bom ânimo, como se estivessem servindo ao Senhor, e não apenas a pessoas.
-<verse eid="COL 3:23"/><verse number="24" style="v" sid="COL 3:24"/>Lembrem-se de que é o Senhor Jesus quem lhes dará a recompensa da herança. É a Cristo, o Senhor, que vocês estão realmente servindo.
-<verse eid="COL 3:24"/><verse number="25" style="v" sid="COL 3:25"/>E quem praticar injustiça receberá de volta o mal que fez, pois Deus não mostra favoritismo a ninguém. 
+<verse eid="COL 3:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="COL 3:2"/>Que os pensamentos de vocês se ocupem com as realidades do alto, e não com as coisas terrenas desta vida.
+<verse eid="COL 3:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="COL 3:3"/>Pois vocês já morreram para a antiga vida, e agora a vida de vocês está escondida com Cristo em Deus.
+<verse eid="COL 3:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="COL 3:4"/>E quando Cristo, que é a verdadeira vida de vocês, se manifestar novamente, então vocês aparecerão com ele, participando da sua glória.
+<verse eid="COL 3:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="COL 3:5"/>Portanto, façam morrer tudo o que pertence à natureza terrena de vocês: imoralidade sexual, impureza, paixões desordenadas, desejos vergonhosos e ganância, pois a ganância é uma forma de idolatria.
+<verse eid="COL 3:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="COL 3:6"/>Por causa dessas coisas, a ira de Deus vem sobre os que vivem em desobediência.
+<verse eid="COL 3:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="COL 3:7"/>No passado, quando a vida de vocês ainda pertencia a este mundo, vocês também andavam nesses caminhos.
+<verse eid="COL 3:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="COL 3:8"/>Mas agora é o momento de abandonar toda ira, ódio, maldade, blasfêmia e qualquer palavra obscena.
+<verse eid="COL 3:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="COL 3:9"/>Não mintam uns aos outros, pois vocês já abandonaram a velha maneira de viver, com todas as suas obras perversas.
+<verse eid="COL 3:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="COL 3:10"/>Vocês agora receberam uma vida nova, na qual são sempre renovados e aprendem cada vez mais, para se tornarem parecidos com Deus, o Criador.
+<verse eid="COL 3:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="COL 3:11"/>Nessa nova realidade já não há diferença entre grego e judeu, circunciso e incircunciso, bárbaro e cita, escravo e livre. O que importa é que Cristo é tudo e está em todos vocês que pertencem a ele.
+<verse eid="COL 3:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="COL 3:12"/>Assim, como pessoas escolhidas por Deus, santas e amadas por ele, revistam-se de compaixão, bondade, humildade, mansidão e paciência.
+<verse eid="COL 3:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="COL 3:13"/>Sejam pacientes e amáveis uns com os outros, prontos a perdoar; não guardem rancor; perdoem como o Senhor perdoou vocês.
+<verse eid="COL 3:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="COL 3:14"/>Acima de tudo, deixem que o amor seja o laço que une e aperfeiçoa todas as coisas na vida de vocês.
+<verse eid="COL 3:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="COL 3:15"/>Que a paz de Cristo governe o coração e a vida de vocês, pois para essa paz vocês foram chamados como membros de um só corpo; e sejam sempre agradecidos.
+<verse eid="COL 3:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="COL 3:16"/>Guardem na memória o que Cristo ensinou; deixem que a palavra dele enriqueça a vida de vocês e lhes dê sabedoria; instruam e aconselhem uns aos outros com toda sabedoria, e cantem salmos, hinos e cânticos espirituais, louvando a Deus com o coração cheio de gratidão.
+<verse eid="COL 3:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="COL 3:17"/>Tudo o que fizerem ou disserem, façam em nome do Senhor Jesus, como representantes dele, dando por meio dele graças a Deus, o Pai.
+<verse eid="COL 3:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="COL 3:18"/>Vocês, esposas, sujeitem-se aos seus maridos, pois essa atitude é própria e agradável ao Senhor.
+<verse eid="COL 3:18"/></para>
+  <para style="p"><verse number="19" style="v" sid="COL 3:19"/>E vocês, maridos, amem as suas esposas, e não as tratem com dureza, nem com amargura.
+<verse eid="COL 3:19"/></para>
+  <para style="p"><verse number="20" style="v" sid="COL 3:20"/>Vocês, filhos, obedeçam em tudo aos seus pais, pois isso é agradável ao Senhor.
+<verse eid="COL 3:20"/></para>
+  <para style="p"><verse number="21" style="v" sid="COL 3:21"/>Pais, não provoquem nem irritem seus filhos, para que eles não fiquem desanimados.
+<verse eid="COL 3:21"/></para>
+  <para style="p"><verse number="22" style="v" sid="COL 3:22"/>Vocês, escravos, obedeçam em tudo aos seus senhores terrenos, não apenas quando estão sendo observados, para agradá-los, mas em todo tempo; obedeçam de coração sincero, porque vocês respeitam e temem o Senhor.
+<verse eid="COL 3:22"/></para>
+  <para style="p"><verse number="23" style="v" sid="COL 3:23"/>Em tudo o que fizerem, trabalhem com dedicação e bom ânimo, como se estivessem servindo ao Senhor, e não apenas a pessoas.
+<verse eid="COL 3:23"/></para>
+  <para style="p"><verse number="24" style="v" sid="COL 3:24"/>Lembrem-se de que é o Senhor Jesus quem lhes dará a recompensa da herança. É a Cristo, o Senhor, que vocês estão realmente servindo.
+<verse eid="COL 3:24"/></para>
+  <para style="p"><verse number="25" style="v" sid="COL 3:25"/>E quem praticar injustiça receberá de volta o mal que fez, pois Deus não mostra favoritismo a ninguém.
 <verse eid="COL 3:25"/><verse eid="COL 3:25"/></para>
   <chapter eid="COL 3"/>
   <chapter number="4" style="c" sid="COL 4"/>
-  <para style="p"><verse number="1" style="v" sid="COL 4:1"/>Senhores, tratem seus escravos com justiça e bondade, lembrando que vocês também têm um Senhor nos céus.  
-<verse eid="COL 4:1"/><verse number="2" style="v" sid="COL 4:2"/>Perseverem na oração; mantenham-se atentos e cheios de gratidão.  
-<verse eid="COL 4:2"/><verse number="3" style="v" sid="COL 4:3"/>Orem também por nós, para que Deus abra uma porta para a nossa mensagem, e assim possamos anunciar o mistério de Cristo, pelo qual estou preso.
-<verse eid="COL 4:3"/><verse number="4" style="v" sid="COL 4:4"/>Orem para que eu fale com coragem e clareza, como devo falar.  
-<verse eid="COL 4:4"/><verse number="5" style="v" sid="COL 4:5"/>Aproveitem bem cada ocasião com os de fora; ajam com sabedoria em cada encontro.  
-<verse eid="COL 4:5"/><verse number="6" style="v" sid="COL 4:6"/>Que suas palavras sejam sempre agradáveis e bem temperadas, como sal que dá sabor, para que saibam responder a cada pessoa.
-<verse eid="COL 4:6"/><verse number="7" style="v" sid="COL 4:7"/>Tíquico, nosso amado irmão e fiel servo do Senhor, contará a vocês como estou.  
-<verse eid="COL 4:7"/><verse number="8" style="v" sid="COL 4:8"/>Eu o envio para saber como vocês estão e para levar-lhes consolo e ânimo.  
-<verse eid="COL 4:8"/><verse number="9" style="v" sid="COL 4:9"/>Envio também Onésimo, irmão fiel e muito amado, que é da terra de vocês. Juntos, eles contarão tudo o que acontece aqui. 
-<verse eid="COL 4:9"/><verse number="10" style="v" sid="COL 4:10"/>Aristarco, meu companheiro de prisão, envia saudações; Marcos, primo de Barnabé, também. Vocês já receberam instruções sobre ele. Se ele passar por aí, acolham-no. 
-<verse eid="COL 4:10"/><verse number="11" style="v" sid="COL 4:11"/>Jesus, chamado Justo, também envia saudações. Entre os judeus, somente estes trabalham comigo pelo reino de Deus, e têm sido grande consolo para mim. 
-<verse eid="COL 4:11"/><verse number="12" style="v" sid="COL 4:12"/>Epafras, que é da cidade de vocês e servo de Cristo Jesus, envia saudações. Ele ora com zelo para que vocês sejam maduros, plenamente convictos e permaneçam firmes em toda a vontade de Deus.
-<verse eid="COL 4:12"/><verse number="13" style="v" sid="COL 4:13"/>Posso afirmar que ele trabalha com dedicação por vocês e também pelos irmãos de Laodiceia e de Hierápolis.  
-<verse eid="COL 4:13"/><verse number="14" style="v" sid="COL 4:14"/>Lucas, o médico amado, envia saudações, e Demas também.  
-<verse eid="COL 4:14"/><verse number="15" style="v" sid="COL 4:15"/>Saúdem os irmãos de Laodiceia, Ninfa e a igreja que se reúne em sua casa. 
-<verse eid="COL 4:15"/><verse number="16" style="v" sid="COL 4:16"/>Depois de lerem esta carta, passem-na à igreja de Laodiceia; e leiam também a carta que vem de lá.  
-<verse eid="COL 4:16"/><verse number="17" style="v" sid="COL 4:17"/>Digam a Arquipo: “Cumpra plenamente o ministério que o Senhor lhe confiou”.
-<verse eid="COL 4:17"/><verse number="18" style="v" sid="COL 4:18"/>Eu escrevo esta saudação de próprio punho: lembrem-se de que estou na prisão. Que a graça esteja com vocês.
+  <para style="p"><verse number="1" style="v" sid="COL 4:1"/>Senhores, tratem seus escravos com justiça e bondade, lembrando que vocês também têm um Senhor nos céus.
+<verse eid="COL 4:1"/></para>
+  <para style="p"><verse number="2" style="v" sid="COL 4:2"/>Perseverem na oração; mantenham-se atentos e cheios de gratidão.
+<verse eid="COL 4:2"/></para>
+  <para style="p"><verse number="3" style="v" sid="COL 4:3"/>Orem também por nós, para que Deus abra uma porta para a nossa mensagem, e assim possamos anunciar o mistério de Cristo, pelo qual estou preso.
+<verse eid="COL 4:3"/></para>
+  <para style="p"><verse number="4" style="v" sid="COL 4:4"/>Orem para que eu fale com coragem e clareza, como devo falar.
+<verse eid="COL 4:4"/></para>
+  <para style="p"><verse number="5" style="v" sid="COL 4:5"/>Aproveitem bem cada ocasião com os de fora; ajam com sabedoria em cada encontro.
+<verse eid="COL 4:5"/></para>
+  <para style="p"><verse number="6" style="v" sid="COL 4:6"/>Que suas palavras sejam sempre agradáveis e bem temperadas, como sal que dá sabor, para que saibam responder a cada pessoa.
+<verse eid="COL 4:6"/></para>
+  <para style="p"><verse number="7" style="v" sid="COL 4:7"/>Tíquico, nosso amado irmão e fiel servo do Senhor, contará a vocês como estou.
+<verse eid="COL 4:7"/></para>
+  <para style="p"><verse number="8" style="v" sid="COL 4:8"/>Eu o envio para saber como vocês estão e para levar-lhes consolo e ânimo.
+<verse eid="COL 4:8"/></para>
+  <para style="p"><verse number="9" style="v" sid="COL 4:9"/>Envio também Onésimo, irmão fiel e muito amado, que é da terra de vocês. Juntos, eles contarão tudo o que acontece aqui.
+<verse eid="COL 4:9"/></para>
+  <para style="p"><verse number="10" style="v" sid="COL 4:10"/>Aristarco, meu companheiro de prisão, envia saudações; Marcos, primo de Barnabé, também. Vocês já receberam instruções sobre ele. Se ele passar por aí, acolham-no.
+<verse eid="COL 4:10"/></para>
+  <para style="p"><verse number="11" style="v" sid="COL 4:11"/>Jesus, chamado Justo, também envia saudações. Entre os judeus, somente estes trabalham comigo pelo reino de Deus, e têm sido grande consolo para mim.
+<verse eid="COL 4:11"/></para>
+  <para style="p"><verse number="12" style="v" sid="COL 4:12"/>Epafras, que é da cidade de vocês e servo de Cristo Jesus, envia saudações. Ele ora com zelo para que vocês sejam maduros, plenamente convictos e permaneçam firmes em toda a vontade de Deus.
+<verse eid="COL 4:12"/></para>
+  <para style="p"><verse number="13" style="v" sid="COL 4:13"/>Posso afirmar que ele trabalha com dedicação por vocês e também pelos irmãos de Laodiceia e de Hierápolis.
+<verse eid="COL 4:13"/></para>
+  <para style="p"><verse number="14" style="v" sid="COL 4:14"/>Lucas, o médico amado, envia saudações, e Demas também.
+<verse eid="COL 4:14"/></para>
+  <para style="p"><verse number="15" style="v" sid="COL 4:15"/>Saúdem os irmãos de Laodiceia, Ninfa e a igreja que se reúne em sua casa.
+<verse eid="COL 4:15"/></para>
+  <para style="p"><verse number="16" style="v" sid="COL 4:16"/>Depois de lerem esta carta, passem-na à igreja de Laodiceia; e leiam também a carta que vem de lá.
+<verse eid="COL 4:16"/></para>
+  <para style="p"><verse number="17" style="v" sid="COL 4:17"/>Digam a Arquipo: “Cumpra plenamente o ministério que o Senhor lhe confiou”.
+<verse eid="COL 4:17"/></para>
+  <para style="p"><verse number="18" style="v" sid="COL 4:18"/>Eu escrevo esta saudação de próprio punho: lembrem-se de que estou na prisão. Que a graça esteja com vocês.
 <verse eid="COL 4:18"/></para>
   <chapter eid="COL 4"/>
 </usx>

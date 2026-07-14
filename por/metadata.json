@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-13T18:11:23.052517"
+"dateCreated": "2026-07-13T18:17:53.867659"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "AquiferPortugueseBibleReferenceText": {
-"timestamp": "2026-07-13T18:11:23.052517"
+"timestamp": "2026-07-13T18:17:53.867659"
 }
 }
 },

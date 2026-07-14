@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "AquiferPortugueseBibleReferenceText",
-"date_created": "2026-07-09",
+"date_created": "2026-07-13",
 "language": "por",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-09T13:32:30.226674"
+"dateCreated": "2026-07-13T18:11:23.052517"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "AquiferPortugueseBibleReferenceText": {
-"timestamp": "2026-07-09T13:32:30.226674"
+"timestamp": "2026-07-13T18:11:23.052517"
 }
 }
 },

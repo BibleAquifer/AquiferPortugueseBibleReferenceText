@@ -520,7 +520,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40001022016	40001022	do					y
 40001022017	40001022	profeta	y				y
 40001022018	40001022	:		y			n
-40001023001	40001023	"	y	y			n
+40001023001	40001023	\"	y	y			n
 40001023002	40001023	Vejam	y				y
 40001023003	40001023	!		y			n
 40001023004	40001023	A					y
@@ -1038,7 +1038,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40002017010	40002017	profeta					y
 40002017011	40002017	Jeremias	y				y
 40002017012	40002017	:		y			n
-40002018001	40002018	"	y	y			n
+40002018001	40002018	\"	y	y			n
 40002018002	40002018	Ouviu-se					y
 40002018003	40002018	uma					y
 40002018004	40002018	voz					y
@@ -1213,7 +1213,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40003001014	40003001	seguinte					y
 40003001015	40003001	mensagem	y				y
 40003001016	40003001	:		y			n
-40003002001	40003002	"	y	y			n
+40003002001	40003002	\"	y	y			n
 40003002002	40003002	Arrependam-se	y				y
 40003002003	40003002	,		y			n
 40003002004	40003002	porque					y
@@ -1972,7 +1972,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40004014010	40004014	profeta					y
 40004014011	40004014	Isaías	y				y
 40004014012	40004014	:		y			n
-40004015001	40004015	"	y	y			n
+40004015001	40004015	\"	y	y			n
 40004015002	40004015	Terra					y
 40004015003	40004015	de					y
 40004015004	40004015	Zebulom					y
@@ -3167,7 +3167,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40005037020	40005037	do					y
 40005037021	40005037	Maligno	y				y
 40005037022	40005037	.		y			n
-40005038001	40005038	"	y	y			n
+40005038001	40005038	\"	y	y			n
 40005038002	40005038	Vocês					y
 40005038003	40005038	ouviram					y
 40005038004	40005038	o					y
@@ -3392,7 +3392,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40005048019	40005048	perfeito	y				y
 40005048020	40005048	”	y	y			n
 40005048021	40005048	.		y			n
-40006001001	40006001	"	y	y			n
+40006001001	40006001	\"	y	y			n
 40006001002	40006001	Cuidem					y
 40006001003	40006001	para					y
 40006001004	40006001	não					y
@@ -4305,7 +4305,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40006034026	40006034	desafio	y				y
 40006034027	40006034	”	y	y			n
 40006034028	40006034	.		y			n
-40007001001	40007001	"	y	y			n
+40007001001	40007001	\"	y	y			n
 40007001002	40007001	Não					y
 40007001003	40007001	julguem					y
 40007001004	40007001	para					y
@@ -5089,7 +5089,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40008005015	40008005	pedindo-lhe					y
 40008005016	40008005	ajuda	y				y
 40008005017	40008005	:		y			n
-40008006001	40008006	"	y	y			n
+40008006001	40008006	\"	y	y			n
 40008006002	40008006	Senhor	y				y
 40008006003	40008006	,		y			n
 40008006004	40008006	meu					y
@@ -5784,7 +5784,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40008031019	40008031	porcos	y				y
 40008031020	40008031	”	y	y			n
 40008031021	40008031	.		y			n
-40008032001	40008032	"	y	y			n
+40008032001	40008032	\"	y	y			n
 40008032002	40008032	Pois					y
 40008032003	40008032	vão	y				y
 40008032004	40008032	!	y	y			n
@@ -7899,7 +7899,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40011002017	40011002	a					y
 40011002018	40011002	Jesus	y				y
 40011002019	40011002	:		y			n
-40011003001	40011003	"	y	y			n
+40011003001	40011003	\"	y	y			n
 40011003002	40011003	O					y
 40011003003	40011003	senhor					y
 40011003004	40011003	é					y
@@ -8319,7 +8319,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40011020019	40011020	se					y
 40011020020	40011020	arrependeram	y				y
 40011020021	40011020	.		y			n
-40011021001	40011021	"	y	y			n
+40011021001	40011021	\"	y	y			n
 40011021002	40011021	Ai					y
 40011021003	40011021	de					y
 40011021004	40011021	você	y				y
@@ -8815,7 +8815,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40012010027	40012010	?	y	y			n
 40012010028	40012010	”	y	y			n
 40012010029	40012010	.		y			n
-40012011001	40012011	"	y	y			n
+40012011001	40012011	\"	y	y			n
 40012011002	40012011	Se					y
 40012011003	40012011	um					y
 40012011004	40012011	de					y
@@ -8957,7 +8957,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40012017010	40012017	havia					y
 40012017011	40012017	declarado	y				y
 40012017012	40012017	:		y			n
-40012018001	40012018	"	y	y			n
+40012018001	40012018	\"	y	y			n
 40012018002	40012018	Vejam	y				y
 40012018003	40012018	!		y			n
 40012018004	40012018	Este					y
@@ -10958,7 +10958,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40013043020	40013043	ouça	y				y
 40013043021	40013043	”	y	y			n
 40013043022	40013043	.		y			n
-40013044001	40013044	"	y	y			n
+40013044001	40013044	\"	y	y			n
 40013044002	40013044	O					y
 40013044003	40013044	reino					y
 40013044004	40013044	dos					y
@@ -10996,7 +10996,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40013044036	40013044	campo	y				y
 40013044037	40013044	.	y	y			n
 40013044038	40013044	”		y			n
-40013045001	40013045	"	y	y			n
+40013045001	40013045	\"	y	y			n
 40013045002	40013045	O					y
 40013045003	40013045	reino					y
 40013045004	40013045	dos					y
@@ -11032,7 +11032,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40013046018	40013046	adquiriu	y				y
 40013046019	40013046	.	y	y			n
 40013046020	40013046	”		y			n
-40013047001	40013047	"	y	y			n
+40013047001	40013047	\"	y	y			n
 40013047002	40013047	De					y
 40013047003	40013047	igual					y
 40013047004	40013047	modo	y				y
@@ -15755,7 +15755,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40019016025	40019016	?	y	y			n
 40019016026	40019016	”	y	y			n
 40019016027	40019016	.		y			n
-40019017001	40019017	"	y	y			n
+40019017001	40019017	\"	y	y			n
 40019017002	40019017	Por					y
 40019017003	40019017	que					y
 40019017004	40019017	você					y
@@ -15793,7 +15793,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40019017036	40019017	mandamentos	y				y
 40019017037	40019017	.	y	y			n
 40019017038	40019017	”		y			n
-40019018001	40019018	"	y	y			n
+40019018001	40019018	\"	y	y			n
 40019018002	40019018	Quais					y
 40019018003	40019018	são					y
 40019018004	40019018	os					y
@@ -16146,7 +16146,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40019030021	40019030	primeiros	y				y
 40019030022	40019030	”	y	y			n
 40019030023	40019030	.		y			n
-40020001001	40020001	"	y	y			n
+40020001001	40020001	\"	y	y			n
 40020001002	40020001	O					y
 40020001003	40020001	reino					y
 40020001004	40020001	dos					y
@@ -16531,7 +16531,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40020015029	40020015	?	y	y			n
 40020015030	40020015	’	y	y			n
 40020015031	40020015	.		y			n
-40020016001	40020016	"	y	y			n
+40020016001	40020016	\"	y	y			n
 40020016002	40020016	Assim	y				y
 40020016003	40020016	,		y			n
 40020016004	40020016	os					y
@@ -16569,7 +16569,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40020017019	40020017	,		y			n
 40020017020	40020017	disse-lhes	y				y
 40020017021	40020017	:		y			n
-40020018001	40020018	"	y	y			n
+40020018001	40020018	\"	y	y			n
 40020018002	40020018	Vejam	y				y
 40020018003	40020018	,		y			n
 40020018004	40020018	estamos					y
@@ -17128,7 +17128,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40021004011	40021004	pelo					y
 40021004012	40021004	profeta	y				y
 40021004013	40021004	:		y			n
-40021005001	40021005	"	y	y			n
+40021005001	40021005	\"	y	y			n
 40021005002	40021005	Digam					y
 40021005003	40021005	à					y
 40021005004	40021005	filha					y
@@ -17768,7 +17768,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40021027033	40021027	coisas	y				y
 40021027034	40021027	”	y	y			n
 40021027035	40021027	.		y			n
-40021028001	40021028	"	y	y			n
+40021028001	40021028	\"	y	y			n
 40021028002	40021028	O					y
 40021028003	40021028	que					y
 40021028004	40021028	vocês					y
@@ -17934,7 +17934,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40021032041	40021032	nele	y				y
 40021032042	40021032	”	y	y			n
 40021032043	40021032	.		y			n
-40021033001	40021033	"	y	y			n
+40021033001	40021033	\"	y	y			n
 40021033002	40021033	Agora					y
 40021033003	40021033	ouçam					y
 40021033004	40021033	outra					y
@@ -18267,7 +18267,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022001010	40022001	e					y
 40022001011	40022001	disse-lhes	y				y
 40022001012	40022001	:		y			n
-40022002001	40022002	"	y	y			n
+40022002001	40022002	\"	y	y			n
 40022002002	40022002	O					y
 40022002003	40022002	reino					y
 40022002004	40022002	dos					y
@@ -18543,7 +18543,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022013030	40022013	dentes	y				y
 40022013031	40022013	’	y	y			n
 40022013032	40022013	.		y			n
-40022014001	40022014	"	y	y			n
+40022014001	40022014	\"	y	y			n
 40022014002	40022014	Porque					y
 40022014003	40022014	muitos					y
 40022014004	40022014	são					y
@@ -18682,7 +18682,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022019014	40022019	um					y
 40022019015	40022019	denário	y				y
 40022019016	40022019	.		y			n
-40022020001	40022020	"	y	y			n
+40022020001	40022020	\"	y	y			n
 40022020002	40022020	De					y
 40022020003	40022020	quem					y
 40022020004	40022020	é					y
@@ -18772,7 +18772,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022023019	40022023	o					y
 40022023020	40022023	questionaram	y				y
 40022023021	40022023	:		y			n
-40022024001	40022024	"	y	y			n
+40022024001	40022024	\"	y	y			n
 40022024002	40022024	Mestre	y				y
 40022024003	40022024	,		y			n
 40022024004	40022024	Moisés					y
@@ -18998,7 +18998,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022035010	40022035	,		y			n
 40022035011	40022035	tentando-o	y				y
 40022035012	40022035	:		y			n
-40022036001	40022036	"	y	y			n
+40022036001	40022036	\"	y	y			n
 40022036002	40022036	Mestre	y				y
 40022036003	40022036	,		y			n
 40022036004	40022036	qual					y
@@ -19017,7 +19017,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40022037001	40022037	Jesus					y
 40022037002	40022037	respondeu	y				y
 40022037003	40022037	:		y			n
-40022037004	40022037	"	y	y			n
+40022037004	40022037	\"	y	y			n
 40022037005	40022037	’	y	y			n
 40022037006	40022037	Ame					y
 40022037007	40022037	o					y
@@ -21194,7 +21194,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40024051020	40024051	dentes	y				y
 40024051021	40024051	”	y	y			n
 40024051022	40024051	.		y			n
-40025001001	40025001	"	y	y			n
+40025001001	40025001	\"	y	y			n
 40025001002	40025001	Naquele					y
 40025001003	40025001	dia	y				y
 40025001004	40025001	,		y			n
@@ -21449,7 +21449,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40025013016	40025013	que					y
 40025013017	40025013	voltarei	y				y
 40025013018	40025013	.		y			n
-40025014001	40025014	"	y	y			n
+40025014001	40025014	\"	y	y			n
 40025014002	40025014	Pois					y
 40025014003	40025014	o					y
 40025014004	40025014	reino					y
@@ -21874,7 +21874,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40025030021	40025030	’	y	y			n
 40025030022	40025030	”	y	y			n
 40025030023	40025030	.		y			n
-40025031001	40025031	"	y	y			n
+40025031001	40025031	\"	y	y			n
 40025031002	40025031	Quando					y
 40025031003	40025031	o					y
 40025031004	40025031	Filho					y
@@ -22305,7 +22305,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40026001016	40026001	seus					y
 40026001017	40026001	discípulos	y				y
 40026001018	40026001	:		y			n
-40026002001	40026002	"	y	y			n
+40026002001	40026002	\"	y	y			n
 40026002002	40026002	Vocês					y
 40026002003	40026002	sabem					y
 40026002004	40026002	que					y
@@ -23199,7 +23199,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40026040025	40026040	a					y
 40026040026	40026040	Pedro	y				y
 40026040027	40026040	.		y			n
-40026041001	40026041	"	y	y			n
+40026041001	40026041	\"	y	y			n
 40026041002	40026041	Fiquem					y
 40026041003	40026041	atentos					y
 40026041004	40026041	e					y
@@ -23459,7 +23459,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40026051023	40026051	a					y
 40026051024	40026051	orelha	y				y
 40026051025	40026051	.		y			n
-40026052001	40026052	"	y	y			n
+40026052001	40026052	\"	y	y			n
 40026052002	40026052	Guarde					y
 40026052003	40026052	sua					y
 40026052004	40026052	espada	y				y
@@ -23841,7 +23841,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40026065029	40026065	!	y	y			n
 40026065030	40026065	”	y	y			n
 40026065031	40026065	.		y			n
-40026066001	40026066	"	y	y			n
+40026066001	40026066	\"	y	y			n
 40026066002	40026066	Qual					y
 40026066003	40026066	é					y
 40026066004	40026066	o					y
@@ -24975,7 +24975,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 40027041019	40027041	,		y			n
 40027041020	40027041	diziam	y				y
 40027041021	40027041	:		y			n
-40027042001	40027042	"	y	y			n
+40027042001	40027042	\"	y	y			n
 40027042002	40027042	Salvou					y
 40027042003	40027042	outros	y				y
 40027042004	40027042	,		y			n
@@ -26256,7 +26256,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41001014016	41001014	de					y
 41001014017	41001014	Deus	y				y
 41001014018	41001014	.		y			n
-41001015001	41001015	"	y	y			n
+41001015001	41001015	\"	y	y			n
 41001015002	41001015	Chegou					y
 41001015003	41001015	o					y
 41001015004	41001015	tempo	y				y
@@ -26435,7 +26435,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41001023012	41001023	a					y
 41001023013	41001023	gritar	y				y
 41001023014	41001023	:		y			n
-41001024001	41001024	"	y	y			n
+41001024001	41001024	\"	y	y			n
 41001024002	41001024	Por					y
 41001024003	41001024	que					y
 41001024004	41001024	está					y
@@ -26823,7 +26823,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41001043007	41001043	severa					y
 41001043008	41001043	advertência	y				y
 41001043009	41001043	:		y			n
-41001044001	41001044	"	y	y			n
+41001044001	41001044	\"	y	y			n
 41001044002	41001044	Não					y
 41001044003	41001044	conte					y
 41001044004	41001044	nada					y
@@ -27031,7 +27031,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41002006009	41002006	e					y
 41002006010	41002006	pensaram	y				y
 41002006011	41002006	:		y			n
-41002007001	41002007	"	y	y			n
+41002007001	41002007	\"	y	y			n
 41002007002	41002007	Por					y
 41002007003	41002007	que					y
 41002007004	41002007	ele					y
@@ -27121,7 +27121,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41002010021	41002010	ao					y
 41002010022	41002010	paralítico	y				y
 41002010023	41002010	:		y			n
-41002011001	41002011	"	y	y			n
+41002011001	41002011	\"	y	y			n
 41002011002	41002011	Levante-se	y				y
 41002011003	41002011	,		y			n
 41002011004	41002011	pegue					y
@@ -28376,7 +28376,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41004002011	41004002	como					y
 41004002012	41004002	esta	y				y
 41004002013	41004002	:		y			n
-41004003001	41004003	"	y	y			n
+41004003001	41004003	\"	y	y			n
 41004003002	41004003	Ouçam	y				y
 41004003003	41004003	!		y			n
 41004003004	41004003	Um					y
@@ -32391,7 +32391,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41008001021	41008001	e					y
 41008001022	41008001	disse	y				y
 41008001023	41008001	:		y			n
-41008002001	41008002	"	y	y			n
+41008002001	41008002	\"	y	y			n
 41008002002	41008002	Tenho					y
 41008002003	41008002	compaixão					y
 41008002004	41008002	desta					y
@@ -32772,7 +32772,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41008019026	41008019	Doze	y				y
 41008019027	41008019	”	y	y			n
 41008019028	41008019	.		y			n
-41008020001	41008020	"	y	y			n
+41008020001	41008020	\"	y	y			n
 41008020002	41008020	E					y
 41008020003	41008020	quando					y
 41008020004	41008020	eu					y
@@ -32984,7 +32984,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41008028018	41008028	profetas	y				y
 41008028019	41008028	”	y	y			n
 41008028020	41008028	.		y			n
-41008029001	41008029	"	y	y			n
+41008029001	41008029	\"	y	y			n
 41008029002	41008029	E					y
 41008029003	41008029	vocês	y				y
 41008029004	41008029	?	y	y			n
@@ -34094,7 +34094,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41009036015	41009036	e					y
 41009036016	41009036	disse	y				y
 41009036017	41009036	:		y			n
-41009037001	41009037	"	y	y			n
+41009037001	41009037	\"	y	y			n
 41009037002	41009037	Quem					y
 41009037003	41009037	receber					y
 41009037004	41009037	uma					y
@@ -34151,7 +34151,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41009038022	41009038	segue	y				y
 41009038023	41009038	”	y	y			n
 41009038024	41009038	.		y			n
-41009039001	41009039	"	y	y			n
+41009039001	41009039	\"	y	y			n
 41009039002	41009039	Não					y
 41009039003	41009039	o					y
 41009039004	41009039	impeçam	y				y
@@ -34218,7 +34218,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41009041028	41009041	sua					y
 41009041029	41009041	recompensa	y				y
 41009041030	41009041	.		y			n
-41009042001	41009042	"	y	y			n
+41009042001	41009042	\"	y	y			n
 41009042002	41009042	Se					y
 41009042003	41009042	alguém					y
 41009042004	41009042	fizer					y
@@ -34349,7 +34349,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41009048010	41009048	se					y
 41009048011	41009048	apaga	y				y
 41009048012	41009048	.		y			n
-41009049001	41009049	"	y	y			n
+41009049001	41009049	\"	y	y			n
 41009049002	41009049	Porque					y
 41009049003	41009049	cada					y
 41009049004	41009049	um					y
@@ -34748,7 +34748,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41010017033	41010017	?	y	y			n
 41010017034	41010017	”	y	y			n
 41010017035	41010017	.		y			n
-41010018001	41010018	"	y	y			n
+41010018001	41010018	\"	y	y			n
 41010018002	41010018	Por					y
 41010018003	41010018	que					y
 41010018004	41010018	você					y
@@ -35172,7 +35172,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41010032045	41010032	com					y
 41010032046	41010032	ele	y				y
 41010032047	41010032	.		y			n
-41010033001	41010033	"	y	y			n
+41010033001	41010033	\"	y	y			n
 41010033002	41010033	Ouçam	y				y
 41010033003	41010033	,		y			n
 41010033004	41010033	estamos					y
@@ -36322,7 +36322,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41011027029	41011027	e					y
 41011027030	41011027	perguntaram	y				y
 41011027031	41011027	:		y			n
-41011028001	41011028	"	y	y			n
+41011028001	41011028	\"	y	y			n
 41011028002	41011028	Com					y
 41011028003	41011028	que					y
 41011028004	41011028	autoridade					y
@@ -36644,7 +36644,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41012008011	41012008	da					y
 41012008012	41012008	vinha	y				y
 41012008013	41012008	.		y			n
-41012009001	41012009	"	y	y			n
+41012009001	41012009	\"	y	y			n
 41012009002	41012009	O					y
 41012009003	41012009	que					y
 41012009004	41012009	vocês					y
@@ -36904,7 +36904,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41012018013	41012018	e					y
 41012018014	41012018	perguntaram	y				y
 41012018015	41012018	:		y			n
-41012019001	41012019	"	y	y			n
+41012019001	41012019	\"	y	y			n
 41012019002	41012019	Mestre	y				y
 41012019003	41012019	,		y			n
 41012019004	41012019	Moisés					y
@@ -37662,7 +37662,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013003027	41013003	em					y
 41013003028	41013003	particular	y				y
 41013003029	41013003	:		y			n
-41013004001	41013004	"	y	y			n
+41013004001	41013004	\"	y	y			n
 41013004002	41013004	Diga-nos	y				y
 41013004003	41013004	,		y			n
 41013004004	41013004	quando					y
@@ -37777,7 +37777,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013008029	41013008	de					y
 41013008030	41013008	parto	y				y
 41013008031	41013008	.		y			n
-41013009001	41013009	"	y	y			n
+41013009001	41013009	\"	y	y			n
 41013009002	41013009	Mas					y
 41013009003	41013009	estejam					y
 41013009004	41013009	atentos	y				y
@@ -37863,7 +37863,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013011034	41013011	Espírito					y
 41013011035	41013011	Santo	y				y
 41013011036	41013011	.		y			n
-41013012001	41013012	"	y	y			n
+41013012001	41013012	\"	y	y			n
 41013012002	41013012	O					y
 41013012003	41013012	irmão					y
 41013012004	41013012	trairá					y
@@ -37913,7 +37913,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013013018	41013013	será					y
 41013013019	41013013	salvo	y				y
 41013013020	41013013	.		y			n
-41013014001	41013014	"	y	y			n
+41013014001	41013014	\"	y	y			n
 41013014002	41013014	Quando					y
 41013014003	41013014	vocês					y
 41013014004	41013014	virem					y
@@ -38045,7 +38045,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013020023	41013020	aqueles					y
 41013020024	41013020	dias	y				y
 41013020025	41013020	.		y			n
-41013021001	41013021	"	y	y			n
+41013021001	41013021	\"	y	y			n
 41013021002	41013021	Então	y				y
 41013021003	41013021	,		y			n
 41013021004	41013021	não					y
@@ -38105,7 +38105,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013023006	41013023	predisse					y
 41013023007	41013023	tudo	y				y
 41013023008	41013023	.		y			n
-41013024001	41013024	"	y	y			n
+41013024001	41013024	\"	y	y			n
 41013024002	41013024	Mas					y
 41013024003	41013024	naqueles					y
 41013024004	41013024	dias	y				y
@@ -38182,7 +38182,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013027023	41013027	do					y
 41013027024	41013027	céu	y				y
 41013027025	41013027	.		y			n
-41013028001	41013028	"	y	y			n
+41013028001	41013028	\"	y	y			n
 41013028002	41013028	Aprendam					y
 41013028003	41013028	a					y
 41013028004	41013028	parábola					y
@@ -38260,7 +38260,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41013031011	41013031	minhas					y
 41013031012	41013031	palavras	y				y
 41013031013	41013031	.		y			n
-41013032001	41013032	"	y	y			n
+41013032001	41013032	\"	y	y			n
 41013032002	41013032	Mas					y
 41013032003	41013032	ninguém					y
 41013032004	41013032	sabe					y
@@ -39695,7 +39695,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41014057011	41014057	,		y			n
 41014057012	41014057	dizendo	y				y
 41014057013	41014057	:		y			n
-41014058001	41014058	"	y	y			n
+41014058001	41014058	\"	y	y			n
 41014058002	41014058	Nós					y
 41014058003	41014058	o					y
 41014058004	41014058	ouvimos					y
@@ -40254,7 +40254,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41015008014	41015008	de					y
 41015008015	41015008	costume	y				y
 41015008016	41015008	.		y			n
-41015009001	41015009	"	y	y			n
+41015009001	41015009	\"	y	y			n
 41015009002	41015009	Vocês					y
 41015009003	41015009	querem					y
 41015009004	41015009	que					y
@@ -40337,7 +40337,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 41015013006	41015013	!	y	y			n
 41015013007	41015013	”	y	y			n
 41015013008	41015013	.		y			n
-41015014001	41015014	"	y	y			n
+41015014001	41015014	\"	y	y			n
 41015014002	41015014	Que					y
 41015014003	41015014	crime					y
 41015014004	41015014	ele					y
@@ -42052,7 +42052,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42001024019	42001024	cinco					y
 42001024020	42001024	meses	y				y
 42001024021	42001024	.		y			n
-42001025001	42001025	"	y	y			n
+42001025001	42001025	\"	y	y			n
 42001025002	42001025	Esse					y
 42001025003	42001025	foi					y
 42001025004	42001025	o					y
@@ -42849,7 +42849,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42001067013	42001067	e					y
 42001067014	42001067	profetizou	y				y
 42001067015	42001067	:		y			n
-42001068001	42001068	"	y	y			n
+42001068001	42001068	\"	y	y			n
 42001068002	42001068	Bendito					y
 42001068003	42001068	seja					y
 42001068004	42001068	o					y
@@ -43326,7 +43326,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42002013018	42002013	e					y
 42002013019	42002013	dizendo	y				y
 42002013020	42002013	:		y			n
-42002014001	42002014	"	y	y			n
+42002014001	42002014	\"	y	y			n
 42002014002	42002014	Glória					y
 42002014003	42002014	a					y
 42002014004	42002014	Deus					y
@@ -43641,7 +43641,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42002028011	42002028	,		y			n
 42002028012	42002028	dizendo	y				y
 42002028013	42002028	:		y			n
-42002029001	42002029	"	y	y			n
+42002029001	42002029	\"	y	y			n
 42002029002	42002029	Agora	y				y
 42002029003	42002029	,		y			n
 42002029004	42002029	Senhor	y				y
@@ -44057,7 +44057,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42002048033	42002048	procura	y				y
 42002048034	42002048	”	y	y			n
 42002048035	42002048	.		y			n
-42002049001	42002049	"	y	y			n
+42002049001	42002049	\"	y	y			n
 42002049002	42002049	Por					y
 42002049003	42002049	que					y
 42002049004	42002049	vocês					y
@@ -45517,7 +45517,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42004017019	42004017	estava					y
 42004017020	42004017	escrito	y				y
 42004017021	42004017	:		y			n
-42004018001	42004018	"	y	y			n
+42004018001	42004018	\"	y	y			n
 42004018002	42004018	O					y
 42004018003	42004018	Espírito					y
 42004018004	42004018	do					y
@@ -45687,7 +45687,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42004024014	42004024	própria					y
 42004024015	42004024	terra	y				y
 42004024016	42004024	.		y			n
-42004025001	42004025	"	y	y			n
+42004025001	42004025	\"	y	y			n
 42004025002	42004025	Asseguro-lhes					y
 42004025003	42004025	que					y
 42004025004	42004025	havia					y
@@ -45872,7 +45872,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42004033015	42004033	a					y
 42004033016	42004033	força	y				y
 42004033017	42004033	:		y			n
-42004034001	42004034	"	y	y			n
+42004034001	42004034	\"	y	y			n
 42004034002	42004034	Ah	y				y
 42004034003	42004034	!		y			n
 42004034004	42004034	O					y
@@ -47722,7 +47722,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006023023	42006023	os					y
 42006023024	42006023	profetas	y				y
 42006023025	42006023	.		y			n
-42006024001	42006024	"	y	y			n
+42006024001	42006024	\"	y	y			n
 42006024002	42006024	Mas					y
 42006024003	42006024	ai					y
 42006024004	42006024	de					y
@@ -47786,7 +47786,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006026019	42006026	falsos					y
 42006026020	42006026	profetas	y				y
 42006026021	42006026	!		y			n
-42006027001	42006027	"	y	y			n
+42006027001	42006027	\"	y	y			n
 42006027002	42006027	Mas					y
 42006027003	42006027	digo					y
 42006027004	42006027	a					y
@@ -47884,7 +47884,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006031015	42006031	mesma					y
 42006031016	42006031	maneira	y				y
 42006031017	42006031	.		y			n
-42006032001	42006032	"	y	y			n
+42006032001	42006032	\"	y	y			n
 42006032002	42006032	Se					y
 42006032003	42006032	vocês					y
 42006032004	42006032	amam					y
@@ -48007,7 +48007,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006036008	42006036	é					y
 42006036009	42006036	misericordioso	y				y
 42006036010	42006036	.		y			n
-42006037001	42006037	"	y	y			n
+42006037001	42006037	\"	y	y			n
 42006037002	42006037	Não					y
 42006037003	42006037	julguem					y
 42006037004	42006037	e					y
@@ -48111,7 +48111,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006040019	42006040	seu					y
 42006040020	42006040	mestre	y				y
 42006040021	42006040	.		y			n
-42006041001	42006041	"	y	y			n
+42006041001	42006041	\"	y	y			n
 42006041002	42006041	Por					y
 42006041003	42006041	que					y
 42006041004	42006041	você					y
@@ -48193,7 +48193,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006042053	42006042	seu					y
 42006042054	42006042	irmão	y				y
 42006042055	42006042	.		y			n
-42006043001	42006043	"	y	y			n
+42006043001	42006043	\"	y	y			n
 42006043002	42006043	Pois					y
 42006043003	42006043	não					y
 42006043004	42006043	existe					y
@@ -48272,7 +48272,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42006045033	42006045	o					y
 42006045034	42006045	coração	y				y
 42006045035	42006045	.		y			n
-42006046001	42006046	"	y	y			n
+42006046001	42006046	\"	y	y			n
 42006046002	42006046	Por					y
 42006046003	42006046	que					y
 42006046004	42006046	vocês					y
@@ -49779,7 +49779,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42008004019	42008004	esta					y
 42008004020	42008004	parábola	y				y
 42008004021	42008004	:		y			n
-42008005001	42008005	"	y	y			n
+42008005001	42008005	\"	y	y			n
 42008005002	42008005	Um					y
 42008005003	42008005	lavrador					y
 42008005004	42008005	saiu					y
@@ -50079,7 +50079,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42008015029	42008015	produzem					y
 42008015030	42008015	fruto	y				y
 42008015031	42008015	.		y			n
-42008016001	42008016	"	y	y			n
+42008016001	42008016	\"	y	y			n
 42008016002	42008016	Ninguém					y
 42008016003	42008016	acende					y
 42008016004	42008016	uma					y
@@ -50140,7 +50140,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42008017023	42008017	à					y
 42008017024	42008017	luz	y				y
 42008017025	42008017	.		y			n
-42008018001	42008018	"	y	y			n
+42008018001	42008018	\"	y	y			n
 42008018002	42008018	Portanto	y				y
 42008018003	42008018	,		y			n
 42008018004	42008018	cuidado					y
@@ -51211,7 +51211,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42009002012	42009002	os					y
 42009002013	42009002	enfermos	y				y
 42009002014	42009002	.		y			n
-42009003001	42009003	"	y	y			n
+42009003001	42009003	\"	y	y			n
 42009003002	42009003	Não					y
 42009003003	42009003	levem					y
 42009003004	42009003	nada					y
@@ -51626,7 +51626,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42009018028	42009018	?	y	y			n
 42009018029	42009018	”	y	y			n
 42009018030	42009018	.		y			n
-42009019001	42009019	"	y	y			n
+42009019001	42009019	\"	y	y			n
 42009019002	42009019	Alguns					y
 42009019003	42009019	dizem					y
 42009019004	42009019	que					y
@@ -51690,7 +51690,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42009021010	42009021	a					y
 42009021011	42009021	ninguém	y				y
 42009021012	42009021	.		y			n
-42009022001	42009022	"	y	y			n
+42009022001	42009022	\"	y	y			n
 42009022002	42009022	O					y
 42009022003	42009022	Filho					y
 42009022004	42009022	do					y
@@ -52228,7 +52228,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42009043022	42009043	aos					y
 42009043023	42009043	discípulos	y				y
 42009043024	42009043	:		y			n
-42009044001	42009044	"	y	y			n
+42009044001	42009044	\"	y	y			n
 42009044002	42009044	Ouçam					y
 42009044003	42009044	bem					y
 42009044004	42009044	estas					y
@@ -52729,7 +52729,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010004015	42010004	pelo					y
 42010004016	42010004	caminho	y				y
 42010004017	42010004	.		y			n
-42010005001	42010005	"	y	y			n
+42010005001	42010005	\"	y	y			n
 42010005002	42010005	Em					y
 42010005003	42010005	qualquer					y
 42010005004	42010005	casa					y
@@ -52808,7 +52808,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010007028	42010007	em					y
 42010007029	42010007	casa	y				y
 42010007030	42010007	.		y			n
-42010008001	42010008	"	y	y			n
+42010008001	42010008	\"	y	y			n
 42010008002	42010008	Em					y
 42010008003	42010008	qualquer					y
 42010008004	42010008	cidade					y
@@ -52911,7 +52911,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010012019	42010012	aquela					y
 42010012020	42010012	cidade	y				y
 42010012021	42010012	.		y			n
-42010013001	42010013	"	y	y			n
+42010013001	42010013	\"	y	y			n
 42010013002	42010013	Ai					y
 42010013003	42010013	de					y
 42010013004	42010013	vocês	y				y
@@ -53174,7 +53174,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010021054	42010021	teu					y
 42010021055	42010021	agrado	y				y
 42010021056	42010021	.		y			n
-42010022001	42010022	"	y	y			n
+42010022001	42010022	\"	y	y			n
 42010022002	42010022	Tudo					y
 42010022003	42010022	me					y
 42010022004	42010022	foi					y
@@ -53315,7 +53315,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010027002	42010027	homem					y
 42010027003	42010027	respondeu	y				y
 42010027004	42010027	:		y			n
-42010027005	42010027	"	y	y			n
+42010027005	42010027	\"	y	y			n
 42010027006	42010027	’	y	y			n
 42010027007	42010027	Ame					y
 42010027008	42010027	o					y
@@ -53432,7 +53432,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010030029	42010030	quase					y
 42010030030	42010030	morto	y				y
 42010030031	42010030	.		y			n
-42010031001	42010031	"	y	y			n
+42010031001	42010031	\"	y	y			n
 42010031002	42010031	Por					y
 42010031003	42010031	acaso	y				y
 42010031004	42010031	,		y			n
@@ -53477,7 +53477,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42010032021	42010032	da					y
 42010032022	42010032	estrada	y				y
 42010032023	42010032	.		y			n
-42010033001	42010033	"	y	y			n
+42010033001	42010033	\"	y	y			n
 42010033002	42010033	Mas					y
 42010033003	42010033	um					y
 42010033004	42010033	samaritano					y
@@ -53933,7 +53933,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011008036	42011008	que					y
 42011008037	42011008	precisa	y				y
 42011008038	42011008	.		y			n
-42011009001	42011009	"	y	y			n
+42011009001	42011009	\"	y	y			n
 42011009002	42011009	Por					y
 42011009003	42011009	isso					y
 42011009004	42011009	eu					y
@@ -53981,7 +53981,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011010021	42011010	se					y
 42011010022	42011010	abre	y				y
 42011010023	42011010	.		y			n
-42011011001	42011011	"	y	y			n
+42011011001	42011011	\"	y	y			n
 42011011002	42011011	Qual					y
 42011011003	42011011	pai					y
 42011011004	42011011	entre					y
@@ -54259,7 +54259,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011022024	42011022	seus					y
 42011022025	42011022	pertences	y				y
 42011022026	42011022	.		y			n
-42011023001	42011023	"	y	y			n
+42011023001	42011023	\"	y	y			n
 42011023002	42011023	Quem					y
 42011023003	42011023	não					y
 42011023004	42011023	está					y
@@ -54277,7 +54277,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011023016	42011023	comigo					y
 42011023017	42011023	espalha	y				y
 42011023018	42011023	.		y			n
-42011024001	42011024	"	y	y			n
+42011024001	42011024	\"	y	y			n
 42011024002	42011024	Quando					y
 42011024003	42011024	um					y
 42011024004	42011024	espírito					y
@@ -54483,7 +54483,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011030022	42011030	esta					y
 42011030023	42011030	geração	y				y
 42011030024	42011030	.		y			n
-42011031001	42011031	"	y	y			n
+42011031001	42011031	\"	y	y			n
 42011031002	42011031	A					y
 42011031003	42011031	rainha					y
 42011031004	42011031	do					y
@@ -54560,7 +54560,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011032034	42011032	Jonas	y				y
 42011032035	42011032	.	y	y			n
 42011032036	42011032	”		y			n
-42011033001	42011033	"	y	y			n
+42011033001	42011033	\"	y	y			n
 42011033002	42011033	Ninguém					y
 42011033003	42011033	acende					y
 42011033004	42011033	uma					y
@@ -54593,7 +54593,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011033031	42011033	a					y
 42011033032	42011033	luz	y				y
 42011033033	42011033	.		y			n
-42011034001	42011034	"	y	y			n
+42011034001	42011034	\"	y	y			n
 42011034002	42011034	Seus					y
 42011034003	42011034	olhos					y
 42011034004	42011034	são					y
@@ -54778,7 +54778,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011041021	42011041	para					y
 42011041022	42011041	vocês	y				y
 42011041023	42011041	.		y			n
-42011042001	42011042	"	y	y			n
+42011042001	42011042	\"	y	y			n
 42011042002	42011042	Mas					y
 42011042003	42011042	ai					y
 42011042004	42011042	de					y
@@ -54823,7 +54823,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011042043	42011042	aquelas					y
 42011042044	42011042	outras	y				y
 42011042045	42011042	.		y			n
-42011043001	42011043	"	y	y			n
+42011043001	42011043	\"	y	y			n
 42011043002	42011043	Ai					y
 42011043003	42011043	de					y
 42011043004	42011043	vocês	y				y
@@ -54995,7 +54995,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011049024	42011049	outros	y				y
 42011049025	42011049	’	y	y			n
 42011049026	42011049	.		y			n
-42011050001	42011050	"	y	y			n
+42011050001	42011050	\"	y	y			n
 42011050002	42011050	Portanto	y				y
 42011050003	42011050	,		y			n
 42011050004	42011050	desta					y
@@ -55049,7 +55049,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42011051030	42011051	desta					y
 42011051031	42011051	geração	y				y
 42011051032	42011051	.		y			n
-42011052001	42011052	"	y	y			n
+42011052001	42011052	\"	y	y			n
 42011052002	42011052	Ai					y
 42011052003	42011052	de					y
 42011052004	42011052	vocês	y				y
@@ -57115,7 +57115,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42013023017	42013023	ele					y
 42013023018	42013023	respondeu	y				y
 42013023019	42013023	:		y			n
-42013024001	42013024	"	y	y			n
+42013024001	42013024	\"	y	y			n
 42013024002	42013024	Façam					y
 42013024003	42013024	um					y
 42013024004	42013024	esforço					y
@@ -57367,7 +57367,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42013033022	42013033	de					y
 42013033023	42013033	Jerusalém	y				y
 42013033024	42013033	.		y			n
-42013034001	42013034	"	y	y			n
+42013034001	42013034	\"	y	y			n
 42013034002	42013034	Jerusalém	y				y
 42013034003	42013034	,		y			n
 42013034004	42013034	Jerusalém	y				y
@@ -57579,7 +57579,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42014007015	42014007	de					y
 42014007016	42014007	honra	y				y
 42014007017	42014007	:		y			n
-42014008001	42014008	"	y	y			n
+42014008001	42014008	\"	y	y			n
 42014008002	42014008	Quando					y
 42014008003	42014008	você					y
 42014008004	42014008	for					y
@@ -58058,7 +58058,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42014025011	42014025	lhes					y
 42014025012	42014025	disse	y				y
 42014025013	42014025	:		y			n
-42014026001	42014026	"	y	y			n
+42014026001	42014026	\"	y	y			n
 42014026002	42014026	Se					y
 42014026003	42014026	alguém					y
 42014026004	42014026	vem					y
@@ -58337,7 +58337,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42015003004	42015003	esta					y
 42015003005	42015003	parábola	y				y
 42015003006	42015003	:		y			n
-42015004001	42015004	"	y	y			n
+42015004001	42015004	\"	y	y			n
 42015004002	42015004	Quem					y
 42015004003	42015004	dentre					y
 42015004004	42015004	vocês					y
@@ -59308,7 +59308,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42016009026	42016009	lares					y
 42016009027	42016009	eternos	y				y
 42016009028	42016009	.		y			n
-42016010001	42016010	"	y	y			n
+42016010001	42016010	\"	y	y			n
 42016010002	42016010	Quem					y
 42016010003	42016010	é					y
 42016010004	42016010	fiel					y
@@ -59511,7 +59511,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42016017017	42016017	da					y
 42016017018	42016017	lei	y				y
 42016017019	42016017	.		y			n
-42016018001	42016018	"	y	y			n
+42016018001	42016018	\"	y	y			n
 42016018002	42016018	Portanto	y				y
 42016018003	42016018	,		y			n
 42016018004	42016018	quem					y
@@ -59541,7 +59541,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42016018028	42016018	adultério	y				y
 42016018029	42016018	”	y	y			n
 42016018030	42016018	.		y			n
-42016019001	42016019	"	y	y			n
+42016019001	42016019	\"	y	y			n
 42016019002	42016019	Havia					y
 42016019003	42016019	um					y
 42016019004	42016019	homem					y
@@ -60876,7 +60876,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42018009019	42018009	os					y
 42018009020	42018009	outros	y				y
 42018009021	42018009	:		y			n
-42018010001	42018010	"	y	y			n
+42018010001	42018010	\"	y	y			n
 42018010002	42018010	Dois					y
 42018010003	42018010	homens					y
 42018010004	42018010	subiram					y
@@ -61122,7 +61122,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42018018021	42018018	?	y	y			n
 42018018022	42018018	”	y	y			n
 42018018023	42018018	.		y			n
-42018019001	42018019	"	y	y			n
+42018019001	42018019	\"	y	y			n
 42018019002	42018019	Por					y
 42018019003	42018019	que					y
 42018019004	42018019	você					y
@@ -61607,7 +61607,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42018040017	42018040	Jesus					y
 42018040018	42018040	perguntou	y				y
 42018040019	42018040	:		y			n
-42018041001	42018041	"	y	y			n
+42018041001	42018041	\"	y	y			n
 42018041002	42018041	O					y
 42018041003	42018041	que					y
 42018041004	42018041	você					y
@@ -62307,7 +62307,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42019029020	42019029	seus					y
 42019029021	42019029	discípulos	y				y
 42019029022	42019029	.		y			n
-42019030001	42019030	"	y	y			n
+42019030001	42019030	\"	y	y			n
 42019030002	42019030	Vão					y
 42019030003	42019030	até					y
 42019030004	42019030	o					y
@@ -62550,7 +62550,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42019041011	42019041	sobre					y
 42019041012	42019041	ela	y				y
 42019041013	42019041	.		y			n
-42019042001	42019042	"	y	y			n
+42019042001	42019042	\"	y	y			n
 42019042002	42019042	Se					y
 42019042003	42019042	você	y				y
 42019042004	42019042	,		y			n
@@ -62580,7 +62580,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42019042028	42019042	disse					y
 42019042029	42019042	ele	y				y
 42019042030	42019042	.		y			n
-42019043001	42019043	"	y	y			n
+42019043001	42019043	\"	y	y			n
 42019043002	42019043	Pois					y
 42019043003	42019043	virão					y
 42019043004	42019043	dias					y
@@ -63263,7 +63263,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42020023007	42020023	e					y
 42020023008	42020023	disse	y				y
 42020023009	42020023	:		y			n
-42020024001	42020024	"	y	y			n
+42020024001	42020024	\"	y	y			n
 42020024002	42020024	Tragam-me					y
 42020024003	42020024	um					y
 42020024004	42020024	denário	y				y
@@ -63348,7 +63348,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42020027011	42020027	e					y
 42020027012	42020027	perguntaram	y				y
 42020027013	42020027	:		y			n
-42020028001	42020028	"	y	y			n
+42020028001	42020028	\"	y	y			n
 42020028002	42020028	Mestre	y				y
 42020028003	42020028	,		y			n
 42020028004	42020028	Moisés					y
@@ -63680,7 +63680,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42020045009	42020045	aos					y
 42020045010	42020045	discípulos	y				y
 42020045011	42020045	:		y			n
-42020046001	42020046	"	y	y			n
+42020046001	42020046	\"	y	y			n
 42020046002	42020046	Cuidado					y
 42020046003	42020046	com					y
 42020046004	42020046	os					y
@@ -63843,7 +63843,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42021005020	42021005	a					y
 42021005021	42021005	Deus	y				y
 42021005022	42021005	:		y			n
-42021006001	42021006	"	y	y			n
+42021006001	42021006	\"	y	y			n
 42021006002	42021006	Quanto					y
 42021006003	42021006	a					y
 42021006004	42021006	estas					y
@@ -63999,7 +63999,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42021011020	42021011	do					y
 42021011021	42021011	céu	y				y
 42021011022	42021011	.		y			n
-42021012001	42021012	"	y	y			n
+42021012001	42021012	\"	y	y			n
 42021012002	42021012	Mas					y
 42021012003	42021012	antes					y
 42021012004	42021012	de					y
@@ -64132,7 +64132,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42021019006	42021019	sua					y
 42021019007	42021019	alma	y				y
 42021019008	42021019	.		y			n
-42021020001	42021020	"	y	y			n
+42021020001	42021020	\"	y	y			n
 42021020002	42021020	Quando					y
 42021020003	42021020	virem					y
 42021020004	42021020	Jerusalém					y
@@ -64244,7 +64244,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42021024024	42021024	tempos					y
 42021024025	42021024	deles	y				y
 42021024026	42021024	.		y			n
-42021025001	42021025	"	y	y			n
+42021025001	42021025	\"	y	y			n
 42021025002	42021025	Haverá					y
 42021025003	42021025	sinais					y
 42021025004	42021025	no					y
@@ -64411,7 +64411,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42021033012	42021033	jamais					y
 42021033013	42021033	passarão	y				y
 42021033014	42021033	.		y			n
-42021034001	42021034	"	y	y			n
+42021034001	42021034	\"	y	y			n
 42021034002	42021034	Cuidado					y
 42021034003	42021034	para					y
 42021034004	42021034	não					y
@@ -65088,7 +65088,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42022027032	42022027	que					y
 42022027033	42022027	serve	y				y
 42022027034	42022027	.		y			n
-42022028001	42022028	"	y	y			n
+42022028001	42022028	\"	y	y			n
 42022028002	42022028	Vocês					y
 42022028003	42022028	são					y
 42022028004	42022028	os					y
@@ -65185,7 +65185,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42022032022	42022032	irmãos	y				y
 42022032023	42022032	”	y	y			n
 42022032024	42022032	.		y			n
-42022033001	42022033	"	y	y			n
+42022033001	42022033	\"	y	y			n
 42022033002	42022033	Estou					y
 42022033003	42022033	pronto					y
 42022033004	42022033	para					y
@@ -65412,7 +65412,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42022041015	42022041	a					y
 42022041016	42022041	orar	y				y
 42022041017	42022041	:		y			n
-42022042001	42022042	"	y	y			n
+42022042001	42022042	\"	y	y			n
 42022042002	42022042	Pai	y				y
 42022042003	42022042	,		y			n
 42022042004	42022042	se					y
@@ -65487,7 +65487,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42022045015	42022045	da					y
 42022045016	42022045	tristeza	y				y
 42022045017	42022045	.		y			n
-42022046001	42022046	"	y	y			n
+42022046001	42022046	\"	y	y			n
 42022046002	42022046	Por					y
 42022046003	42022046	que					y
 42022046004	42022046	vocês					y
@@ -65980,7 +65980,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42022066022	42022066	ao					y
 42022066023	42022066	Sinédrio	y				y
 42022066024	42022066	.		y			n
-42022067001	42022067	"	y	y			n
+42022067001	42022067	\"	y	y			n
 42022067002	42022067	Se					y
 42022067003	42022067	você					y
 42022067004	42022067	é					y
@@ -66825,7 +66825,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42023036009	42023036	oferecendo-lhe					y
 42023036010	42023036	vinagre	y				y
 42023036011	42023036	:		y			n
-42023037001	42023037	"	y	y			n
+42023037001	42023037	\"	y	y			n
 42023037002	42023037	Se					y
 42023037003	42023037	você					y
 42023037004	42023037	é					y
@@ -67524,7 +67524,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42024016009	42024016	de					y
 42024016010	42024016	reconhecê-lo	y				y
 42024016011	42024016	.		y			n
-42024017001	42024017	"	y	y			n
+42024017001	42024017	\"	y	y			n
 42024017002	42024017	Sobre					y
 42024017003	42024017	o					y
 42024017004	42024017	que					y
@@ -67573,7 +67573,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42024018027	42024018	?	y	y			n
 42024018028	42024018	”	y	y			n
 42024018029	42024018	.		y			n
-42024019001	42024019	"	y	y			n
+42024019001	42024019	\"	y	y			n
 42024019002	42024019	O					y
 42024019003	42024019	que					y
 42024019004	42024019	foi	y				y
@@ -67653,7 +67653,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42024021019	42024021	coisas					y
 42024021020	42024021	aconteceram	y				y
 42024021021	42024021	.		y			n
-42024022001	42024022	"	y	y			n
+42024022001	42024022	\"	y	y			n
 42024022002	42024022	Algumas					y
 42024022003	42024022	mulheres					y
 42024022004	42024022	de					y
@@ -68212,7 +68212,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 42024048004	42024048	dessas					y
 42024048005	42024048	coisas	y				y
 42024048006	42024048	.		y			n
-42024049001	42024049	"	y	y			n
+42024049001	42024049	\"	y	y			n
 42024049002	42024049	Agora					y
 42024049003	42024049	envio					y
 42024049004	42024049	a					y
@@ -68717,7 +68717,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43001021042	43001021	outra					y
 43001021043	43001021	vez	y				y
 43001021044	43001021	.		y			n
-43001022001	43001022	"	y	y			n
+43001022001	43001022	\"	y	y			n
 43001022002	43001022	Afinal	y				y
 43001022003	43001022	,		y			n
 43001022004	43001022	quem					y
@@ -69128,7 +69128,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43001038039	43001038	?	y	y			n
 43001038040	43001038	”	y	y			n
 43001038041	43001038	.		y			n
-43001039001	43001039	"	y	y			n
+43001039001	43001039	\"	y	y			n
 43001039002	43001039	Venham					y
 43001039003	43001039	comigo					y
 43001039004	43001039	e					y
@@ -69381,7 +69381,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43001047023	43001047	fingimento	y				y
 43001047024	43001047	”	y	y			n
 43001047025	43001047	.		y			n
-43001048001	43001048	"	y	y			n
+43001048001	43001048	\"	y	y			n
 43001048002	43001048	Como					y
 43001048003	43001048	o					y
 43001048004	43001048	senhor					y
@@ -70135,7 +70135,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43003003024	43003003	Deus	y				y
 43003003025	43003003	”	y	y			n
 43003003026	43003003	.		y			n
-43003004001	43003004	"	y	y			n
+43003004001	43003004	\"	y	y			n
 43003004002	43003004	Como					y
 43003004003	43003004	é					y
 43003004004	43003004	que					y
@@ -72290,7 +72290,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43005006027	43005006	?	y	y			n
 43005006028	43005006	”	y	y			n
 43005006029	43005006	.		y			n
-43005007001	43005007	"	y	y			n
+43005007001	43005007	\"	y	y			n
 43005007002	43005007	Senhor	y				y
 43005007003	43005007	,		y			n
 43005007004	43005007	eu					y
@@ -73392,7 +73392,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43006008011	43006008	,		y			n
 43006008012	43006008	falou	y				y
 43006008013	43006008	:		y			n
-43006009001	43006009	"	y	y			n
+43006009001	43006009	\"	y	y			n
 43006009002	43006009	Aqui					y
 43006009003	43006009	está					y
 43006009004	43006009	um					y
@@ -76007,7 +76007,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43007050018	43007050	e					y
 43007050019	43007050	disse	y				y
 43007050020	43007050	:		y			n
-43007051001	43007051	"	y	y			n
+43007051001	43007051	\"	y	y			n
 43007051002	43007051	A					y
 43007051003	43007051	nossa					y
 43007051004	43007051	lei					y
@@ -78384,7 +78384,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43009033013	43009033	disso	y				y
 43009033014	43009033	”	y	y			n
 43009033015	43009033	.		y			n
-43009034001	43009034	"	y	y			n
+43009034001	43009034	\"	y	y			n
 43009034002	43009034	Você					y
 43009034003	43009034	nasceu					y
 43009034004	43009034	cheio					y
@@ -80853,7 +80853,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43012004016	43012004	,		y			n
 43012004017	43012004	disse	y				y
 43012004018	43012004	:		y			n
-43012005001	43012005	"	y	y			n
+43012005001	43012005	\"	y	y			n
 43012005002	43012005	Não					y
 43012005003	43012005	teria					y
 43012005004	43012005	sido					y
@@ -81077,7 +81077,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43012014011	43012014	está					y
 43012014012	43012014	escrito	y				y
 43012014013	43012014	:		y			n
-43012015001	43012015	"	y	y			n
+43012015001	43012015	\"	y	y			n
 43012015002	43012015	Não					y
 43012015003	43012015	temas	y				y
 43012015004	43012015	,		y			n
@@ -81667,7 +81667,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43012039009	43012039	declarou					y
 43012039010	43012039	novamente	y				y
 43012039011	43012039	:		y			n
-43012040001	43012040	"	y	y			n
+43012040001	43012040	\"	y	y			n
 43012040002	43012040	Deus					y
 43012040003	43012040	cegou-lhes					y
 43012040004	43012040	os					y
@@ -82864,7 +82864,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43013038028	43013038	vezes	y				y
 43013038029	43013038	”	y	y			n
 43013038030	43013038	.		y			n
-43014001001	43014001	"	y	y			n
+43014001001	43014001	\"	y	y			n
 43014001002	43014001	Que					y
 43014001003	43014001	o					y
 43014001004	43014001	coração					y
@@ -83225,7 +83225,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43014014014	43014014	farei	y				y
 43014014015	43014014	”	y	y			n
 43014014016	43014014	.		y			n
-43014015001	43014015	"	y	y			n
+43014015001	43014015	\"	y	y			n
 43014015002	43014015	Se					y
 43014015003	43014015	vocês					y
 43014015004	43014015	me					y
@@ -83654,7 +83654,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43014031028	43014031	!	y	y			n
 43014031029	43014031	”	y	y			n
 43014031030	43014031	.		y			n
-43015001001	43015001	"	y	y			n
+43015001001	43015001	\"	y	y			n
 43015001002	43015001	Eu					y
 43015001003	43015001	sou					y
 43015001004	43015001	a					y
@@ -84307,7 +84307,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 43015027013	43015027	princípio	y				y
 43015027014	43015027	.	y	y			n
 43015027015	43015027	”		y			n
-43016001001	43016001	"	y	y			n
+43016001001	43016001	\"	y	y			n
 43016001002	43016001	Eu					y
 43016001003	43016001	lhes					y
 43016001004	43016001	disse					y
@@ -98853,7 +98853,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 44010046013	44010046	Pedro					y
 44010046014	44010046	disse	y				y
 44010046015	44010046	:		y			n
-44010047001	44010047	"	y	y			n
+44010047001	44010047	\"	y	y			n
 44010047002	44010047	Alguém					y
 44010047003	44010047	pode					y
 44010047004	44010047	impedir					y
@@ -98937,7 +98937,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 44011002015	44011002	,		y			n
 44011002016	44011002	dizendo	y				y
 44011002017	44011002	:		y			n
-44011003001	44011003	"	y	y			n
+44011003001	44011003	\"	y	y			n
 44011003002	44011003	Você					y
 44011003003	44011003	entrou					y
 44011003004	44011003	na					y
@@ -102717,7 +102717,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 44015018017	44015018	o					y
 44015018018	44015018	princípio	y				y
 44015018019	44015018	.		y			n
-44015019001	44015019	"	y	y			n
+44015019001	44015019	\"	y	y			n
 44015019002	44015019	Portanto	y				y
 44015019003	44015019	,		y			n
 44015019004	44015019	a					y
@@ -117075,7 +117075,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 45004006013	45004006	sem					y
 45004006014	45004006	obras	y				y
 45004006015	45004006	:		y			n
-45004007001	45004007	"	y	y			n
+45004007001	45004007	\"	y	y			n
 45004007002	45004007	Bem-aventurados					y
 45004007003	45004007	são					y
 45004007004	45004007	aqueles					y
@@ -121704,7 +121704,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 45011002029	45011002	contra					y
 45011002030	45011002	Israel	y				y
 45011002031	45011002	?		y			n
-45011003001	45011003	"	y	y			n
+45011003001	45011003	\"	y	y			n
 45011003002	45011003	Senhor	y				y
 45011003003	45011003	,		y			n
 45011003004	45011003	mataram					y
@@ -128054,7 +128054,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 46006011028	46006011	nosso					y
 46006011029	46006011	Deus	y				y
 46006011030	46006011	.		y			n
-46006012001	46006012	"	y	y			n
+46006012001	46006012	\"	y	y			n
 46006012002	46006012	Tudo					y
 46006012003	46006012	me					y
 46006012004	46006012	é					y
@@ -128082,7 +128082,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 46006012026	46006012	me					y
 46006012027	46006012	domine	y				y
 46006012028	46006012	.		y			n
-46006013001	46006013	"	y	y			n
+46006013001	46006013	\"	y	y			n
 46006013002	46006013	O					y
 46006013003	46006013	alimento					y
 46006013004	46006013	existe					y
@@ -130780,7 +130780,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 46010022015	46010022	que					y
 46010022016	46010022	ele	y				y
 46010022017	46010022	?		y			n
-46010023001	46010023	"	y	y			n
+46010023001	46010023	\"	y	y			n
 46010023002	46010023	Tudo					y
 46010023003	46010023	é					y
 46010023004	46010023	permitido	y				y
@@ -148475,7 +148475,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 49005030005	49005030	seu					y
 49005030006	49005030	corpo	y				y
 49005030007	49005030	.		y			n
-49005031001	49005031	"	y	y			n
+49005031001	49005031	\"	y	y			n
 49005031002	49005031	Por					y
 49005031003	49005031	isso	y				y
 49005031004	49005031	,		y			n
@@ -148555,7 +148555,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 49006001014	49006001	é					y
 49006001015	49006001	justo	y				y
 49006001016	49006001	.		y			n
-49006002001	49006002	"	y	y			n
+49006002001	49006002	\"	y	y			n
 49006002002	49006002	Honre					y
 49006002003	49006002	seu					y
 49006002004	49006002	pai					y
@@ -148572,7 +148572,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 49006002015	49006002	com					y
 49006002016	49006002	promessa					y
 49006002017	49006002	—		y			n
-49006003001	49006003	"	y	y			n
+49006003001	49006003	\"	y	y			n
 49006003002	49006003	para					y
 49006003003	49006003	que					y
 49006003004	49006003	tudo					y
@@ -167609,7 +167609,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 58009019044	58009019	,		y			n
 58009019045	58009019	dizendo	y				y
 58009019046	58009019	:		y			n
-58009020001	58009020	"	y	y			n
+58009020001	58009020	\"	y	y			n
 58009020002	58009020	Este					y
 58009020003	58009020	é					y
 58009020004	58009020	o					y
@@ -168173,7 +168173,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 58010015011	58010015	que					y
 58010015012	58010015	disse	y				y
 58010015013	58010015	:		y			n
-58010016001	58010016	"	y	y			n
+58010016001	58010016	\"	y	y			n
 58010016002	58010016	Esta					y
 58010016003	58010016	é					y
 58010016004	58010016	a					y
@@ -168600,7 +168600,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 58010036015	58010036	a					y
 58010036016	58010036	promessa	y				y
 58010036017	58010036	.		y			n
-58010037001	58010037	"	y	y			n
+58010037001	58010037	\"	y	y			n
 58010037002	58010037	Pois					y
 58010037003	58010037	resta					y
 58010037004	58010037	ainda					y
@@ -170362,7 +170362,7 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 58012026036	58012026	céus	y				y
 58012026037	58012026	”	y	y			n
 58012026038	58012026	.		y			n
-58012027001	58012027	"	y	y			n
+58012027001	58012027	\"	y	y			n
 58012027002	58012027	Ainda					y
 58012027003	58012027	uma					y
 58012027004	58012027	vez	y				y
@@ -194863,4 +194863,3 @@ id	source_verse	text	skip_space_after	exclude	id_range_end	source_verse_range_en
 66022021012	66022021	.		y			n
 66022021013	66022021	Amém	y				y
 66022021014	66022021	.		y			n
-
